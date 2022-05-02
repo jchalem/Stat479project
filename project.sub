@@ -1,0 +1,19 @@
+#!/bin/bash
+
+universe = vanilla
+log = log/$(Cluster)_$(Process).log
+output = output/$(Cluster)_$(Process).out
+error = error/$(Cluster)_$(Process).err
+
+executable = ./project.sh
+arguments = 113.csv, $(file)
+
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+transfer_input_files = draft.R, project.sh, http://proxy.chtc.wisc.edu/SQUID/chtc/R402.tar.gz, /home/kgelden/$(file).csv, packages_FITSio_tidyverse.tar.gz, /home/kgelden/113.csv
+
+request_cpus = 1
+request_memory = 1GB
+request_disk = 900MB
+
+queue file from projfiles.txt
