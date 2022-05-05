@@ -1,0 +1,250 @@
+---
+title: "479ProjectDraft"
+author: "Jack Owen, Kelsey Gelden, Gretchen Bruhn, Jonah Chalem"
+date: "4/26/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(dplyr)
+```
+
+## Introduction
+
+ALS (Amyotrophic Lateral Sclerosis) is a rapidly progressive, neuromuscular disease that causes muscle weakness in the arms and legs and causes difficulty speaking and swallowing. After Jay Fishman, the CEO of The Traveler’s Company was diagnosed with the disease, he organized a research study with 137 patients with ALS and 32 control patients. The data set consists of around 600 variables, which includes, but is not limited to, information about the patients, such as neurological qualities, physical ability, and demographics. Using information that pertains to living case patients’ screening visits or key event visits (such as a ventilar or feeding tube) only, we want to find out which variables in the dataset have the greatest effect on the lifespan of a patient diagnosed with ALS. After running our model, we were able to conclude that the variables listed at the bottom of this file are key indicators in how long an ALS patient has left to live after diagnosis.
+
+```{r}
+#Set working directory, get a vector of all the names of the csv files, create count to use later to name csv files.
+directory = "/Users/jonahchalem/Desktop/Stat479/Project/Files_and_Rmd/"
+setwd(directory)
+fileNames = list.files(pattern = "*.csv")
+count = 100
+
+#For loop to parse through each csv
+for(file in fileNames){
+  #Create data frame of current csv file 'file'
+  dataframe = read.csv(paste0(directory, file))
+  
+  #Filter only the screening visits for control patients into new data frame
+  if("Visit_Name" %in% colnames(dataframe)){
+     newfile = dataframe %>%
+       filter((Visit_Name == "ANSWER-ALS Screening Visit" | Visit_Name == "Key Events" | Visit_Name == "Baseline") & !grepl("CTRL", Participant_ID))
+     
+    #Write csv named after count and increase count by 1
+    path_out = "/Users/jonahchalem/Desktop/Stat479/Project/new_csv/"
+    path_finalfile = paste(path_out, paste0(count, ".csv"), sep = '')
+    write.csv(newfile, path_finalfile)
+    count = count + 1
+  }
+}
+```
+
+```{r}
+setwd("/Users/jonahchalem/Desktop/Stat479/Project")
+new_dic = read.csv("new_dic.csv")
+factored_vars = new_dic$Field
+```
+
+
+## Body
+
+Our dataset contained 11 GB of data which ranged from .csv files about Limb Reflexes to Feeding Tube Placement. It is highly likely that the same patient could have multiple rows in a .csv file which represents the values for the follow-up visits that the patient came in for after their initial screening. With this being said, we decided to narrow in on the data and worked with only the 137 case patients while removing any information that was not found during either a screening visit, key event visit, or baseline visit so as to avoid repetitive data or over representation of patients who had more visits than others, each patient then had only one row in every .csv file. We also filtered out patients that were not in the mortality.csv since we only wanted to look at patients who passed away. Above we have the R code we ran to make this possible.
+
+```{r}
+#Retrieve the lifespan of dead patients from diagnosis of ALS to death as well as their ID
+dummy = read.csv(paste0(path_out, "113.csv"))
+ID_date_data = data.frame(dieddt = dummy$dieddt, Participant_ID = dummy$Participant_ID)
+
+#Create csv we're looking at
+
+csv_name = "100.csv"
+data = read.csv(paste0(path_out, csv_name))
+data$dieddt = NULL
+#Add mortality to our data variable based off of Participant_ID and delete rows with no data in mortality column
+newdata = left_join(data, ID_date_data, by="Participant_ID")
+newdata = drop_na(newdata, "dieddt")
+
+#Create 3 vectors to store our data within for loop to create data frame later
+x = c()
+p = c()
+c = c()
+
+df = select_if(newdata, is.numeric)
+is_unique = lengths(lapply(df, unique)) > 1
+
+#Look through each column in our csv file
+for(i in 1:ncol(df)){
+  #Create variable to have the names of each column in csv
+  names = names(df)
+
+  #Create model with death ~ variable
+  if(is_unique[i]){
+    if (names[i] %in% factored_vars){
+      fit = lm(log(df$dieddt) ~ as.factor(df[[i]]))
+      aov = anova(fit)
+    }
+    else{
+      fit = lm(log(df$dieddt) ~ df[[i]])
+      aov = anova(fit)
+    }
+    
+    #Add the name, p-value, and name of csv file into vectors
+    x = c(x, names[i])
+    p = c(p, aov$`Pr(>F)`[1])
+    c = c(c, csv_name)
+  }
+}
+
+#Create data frame from our 3 vectors made earlier
+results = data.frame(x_value = x, pval = p, csv = c)
+results
+```
+
+After cleaning our data and eliminating csv files that didn’t meet our criteria, we ran 21 CHTC jobs that would take in a csv file and output a dataframe to a new csv of each individual variable found in the csv, said variables individual linear model anova p-value made on the number of days between ALS diagnosis and death day, and the csv file in which we were looking in at the running of the job, which took roughly 5 minutes with 500MB disk and 600MB memory. Afterwards we found the p-values below .05, and tested them in one linear model for interactions with each other to find the final variables and interactions that would be the best indicators for lifespan after ALS diagnosis. Some shortcomings within our work were the elimination of much of our data that didn’t meet our rigorous criteria, along with the lack of interaction testing between variables as the production of its code and output, unfortunately, would be vastly time consuming for us to complete. Above you can see the model we used to run the 21 jobs.
+
+```{r}
+#Establish our directory and get our csv files for mortality and the best variables we found through our jobs
+setwd("/Users/jonahchalem/Desktop/Stat479/Project/")
+bestVars = read.csv("bestps.csv", header = F)
+colnames(bestVars) = c("Variable","pval","csvfile")
+#The variables we found to be individual indicators of mortality of ALS patients
+bestVars
+```
+
+```{r}
+mortality = read.csv(paste0(path_out, "113.csv"))
+mortality = drop_na(mortality, "dieddt")
+
+#For loop to go through each variable within our bestVars csv
+for(i in (1:19)){
+  #Get the row of the variable var_row we're looking at as well as its corresponding csv file
+  var_row = bestVars[i,]
+  df = read.csv(paste0(path_out, var_row$csvfile, ".csv"))
+
+  #Find the index of our variable var_row in its csv file and create its own data frame of the variables column and Participant_ID
+  index = which(names(df) == var_row$Variable)
+  join_df = data.frame(Participant_ID = df[which(names(df) == "Participant_ID")], df[index])
+
+  #Join our newly made data frame with our mortality csv
+  mortality = merge(mortality, join_df, by="Participant_ID")
+}
+```
+
+```{r}
+mortality$trnkclmn = as.factor(mortality$trnkclmn)
+mortality$rleclmn = as.factor(mortality$rleclmn)
+mortality$rueclmn = as.factor(mortality$rueclmn)
+mortality$blbclmn = as.factor(mortality$blbclmn)
+mortality$lleclmn = as.factor(mortality$lleclmn)
+mortality$cgcurdep = as.factor(mortality$cgcurdep)
+mortality$alsfrs9 = as.factor(mortality$alsfrs9)
+mortality$alsfrs8 = as.factor(mortality$alsfrs8)
+mortality$alsfrs1 = as.factor(mortality$alsfrs1)
+mortality$alsfrsr1 = as.factor(mortality$alsfrsr1)
+mortality$rwet1 = as.factor(mortality$rwet1)
+mortality$rhfnt = as.factor(mortality$rhfnt)
+mortality$radt1 = as.factor(mortality$radt1)
+mortality$lweab = as.factor(mortality$lweab)
+mortality$alqicena = as.factor(mortality$alqicena)
+mortality[1:5,c(1,which(colnames(mortality) %in% bestVars$Variable))]
+```
+
+
+```{r}
+fit = lm(dieddt ~ rleclmn+rueclmn+lleclmn+blbclmn + alsfrs8+alsfrs9 + alsfrs1+alsfrsr1, data = mortality)
+anova(fit)
+```
+
+We chose the following interactions based on the categories that the variables fall under. The variables that end in LMN test for a certain kind of ALS onset, known as Lower Motor Neuron disease. We made interactions with LMN values and the different locations of the body the variables represent. The second set of interactions looks at variables associated with walking. The third set of interactions looks at breathing quality.
+
+```{r}
+summary(fit)
+```
+Unfortunately, our model is likely overfit due the amount of interactions and lack of patients. We have a handful of outliers and the data is skewed. To prevent overfitting, we will use a model without interactions due to the lack of data and amount of factors. Also, since we have outliers, which is shown by cooks distance, and the residuals follow a pattern, we will need to transform the data.
+
+```{r}
+fit_log = lm(log(dieddt) ~ rleclmn+rueclmn+lleclmn+blbclmn + alsfrs8+alsfrs9 + alsfrs1+alsfrsr1, data = mortality)
+anova(fit_log)
+```
+
+```{r}
+summary(fit_log)
+```
+
+While this model is better due to the normal distribution of the log transformation of dieddt, we still see similar significant variables. This model will give us better results due to distribution of dieddt being skewed right.
+
+```{r}
+library(ggplot2)
+par(mfrow = c(2,2))
+ggplot(mortality, aes(fill=rueclmn, y=dieddt, x=rleclmn)) + 
+    geom_bar(position="dodge", stat="identity")
+ggplot(mortality, aes(fill=lleclmn, y=dieddt, x=rleclmn), xlab = "Hi") + 
+    geom_bar(position="dodge", stat="identity")
+ggplot(mortality, aes(fill=blbclmn, y=dieddt, x=rleclmn)) + 
+    geom_bar(position="dodge", stat="identity")
+ggplot(mortality, aes(fill=alsfrs1, y=dieddt, x=rleclmn)) + 
+    geom_bar(position="dodge", stat="identity")
+```
+
+There doesn't seem to be much interaction between the variables. For example, RLECLMN, which is the UMN of the right lower extremity, decreases the expected death date, but not by much. Therefore, we will use a model without interactions to show how types of ALS affects death date.
+
+```{r}
+par(mfrow = c(2,2))
+plot(fit_log, which=1, pch=21, bg="dimgray", cex=1.2, lwd=2)
+plot(fit_log, which=2, pch=21, bg="dimgray", cex=1.2, lwd=2)
+plot(fit_log, which=3, pch=21, bg="dimgray", cex=1.2, lwd=2)
+plot(fit_log, which=4, pch=21, bg="dimgray", cex=1.2, lwd=2)
+```
+
+Since we have skewed residuals, our outliers still present a problem for us. Unfortunately, this is due to the data. This is likely due to the treatment plan for some patients. There are likely patients who chose to use equipment that kept them alive for longer. This skewed our results, and therefore our residuals.
+
+
+```{r}
+par(mfrow = c(1,2))
+stdresid = rstandard(fit_log)
+n = nrow(mortality)
+hist(stdresid, breaks=n/2, main="Studentized Residuals", xlab="Studentized residu
+als")
+qqnorm(stdresid, main="Normal QQ Plot: Std Residuals")
+abline(a=0,b=1,lwd=2,col="red")
+```
+
+
+## Conclusion
+
+After doing much cleaning and analysis on our own of this data set, we were able to conclude that the variables listed below along with their defintions have the greatest effect on the lifespan of a patient diagnosed with ALS. In the future, it would be very interesting to be able to use the conclusions and model we developed to help come up with a new model to predict how long a patient with ALS has to live. In lieu of time, our main goal for this project was to go through the many .csv files to help narrow down the possible important predictors that we should consider for the lifespan of a patient with ALS.
+
+
+### Key Variables and their definitions
+
+trnkclmn      LMN Trunk YES, A specific nerve within the brain (YES = functioning, NO = not functioning)  
+
+rleclmn       LMN Right Lower Extremity YES, A specific nerve within the brain (YES = functioning, NO = not functioning)  
+
+rueclmnLMN    Right upper extermity YES, mobility in right upper body parts (YES = functioning, NO = not functioning)  
+
+blbclmn       LMN Bulbar YES, conditions that can occur due to damage to the lower cranial nerves (YES = functioning, NO = not functioning)  
+
+lleclmn       LMN Left lower extremity YES, brain function that controls lower left body parts (YES = functioning, NO = not functioning)  
+
+cgcurdep      Depressed on most days  
+
+alsfrs9       ALSFRS-R 9. Ability to climb Stairs (Scaled 0-4, 0 non-functioning, 4 fully functioning)  
+
+alsfrs8       ALSFRS-R 8. Ability to walk (Scaled 0-4, 0 non-functioning, 4 fully functioning)  
+
+alsfrs1       ALSFRS-R 1. Ability to talk (Scaled 0-4, 0 non-functioning, 4 fully functioning)  
+
+alsfrsr1      ALSFRS-R R-1 Dyspnea, difficult time breathing Dyspnea  
+
+rwet1         RIGHT WRIST EXTENSION(1), can extend the right wrist  
+
+rhfnt         RIGHT HIP FLEXION Checkbox, can flex right hip portion of body  
+
+radt1         RIGHT ANKLE DORSIFLEXION (1), ankle draws toes back toward shins when moved/flexed  
+
+lweab         Left Wrist Extension Break, broken left wrist extention functions  
+
+alqicena      Whether or not the cerebrospinal fluid sample from patient was stored in dry ice 
