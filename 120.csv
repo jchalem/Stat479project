@@ -1,0 +1,139 @@
+"","Participant_ID","SubjectUID","Form_Name","Visit_Name","Visit_Date","fvcl1","fvcl2","fvcl3","fvcnd3","fvcndrs2","fvcndsp2","fvcndsp3","fvcp1","fvcp2","fvcp3","fvcvar","sourcesp","svcdn","svcdnsp","svcl1","svcl2","svcl3","svcnd2","svcnd3","svcndrs3","svcndsp2","svcndsp3","svcp1","svcp2","svcp3","svcvar","vcpos","vctyp"
+"1","CASE-NEUAA599TMX","NEUAA599TMX","Vital Capacity","ANSWER-ALS Screening Visit",0,0.8,0.77,0.71,0,NA,"","",35,34,31,4,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,1,2
+"2","CASE-NEUAB000NKC","NEUAB000NKC","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.9,"2.99","2.9",0,0,NA,"","",92,"95","92",3,2,1
+"3","CASE-NEUAE993EPR","NEUAE993EPR","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.94,"1.87","2.02",0,0,NA,"","",89,"86","93",4,2,1
+"4","CASE-NEUAF553MJ3","NEUAF553MJ3","Vital Capacity","ANSWER-ALS Screening Visit",0,1.9,2.16,2.17,0,NA,"","",63,72,72,0,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"5","CASE-NEUAG603XLK","NEUAG603XLK","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.81,"1.42","1.67",0,0,NA,"","",42,"38","45",8,2,1
+"6","CASE-NEUAM655HF7","NEUAM655HF7","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",0.7,"0.7","0.64",0,0,NA,"","",19,"20","18",0,2,1
+"7","CASE-NEUAT234RK6","NEUAT234RK6","Vital Capacity","ANSWER-ALS Screening Visit",0,2.96,3.06,3.24,0,NA,"","",84,87,92,6,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"8","CASE-NEUAW157NMJ","NEUAW157NMJ","Vital Capacity","ANSWER-ALS Screening Visit",0,4.84,4.61,NA,1,NA,"","not done",87,83,NA,5,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"9","CASE-NEUAW717TN6","NEUAW717TN6","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",0.58,"0.56","",0,1,1,"","",10,"10","",3,1,1
+"10","CASE-NEUAX665ZHY","NEUAX665ZHY","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.06,"2.97","2.96",0,0,NA,"","",64,"62","62",3,2,1
+"11","CASE-NEUBA169GXD","NEUBA169GXD","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.27,"2.12","1.99",0,0,NA,"","",61,"57","54",7,2,1
+"12","CASE-NEUBC998WWB","NEUBC998WWB","Vital Capacity","ANSWER-ALS Screening Visit",0,1.67,1.51,1.93,0,NA,"","",39,36,45,13,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"13","CASE-NEUBD218YR3","NEUBD218YR3","Vital Capacity","ANSWER-ALS Screening Visit",0,3.41,3.52,3.06,0,NA,"","",74,76,66,3,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"14","CASE-NEUBD288RXQ","NEUBD288RXQ","Vital Capacity","ANSWER-ALS Screening Visit",0,2.65,2.76,3.37,0,NA,"","",62,65,79,18,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"15","CASE-NEUBK117YXL","NEUBK117YXL","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",4.72,"4.71","4.53",0,0,NA,"","",82,"82","79",0,2,1
+"16","CASE-NEUBY734PFR","NEUBY734PFR","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.86,"2.08","1.69",0,0,NA,"","",63,"71","58",11,2,1
+"17","CASE-NEUCB613CA9","NEUCB613CA9","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",5.58,"5.24","5.39",0,0,NA,"","",114,"107","110",3,2,1
+"18","CASE-NEUCE965ZGK","NEUCE965ZGK","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.24,"2.34","2.36",0,0,NA,"","",62,"70","70",1,2,1
+"19","CASE-NEUCF538BRM","NEUCF538BRM","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.27,"1.08","1.52",0,0,NA,"","",26,"26","31",16,2,1
+"20","CASE-NEUCN596RR3","NEUCN596RR3","Vital Capacity","ANSWER-ALS Screening Visit",0,2.87,2.17,NA,1,NA,"","Equipment malfunction",87,66,NA,24,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"21","CASE-NEUCU245GBQ","NEUCU245GBQ","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.21,"3.22","3.44",0,0,NA,"","",72,"72","77",6,2,1
+"22","CASE-NEUDD018KAH","NEUDD018KAH","Vital Capacity","ANSWER-ALS Screening Visit",0,1.8,2.47,2.48,0,NA,"","",65,89,88,0,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"23","CASE-NEUDE902GCT","NEUDE902GCT","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.03,"2.85","2.74",0,0,NA,"","",93,"88","85",6,2,1
+"24","CASE-NEUDG000ZG5","NEUDG000ZG5","Vital Capacity","ANSWER-ALS Screening Visit",0,2.38,2,2.21,0,NA,"","",82,70,77,7,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"25","CASE-NEUDG272XWC","NEUDG272XWC","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",5.01,"5.18","4.91",0,0,NA,"","",90,"93","88",3,2,1
+"26","CASE-NEUDJ536EVH","NEUDJ536EVH","Vital Capacity","ANSWER-ALS Screening Visit",0,5.02,5.12,5.25,0,NA,"","",93,95,97,2,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"27","CASE-NEUDP155HFH","NEUDP155HFH","Vital Capacity","ANSWER-ALS Screening Visit",0,3.6,3.73,3.91,0,NA,"","",82,85,89,5,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"28","CASE-NEUDT709YHN","NEUDT709YHN","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.57,"2.8","3.16",0,0,NA,"","",83,"90","103",11,2,1
+"29","CASE-NEUEB422WW0","NEUEB422WW0","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",2,"Patient refused due to illness (cold)",NA,"","",0,0,NA,"","",NA,"","",NA,NA,NA
+"30","CASE-NEUEC400NYR","NEUEC400NYR","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.87,"4.19","4.01",0,0,NA,"","",104,"113","108",4,2,1
+"31","CASE-NEUEK191WYC","NEUEK191WYC","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.7,"2.64","3.37",0,0,NA,"","",49,"77","98",22,2,1
+"32","CASE-NEUEM029XXZ","NEUEM029XXZ","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.35,"2.71","2.73",0,0,NA,"","",86,"99","100",1,2,1
+"33","CASE-NEUEM720BUU","NEUEM720BUU","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.68,"1.52","1.92",0,0,NA,"","",63,"57","72",13,2,1
+"34","CASE-NEUEN017PCJ","NEUEN017PCJ","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.37,"3.41","3.5",0,0,NA,"","",89,"90","92",3,2,1
+"35","CASE-NEUEN476CLW","NEUEN476CLW","Vital Capacity","ANSWER-ALS Screening Visit",0,2.09,2.19,1.87,0,NA,"","",35,36,31,5,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"36","CASE-NEUEU558MNK","NEUEU558MNK","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",0.74,"0.72","0.59",0,0,NA,"","",34,"33","27",3,2,1
+"37","CASE-NEUFB989DT1","NEUFB989DT1","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.21,"2.35","2.11",0,0,NA,"","",62,"65","59",6,2,1
+"38","CASE-NEUFH122WN7","NEUFH122WN7","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",4.97,"4.82","5",0,0,NA,"","",113,"110","114",1,2,1
+"39","CASE-NEUFV237VCZ","NEUFV237VCZ","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.84,"2.31","2.93",0,0,NA,"","",68,"55","70",3,2,1
+"40","CASE-NEUFY342UNG","NEUFY342UNG","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",4.15,"4.55","4.25",0,0,NA,"","",97,"106","100",7,2,1
+"41","CASE-NEUGD965XVD","NEUGD965XVD","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",4.3,"4.56","4.37",0,0,NA,"","",74,"78","75",4,2,1
+"42","CASE-NEUGE540TC4","NEUGE540TC4","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",2,"Not collected due to time constraints",NA,"","",0,0,NA,"","",NA,"","",NA,NA,NA
+"43","CASE-NEUGJ081HKR","NEUGJ081HKR","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",2,"Patient not physically present",NA,"","",0,0,NA,"","",NA,"","",NA,NA,NA
+"44","CASE-NEUGL543NJ1","NEUGL543NJ1","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.41,"1.81","2.03",0,0,NA,"","",83,"62","70",16,2,1
+"45","CASE-NEUGP781PDU","NEUGP781PDU","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",4.14,"4.29","4.57",0,0,NA,"","",99,"104","109",6,2,1
+"46","CASE-NEUGR121TFD","NEUGR121TFD","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.28,"3.12","3.33",0,0,NA,"","",119,"113","121",2,2,1
+"47","CASE-NEUGW326BRV","NEUGW326BRV","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.48,"2.64","2.59",0,0,NA,"","",90,"96","94",2,2,1
+"48","CASE-NEUGW340YEB","NEUGW340YEB","Vital Capacity","ANSWER-ALS Screening Visit",0,0.93,1.05,NA,1,NA,"","",28,32,NA,11,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"49","CASE-NEUHB491NGF","NEUHB491NGF","Vital Capacity","ANSWER-ALS Screening Visit",0,3.3,3.53,3.43,0,NA,"","",79,85,83,3,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"50","CASE-NEUHG644RYB","NEUHG644RYB","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.56,"3.47","3.56",0,0,NA,"","",85,"83","85",0,2,1
+"51","CASE-NEUHG791RV5","NEUHG791RV5","Vital Capacity","ANSWER-ALS Screening Visit",0,3.13,3.09,3.21,0,NA,"","",94,92,96,2,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"52","CASE-NEUHL999WWT","NEUHL999WWT","Vital Capacity","ANSWER-ALS Screening Visit",0,2.06,2.45,2.02,0,NA,"","",47,55,46,16,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"53","CASE-NEUHM532NDD","NEUHM532NDD","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"STUDY",1,"",2.54,"2.55","2.5",0,0,NA,"","",91,"92","90",0,2,1
+"54","CASE-NEUHV216EHA","NEUHV216EHA","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",4.34,"4.48","4.57",0,0,NA,"","",76,"78","80",2,2,1
+"55","CASE-NEUHW530WD8","NEUHW530WD8","Vital Capacity","ANSWER-ALS Screening Visit",0,3.93,3.71,3.59,0,NA,"","",125,118,114,6,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"56","CASE-NEUHW590KBH","NEUHW590KBH","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.53,"2.92","2.7",0,0,NA,"","",81,"94","87",8,2,1
+"57","CASE-NEUHZ302VU4","NEUHZ302VU4","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.54,"","",1,1,99,"Only one trial was completed. U has been entered.","Only one trial was completed. U has been entered.",51,"","",100,2,1
+"58","CASE-NEUJA217MTJ","NEUJA217MTJ","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.18,"3.14","3.23",0,0,NA,"","",119,"118","121",2,2,1
+"59","CASE-NEUJA666PYD","NEUJA666PYD","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.4,"2.3","2.36",0,0,NA,"","",76,"73","75",2,2,1
+"60","CASE-NEUJC191RLE","NEUJC191RLE","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",5.73,"5.09","5.13",0,0,NA,"","",96,"86","86",10,2,1
+"61","CASE-NEUJH197AK2","NEUJH197AK2","Vital Capacity","ANSWER-ALS Screening Visit",0,3.43,3.4,3.13,0,NA,"","",80,79,73,1,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"62","CASE-NEUJV798JGH","NEUJV798JGH","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.08,"1.29","1.61",0,0,NA,"","",22,"26","33",20,2,1
+"63","CASE-NEUJX780XXK","NEUJX780XXK","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",0.92,"1.02","",0,1,1,"","",19,"21","",10,2,1
+"64","CASE-NEUJY426MBU","NEUJY426MBU","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",4.45,"4.3","4.38",0,0,NA,"","",88,"85","87",2,2,1
+"65","CASE-NEUJY536DKF","NEUJY536DKF","Vital Capacity","ANSWER-ALS Screening Visit",0,3.48,2.99,2.88,0,NA,"","",71,61,59,14,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"66","CASE-NEUKD025JPF","NEUKD025JPF","Vital Capacity","ANSWER-ALS Screening Visit",0,3.95,3.79,NA,1,NA,"","physical therapist only did two trials",97,93,NA,4,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"67","CASE-NEULA777DBT","NEULA777DBT","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.64,"1.34","1.39",0,0,NA,"","",40,"33","34",15,1,1
+"68","CASE-NEULD354RZB","NEULD354RZB","Vital Capacity","ANSWER-ALS Screening Visit",0,1.74,1.66,1.43,0,NA,"","",36,34,30,5,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"69","CASE-NEULL588ALG","NEULL588ALG","Vital Capacity","ANSWER-ALS Screening Visit",0,4.55,4.39,4.58,0,NA,"","",99,96,100,1,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"70","CASE-NEULL648LJ1","NEULL648LJ1","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.92,"1.67","1.81",0,0,NA,"","",61,"53","58",6,2,1
+"71","CASE-NEULP998KDJ","NEULP998KDJ","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.49,"2.61","2.67",0,0,NA,"","",44,"54","56",2,2,1
+"72","CASE-NEULY177TTN","NEULY177TTN","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",4.88,"4.78","2.5",0,0,NA,"","",106,"103","54",2,2,1
+"73","CASE-NEULZ548ZXV","NEULZ548ZXV","Vital Capacity","ANSWER-ALS Screening Visit",0,2.02,2.29,2.32,0,NA,"","",68,77,78,1,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"74","CASE-NEUMD869UV7","NEUMD869UV7","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",4.32,"4.17","4.41",0,0,NA,"","",106,"102","108",2,2,1
+"75","CASE-NEUME498PCJ","NEUME498PCJ","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",4.43,"4.22","4.01",0,0,NA,"","",127,"121","115",5,2,1
+"76","CASE-NEUMN012EVP","NEUMN012EVP","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.35,"2.71","2.73",0,0,NA,"","",100,"100","100",1,2,1
+"77","CASE-NEUMN922PMZ","NEUMN922PMZ","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.2,"2.98","2.8",0,0,NA,"","",88,"82","78",7,2,1
+"78","CASE-NEUMY871DGF","NEUMY871DGF","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.14,"3.87","3.3",0,0,NA,"","",73,"90","77",15,2,1
+"79","CASE-NEUNA248WXL","NEUNA248WXL","Vital Capacity","ANSWER-ALS Screening Visit",0,2.93,2.93,3.15,0,NA,"","",109,109,117,7,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"80","CASE-NEUNG326MFP","NEUNG326MFP","Vital Capacity","ANSWER-ALS Screening Visit",0,4.08,4.28,4.15,0,NA,"","",84,88,85,3,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"81","CASE-NEUNL415AFW","NEUNL415AFW","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.79,"1.91","1.98",0,0,NA,"","",56,"59","61",4,95,1
+"82","CASE-NEUPD674JPG","NEUPD674JPG","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.36,"2.75","3.62",0,0,NA,"","",98,"80","105",7,2,1
+"83","CASE-NEUPK546ZLD","NEUPK546ZLD","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.72,"1.64","1.55",0,0,NA,"","",64,"61","58",5,2,1
+"84","CASE-NEUPN525XEW","NEUPN525XEW","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.28,"0.57","1.51",0,0,NA,"","",42,"19","49",15,2,1
+"85","CASE-NEUPR357AUF","NEUPR357AUF","Vital Capacity","ANSWER-ALS Screening Visit",0,0.68,0.85,0.8,0,NA,"","",29,36,34,6,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"86","CASE-NEUPR600MBU","NEUPR600MBU","Vital Capacity","ANSWER-ALS Screening Visit",0,2.61,2.48,2.31,0,NA,"","",94,90,83,5,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,1,2
+"87","CASE-NEURA639MK8","NEURA639MK8","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",2,"Not done due to malfunctioning equipment",NA,"","",0,0,NA,"","",NA,"","",NA,NA,NA
+"88","CASE-NEURJ362MXH","NEURJ362MXH","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.69,"3.92","3.98",0,0,NA,"","",119,"126","128",2,2,1
+"89","CASE-NEURR881FKY","NEURR881FKY","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.83,"3.88","3.54",0,0,NA,"","",79,"80","73",1,2,1
+"90","CASE-NEURX315DYH","NEURX315DYH","Vital Capacity","ANSWER-ALS Screening Visit",0,3.11,3.26,3.23,0,NA,"","",99,104,103,1,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"91","CASE-NEURX909UL6","NEURX909UL6","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.12,"3.11","2.92",0,0,NA,"","",131,"130","122",0,2,1
+"92","CASE-NEUTA057AF6","NEUTA057AF6","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",4.22,"4.13","3.96",0,0,NA,"","",83,"82","78",2,2,1
+"93","CASE-NEUTA689LN5","NEUTA689LN5","Vital Capacity","ANSWER-ALS Screening Visit",0,1.66,1.72,1.69,0,NA,"","",55,57,56,2,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"94","CASE-NEUTB230DA3","NEUTB230DA3","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",2,"was not completed due to pt. time constraints",NA,"","",0,0,NA,"","",NA,"","",NA,NA,NA
+"95","CASE-NEUTD314VFT","NEUTD314VFT","Vital Capacity","ANSWER-ALS Screening Visit",0,3.53,3.56,3.72,0,NA,"","",75,76,79,4,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"96","CASE-NEUTD713DE3","NEUTD713DE3","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.73,"2.62","2.53",0,0,NA,"","",96,"92","89",4,2,1
+"97","CASE-NEUTJ613AH9","NEUTJ613AH9","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",0.42,"0.47","0.37",0,0,NA,"","",10,"12","9",11,2,1
+"98","CASE-NEUTL699WJ0","NEUTL699WJ0","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.1,"1.16","1.18",0,0,NA,"","",34,"36","36",2,2,1
+"99","CASE-NEUTM934BPY","NEUTM934BPY","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.1,"1.91","2.06",0,0,NA,"","",76,"70","75",2,2,1
+"100","CASE-NEUTN952DDG","NEUTN952DDG","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.64,"2.6","2.68",0,0,NA,"","",87,"86","89",1,2,1
+"101","CASE-NEUTU360YJY","NEUTU360YJY","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.38,"2.47","2.59",0,0,NA,"","",67,"69","73",5,2,1
+"102","CASE-NEUUE852BB1","NEUUE852BB1","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.45,"2.78","2.41",0,0,NA,"","",43,"49","43",12,2,1
+"103","CASE-NEUUL256UC9","NEUUL256UC9","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.11,"2.76","2.34",0,0,NA,"","",65,"58","49",11,2,1
+"104","CASE-NEUUP280KXL","NEUUP280KXL","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.92,"2.1","1.67",0,0,NA,"","",59,"65","51",9,2,1
+"105","CASE-NEUVF888UHM","NEUVF888UHM","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.75,"1.64","1.72",0,0,NA,"","",68,"64","67",2,2,1
+"106","CASE-NEUVJ560JGZ","NEUVJ560JGZ","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.74,"2.88","2.94",0,0,NA,"","",70,"74","75",2,2,1
+"107","CASE-NEUVL876PUV","NEUVL876PUV","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.12,"3.21","3.23",0,0,NA,"","",91,"94","94",1,2,1
+"108","CASE-NEUVM674HUA","NEUVM674HUA","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.1,"1.19","1.04",0,0,NA,"","",40,"43","38",8,2,1
+"109","CASE-NEUVN746WKV","NEUVN746WKV","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.09,"2.99","2.94",0,0,NA,"","",96,"93","91",3,2,1
+"110","CASE-NEUVR636VTP","NEUVR636VTP","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.86,"3.23","0.78",0,0,NA,"","",93,"162","39",42,2,1
+"111","CASE-NEUVW680LPK","NEUVW680LPK","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.74,"2.83","2.59",0,0,NA,"","",69,"71","65",3,2,1
+"112","CASE-NEUVW999FP9","NEUVW999FP9","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",5.56,"5.71","5.36",0,0,NA,"","",85,"90","85",3,2,1
+"113","CASE-NEUVX902YNL","NEUVX902YNL","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.63,"2.36","",0,1,1,"","",60,"54","",10,1,1
+"114","CASE-NEUWD538KT3","NEUWD538KT3","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.61,"","",1,1,99,"RRT inadvertently did not complete trial number 2","RRT inadvertently did not complete trial number 3",59,"","",100,2,1
+"115","CASE-NEUWH380YHV","NEUWH380YHV","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",5.46,"5.26","5.49",0,0,NA,"","",105,"102","106",1,2,1
+"116","CASE-NEUWJ389FC7","NEUWJ389FC7","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.15,"3.23","3.1",0,0,NA,"","",69,"73","70",2,2,1
+"117","CASE-NEUWP426NBR","NEUWP426NBR","Vital Capacity","ANSWER-ALS Screening Visit",0,0.8,1.04,0.91,0,NA,"","",37,49,43,13,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"118","CASE-NEUWX167DAH","NEUWX167DAH","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.82,"1.54","2.43",0,0,NA,"","",44,"38","59",25,2,1
+"119","CASE-NEUXE491RMM","NEUXE491RMM","Vital Capacity","ANSWER-ALS Screening Visit",0,1.33,0.78,0.63,0,NA,"","",44,26,21,41,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"120","CASE-NEUXP289KRC","NEUXP289KRC","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",2,"Inadvertently not collected",NA,"","",0,0,NA,"","",NA,"","",NA,NA,NA
+"121","CASE-NEUXP595FFP","NEUXP595FFP","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",0.74,"","",1,1,1,"","",19,"","",100,2,1
+"122","CASE-NEUXV122FN3","NEUXV122FN3","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.56,"3","3.82",0,0,NA,"","",72,"60","77",7,2,1
+"123","CASE-NEUXX361RUG","NEUXX361RUG","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",2,"Patient unable to complete due to exhaustion",NA,"","",0,0,NA,"","",NA,"","",NA,NA,NA
+"124","CASE-NEUYG298CA9","NEUYG298CA9","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.77,"U","U",0,0,NA,"","",85,"U","U",100,1,1
+"125","CASE-NEUYH924UCE","NEUYH924UCE","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",4.56,"4.58","4.46",0,0,NA,"","",85,"85","83",0,2,1
+"126","CASE-NEUYK029WUU","NEUYK029WUU","Vital Capacity","ANSWER-ALS Screening Visit",0,2.3,2.48,2.15,0,NA,"","",70,76,66,7,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"127","CASE-NEUYL008GM4","NEUYL008GM4","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",2,"SVC not collected due to equipment malfunction.",NA,"","",0,0,NA,"","",NA,"","",NA,NA,NA
+"128","CASE-NEUYL149PRF","NEUYL149PRF","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",2,"Equipment malfunction",NA,"","",0,0,NA,"","",NA,"","",NA,NA,NA
+"129","CASE-NEUYP235ZLD","NEUYP235ZLD","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",0.62,"0.61","0.65",0,0,NA,"","",10,"10","10",5,2,1
+"130","CASE-NEUYY225MNZ","NEUYY225MNZ","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.78,"2.86","3.17",0,0,NA,"","",75,"77","85",10,2,1
+"131","CASE-NEUYY878JGP","NEUYY878JGP","Vital Capacity","ANSWER-ALS Screening Visit",0,2.31,2.51,2.36,0,NA,"","",69,75,71,6,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"132","CASE-NEUZN836GME","NEUZN836GME","Vital Capacity","ANSWER-ALS Screening Visit",0,1.19,1.04,1.02,0,NA,"","",26,23,22,13,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,1,2
+"133","CASE-NEUZN936HJ9","NEUZN936HJ9","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.86,"4.16","4.03",0,0,NA,"","",84,"91","88",3,2,1
+"134","CASE-NEUZP278MR4","NEUZP278MR4","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",1.47,"1.5","1.45",0,0,NA,"","",37,"37","36",2,2,1
+"135","CASE-NEUZT557DHF","NEUZT557DHF","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",3.95,"3.8","3.78",0,0,NA,"","",140,"134","134",4,2,1
+"136","CASE-NEUZV656DD1","NEUZV656DD1","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",2,"Could not be done due to progression of ALS",NA,"","",0,0,NA,"","",NA,"","",NA,NA,NA
+"137","CASE-NEUZX521TKK","NEUZX521TKK","Vital Capacity","ANSWER-ALS Screening Visit",0,2.21,2.32,2.38,0,NA,"","",47,50,51,3,"",1,"",NA,"","",0,0,NA,"","",NA,"","",NA,2,2
+"138","CASE-NEUZX847VWV","NEUZX847VWV","Vital Capacity","ANSWER-ALS Screening Visit",0,NA,NA,NA,0,NA,"","",NA,NA,NA,NA,"",1,"",2.29,"2.29","2.18",0,0,NA,"","",71,"71","68",0,2,1

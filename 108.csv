@@ -1,0 +1,139 @@
+"","Participant_ID","SubjectUID","Form_Name","Visit_Name","Visit_Date","aliqcnt","alqvolot","dnacnt","dnacol","dnadn","dnadnsp","dnadt","smplnygc"
+"1","CASE-NEUAA599TMX","NEUAA599TMX","DNA Sample Collection","ANSWER-ALS Screening Visit",0,4,NA,1,1,1,"",0,1
+"2","CASE-NEUAB000NKC","NEUAB000NKC","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"3","CASE-NEUAE993EPR","NEUAE993EPR","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,1,1,1,"",784,1
+"4","CASE-NEUAF553MJ3","NEUAF553MJ3","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,1,1,1,"",0,2
+"5","CASE-NEUAG603XLK","NEUAG603XLK","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,1,1,1,"",-10,2
+"6","CASE-NEUAM655HF7","NEUAM655HF7","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,520,1,1,1,"",0,2
+"7","CASE-NEUAT234RK6","NEUAT234RK6","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"8","CASE-NEUAW157NMJ","NEUAW157NMJ","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"9","CASE-NEUAW717TN6","NEUAW717TN6","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,0,1,1,"",0,2
+"10","CASE-NEUAX665ZHY","NEUAX665ZHY","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,0.5,1,1,1,"",0,1
+"11","CASE-NEUBA169GXD","NEUBA169GXD","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"12","CASE-NEUBC998WWB","NEUBC998WWB","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,0.575,1,1,1,"",0,1
+"13","CASE-NEUBD218YR3","NEUBD218YR3","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"14","CASE-NEUBD288RXQ","NEUBD288RXQ","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"15","CASE-NEUBK117YXL","NEUBK117YXL","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,1,1,1,"",0,1
+"16","CASE-NEUBY734PFR","NEUBY734PFR","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,1,1,1,"",0,1
+"17","CASE-NEUCB613CA9","NEUCB613CA9","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"18","CASE-NEUCE965ZGK","NEUCE965ZGK","DNA Sample Collection","ANSWER-ALS Screening Visit",0,3,NA,1,1,1,"",0,1
+"19","CASE-NEUCF538BRM","NEUCF538BRM","DNA Sample Collection","ANSWER-ALS Screening Visit",0,4,250,1,1,1,"",0,2
+"20","CASE-NEUCN596RR3","NEUCN596RR3","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"21","CASE-NEUCU245GBQ","NEUCU245GBQ","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,1,1,1,"",0,2
+"22","CASE-NEUDD018KAH","NEUDD018KAH","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,1,1,1,"",0,1
+"23","CASE-NEUDE902GCT","NEUDE902GCT","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"24","CASE-NEUDG000ZG5","NEUDG000ZG5","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"25","CASE-NEUDG272XWC","NEUDG272XWC","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"26","CASE-NEUDJ536EVH","NEUDJ536EVH","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"27","CASE-NEUDP155HFH","NEUDP155HFH","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,NA,NA,2,"Will collect at next visit",NA,NA
+"28","CASE-NEUDT709YHN","NEUDT709YHN","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,0.15,2,1,1,"",0,1
+"29","CASE-NEUEB422WW0","NEUEB422WW0","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"30","CASE-NEUEC400NYR","NEUEC400NYR","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,1,1,1,"",0,2
+"31","CASE-NEUEK191WYC","NEUEK191WYC","DNA Sample Collection","ANSWER-ALS Screening Visit",0,4,0.72,2,1,1,"",0,1
+"32","CASE-NEUEM029XXZ","NEUEM029XXZ","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,1,1,1,"",0,1
+"33","CASE-NEUEM720BUU","NEUEM720BUU","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,1,1,1,"",0,1
+"34","CASE-NEUEN017PCJ","NEUEN017PCJ","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,0.75,2,1,1,"",0,1
+"35","CASE-NEUEN476CLW","NEUEN476CLW","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"36","CASE-NEUEU558MNK","NEUEU558MNK","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,1,1,1,"",0,2
+"37","CASE-NEUFB989DT1","NEUFB989DT1","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"38","CASE-NEUFH122WN7","NEUFH122WN7","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"39","CASE-NEUFV237VCZ","NEUFV237VCZ","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,1,1,1,"",0,1
+"40","CASE-NEUFY342UNG","NEUFY342UNG","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,0.5,2,1,1,"",0,1
+"41","CASE-NEUGD965XVD","NEUGD965XVD","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,1,1,1,"",0,1
+"42","CASE-NEUGE540TC4","NEUGE540TC4","DNA Sample Collection","ANSWER-ALS Screening Visit",0,4,NA,2,1,1,"",0,1
+"43","CASE-NEUGJ081HKR","NEUGJ081HKR","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,NA,NA,2,"Unable to draw enough blood",NA,NA
+"44","CASE-NEUGL543NJ1","NEUGL543NJ1","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,1,1,1,"",0,1
+"45","CASE-NEUGP781PDU","NEUGP781PDU","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,0.5,2,1,1,"",0,1
+"46","CASE-NEUGR121TFD","NEUGR121TFD","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,1,1,1,"",0,1
+"47","CASE-NEUGW326BRV","NEUGW326BRV","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"48","CASE-NEUGW340YEB","NEUGW340YEB","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"49","CASE-NEUHB491NGF","NEUHB491NGF","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"50","CASE-NEUHG644RYB","NEUHG644RYB","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,1,1,1,"",0,1
+"51","CASE-NEUHG791RV5","NEUHG791RV5","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"52","CASE-NEUHL999WWT","NEUHL999WWT","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"53","CASE-NEUHM532NDD","NEUHM532NDD","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"54","CASE-NEUHV216EHA","NEUHV216EHA","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,1,1,1,"",0,1
+"55","CASE-NEUHW530WD8","NEUHW530WD8","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,NA,NA,2,"Will collect at next study visit",NA,NA
+"56","CASE-NEUHW590KBH","NEUHW590KBH","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,1,1,1,"",0,1
+"57","CASE-NEUHZ302VU4","NEUHZ302VU4","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,800,1,1,1,"",0,1
+"58","CASE-NEUJA217MTJ","NEUJA217MTJ","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,0.5,1,1,1,"",0,1
+"59","CASE-NEUJA666PYD","NEUJA666PYD","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"60","CASE-NEUJC191RLE","NEUJC191RLE","DNA Sample Collection","ANSWER-ALS Screening Visit",0,4,490,1,1,1,"",0,2
+"61","CASE-NEUJH197AK2","NEUJH197AK2","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"62","CASE-NEUJV798JGH","NEUJV798JGH","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"63","CASE-NEUJX780XXK","NEUJX780XXK","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,0.75,2,1,1,"",0,1
+"64","CASE-NEUJY426MBU","NEUJY426MBU","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"65","CASE-NEUJY536DKF","NEUJY536DKF","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"66","CASE-NEUKD025JPF","NEUKD025JPF","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"67","CASE-NEULA777DBT","NEULA777DBT","DNA Sample Collection","ANSWER-ALS Screening Visit",0,4,820,1,1,1,"",0,1
+"68","CASE-NEULD354RZB","NEULD354RZB","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"69","CASE-NEULL588ALG","NEULL588ALG","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"70","CASE-NEULL648LJ1","NEULL648LJ1","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,NA,NA,2,"Two attempts, both unsuccessful, pt. refused another stick",NA,NA
+"71","CASE-NEULP998KDJ","NEULP998KDJ","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,0.5,2,1,1,"",0,1
+"72","CASE-NEULY177TTN","NEULY177TTN","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,1,1,1,"",0,1
+"73","CASE-NEULZ548ZXV","NEULZ548ZXV","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"74","CASE-NEUMD869UV7","NEUMD869UV7","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"75","CASE-NEUME498PCJ","NEUME498PCJ","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,1,1,1,"",0,1
+"76","CASE-NEUMN012EVP","NEUMN012EVP","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,1,1,1,"",2,1
+"77","CASE-NEUMN922PMZ","NEUMN922PMZ","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,NA,NA,2,"Felt faint before all tubes could be collected",NA,NA
+"78","CASE-NEUMY871DGF","NEUMY871DGF","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,1,1,1,"",0,1
+"79","CASE-NEUNA248WXL","NEUNA248WXL","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,NA,NA,2,"Unable to obtain",NA,NA
+"80","CASE-NEUNG326MFP","NEUNG326MFP","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"81","CASE-NEUNL415AFW","NEUNL415AFW","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,2
+"82","CASE-NEUPD674JPG","NEUPD674JPG","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,2
+"83","CASE-NEUPK546ZLD","NEUPK546ZLD","DNA Sample Collection","ANSWER-ALS Screening Visit",0,4,NA,1,1,1,"",0,1
+"84","CASE-NEUPN525XEW","NEUPN525XEW","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,1,1,1,"",0,1
+"85","CASE-NEUPR357AUF","NEUPR357AUF","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,NA,NA,2,"not collected at this visit",NA,NA
+"86","CASE-NEUPR600MBU","NEUPR600MBU","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"87","CASE-NEURA639MK8","NEURA639MK8","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"88","CASE-NEURJ362MXH","NEURJ362MXH","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,1,1,1,"",0,1
+"89","CASE-NEURR881FKY","NEURR881FKY","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,1,1,1,"",0,1
+"90","CASE-NEURX315DYH","NEURX315DYH","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,2
+"91","CASE-NEURX909UL6","NEURX909UL6","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,0.9,2,1,1,"",0,1
+"92","CASE-NEUTA057AF6","NEUTA057AF6","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,1,1,1,"",0,1
+"93","CASE-NEUTA689LN5","NEUTA689LN5","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,1,1,1,"",0,1
+"94","CASE-NEUTB230DA3","NEUTB230DA3","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,250,2,1,1,"",7,1
+"95","CASE-NEUTD314VFT","NEUTD314VFT","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"96","CASE-NEUTD713DE3","NEUTD713DE3","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"97","CASE-NEUTJ613AH9","NEUTJ613AH9","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,NA,1,1,"",0,1
+"98","CASE-NEUTL699WJ0","NEUTL699WJ0","DNA Sample Collection","ANSWER-ALS Screening Visit",0,4,0.565,1,1,1,"",0,1
+"99","CASE-NEUTM934BPY","NEUTM934BPY","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,1,1,1,"",0,NA
+"100","CASE-NEUTN952DDG","NEUTN952DDG","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,1,1,1,"",0,1
+"101","CASE-NEUTU360YJY","NEUTU360YJY","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,0.8,2,1,1,"",0,1
+"102","CASE-NEUUE852BB1","NEUUE852BB1","DNA Sample Collection","ANSWER-ALS Screening Visit",0,3,0,1,1,1,"",0,2
+"103","CASE-NEUUL256UC9","NEUUL256UC9","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,380,2,1,1,"",0,1
+"104","CASE-NEUUP280KXL","NEUUP280KXL","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"105","CASE-NEUVF888UHM","NEUVF888UHM","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",7,1
+"106","CASE-NEUVJ560JGZ","NEUVJ560JGZ","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,2,1,1,"",0,1
+"107","CASE-NEUVL876PUV","NEUVL876PUV","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,0.7,2,1,1,"",0,1
+"108","CASE-NEUVM674HUA","NEUVM674HUA","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"109","CASE-NEUVN746WKV","NEUVN746WKV","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,1,1,1,"",0,2
+"110","CASE-NEUVR636VTP","NEUVR636VTP","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,0.9,1,2,1,"",0,2
+"111","CASE-NEUVW680LPK","NEUVW680LPK","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,1,1,1,"",1,1
+"112","CASE-NEUVW999FP9","NEUVW999FP9","DNA Sample Collection","ANSWER-ALS Screening Visit",0,4,0.94,1,1,1,"",0,1
+"113","CASE-NEUVX902YNL","NEUVX902YNL","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"114","CASE-NEUWD538KT3","NEUWD538KT3","DNA Sample Collection","ANSWER-ALS Screening Visit",0,4,400,1,1,1,"",0,2
+"115","CASE-NEUWH380YHV","NEUWH380YHV","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,0.75,2,1,1,"",0,1
+"116","CASE-NEUWJ389FC7","NEUWJ389FC7","DNA Sample Collection","ANSWER-ALS Screening Visit",0,4,0.7,1,1,1,"",0,2
+"117","CASE-NEUWP426NBR","NEUWP426NBR","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,NA,NA,2,"Will collect at next visit",NA,NA
+"118","CASE-NEUWX167DAH","NEUWX167DAH","DNA Sample Collection","ANSWER-ALS Screening Visit",0,10,NA,1,1,1,"",0,1
+"119","CASE-NEUXE491RMM","NEUXE491RMM","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,NA,NA,2,"will collect at subsequent visit",NA,NA
+"120","CASE-NEUXP289KRC","NEUXP289KRC","DNA Sample Collection","ANSWER-ALS Screening Visit",0,4,NA,2,1,1,"",0,1
+"121","CASE-NEUXP595FFP","NEUXP595FFP","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,0.5,1,1,1,"",0,1
+"122","CASE-NEUXV122FN3","NEUXV122FN3","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"123","CASE-NEUXX361RUG","NEUXX361RUG","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,1,1,1,"",0,1
+"124","CASE-NEUYG298CA9","NEUYG298CA9","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,2
+"125","CASE-NEUYH924UCE","NEUYH924UCE","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,2,1,1,"",0,1
+"126","CASE-NEUYK029WUU","NEUYK029WUU","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"127","CASE-NEUYL008GM4","NEUYL008GM4","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,NA,NA,2,"Unable to draw enough blood",NA,NA
+"128","CASE-NEUYL149PRF","NEUYL149PRF","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,NA,NA,2,"Unable to draw enough blood",NA,NA
+"129","CASE-NEUYP235ZLD","NEUYP235ZLD","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,1,1,1,"",0,1
+"130","CASE-NEUYY225MNZ","NEUYY225MNZ","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"131","CASE-NEUYY878JGP","NEUYY878JGP","DNA Sample Collection","ANSWER-ALS Screening Visit",0,NA,NA,NA,NA,2,"Optional for this study visit",NA,NA
+"132","CASE-NEUZN836GME","NEUZN836GME","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"133","CASE-NEUZN936HJ9","NEUZN936HJ9","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,0.5,2,1,1,"",0,1
+"134","CASE-NEUZP278MR4","NEUZP278MR4","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,0.6,2,1,1,"",0,1
+"135","CASE-NEUZT557DHF","NEUZT557DHF","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,1,1,1,"",40,1
+"136","CASE-NEUZV656DD1","NEUZV656DD1","DNA Sample Collection","ANSWER-ALS Screening Visit",0,6,NA,2,1,1,"",0,1
+"137","CASE-NEUZX521TKK","NEUZX521TKK","DNA Sample Collection","ANSWER-ALS Screening Visit",0,5,NA,2,1,1,"",0,1
+"138","CASE-NEUZX847VWV","NEUZX847VWV","DNA Sample Collection","ANSWER-ALS Screening Visit",0,4,0.25,2,1,1,"",0,1

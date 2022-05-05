@@ -1,0 +1,607 @@
+"","Participant_ID","SubjectUID","Form_Name","Visit_Name","Visit_Date","famgen","famguid","famher","famhx1","famrel","famrelsp","fhals","fhalz","fharth","fhasth","fhcanc","fhcirc","fhdem","fhdiab","fhdown","fhftd","fhgen","fhgnang","fhgnc9","fhgnfus","fhgnot","fhgnotsp","fhgnprg","fhgnsetx","fhgnsod1","fhgntau","fhgntdp","fhgnvapb","fhgnvcp","fhhbp","fhhd","fhhrt","fhlung","fhot","fhotsp","fhpd","fhpsy","fhpsysp","fhstk"
+"1","CASE-NEUAA599TMX","NEUAA599TMX","Family History Log","Baseline",0,NA,NA,NA,1,8,"",0,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"2","CASE-NEUAA599TMX","NEUAA599TMX","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",1,0,"",0
+"3","CASE-NEUAA599TMX","NEUAA599TMX","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Bipolar",0
+"4","CASE-NEUAA599TMX","NEUAA599TMX","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"5","CASE-NEUAA599TMX","NEUAA599TMX","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Bipolar, Paranoid Schizoprenia",0
+"6","CASE-NEUAA599TMX","NEUAA599TMX","Family History Log","Baseline",0,NA,NA,NA,1,8,"",0,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"7","CASE-NEUAA599TMX","NEUAA599TMX","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Bipolar",0
+"8","CASE-NEUAA599TMX","NEUAA599TMX","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"severe scoliosis",0,0,"",0
+"9","CASE-NEUAA599TMX","NEUAA599TMX","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"10","CASE-NEUAA599TMX","NEUAA599TMX","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Bipolar, Paranoid Schizoprenia",0
+"11","CASE-NEUAB000NKC","NEUAB000NKC","Family History Log","Baseline",0,NA,NA,NA,1,2,"",1,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"12","CASE-NEUAB000NKC","NEUAB000NKC","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"13","CASE-NEUAB000NKC","NEUAB000NKC","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"14","CASE-NEUAE993EPR","NEUAE993EPR","Family History Log","Baseline",-1,NA,NA,NA,1,3,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"15","CASE-NEUAE993EPR","NEUAE993EPR","Family History Log","Baseline",-1,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"16","CASE-NEUAE993EPR","NEUAE993EPR","Family History Log","Baseline",-1,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"17","CASE-NEUAF553MJ3","NEUAF553MJ3","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"18","CASE-NEUAF553MJ3","NEUAF553MJ3","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"19","CASE-NEUAF553MJ3","NEUAF553MJ3","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"20","CASE-NEUAG603XLK","NEUAG603XLK","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"21","CASE-NEUAG603XLK","NEUAG603XLK","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Thyroid problems",0,0,"",0
+"22","CASE-NEUAG603XLK","NEUAG603XLK","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,1,"Liver disease",0,0,"",0
+"23","CASE-NEUAG603XLK","NEUAG603XLK","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"24","CASE-NEUAG603XLK","NEUAG603XLK","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Thyroid problems",0,0,"",1
+"25","CASE-NEUAG603XLK","NEUAG603XLK","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Thoracic aneurysm",0,0,"",0
+"26","CASE-NEUAG603XLK","NEUAG603XLK","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"27","CASE-NEUAG603XLK","NEUAG603XLK","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"28","CASE-NEUAG603XLK","NEUAG603XLK","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Cerebral palsy",0,0,"",0
+"29","CASE-NEUAG603XLK","NEUAG603XLK","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"30","CASE-NEUAG603XLK","NEUAG603XLK","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Heart attack",0,0,"",0
+"31","CASE-NEUAM655HF7","NEUAM655HF7","Family History Log","Baseline",0,2,NA,2,1,13,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Aneurysm",0,0,"",0
+"32","CASE-NEUAM655HF7","NEUAM655HF7","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"33","CASE-NEUAM655HF7","NEUAM655HF7","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"34","CASE-NEUAM655HF7","NEUAM655HF7","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Heart attack",0,0,"",0
+"35","CASE-NEUAT234RK6","NEUAT234RK6","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"36","CASE-NEUAT234RK6","NEUAT234RK6","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"37","CASE-NEUAW157NMJ","NEUAW157NMJ","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Epilepsy",0,0,"",0
+"38","CASE-NEUAW157NMJ","NEUAW157NMJ","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"39","CASE-NEUAW157NMJ","NEUAW157NMJ","Family History Log","Baseline",0,NA,NA,2,1,99,"Great Grandmother",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"40","CASE-NEUAW157NMJ","NEUAW157NMJ","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"41","CASE-NEUAW717TN6","NEUAW717TN6","Family History Log","Baseline",0,1,NA,1,1,99,"Great Uncle",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",1,0,"",0
+"42","CASE-NEUAW717TN6","NEUAW717TN6","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"43","CASE-NEUAW717TN6","NEUAW717TN6","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"44","CASE-NEUAW717TN6","NEUAW717TN6","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"45","CASE-NEUAW717TN6","NEUAW717TN6","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"46","CASE-NEUAW717TN6","NEUAW717TN6","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,0,0,1,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"47","CASE-NEUAW717TN6","NEUAW717TN6","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Anxiety",0
+"48","CASE-NEUAW717TN6","NEUAW717TN6","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Anxiety",0
+"49","CASE-NEUAX665ZHY","NEUAX665ZHY","Family History Log","Baseline",-56,NA,NA,NA,1,2,"",0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"50","CASE-NEUAX665ZHY","NEUAX665ZHY","Family History Log","Baseline",-56,NA,NA,2,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"51","CASE-NEUAX665ZHY","NEUAX665ZHY","Family History Log","Baseline",-56,NA,NA,NA,1,4,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"52","CASE-NEUAX665ZHY","NEUAX665ZHY","Family History Log","Baseline",-56,NA,NA,2,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"53","CASE-NEUAX665ZHY","NEUAX665ZHY","Family History Log","Baseline",-56,NA,NA,2,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,1,0,"",0,0,"",0
+"54","CASE-NEUAX665ZHY","NEUAX665ZHY","Family History Log","Baseline",-56,NA,NA,NA,1,1,"",0,0,1,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"55","CASE-NEUBA169GXD","NEUBA169GXD","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"56","CASE-NEUBA169GXD","NEUBA169GXD","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"57","CASE-NEUBA169GXD","NEUBA169GXD","Family History Log","Baseline",0,NA,NA,NA,1,7,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"58","CASE-NEUBA169GXD","NEUBA169GXD","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"59","CASE-NEUBA169GXD","NEUBA169GXD","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"60","CASE-NEUBA169GXD","NEUBA169GXD","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"High blood pressure",0,0,"",0
+"61","CASE-NEUBC998WWB","NEUBC998WWB","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Multiple sclerosis, crohns disease",0,0,"",0
+"62","CASE-NEUBC998WWB","NEUBC998WWB","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Liver disease",0,0,"",0
+"63","CASE-NEUBC998WWB","NEUBC998WWB","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,1,0,1,0,1,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"64","CASE-NEUBC998WWB","NEUBC998WWB","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,1,1,"Emphysema",0,0,"",0
+"65","CASE-NEUBC998WWB","NEUBC998WWB","Family History Log","Baseline",0,NA,NA,NA,1,8,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Crohns disease, multifocal motorneuropathy",0,0,"",0
+"66","CASE-NEUBD288RXQ","NEUBD288RXQ","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"67","CASE-NEUBK117YXL","NEUBK117YXL","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"68","CASE-NEUBK117YXL","NEUBK117YXL","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Degenerative disc disease",0,0,"",0
+"69","CASE-NEUBK117YXL","NEUBK117YXL","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"70","CASE-NEUBK117YXL","NEUBK117YXL","Family History Log","Baseline",0,NA,NA,1,1,6,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Bipolar disorder",0
+"71","CASE-NEUBY734PFR","NEUBY734PFR","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"72","CASE-NEUBY734PFR","NEUBY734PFR","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Schizophrenia",0
+"73","CASE-NEUBY734PFR","NEUBY734PFR","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"74","CASE-NEUCB613CA9","NEUCB613CA9","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"High cholesterol",0,0,"",0
+"75","CASE-NEUCB613CA9","NEUCB613CA9","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"High cholesterol",0,0,"",0
+"76","CASE-NEUCB613CA9","NEUCB613CA9","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"High cholesterol",0,0,"",0
+"77","CASE-NEUCB613CA9","NEUCB613CA9","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,0,1,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"High cholesterol",0,0,"",0
+"78","CASE-NEUCB613CA9","NEUCB613CA9","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"High cholesterol",0,0,"",0
+"79","CASE-NEUCE965ZGK","NEUCE965ZGK","Family History Log","Baseline",0,NA,NA,NA,1,3,"",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"80","CASE-NEUCE965ZGK","NEUCE965ZGK","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Fibromyalgia, Leg troubles, Tumor",0,0,"",0
+"81","CASE-NEUCE965ZGK","NEUCE965ZGK","Family History Log","Baseline",0,2,NA,2,1,13,"",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"82","CASE-NEUCE965ZGK","NEUCE965ZGK","Family History Log","Baseline",0,NA,NA,NA,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Spacticity/weakness",0,0,"",0
+"83","CASE-NEUCE965ZGK","NEUCE965ZGK","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"84","CASE-NEUCE965ZGK","NEUCE965ZGK","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"died of pneumonia",0,0,"",0
+"85","CASE-NEUCE965ZGK","NEUCE965ZGK","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Fibromyalgia",0,0,"",0
+"86","CASE-NEUCF538BRM","NEUCF538BRM","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",1
+"87","CASE-NEUCF538BRM","NEUCF538BRM","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"88","CASE-NEUCF538BRM","NEUCF538BRM","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"89","CASE-NEUCF538BRM","NEUCF538BRM","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Crohn's Disease",0,0,"",0
+"90","CASE-NEUCF538BRM","NEUCF538BRM","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"91","CASE-NEUCF538BRM","NEUCF538BRM","Family History Log","Baseline",0,2,NA,1,1,13,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Lupus",0,0,"",0
+"92","CASE-NEUCF538BRM","NEUCF538BRM","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Ankylosing Spondylitis",0,0,"",0
+"93","CASE-NEUCF538BRM","NEUCF538BRM","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"94","CASE-NEUCN596RR3","NEUCN596RR3","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"95","CASE-NEUCN596RR3","NEUCN596RR3","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"96","CASE-NEUCN596RR3","NEUCN596RR3","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"97","CASE-NEUCN596RR3","NEUCN596RR3","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"98","CASE-NEUCN596RR3","NEUCN596RR3","Family History Log","Baseline",0,NA,NA,NA,1,1,"",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"99","CASE-NEUCN596RR3","NEUCN596RR3","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"100","CASE-NEUCU245GBQ","NEUCU245GBQ","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"101","CASE-NEUCU245GBQ","NEUCU245GBQ","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"102","CASE-NEUCU245GBQ","NEUCU245GBQ","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"HTN",0,0,"",0
+"103","CASE-NEUCU245GBQ","NEUCU245GBQ","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"HTN",0,0,"",0
+"104","CASE-NEUDD018KAH","NEUDD018KAH","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"105","CASE-NEUDD018KAH","NEUDD018KAH","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"106","CASE-NEUDD018KAH","NEUDD018KAH","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"107","CASE-NEUDD018KAH","NEUDD018KAH","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"108","CASE-NEUDD018KAH","NEUDD018KAH","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"109","CASE-NEUDE902GCT","NEUDE902GCT","Family History Log","Baseline",0,2,NA,1,1,99,"great aunt",0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"110","CASE-NEUDE902GCT","NEUDE902GCT","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"111","CASE-NEUDE902GCT","NEUDE902GCT","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"112","CASE-NEUDG000ZG5","NEUDG000ZG5","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"113","CASE-NEUDG000ZG5","NEUDG000ZG5","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Polyp removal after testing for cancer",0,0,"",0
+"114","CASE-NEUDG000ZG5","NEUDG000ZG5","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,1,"Obesity; sleep apnea",0,0,"",0
+"115","CASE-NEUDG000ZG5","NEUDG000ZG5","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Obesity",0,0,"",1
+"116","CASE-NEUDG000ZG5","NEUDG000ZG5","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"117","CASE-NEUDG000ZG5","NEUDG000ZG5","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,1,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",1
+"118","CASE-NEUDG000ZG5","NEUDG000ZG5","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"119","CASE-NEUDG000ZG5","NEUDG000ZG5","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"120","CASE-NEUDG272XWC","NEUDG272XWC","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"High Cholesterol",0,0,"",0
+"121","CASE-NEUDJ536EVH","NEUDJ536EVH","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Progressive Motor Abnormalities",0,0,"",0
+"122","CASE-NEUDJ536EVH","NEUDJ536EVH","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Progressive Motor Dysfunction",0,0,"",0
+"123","CASE-NEUDJ536EVH","NEUDJ536EVH","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"124","CASE-NEUDJ536EVH","NEUDJ536EVH","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"125","CASE-NEUDP155HFH","NEUDP155HFH","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"126","CASE-NEUDP155HFH","NEUDP155HFH","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"127","CASE-NEUDP155HFH","NEUDP155HFH","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"chronic depression",0
+"128","CASE-NEUDT709YHN","NEUDT709YHN","Family History Log","Baseline",-294,NA,NA,NA,1,4,"",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"129","CASE-NEUDT709YHN","NEUDT709YHN","Family History Log","Baseline",-294,NA,NA,1,1,9,"",0,1,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"130","CASE-NEUDT709YHN","NEUDT709YHN","Family History Log","Baseline",-294,NA,NA,NA,1,2,"",0,1,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"131","CASE-NEUEB422WW0","NEUEB422WW0","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Multiple sclerosis",0,0,"",0
+"132","CASE-NEUEB422WW0","NEUEB422WW0","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"133","CASE-NEUEB422WW0","NEUEB422WW0","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,1,0,0,1,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"134","CASE-NEUEC400NYR","NEUEC400NYR","Family History Log","Baseline",0,NA,NA,NA,1,1,"",1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"",0,1,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"135","CASE-NEUEC400NYR","NEUEC400NYR","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"136","CASE-NEUEK191WYC","NEUEK191WYC","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Kidney failure",0,0,"",0
+"137","CASE-NEUEK191WYC","NEUEK191WYC","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"138","CASE-NEUEK191WYC","NEUEK191WYC","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Heart attack",0,0,"",0
+"139","CASE-NEUEK191WYC","NEUEK191WYC","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"140","CASE-NEUEK191WYC","NEUEK191WYC","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"141","CASE-NEUEK191WYC","NEUEK191WYC","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Brain tumor",0,0,"",0
+"142","CASE-NEUEK191WYC","NEUEK191WYC","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"143","CASE-NEUEM029XXZ","NEUEM029XXZ","Family History Log","Baseline",0,NA,NA,NA,1,8,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Depression",0
+"144","CASE-NEUEM029XXZ","NEUEM029XXZ","Family History Log","Baseline",0,NA,NA,NA,1,7,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Scoliosis",0,0,"",0
+"145","CASE-NEUEM029XXZ","NEUEM029XXZ","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"146","CASE-NEUEM720BUU","NEUEM720BUU","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"147","CASE-NEUEM720BUU","NEUEM720BUU","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"148","CASE-NEUEM720BUU","NEUEM720BUU","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"149","CASE-NEUEM720BUU","NEUEM720BUU","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"150","CASE-NEUEM720BUU","NEUEM720BUU","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"151","CASE-NEUEM720BUU","NEUEM720BUU","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"152","CASE-NEUEM720BUU","NEUEM720BUU","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"153","CASE-NEUEM720BUU","NEUEM720BUU","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Tuberculosis",0,0,"",0
+"154","CASE-NEUEM720BUU","NEUEM720BUU","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"155","CASE-NEUEM720BUU","NEUEM720BUU","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"156","CASE-NEUEN476CLW","NEUEN476CLW","Family History Log","Baseline",-448,NA,NA,NA,1,2,"",0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"157","CASE-NEUEN476CLW","NEUEN476CLW","Family History Log","Baseline",-448,NA,NA,1,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",1,0,"",0
+"158","CASE-NEUEN476CLW","NEUEN476CLW","Family History Log","Baseline",-448,NA,NA,2,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"159","CASE-NEUEN476CLW","NEUEN476CLW","Family History Log","Baseline",-448,NA,NA,1,1,10,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"160","CASE-NEUEN476CLW","NEUEN476CLW","Family History Log","Baseline",-448,NA,NA,2,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Depression",0
+"161","CASE-NEUEN476CLW","NEUEN476CLW","Family History Log","Baseline",-448,NA,NA,NA,1,7,"",0,0,0,1,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"162","CASE-NEUEN476CLW","NEUEN476CLW","Family History Log","Baseline",-448,NA,NA,NA,1,7,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"OCD",0
+"163","CASE-NEUEU558MNK","NEUEU558MNK","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Arthritis",0,0,"",0
+"164","CASE-NEUEU558MNK","NEUEU558MNK","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"HBP, arthritis",0,0,"",0
+"165","CASE-NEUEU558MNK","NEUEU558MNK","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Cerebral palsy",0,0,"",0
+"166","CASE-NEUEU558MNK","NEUEU558MNK","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,1,"HBP,",0,0,"",0
+"167","CASE-NEUEU558MNK","NEUEU558MNK","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"HBP, arthritis",0,0,"",0
+"168","CASE-NEUEU558MNK","NEUEU558MNK","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"HBP, heart attack",0,0,"",1
+"169","CASE-NEUEU558MNK","NEUEU558MNK","Family History Log","Baseline",0,NA,NA,NA,1,7,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Lupus",0,0,"",0
+"170","CASE-NEUEU558MNK","NEUEU558MNK","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Arthritis",0,0,"",0
+"171","CASE-NEUEU558MNK","NEUEU558MNK","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Arthritis",0,0,"",0
+"172","CASE-NEUFB989DT1","NEUFB989DT1","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,1,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"173","CASE-NEUFB989DT1","NEUFB989DT1","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,1,"Thyroid disease",0,0,"",0
+"174","CASE-NEUFB989DT1","NEUFB989DT1","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"175","CASE-NEUFB989DT1","NEUFB989DT1","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"176","CASE-NEUFB989DT1","NEUFB989DT1","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,0,0,0,1,1,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"177","CASE-NEUFB989DT1","NEUFB989DT1","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"178","CASE-NEUFB989DT1","NEUFB989DT1","Family History Log","Baseline",0,NA,NA,NA,1,3,"",1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,"Unknown",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"179","CASE-NEUFH122WN7","NEUFH122WN7","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Padget's disease",0,0,"",0
+"180","CASE-NEUFH122WN7","NEUFH122WN7","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"181","CASE-NEUFH122WN7","NEUFH122WN7","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Barrett's esophagus",0,0,"",0
+"182","CASE-NEUFH122WN7","NEUFH122WN7","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"183","CASE-NEUFV237VCZ","NEUFV237VCZ","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"184","CASE-NEUFV237VCZ","NEUFV237VCZ","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Epilepsy",0,0,"",0
+"185","CASE-NEUFY342UNG","NEUFY342UNG","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"186","CASE-NEUFY342UNG","NEUFY342UNG","Family History Log","Baseline",0,NA,NA,NA,1,7,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Smith Lemli Opitz syndrome",0,0,"",0
+"187","CASE-NEUFY342UNG","NEUFY342UNG","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"COPD",0,0,"",0
+"188","CASE-NEUGD965XVD","NEUGD965XVD","Family History Log","Baseline",-356,NA,NA,2,1,9,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"189","CASE-NEUGD965XVD","NEUGD965XVD","Family History Log","Baseline",-356,NA,NA,2,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"190","CASE-NEUGD965XVD","NEUGD965XVD","Family History Log","Baseline",-356,NA,NA,1,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,1,0,"",0,0,"",0
+"191","CASE-NEUGD965XVD","NEUGD965XVD","Family History Log","Baseline",-356,NA,NA,2,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"192","CASE-NEUGD965XVD","NEUGD965XVD","Family History Log","Baseline",-356,NA,NA,1,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"193","CASE-NEUGD965XVD","NEUGD965XVD","Family History Log","Baseline",-356,NA,NA,1,1,9,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"194","CASE-NEUGD965XVD","NEUGD965XVD","Family History Log","Baseline",-356,NA,NA,2,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"depression",0
+"195","CASE-NEUGE540TC4","NEUGE540TC4","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"196","CASE-NEUGE540TC4","NEUGE540TC4","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"197","CASE-NEUGJ081HKR","NEUGJ081HKR","Family History Log","Baseline",0,NA,NA,2,1,13,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"198","CASE-NEUGJ081HKR","NEUGJ081HKR","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"199","CASE-NEUGJ081HKR","NEUGJ081HKR","Family History Log","Baseline",0,NA,NA,NA,1,1,"",1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"200","CASE-NEUGJ081HKR","NEUGJ081HKR","Family History Log","Baseline",0,NA,NA,2,1,11,"",1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"201","CASE-NEUGJ081HKR","NEUGJ081HKR","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"202","CASE-NEUGL543NJ1","NEUGL543NJ1","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"203","CASE-NEUGL543NJ1","NEUGL543NJ1","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Hand tremor",0,0,"",0
+"204","CASE-NEUGL543NJ1","NEUGL543NJ1","Family History Log","Baseline",0,2,NA,2,1,13,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Cannot stand up straight",0,0,"",0
+"205","CASE-NEUGL543NJ1","NEUGL543NJ1","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"unspecified",0
+"206","CASE-NEUGL543NJ1","NEUGL543NJ1","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,1,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"207","CASE-NEUGL543NJ1","NEUGL543NJ1","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,1,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"208","CASE-NEUGL543NJ1","NEUGL543NJ1","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"209","CASE-NEUGL543NJ1","NEUGL543NJ1","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"210","CASE-NEUGL543NJ1","NEUGL543NJ1","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"211","CASE-NEUGL543NJ1","NEUGL543NJ1","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"212","CASE-NEUGL543NJ1","NEUGL543NJ1","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"213","CASE-NEUGL543NJ1","NEUGL543NJ1","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"214","CASE-NEUGP781PDU","NEUGP781PDU","Family History Log","Baseline",0,1,NA,2,1,13,"",0,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"215","CASE-NEUGP781PDU","NEUGP781PDU","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"216","CASE-NEUGP781PDU","NEUGP781PDU","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,1,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"217","CASE-NEUGP781PDU","NEUGP781PDU","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,1,0,"",0,0,"",0
+"218","CASE-NEUGP781PDU","NEUGP781PDU","Family History Log","Baseline",0,2,NA,2,1,13,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"219","CASE-NEUGP781PDU","NEUGP781PDU","Family History Log","Baseline",0,2,NA,2,1,13,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"220","CASE-NEUGW326BRV","NEUGW326BRV","Family History Log","Baseline",-64,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,1,"rheumatic fever",0,0,"",0
+"221","CASE-NEUGW340YEB","NEUGW340YEB","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"222","CASE-NEUGW340YEB","NEUGW340YEB","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"223","CASE-NEUGW340YEB","NEUGW340YEB","Family History Log","Baseline",0,2,NA,2,1,13,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"224","CASE-NEUGW340YEB","NEUGW340YEB","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"225","CASE-NEUGW340YEB","NEUGW340YEB","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Fibromyalgia",0,0,"",0
+"226","CASE-NEUGW340YEB","NEUGW340YEB","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"227","CASE-NEUGW340YEB","NEUGW340YEB","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"228","CASE-NEUGW340YEB","NEUGW340YEB","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"229","CASE-NEUGW340YEB","NEUGW340YEB","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"230","CASE-NEUGW340YEB","NEUGW340YEB","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,1,1,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"231","CASE-NEUGW340YEB","NEUGW340YEB","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"232","CASE-NEUGW340YEB","NEUGW340YEB","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"233","CASE-NEUGW340YEB","NEUGW340YEB","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"234","CASE-NEUHB491NGF","NEUHB491NGF","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"235","CASE-NEUHB491NGF","NEUHB491NGF","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"236","CASE-NEUHB491NGF","NEUHB491NGF","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,1,"Tremors",0,0,"",0
+"237","CASE-NEUHB491NGF","NEUHB491NGF","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"238","CASE-NEUHG644RYB","NEUHG644RYB","Family History Log","Baseline",-41,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"239","CASE-NEUHG644RYB","NEUHG644RYB","Family History Log","Baseline",-41,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"240","CASE-NEUHG644RYB","NEUHG644RYB","Family History Log","Baseline",-41,NA,NA,NA,1,3,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"241","CASE-NEUHG644RYB","NEUHG644RYB","Family History Log","Baseline",-41,NA,NA,NA,1,4,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"242","CASE-NEUHG644RYB","NEUHG644RYB","Family History Log","Baseline",-41,NA,NA,1,1,11,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"243","CASE-NEUHG644RYB","NEUHG644RYB","Family History Log","Baseline",-41,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"244","CASE-NEUHG644RYB","NEUHG644RYB","Family History Log","Baseline",-41,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"245","CASE-NEUHG644RYB","NEUHG644RYB","Family History Log","Baseline",-41,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"246","CASE-NEUHG791RV5","NEUHG791RV5","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Grave's Disease",0,0,"",0
+"247","CASE-NEUHG791RV5","NEUHG791RV5","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,1,0,0,"",0,0,"",0
+"248","CASE-NEUHG791RV5","NEUHG791RV5","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"249","CASE-NEUHG791RV5","NEUHG791RV5","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"250","CASE-NEUHG791RV5","NEUHG791RV5","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"251","CASE-NEUHL999WWT","NEUHL999WWT","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"252","CASE-NEUHL999WWT","NEUHL999WWT","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"253","CASE-NEUHL999WWT","NEUHL999WWT","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",1
+"254","CASE-NEUHL999WWT","NEUHL999WWT","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",1
+"255","CASE-NEUHL999WWT","NEUHL999WWT","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"256","CASE-NEUHM532NDD","NEUHM532NDD","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"257","CASE-NEUHM532NDD","NEUHM532NDD","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"258","CASE-NEUHM532NDD","NEUHM532NDD","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,1,0,0,"",0,0,"",0
+"259","CASE-NEUHM532NDD","NEUHM532NDD","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"260","CASE-NEUHV216EHA","NEUHV216EHA","Family History Log","Baseline",0,1,NA,2,1,13,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Pancreatitis",0,0,"",0
+"261","CASE-NEUHV216EHA","NEUHV216EHA","Family History Log","Baseline",0,1,NA,2,1,13,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Lupus",0,0,"",0
+"262","CASE-NEUHV216EHA","NEUHV216EHA","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"263","CASE-NEUHV216EHA","NEUHV216EHA","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"264","CASE-NEUHW530WD8","NEUHW530WD8","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"265","CASE-NEUHW530WD8","NEUHW530WD8","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"266","CASE-NEUHW590KBH","NEUHW590KBH","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"267","CASE-NEUHW590KBH","NEUHW590KBH","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"268","CASE-NEUHW590KBH","NEUHW590KBH","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",1,0,"",0
+"269","CASE-NEUHW590KBH","NEUHW590KBH","Family History Log","Baseline",0,NA,NA,NA,1,4,"",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"270","CASE-NEUHW590KBH","NEUHW590KBH","Family History Log","Baseline",0,NA,NA,NA,1,1,"",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"271","CASE-NEUHZ302VU4","NEUHZ302VU4","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"CMT",0,0,"",0
+"272","CASE-NEUHZ302VU4","NEUHZ302VU4","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"273","CASE-NEUHZ302VU4","NEUHZ302VU4","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"274","CASE-NEUHZ302VU4","NEUHZ302VU4","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"CMT",0,0,"",0
+"275","CASE-NEUHZ302VU4","NEUHZ302VU4","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"CMT",0,0,"",0
+"276","CASE-NEUHZ302VU4","NEUHZ302VU4","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"277","CASE-NEUHZ302VU4","NEUHZ302VU4","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"CMT, pneumonia, nip surgery",0,0,"",0
+"278","CASE-NEUHZ302VU4","NEUHZ302VU4","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"279","CASE-NEUHZ302VU4","NEUHZ302VU4","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"CMT",0,0,"",0
+"280","CASE-NEUHZ302VU4","NEUHZ302VU4","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Melanoma malignant, CMT",0,0,"",0
+"281","CASE-NEUHZ302VU4","NEUHZ302VU4","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,1,"CMT",0,0,"",0
+"282","CASE-NEUHZ302VU4","NEUHZ302VU4","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Melanoma malignant, CMT",0,0,"",0
+"283","CASE-NEUHZ302VU4","NEUHZ302VU4","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"284","CASE-NEUHZ302VU4","NEUHZ302VU4","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"CMT",0,0,"",0
+"285","CASE-NEUJA217MTJ","NEUJA217MTJ","Family History Log","Baseline",4,NA,NA,NA,1,2,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,1,"blocked arteries",0,0,"",0
+"286","CASE-NEUJA217MTJ","NEUJA217MTJ","Family History Log","Baseline",4,NA,NA,NA,1,4,"",0,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"287","CASE-NEUJA217MTJ","NEUJA217MTJ","Family History Log","Baseline",4,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"288","CASE-NEUJA217MTJ","NEUJA217MTJ","Family History Log","Baseline",4,NA,NA,NA,1,3,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"289","CASE-NEUJA217MTJ","NEUJA217MTJ","Family History Log","Baseline",4,NA,NA,NA,1,1,"",0,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"290","CASE-NEUJA217MTJ","NEUJA217MTJ","Family History Log","Baseline",4,NA,NA,1,1,11,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"291","CASE-NEUJA217MTJ","NEUJA217MTJ","Family History Log","Baseline",4,NA,NA,1,1,12,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"292","CASE-NEUJA666PYD","NEUJA666PYD","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"293","CASE-NEUJA666PYD","NEUJA666PYD","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"294","CASE-NEUJA666PYD","NEUJA666PYD","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"295","CASE-NEUJA666PYD","NEUJA666PYD","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"296","CASE-NEUJA666PYD","NEUJA666PYD","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"297","CASE-NEUJA666PYD","NEUJA666PYD","Family History Log","Baseline",0,2,NA,1,1,13,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"298","CASE-NEUJA666PYD","NEUJA666PYD","Family History Log","Baseline",0,NA,NA,NA,1,12,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"299","CASE-NEUJC191RLE","NEUJC191RLE","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"300","CASE-NEUJC191RLE","NEUJC191RLE","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"301","CASE-NEUJH197AK2","NEUJH197AK2","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"302","CASE-NEUJH197AK2","NEUJH197AK2","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"303","CASE-NEUJH197AK2","NEUJH197AK2","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"304","CASE-NEUJH197AK2","NEUJH197AK2","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"305","CASE-NEUJH197AK2","NEUJH197AK2","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"306","CASE-NEUJH197AK2","NEUJH197AK2","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"307","CASE-NEUJV798JGH","NEUJV798JGH","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"308","CASE-NEUJV798JGH","NEUJV798JGH","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"309","CASE-NEUJY426MBU","NEUJY426MBU","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,1,"Heart attack",0,0,"",0
+"310","CASE-NEUJY426MBU","NEUJY426MBU","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"311","CASE-NEUJY426MBU","NEUJY426MBU","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Not specified",0
+"312","CASE-NEUJY426MBU","NEUJY426MBU","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Not specified",0
+"313","CASE-NEUJY426MBU","NEUJY426MBU","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"314","CASE-NEUJY426MBU","NEUJY426MBU","Family History Log","Baseline",0,NA,NA,2,1,13,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",1,0,"",0
+"315","CASE-NEUJY536DKF","NEUJY536DKF","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,1,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"316","CASE-NEUJY536DKF","NEUJY536DKF","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"317","CASE-NEUJY536DKF","NEUJY536DKF","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Gout",0,0,"",0
+"318","CASE-NEUJY536DKF","NEUJY536DKF","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,1,0,"",0,0,"",0
+"319","CASE-NEUJY536DKF","NEUJY536DKF","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Sleep Apnea",0,0,"",0
+"320","CASE-NEUKD025JPF","NEUKD025JPF","Family History Log","Baseline",434,NA,NA,1,1,9,"",0,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"321","CASE-NEUKD025JPF","NEUKD025JPF","Family History Log","Baseline",434,2,NA,2,1,13,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"aspergers",0,0,"",0
+"322","CASE-NEUKD025JPF","NEUKD025JPF","Family History Log","Baseline",434,NA,NA,2,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"aspergers",0,0,"",0
+"323","CASE-NEUKD025JPF","NEUKD025JPF","Family History Log","Baseline",434,NA,NA,2,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"aspergers",0,0,"",0
+"324","CASE-NEUKD025JPF","NEUKD025JPF","Family History Log","Baseline",434,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",1,0,"",0
+"325","CASE-NEUKD025JPF","NEUKD025JPF","Family History Log","Baseline",434,NA,NA,1,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Unspecified",0
+"326","CASE-NEUKD025JPF","NEUKD025JPF","Family History Log","Baseline",434,NA,NA,1,1,11,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"327","CASE-NEUKD025JPF","NEUKD025JPF","Family History Log","Baseline",434,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"""mentally Impaired""",0,0,"",0
+"328","CASE-NEUKD025JPF","NEUKD025JPF","Family History Log","Baseline",434,2,NA,2,1,13,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"aspergers",0,0,"",0
+"329","CASE-NEUKD025JPF","NEUKD025JPF","Family History Log","Baseline",434,2,NA,2,1,13,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"aspergers",0,0,"",0
+"330","CASE-NEUKD025JPF","NEUKD025JPF","Family History Log","Baseline",434,2,NA,2,1,13,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"aspergers",0,0,"",0
+"331","CASE-NEUKD025JPF","NEUKD025JPF","Family History Log","Baseline",434,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"332","CASE-NEULA777DBT","NEULA777DBT","Family History Log","Baseline",0,NA,NA,NA,1,7,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"333","CASE-NEULA777DBT","NEULA777DBT","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Alcoholic, heart attack",0,0,"",0
+"334","CASE-NEULA777DBT","NEULA777DBT","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,1,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",1,0,"",0
+"335","CASE-NEULD354RZB","NEULD354RZB","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"336","CASE-NEULD354RZB","NEULD354RZB","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"337","CASE-NEULD354RZB","NEULD354RZB","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"338","CASE-NEULD354RZB","NEULD354RZB","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"339","CASE-NEULL588ALG","NEULL588ALG","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"340","CASE-NEULL588ALG","NEULL588ALG","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"341","CASE-NEULL588ALG","NEULL588ALG","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"342","CASE-NEULL588ALG","NEULL588ALG","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"343","CASE-NEULL588ALG","NEULL588ALG","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"344","CASE-NEULL588ALG","NEULL588ALG","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"345","CASE-NEULL588ALG","NEULL588ALG","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"346","CASE-NEULL588ALG","NEULL588ALG","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",1,0,"",0
+"347","CASE-NEULL648LJ1","NEULL648LJ1","Family History Log","Baseline",0,NA,NA,NA,2,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"",NA,NA,"",NA
+"348","CASE-NEULY177TTN","NEULY177TTN","Family History Log","Baseline",-163,NA,NA,2,1,11,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"supranuclear palsy",0,0,"",0
+"349","CASE-NEULZ548ZXV","NEULZ548ZXV","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"350","CASE-NEULZ548ZXV","NEULZ548ZXV","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,1,"Alcoholic",0,0,"",0
+"351","CASE-NEUMD869UV7","NEUMD869UV7","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Pulmonary Fibrosis",0,0,"",0
+"352","CASE-NEUMD869UV7","NEUMD869UV7","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"353","CASE-NEUME498PCJ","NEUME498PCJ","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"354","CASE-NEUME498PCJ","NEUME498PCJ","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,1,0,1,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"355","CASE-NEUME498PCJ","NEUME498PCJ","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"356","CASE-NEUMN012EVP","NEUMN012EVP","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"357","CASE-NEUMN012EVP","NEUMN012EVP","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"358","CASE-NEUMN012EVP","NEUMN012EVP","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"359","CASE-NEUMN012EVP","NEUMN012EVP","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"360","CASE-NEUMN012EVP","NEUMN012EVP","Family History Log","Baseline",0,NA,NA,NA,1,7,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Sleep disorder",0,0,"",0
+"361","CASE-NEUMN012EVP","NEUMN012EVP","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"362","CASE-NEUMN012EVP","NEUMN012EVP","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",1,0,"",0
+"363","CASE-NEUMN012EVP","NEUMN012EVP","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"364","CASE-NEUMN012EVP","NEUMN012EVP","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"365","CASE-NEUMY871DGF","NEUMY871DGF","Family History Log","Baseline",0,2,NA,NA,1,99,"Niece",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Multiple sclerosis",0,0,"",0
+"366","CASE-NEUMY871DGF","NEUMY871DGF","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",1,0,"",0
+"367","CASE-NEUNA248WXL","NEUNA248WXL","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Depression",0
+"368","CASE-NEUNA248WXL","NEUNA248WXL","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"369","CASE-NEUNA248WXL","NEUNA248WXL","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,1,0,"",0,0,"",0
+"370","CASE-NEUNG326MFP","NEUNG326MFP","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"371","CASE-NEUNL415AFW","NEUNL415AFW","Family History Log","Baseline",-1184,NA,NA,NA,1,2,"",0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",1,0,"",0
+"372","CASE-NEUPD674JPG","NEUPD674JPG","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"373","CASE-NEUPD674JPG","NEUPD674JPG","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Thyroid disease",0,0,"",0
+"374","CASE-NEUPK546ZLD","NEUPK546ZLD","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"375","CASE-NEUPK546ZLD","NEUPK546ZLD","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"376","CASE-NEUPN525XEW","NEUPN525XEW","Family History Log","Baseline",-7,NA,NA,1,1,10,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"377","CASE-NEUPN525XEW","NEUPN525XEW","Family History Log","Baseline",-7,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"378","CASE-NEUPR600MBU","NEUPR600MBU","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Myasthenia Gravis",0,0,"",0
+"379","CASE-NEUPR600MBU","NEUPR600MBU","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,1,0,"",0,0,"",0
+"380","CASE-NEUPR600MBU","NEUPR600MBU","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"381","CASE-NEUPR600MBU","NEUPR600MBU","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"382","CASE-NEUPR600MBU","NEUPR600MBU","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"383","CASE-NEUPR600MBU","NEUPR600MBU","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"384","CASE-NEURA639MK8","NEURA639MK8","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"385","CASE-NEURA639MK8","NEURA639MK8","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"386","CASE-NEURA639MK8","NEURA639MK8","Family History Log","Baseline",0,NA,NA,NA,1,8,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"387","CASE-NEURA639MK8","NEURA639MK8","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"388","CASE-NEURA639MK8","NEURA639MK8","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,1,"Kidney stones",1,0,"",0
+"389","CASE-NEURA639MK8","NEURA639MK8","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"390","CASE-NEURJ362MXH","NEURJ362MXH","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"391","CASE-NEURJ362MXH","NEURJ362MXH","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"392","CASE-NEURR881FKY","NEURR881FKY","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,0,1,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"393","CASE-NEURR881FKY","NEURR881FKY","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"394","CASE-NEURR881FKY","NEURR881FKY","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"395","CASE-NEURX315DYH","NEURX315DYH","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"396","CASE-NEURX315DYH","NEURX315DYH","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"397","CASE-NEURX315DYH","NEURX315DYH","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"398","CASE-NEURX909UL6","NEURX909UL6","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,1,"Myasthenia Gravis, Bell's Palsy",0,0,"",0
+"399","CASE-NEURX909UL6","NEURX909UL6","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"400","CASE-NEURX909UL6","NEURX909UL6","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,1,"Alcoholic",0,0,"",0
+"401","CASE-NEURX909UL6","NEURX909UL6","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"402","CASE-NEURX909UL6","NEURX909UL6","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"403","CASE-NEURX909UL6","NEURX909UL6","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"404","CASE-NEURX909UL6","NEURX909UL6","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"405","CASE-NEURX909UL6","NEURX909UL6","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"406","CASE-NEURX909UL6","NEURX909UL6","Family History Log","Baseline",0,NA,NA,NA,1,8,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Bipolar Disorder, Manic Depressive, Suicidal",0
+"407","CASE-NEURX909UL6","NEURX909UL6","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Brain Aneurysm, Alcoholic",0,0,"",0
+"408","CASE-NEURX909UL6","NEURX909UL6","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,1,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,1,"Alcoholic",0,0,"",0
+"409","CASE-NEUTA057AF6","NEUTA057AF6","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"spinal fusion",0,0,"",0
+"410","CASE-NEUTA057AF6","NEUTA057AF6","Family History Log","Baseline",0,NA,NA,2,1,11,"",1,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"411","CASE-NEUTA057AF6","NEUTA057AF6","Family History Log","Baseline",0,NA,NA,2,1,11,"",1,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"412","CASE-NEUTA057AF6","NEUTA057AF6","Family History Log","Baseline",0,1,NA,2,1,13,"",1,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"413","CASE-NEUTA057AF6","NEUTA057AF6","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"414","CASE-NEUTA057AF6","NEUTA057AF6","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Heart attack",0,0,"",0
+"415","CASE-NEUTA057AF6","NEUTA057AF6","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"416","CASE-NEUTA057AF6","NEUTA057AF6","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,1,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"417","CASE-NEUTA057AF6","NEUTA057AF6","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"418","CASE-NEUTA057AF6","NEUTA057AF6","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"419","CASE-NEUTA057AF6","NEUTA057AF6","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"420","CASE-NEUTA057AF6","NEUTA057AF6","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"421","CASE-NEUTA689LN5","NEUTA689LN5","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"422","CASE-NEUTA689LN5","NEUTA689LN5","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"423","CASE-NEUTA689LN5","NEUTA689LN5","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"424","CASE-NEUTA689LN5","NEUTA689LN5","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"425","CASE-NEUTA689LN5","NEUTA689LN5","Family History Log","Baseline",0,NA,NA,NA,1,8,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"426","CASE-NEUTA689LN5","NEUTA689LN5","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,1,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"427","CASE-NEUTA689LN5","NEUTA689LN5","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"428","CASE-NEUTA689LN5","NEUTA689LN5","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,1,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"429","CASE-NEUTA689LN5","NEUTA689LN5","Family History Log","Baseline",0,2,NA,1,1,99,"Great-Great Grandmother",0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"430","CASE-NEUTB230DA3","NEUTB230DA3","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"alcoholism",0,0,"",0
+"431","CASE-NEUTB230DA3","NEUTB230DA3","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"alcoholism",0,0,"",0
+"432","CASE-NEUTB230DA3","NEUTB230DA3","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"alcoholism",0,0,"",0
+"433","CASE-NEUTB230DA3","NEUTB230DA3","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"alcoholism",0,0,"",0
+"434","CASE-NEUTB230DA3","NEUTB230DA3","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"435","CASE-NEUTB230DA3","NEUTB230DA3","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"436","CASE-NEUTB230DA3","NEUTB230DA3","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"alcoholism",0,0,"",0
+"437","CASE-NEUTB230DA3","NEUTB230DA3","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"alcoholism",0,0,"",0
+"438","CASE-NEUTD314VFT","NEUTD314VFT","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,1,0,0,1,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"439","CASE-NEUTD713DE3","NEUTD713DE3","Family History Log","Baseline",-399,NA,NA,2,1,11,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"440","CASE-NEUTD713DE3","NEUTD713DE3","Family History Log","Baseline",-399,NA,NA,2,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"441","CASE-NEUTD713DE3","NEUTD713DE3","Family History Log","Baseline",-399,NA,NA,1,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"442","CASE-NEUTD713DE3","NEUTD713DE3","Family History Log","Baseline",-399,NA,NA,2,1,9,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"443","CASE-NEUTD713DE3","NEUTD713DE3","Family History Log","Baseline",-399,NA,NA,NA,1,2,"",0,0,0,1,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Diverticulitis",0,0,"",0
+"444","CASE-NEUTD713DE3","NEUTD713DE3","Family History Log","Baseline",-399,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Crohn's disease",0,0,"",0
+"445","CASE-NEUTD713DE3","NEUTD713DE3","Family History Log","Baseline",-399,NA,NA,1,1,9,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"446","CASE-NEUTL699WJ0","NEUTL699WJ0","Family History Log","Baseline",0,2,NA,2,1,13,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"447","CASE-NEUTL699WJ0","NEUTL699WJ0","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"448","CASE-NEUTL699WJ0","NEUTL699WJ0","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"449","CASE-NEUTL699WJ0","NEUTL699WJ0","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",1,0,"",0
+"450","CASE-NEUTL699WJ0","NEUTL699WJ0","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"451","CASE-NEUTL699WJ0","NEUTL699WJ0","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,1,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Fatty liver disease",0,0,"",0
+"452","CASE-NEUTM934BPY","NEUTM934BPY","Family History Log","Baseline",0,NA,NA,NA,1,7,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Headaches, cystic fibrosis gene carrier",0,0,"",0
+"453","CASE-NEUTM934BPY","NEUTM934BPY","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,1,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"454","CASE-NEUTM934BPY","NEUTM934BPY","Family History Log","Baseline",0,NA,NA,NA,1,13,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"cystic fibrosis",0,0,"",0
+"455","CASE-NEUTN952DDG","NEUTN952DDG","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"456","CASE-NEUTN952DDG","NEUTN952DDG","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"457","CASE-NEUTN952DDG","NEUTN952DDG","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,1,0,0,1,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"458","CASE-NEUTN952DDG","NEUTN952DDG","Family History Log","Baseline",0,1,NA,1,1,99,"Grandfather's son",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"459","CASE-NEUTN952DDG","NEUTN952DDG","Family History Log","Baseline",0,NA,NA,1,1,11,"",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"460","CASE-NEUTU360YJY","NEUTU360YJY","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"461","CASE-NEUTU360YJY","NEUTU360YJY","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"462","CASE-NEUTU360YJY","NEUTU360YJY","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"463","CASE-NEUTU360YJY","NEUTU360YJY","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",1
+"464","CASE-NEUTU360YJY","NEUTU360YJY","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"465","CASE-NEUUE852BB1","NEUUE852BB1","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"466","CASE-NEUUE852BB1","NEUUE852BB1","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"467","CASE-NEUUL256UC9","NEUUL256UC9","Family History Log","Baseline",0,1,NA,2,1,13,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"468","CASE-NEUUL256UC9","NEUUL256UC9","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Alcoholic died from disease",0,0,"",0
+"469","CASE-NEUUL256UC9","NEUUL256UC9","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"470","CASE-NEUUL256UC9","NEUUL256UC9","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Mental disorder unsure what specifically",0,0,"",0
+"471","CASE-NEUUL256UC9","NEUUL256UC9","Family History Log","Baseline",0,NA,NA,NA,1,7,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Scoliosis",0,0,"",0
+"472","CASE-NEUUL256UC9","NEUUL256UC9","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"473","CASE-NEUUL256UC9","NEUUL256UC9","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"474","CASE-NEUUP280KXL","NEUUP280KXL","Family History Log","Baseline",-9,NA,NA,2,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Depression",0
+"475","CASE-NEUUP280KXL","NEUUP280KXL","Family History Log","Baseline",-9,NA,NA,1,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"476","CASE-NEUUP280KXL","NEUUP280KXL","Family History Log","Baseline",-9,NA,NA,1,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"477","CASE-NEUUP280KXL","NEUUP280KXL","Family History Log","Baseline",-9,NA,NA,2,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,1,"Henoch Schonlein Purpura",0,0,"",0
+"478","CASE-NEUUP280KXL","NEUUP280KXL","Family History Log","Baseline",-9,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"479","CASE-NEUUP280KXL","NEUUP280KXL","Family History Log","Baseline",-9,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,1,"Henoch Schonlein Purpura",0,0,"",0
+"480","CASE-NEUVF888UHM","NEUVF888UHM","Family History Log","Baseline",-463,NA,NA,2,1,11,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"481","CASE-NEUVF888UHM","NEUVF888UHM","Family History Log","Baseline",-463,NA,NA,1,1,12,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"482","CASE-NEUVF888UHM","NEUVF888UHM","Family History Log","Baseline",-463,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"483","CASE-NEUVJ560JGZ","NEUVJ560JGZ","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"484","CASE-NEUVJ560JGZ","NEUVJ560JGZ","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"485","CASE-NEUVJ560JGZ","NEUVJ560JGZ","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,1,0,"",0,0,"",0
+"486","CASE-NEUVJ560JGZ","NEUVJ560JGZ","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"487","CASE-NEUVL876PUV","NEUVL876PUV","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"488","CASE-NEUVL876PUV","NEUVL876PUV","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"489","CASE-NEUVL876PUV","NEUVL876PUV","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"490","CASE-NEUVL876PUV","NEUVL876PUV","Family History Log","Baseline",0,1,NA,2,1,13,"",1,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"491","CASE-NEUVR636VTP","NEUVR636VTP","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"492","CASE-NEUVW680LPK","NEUVW680LPK","Family History Log","Baseline",0,2,NA,2,1,13,"",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"493","CASE-NEUVW680LPK","NEUVW680LPK","Family History Log","Baseline",0,NA,NA,2,1,11,"",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"494","CASE-NEUVW680LPK","NEUVW680LPK","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"495","CASE-NEUVW680LPK","NEUVW680LPK","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,1,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"496","CASE-NEUVW999FP9","NEUVW999FP9","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"497","CASE-NEUVW999FP9","NEUVW999FP9","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"AIDS",0,0,"",0
+"498","CASE-NEUVW999FP9","NEUVW999FP9","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,1,0,"",0,0,"",0
+"499","CASE-NEUVW999FP9","NEUVW999FP9","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"500","CASE-NEUVX902YNL","NEUVX902YNL","Family History Log","Baseline",-328,NA,NA,NA,1,1,"",0,1,1,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,0,"",0,0,"",0
+"501","CASE-NEUVX902YNL","NEUVX902YNL","Family History Log","Baseline",-328,NA,NA,1,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Emphysema",0,0,"",0
+"502","CASE-NEUVX902YNL","NEUVX902YNL","Family History Log","Baseline",-328,NA,NA,2,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"503","CASE-NEUVX902YNL","NEUVX902YNL","Family History Log","Baseline",-328,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,1,"Unknown psychiatric disorder",0
+"504","CASE-NEUVX902YNL","NEUVX902YNL","Family History Log","Baseline",-328,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Legg-Calve-Perthes disease",0,0,"",0
+"505","CASE-NEUVX902YNL","NEUVX902YNL","Family History Log","Baseline",-328,NA,NA,NA,1,8,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"506","CASE-NEUVX902YNL","NEUVX902YNL","Family History Log","Baseline",-328,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Kidney",0,0,"",0
+"507","CASE-NEUWD538KT3","NEUWD538KT3","Family History Log","Baseline",0,NA,NA,NA,1,2,"",1,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"508","CASE-NEUWD538KT3","NEUWD538KT3","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"509","CASE-NEUWD538KT3","NEUWD538KT3","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"510","CASE-NEUWH380YHV","NEUWH380YHV","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,1,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Pulmonary fibrosis",0,0,"",0
+"511","CASE-NEUWH380YHV","NEUWH380YHV","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Heart attack",0,0,"",0
+"512","CASE-NEUWJ389FC7","NEUWJ389FC7","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,1,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"513","CASE-NEUWJ389FC7","NEUWJ389FC7","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Heart attack",0,0,"",0
+"514","CASE-NEUWJ389FC7","NEUWJ389FC7","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Heart attack",0,0,"",0
+"515","CASE-NEUWJ389FC7","NEUWJ389FC7","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"516","CASE-NEUWJ389FC7","NEUWJ389FC7","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"517","CASE-NEUWJ389FC7","NEUWJ389FC7","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"518","CASE-NEUWJ389FC7","NEUWJ389FC7","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Bypass surgery, kidney disease",0,0,"",0
+"519","CASE-NEUWP426NBR","NEUWP426NBR","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Myocardial Infarction",0,0,"",0
+"520","CASE-NEUWP426NBR","NEUWP426NBR","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"521","CASE-NEUWP426NBR","NEUWP426NBR","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"522","CASE-NEUWX167DAH","NEUWX167DAH","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"523","CASE-NEUWX167DAH","NEUWX167DAH","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"524","CASE-NEUWX167DAH","NEUWX167DAH","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"525","CASE-NEUWX167DAH","NEUWX167DAH","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"526","CASE-NEUWX167DAH","NEUWX167DAH","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"527","CASE-NEUWX167DAH","NEUWX167DAH","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"528","CASE-NEUWX167DAH","NEUWX167DAH","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"529","CASE-NEUXE491RMM","NEUXE491RMM","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"530","CASE-NEUXP289KRC","NEUXP289KRC","Family History Log","Baseline",0,NA,NA,1,1,10,"",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"531","CASE-NEUXP289KRC","NEUXP289KRC","Family History Log","Baseline",0,NA,NA,1,1,11,"",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"532","CASE-NEUXP289KRC","NEUXP289KRC","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"533","CASE-NEUXP289KRC","NEUXP289KRC","Family History Log","Baseline",0,NA,NA,NA,1,2,"",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"534","CASE-NEUXP595FFP","NEUXP595FFP","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"535","CASE-NEUXP595FFP","NEUXP595FFP","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"536","CASE-NEUXP595FFP","NEUXP595FFP","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"537","CASE-NEUXP595FFP","NEUXP595FFP","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,1,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"538","CASE-NEUXP595FFP","NEUXP595FFP","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"539","CASE-NEUXP595FFP","NEUXP595FFP","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"540","CASE-NEUXV122FN3","NEUXV122FN3","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Cerebral Palsy",0,0,"",0
+"541","CASE-NEUXX361RUG","NEUXX361RUG","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"542","CASE-NEUXX361RUG","NEUXX361RUG","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,1,0,"",0,0,"",0
+"543","CASE-NEUXX361RUG","NEUXX361RUG","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Nerve problems",0,0,"",0
+"544","CASE-NEUXX361RUG","NEUXX361RUG","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"545","CASE-NEUXX361RUG","NEUXX361RUG","Family History Log","Baseline",0,NA,NA,NA,1,2,"",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"546","CASE-NEUXX361RUG","NEUXX361RUG","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,1,"Kidney disease",0,0,"",0
+"547","CASE-NEUYG298CA9","NEUYG298CA9","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"548","CASE-NEUYG298CA9","NEUYG298CA9","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"549","CASE-NEUYG298CA9","NEUYG298CA9","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"550","CASE-NEUYG298CA9","NEUYG298CA9","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"551","CASE-NEUYG298CA9","NEUYG298CA9","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"552","CASE-NEUYH924UCE","NEUYH924UCE","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"553","CASE-NEUYH924UCE","NEUYH924UCE","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Migraines",0,0,"",0
+"554","CASE-NEUYH924UCE","NEUYH924UCE","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"555","CASE-NEUYH924UCE","NEUYH924UCE","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"556","CASE-NEUYK029WUU","NEUYK029WUU","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"557","CASE-NEUYK029WUU","NEUYK029WUU","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Alcoholism",0,0,"",0
+"558","CASE-NEUYK029WUU","NEUYK029WUU","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,1,0,"",0,0,"",0
+"559","CASE-NEUYK029WUU","NEUYK029WUU","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"560","CASE-NEUYL008GM4","NEUYL008GM4","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Learning disability",0,0,"",0
+"561","CASE-NEUYL149PRF","NEUYL149PRF","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"562","CASE-NEUYL149PRF","NEUYL149PRF","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"563","CASE-NEUYL149PRF","NEUYL149PRF","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"564","CASE-NEUYL149PRF","NEUYL149PRF","Family History Log","Baseline",0,NA,NA,1,1,10,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"565","CASE-NEUYL149PRF","NEUYL149PRF","Family History Log","Baseline",0,NA,NA,NA,1,8,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"566","CASE-NEUYL149PRF","NEUYL149PRF","Family History Log","Baseline",0,NA,NA,NA,1,8,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"567","CASE-NEUYL149PRF","NEUYL149PRF","Family History Log","Baseline",0,NA,NA,NA,1,8,"",0,0,0,0,0,1,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"568","CASE-NEUYL149PRF","NEUYL149PRF","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,1,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"569","CASE-NEUYL149PRF","NEUYL149PRF","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,1,"Osteoperosis",0,0,"",0
+"570","CASE-NEUYP235ZLD","NEUYP235ZLD","Family History Log","Baseline",0,NA,NA,2,1,13,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Multiple Sclerosis",0,0,"",0
+"571","CASE-NEUYP235ZLD","NEUYP235ZLD","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"572","CASE-NEUYP235ZLD","NEUYP235ZLD","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",1
+"573","CASE-NEUYP235ZLD","NEUYP235ZLD","Family History Log","Baseline",0,NA,NA,2,1,10,"",0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"574","CASE-NEUYP235ZLD","NEUYP235ZLD","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"575","CASE-NEUYY225MNZ","NEUYY225MNZ","Family History Log","Baseline",0,2,NA,1,1,99,"Great Grandmother",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Behavioral Changes/Mute at death",0,0,"",0
+"576","CASE-NEUYY225MNZ","NEUYY225MNZ","Family History Log","Baseline",0,NA,NA,1,1,11,"",1,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"577","CASE-NEUYY225MNZ","NEUYY225MNZ","Family History Log","Baseline",0,NA,NA,1,1,9,"",1,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"578","CASE-NEUYY225MNZ","NEUYY225MNZ","Family History Log","Baseline",0,NA,NA,NA,1,2,"",1,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"579","CASE-NEUYY878JGP","NEUYY878JGP","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,1,0,0,0,1,"cognitive impairment",0,0,"",0
+"580","CASE-NEUZN836GME","NEUZN836GME","Family History Log","Baseline",0,NA,NA,2,1,12,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"581","CASE-NEUZN836GME","NEUZN836GME","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"582","CASE-NEUZN836GME","NEUZN836GME","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"583","CASE-NEUZN836GME","NEUZN836GME","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"584","CASE-NEUZN836GME","NEUZN836GME","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"585","CASE-NEUZN936HJ9","NEUZN936HJ9","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"586","CASE-NEUZN936HJ9","NEUZN936HJ9","Family History Log","Baseline",0,NA,NA,1,1,13,"",1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"587","CASE-NEUZN936HJ9","NEUZN936HJ9","Family History Log","Baseline",0,NA,NA,1,1,12,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"588","CASE-NEUZN936HJ9","NEUZN936HJ9","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"589","CASE-NEUZP278MR4","NEUZP278MR4","Family History Log","Baseline",0,NA,NA,1,1,11,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Tumor in brain",0,0,"",0
+"590","CASE-NEUZP278MR4","NEUZP278MR4","Family History Log","Baseline",0,NA,NA,2,1,9,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Mastectomy x2, some type of heart condition",0,0,"",0
+"591","CASE-NEUZP278MR4","NEUZP278MR4","Family History Log","Baseline",0,NA,NA,1,1,9,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"592","CASE-NEUZP278MR4","NEUZP278MR4","Family History Log","Baseline",0,NA,NA,NA,1,8,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"ADHD",0,0,"",0
+"593","CASE-NEUZP278MR4","NEUZP278MR4","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"HBP, glaucoma",0,0,"",0
+"594","CASE-NEUZP278MR4","NEUZP278MR4","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,1,"Gall bladder pain",0,0,"",1
+"595","CASE-NEUZT557DHF","NEUZT557DHF","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"596","CASE-NEUZT557DHF","NEUZT557DHF","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,1,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"597","CASE-NEUZT557DHF","NEUZT557DHF","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,1,0,"",0,0,"",0
+"598","CASE-NEUZV656DD1","NEUZV656DD1","Family History Log","Baseline",0,NA,NA,2,1,11,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"599","CASE-NEUZV656DD1","NEUZV656DD1","Family History Log","Baseline",0,NA,NA,NA,1,3,"",0,0,0,0,0,0,1,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"600","CASE-NEUZV656DD1","NEUZV656DD1","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"601","CASE-NEUZV656DD1","NEUZV656DD1","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"602","CASE-NEUZX521TKK","NEUZX521TKK","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"603","CASE-NEUZX521TKK","NEUZX521TKK","Family History Log","Baseline",0,NA,NA,NA,1,4,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"604","CASE-NEUZX521TKK","NEUZX521TKK","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,1,0,0,"",0,0,"",0
+"605","CASE-NEUZX521TKK","NEUZX521TKK","Family History Log","Baseline",0,NA,NA,NA,1,1,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
+"606","CASE-NEUZX847VWV","NEUZX847VWV","Family History Log","Baseline",0,NA,NA,NA,1,2,"",0,0,0,0,1,0,0,0,0,0,NA,0,0,0,0,"",0,0,0,0,0,0,0,0,0,0,0,0,"",0,0,"",0
