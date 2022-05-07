@@ -1,0 +1,617 @@
+Participant_ID,SubjectUID,Form_Name,Visit_Name,Visit_Date,fvcl1,fvcl2,fvcl3,fvcnd3,fvcndrs2,fvcndsp2,fvcndsp3,fvcp1,fvcp2,fvcp3,fvcvar,sourcesp,svcdn,svcdnsp,svcl1,svcl2,svcl3,svcnd2,svcnd3,svcndrs3,svcndsp2,svcndsp3,svcp1,svcp2,svcp3,svcvar,vcpos,vctyp
+CASE-NEUAA599TMX,NEUAA599TMX,Vital Capacity,ANSWER-ALS Screening Visit,0,0.8,0.77,0.71,0,,,,35,34,31,4,,1,,,,,0,0,,,,,,,,1,2
+CASE-NEUAA599TMX,NEUAA599TMX,Vital Capacity,ANSWER-ALS Visit 2,154,1.06,1.06,0.86,0,,,,48,48,39,0,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAB000NKC,NEUAB000NKC,Vital Capacity,ANSWER-ALS Visit 2,114,,,,0,,,,,,,,,2,Phone Visit,,,,0,0,,,,,,,,,
+CASE-NEUAB000NKC,NEUAB000NKC,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.9,2.99,2.9,0,0,,,,92,95,92,3,2,1
+CASE-NEUAB000NKC,NEUAB000NKC,Vital Capacity,ANSWER-ALS Follow-up Visit,493,1.59,,,0,,,,51,,,100,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAB000NKC,NEUAB000NKC,Vital Capacity,ANSWER-ALS Visit 4,251,,,,0,,,,,,,,,1,,2.17,1.91,2.06,0,0,,,,68,60,65,5,2,1
+CASE-NEUAB000NKC,NEUAB000NKC,Vital Capacity,ANSWER-ALS Visit 3,157,2.57,2.57,2.71,0,,,,82,82,86,5,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAE993EPR,NEUAE993EPR,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.94,1.87,2.02,0,0,,,,89,86,93,4,2,1
+CASE-NEUAE993EPR,NEUAE993EPR,Vital Capacity,ANSWER-ALS Visit 4,314,,,,0,,,,,,,,,2,Visit completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUAE993EPR,NEUAE993EPR,Vital Capacity,ANSWER-ALS Visit 2,64,,,,0,,,,,,,,,2,Follow-up was completed via telephone,,,,0,0,,,,,,,,,
+CASE-NEUAE993EPR,NEUAE993EPR,Vital Capacity,ANSWER-ALS Visit 5,470,0.7,0.58,0.66,0,,,,29,24,27,6,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAE993EPR,NEUAE993EPR,Vital Capacity,ANSWER-ALS Visit 3,254,,,,0,,,,,,,,,2,Visit was conducted via telephone call,,,,0,0,,,,,,,,,
+CASE-NEUAE993EPR,NEUAE993EPR,Vital Capacity,ANSWER-ALS Follow-up Visit,637,0.5,0.53,0.57,0,,,,20,22,23,7,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAE993EPR,NEUAE993EPR,Vital Capacity,ANSWER-ALS Follow-up Visit 2,784,0.49,0.45,0.43,0,,,,20,18,18,8,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAE993EPR,NEUAE993EPR,Vital Capacity,ANSWER-ALS Follow-up Visit 3,951,0.25,0.3,0.34,0,,,,10,12,14,12,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAF553MJ3,NEUAF553MJ3,Vital Capacity,ANSWER-ALS Visit 3,819,,,,0,,,,,,,,,2,Tracheostomy,,,,0,0,,,,,,,,,
+CASE-NEUAF553MJ3,NEUAF553MJ3,Vital Capacity,ANSWER-ALS Visit 2,84,1.43,1.44,1.65,0,,,,49,49,56,13,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAF553MJ3,NEUAF553MJ3,Vital Capacity,ANSWER-ALS Screening Visit,0,1.9,2.16,2.17,0,,,,63,72,72,0,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAG603XLK,NEUAG603XLK,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.81,1.42,1.67,0,0,,,,42,38,45,8,2,1
+CASE-NEUAG603XLK,NEUAG603XLK,Vital Capacity,ANSWER-ALS Visit 3,224,,,,0,,,,,,,,,1,,2.29,2.59,2.53,0,0,,,,62,70,69,2,2,1
+CASE-NEUAG603XLK,NEUAG603XLK,Vital Capacity,ANSWER-ALS Visit 2,126,,,,0,,,,,,,,,1,,3.13,2.76,2.7,0,0,,,,85,75,73,12,2,1
+CASE-NEUAG603XLK,NEUAG603XLK,Vital Capacity,ANSWER-ALS Visit 5,455,,,,0,,,,,,,,,1,,2.4,2.19,2.16,0,0,,,,65,60,59,9,2,1
+CASE-NEUAG603XLK,NEUAG603XLK,Vital Capacity,ANSWER-ALS Visit 4,315,,,,0,,,,,,,,,1,,2.7,2.55,2.74,0,0,,,,73,69,75,1,2,1
+CTRL-NEUAJ025JC3,NEUAJ025JC3,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Participant opt out,,,,0,0,,,,,,,,,
+CTRL-NEUAJ928PAA,NEUAJ928PAA,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Healthy control,,,,0,0,,,,,,,,,
+CASE-NEUAM655HF7,NEUAM655HF7,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,0.7,0.7,0.64,0,0,,,,19,20,18,0,2,1
+CASE-NEUAM655HF7,NEUAM655HF7,Vital Capacity,ANSWER-ALS Visit 3,210,,,,0,,,,,,,,,1,,0.68,0.51,0.34,0,0,,,,19,15,10,25,2,1
+CASE-NEUAM655HF7,NEUAM655HF7,Vital Capacity,ANSWER-ALS Follow-up Visit,1113,,,,0,,,,,,,,,2,Follow-up completed via telephone,,,,0,0,,,,,,,,,
+CASE-NEUAT234RK6,NEUAT234RK6,Vital Capacity,ANSWER-ALS Visit 4,290,,,,0,,,,,,,,,2,Phone Visit,,,,0,0,,,,,,,,,
+CASE-NEUAT234RK6,NEUAT234RK6,Vital Capacity,ANSWER-ALS Follow-up Visit,441,2.08,,,1,99,unknown,unknown,53,,,100,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAT234RK6,NEUAT234RK6,Vital Capacity,ANSWER-ALS Screening Visit,0,2.96,3.06,3.24,0,,,,84,87,92,6,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAT234RK6,NEUAT234RK6,Vital Capacity,ANSWER-ALS Visit 5,350,2.34,1.95,1.86,0,,,,67,56,53,17,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAT234RK6,NEUAT234RK6,Vital Capacity,ANSWER-ALS Visit 3,182,2.59,2.85,2.66,0,,,,74,76,81,7,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAW157NMJ,NEUAW157NMJ,Vital Capacity,ANSWER-ALS Visit 3,173,,,,0,,,,,,,,,1,,4.78,4.94,4.94,0,0,,,,89,92,92,0,2,1
+CASE-NEUAW157NMJ,NEUAW157NMJ,Vital Capacity,ANSWER-ALS Visit 5,420,4.13,3.94,3.98,0,,,,75,71,72,4,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAW157NMJ,NEUAW157NMJ,Vital Capacity,ANSWER-ALS Visit 2,110,,,,0,,,,,,,,,1,,4.05,4.3,4.24,0,0,,,,73,78,77,1,2,1
+CASE-NEUAW157NMJ,NEUAW157NMJ,Vital Capacity,ANSWER-ALS Screening Visit,0,4.84,4.61,,1,,,not done,87,83,,5,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAW157NMJ,NEUAW157NMJ,Vital Capacity,ANSWER-ALS Visit 4,329,,,,0,,,,,,,,,1,,4.31,4.25,4.35,0,0,,,,78,77,79,1,2,1
+CASE-NEUAW157NMJ,NEUAW157NMJ,Vital Capacity,ANSWER-ALS Follow-up Visit 2,840,3.92,3.72,3.63,0,,,,72,68,66,5,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAW157NMJ,NEUAW157NMJ,Vital Capacity,ANSWER-ALS Follow-up Visit,676,4.11,,,1,99,unknown,unknown,72,,,100,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAW157NMJ,NEUAW157NMJ,Vital Capacity,ANSWER-ALS Follow-up Visit 3,1197,4.05,4.11,4.35,0,,,,74,75,80,6,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAW717TN6,NEUAW717TN6,Vital Capacity,ANSWER-ALS Visit 4,282,,,,0,,,,,,,,,2,Not done due to disease progression,,,,0,0,,,,,,,,,
+CASE-NEUAW717TN6,NEUAW717TN6,Vital Capacity,ANSWER-ALS Visit 5,373,,,,0,,,,,,,,,2,patient unable to do SVC due to disease progression,,,,0,0,,,,,,,,,
+CASE-NEUAW717TN6,NEUAW717TN6,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,0.58,0.56,,0,1,1,,,10,10,,3,1,1
+CASE-NEUAW717TN6,NEUAW717TN6,Vital Capacity,ANSWER-ALS Visit 3,177,,,,0,,,,,,,,,2,Breathing testing was not done due to disease progression,,,,0,0,,,,,,,,,
+CASE-NEUAW717TN6,NEUAW717TN6,Vital Capacity,ANSWER-ALS Visit 2,93,0.48,0.45,0.39,0,,,,8,8,7,6,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAW717TN6,NEUAW717TN6,Vital Capacity,ANSWER-ALS Follow-up Visit,737,,,,0,,,,,,,,,2,subject is in continuous use of NIV 24 hrs,,,,0,0,,,,,,,,,
+CASE-NEUAW717TN6,NEUAW717TN6,Vital Capacity,ANSWER-ALS Follow-up Visit 2,926,,,,0,,,,,,,,,2,subject has invasive mechanical ventilation by intubation.,,,,0,0,,,,,,,,,
+CASE-NEUAX665ZHY,NEUAX665ZHY,Vital Capacity,ANSWER-ALS Visit 4,427,1.62,1.6,1.33,0,,,,33,33,27,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUAX665ZHY,NEUAX665ZHY,Vital Capacity,ANSWER-ALS Visit 3,273,,,,0,,,,,,,,,1,,2.41,2.29,2.43,0,0,,,,51,48,51,1,2,1
+CASE-NEUAX665ZHY,NEUAX665ZHY,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.06,2.97,2.96,0,0,,,,64,62,62,3,2,1
+CASE-NEUAX665ZHY,NEUAX665ZHY,Vital Capacity,ANSWER-ALS Visit 2,98,2.73,2.85,2.75,0,,,,58,60,58,4,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUBA169GXD,NEUBA169GXD,Vital Capacity,ANSWER-ALS Visit 5,472,,,,0,,,,,,,,,2,Visit completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUBA169GXD,NEUBA169GXD,Vital Capacity,ANSWER-ALS Visit 4,364,,,,0,,,,,,,,,2,Visit conducted via telephone,,,,0,0,,,,,,,,,
+CASE-NEUBA169GXD,NEUBA169GXD,Vital Capacity,ANSWER-ALS Visit 3,210,,,,0,,,,,,,,,2,Not collected due to equipment malfunction.,,,,0,0,,,,,,,,,
+CASE-NEUBA169GXD,NEUBA169GXD,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.27,2.12,1.99,0,0,,,,61,57,54,7,2,1
+CASE-NEUBA169GXD,NEUBA169GXD,Vital Capacity,ANSWER-ALS Visit 2,106,,,,0,,,,,,,,,1,,1.95,2.13,2.08,0,0,,,,54,59,58,2,2,1
+CASE-NEUBA169GXD,NEUBA169GXD,Vital Capacity,ANSWER-ALS Follow-up Visit 2,701,,,,0,,,,,,,,,2,Completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUBA169GXD,NEUBA169GXD,Vital Capacity,ANSWER-ALS Follow-up Visit,575,,,,0,,,,,,,,,2,Completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUBC998WWB,NEUBC998WWB,Vital Capacity,ANSWER-ALS Visit 3,182,,,,0,,,,,,,,,1,,1.28,1.4,1.92,0,0,,,,30,33,45,27,2,1
+CASE-NEUBC998WWB,NEUBC998WWB,Vital Capacity,ANSWER-ALS Visit 5,371,,,,0,,,,,,,,,1,,0.51,0.73,0.38,0,0,,,,12,17,9,30,2,1
+CASE-NEUBC998WWB,NEUBC998WWB,Vital Capacity,ANSWER-ALS Visit 4,280,,,,0,,,,,,,,,1,,1.56,1.38,1.36,0,0,,,,37,33,32,12,2,1
+CASE-NEUBC998WWB,NEUBC998WWB,Vital Capacity,ANSWER-ALS Visit 2,91,,,,0,,,,,,,,,1,,1.75,1.85,1.4,0,0,,,,41,43,33,5,2,1
+CASE-NEUBC998WWB,NEUBC998WWB,Vital Capacity,ANSWER-ALS Screening Visit,0,1.67,1.51,1.93,0,,,,39,36,45,13,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUBD218YR3,NEUBD218YR3,Vital Capacity,ANSWER-ALS Screening Visit,0,3.41,3.52,3.06,0,,,,74,76,66,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUBD218YR3,NEUBD218YR3,Vital Capacity,ANSWER-ALS Visit 2,115,,,,0,,,,,,,,,2,Phone Visit,,,,0,0,,,,,,,,,
+CASE-NEUBD218YR3,NEUBD218YR3,Vital Capacity,ANSWER-ALS Visit 3,189,2.86,2.71,2.6,0,,,,62,59,56,5,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUBD288RXQ,NEUBD288RXQ,Vital Capacity,ANSWER-ALS Screening Visit,0,2.65,2.76,3.37,0,,,,62,65,79,18,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUBK117YXL,NEUBK117YXL,Vital Capacity,ANSWER-ALS Follow-up Visit,441,5.05,4.94,4.84,0,,,,88,87,85,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUBK117YXL,NEUBK117YXL,Vital Capacity,ANSWER-ALS Visit 3,191,,,,0,,,,,,,,,2,Visit 3 completed via telephone,,,,0,0,,,,,,,,,
+CASE-NEUBK117YXL,NEUBK117YXL,Vital Capacity,ANSWER-ALS Visit 4,266,4.89,4.76,4.85,0,,,,85,83,84,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUBK117YXL,NEUBK117YXL,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,4.72,4.71,4.53,0,0,,,,82,82,79,0,2,1
+CASE-NEUBK117YXL,NEUBK117YXL,Vital Capacity,ANSWER-ALS Follow-up Visit 2,630,4.98,4.92,5.11,0,,,,86,85,88,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUBK117YXL,NEUBK117YXL,Vital Capacity,ANSWER-ALS Visit 2,119,,,,0,,,,,,,,,1,,4.95,4.75,4.68,0,0,,,,91,91,91,4,2,1
+CASE-NEUBK117YXL,NEUBK117YXL,Vital Capacity,ANSWER-ALS Visit 5,365,,,,0,,,,,,,,,2,Visit 5 conducted over the phone,,,,0,0,,,,,,,,,
+CASE-NEUBK117YXL,NEUBK117YXL,Vital Capacity,ANSWER-ALS Follow-up Visit 3,805,4.75,4.81,4.85,0,,,,82,83,84,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUBK117YXL,NEUBK117YXL,Vital Capacity,ANSWER-ALS Follow-up Visit 5,1176,4.62,4.65,4.64,0,,,,81,81,81,0,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUBK117YXL,NEUBK117YXL,Vital Capacity,ANSWER-ALS Follow-up Visit 4,994,4.7,4.62,4.53,0,,,,82,80,79,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUBK117YXL,NEUBK117YXL,Vital Capacity,ANSWER-ALS Follow-up Visit 6,1358,4.1,4.09,4.18,0,,,,72,72,73,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUBY734PFR,NEUBY734PFR,Vital Capacity,ANSWER-ALS Visit 3,280,,,,0,,,,,,,,,2,"SVC was conducted; due to equipment malfunction, we were unable to obtain a report.",,,,0,0,,,,,,,,,
+CASE-NEUBY734PFR,NEUBY734PFR,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.86,2.08,1.69,0,0,,,,63,71,58,11,2,1
+CASE-NEUBY734PFR,NEUBY734PFR,Vital Capacity,ANSWER-ALS Visit 4,433,,,,0,,,,,,,,,1,,0.99,0.98,0.97,0,0,,,,32,31,31,1,2,1
+CASE-NEUBY734PFR,NEUBY734PFR,Vital Capacity,ANSWER-ALS Visit 5,497,,,,0,,,,,,,,,2,Completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUBY734PFR,NEUBY734PFR,Vital Capacity,ANSWER-ALS Visit 2,91,,,,0,,,,,,,,,1,,1.99,1.8,1.14,0,0,,,,68,61,39,10,2,1
+CTRL-NEUCA748GF2,NEUCA748GF2,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Opted out,,,,0,0,,,,,,,,,
+CASE-NEUCB613CA9,NEUCB613CA9,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,5.58,5.24,5.39,0,0,,,,114,107,110,3,2,1
+CASE-NEUCB613CA9,NEUCB613CA9,Vital Capacity,ANSWER-ALS Visit 3,396,,,,0,,,,,,,,,2,Visit completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUCB613CA9,NEUCB613CA9,Vital Capacity,ANSWER-ALS Visit 2,266,,,,0,,,,,,,,,2,Visit completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUCE965ZGK,NEUCE965ZGK,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.24,2.34,2.36,0,0,,,,62,70,70,1,2,1
+CASE-NEUCE965ZGK,NEUCE965ZGK,Vital Capacity,ANSWER-ALS Visit 2,91,,,,0,,,,,,,,,1,,1.81,1.8,1.78,0,0,,,,50,54,53,1,2,1
+CASE-NEUCE965ZGK,NEUCE965ZGK,Vital Capacity,ANSWER-ALS Follow-up Visit 2,293,1.44,,,1,99,Taken from medical records. Only final result reported.,Taken from medical records. Only final result reported.,40,,,100,,1,,,,,0,0,,,,,,,,95,2
+CASE-NEUCE965ZGK,NEUCE965ZGK,Vital Capacity,ANSWER-ALS Follow-up Visit,182,1.69,,,1,99,Taken from medical records. Only final result reported.,Taken from medical records. Only final result reported.,47,,,100,,1,,,,,0,0,,,,,,,,95,2
+CASE-NEUCF538BRM,NEUCF538BRM,Vital Capacity,ANSWER-ALS Follow-up Visit,909,,,,0,,,,,,,,,1,,1.58,,,1,1,99,provider did not conduct second and third SVC,provider did not conduct second and third SVC,33,,,100,2,1
+CASE-NEUCF538BRM,NEUCF538BRM,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.27,1.08,1.52,0,0,,,,26,26,31,16,2,1
+CASE-NEUCF538BRM,NEUCF538BRM,Vital Capacity,ANSWER-ALS Visit 3,238,,,,0,,,,,,,,,1,,1.86,1.72,1.72,0,0,,,,39,42,36,8,2,1
+CASE-NEUCF538BRM,NEUCF538BRM,Vital Capacity,ANSWER-ALS Visit 2,84,,,,0,,,,,,,,,1,,1.46,1.35,1.97,0,0,,,,30,33,41,26,2,1
+CASE-NEUCF538BRM,NEUCF538BRM,Vital Capacity,ANSWER-ALS Visit 4,323,,,,0,,,,,,,,,1,,2.38,2.15,1.96,0,0,,,,54,54,54,10,2,1
+CASE-NEUCN596RR3,NEUCN596RR3,Vital Capacity,ANSWER-ALS Screening Visit,0,2.87,2.17,,1,,,Equipment malfunction,87,66,,24,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUCN596RR3,NEUCN596RR3,Vital Capacity,ANSWER-ALS Visit 2,205,,,,0,,,,,,,,,2,Completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUCU245GBQ,NEUCU245GBQ,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.21,3.22,3.44,0,0,,,,72,72,77,6,2,1
+CASE-NEUCU245GBQ,NEUCU245GBQ,Vital Capacity,ANSWER-ALS Visit 3,147,,,,0,,,,,,,,,1,,2.36,2.11,2.2,0,0,,,,53,47,49,7,2,1
+CTRL-NEUCV136DHM,NEUCV136DHM,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Opted out,,,,0,0,,,,,,,,,
+CTRL-NEUDA782GW3,NEUDA782GW3,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,"not collected, subject is healthy control",,,,0,0,,,,,,,,,
+CASE-NEUDD018KAH,NEUDD018KAH,Vital Capacity,ANSWER-ALS Screening Visit,0,1.8,2.47,2.48,0,,,,65,89,88,0,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUDE902GCT,NEUDE902GCT,Vital Capacity,ANSWER-ALS Visit 5,397,,,,0,,,,,,,,,1,,2.62,2.68,2.46,0,0,,,,82,84,77,2,2,1
+CASE-NEUDE902GCT,NEUDE902GCT,Vital Capacity,ANSWER-ALS Phone Follow-up Visit 3mon,488,,,,0,,,,,,,,,1,,1.86,2.3,2.93,0,0,,,,58,71,91,22,2,1
+CASE-NEUDE902GCT,NEUDE902GCT,Vital Capacity,ANSWER-ALS Follow-up Visit Month 9,810,,,,0,,,,,,,,,1,,2.04,1.75,1.57,0,0,,,,63,54,49,14,2,1
+CASE-NEUDE902GCT,NEUDE902GCT,Vital Capacity,ANSWER-ALS 6 month Phone Follow-up Visit,593,,,,0,,,,,,,,,1,,2.69,2.98,3.34,0,0,,,,83,92,103,11,2,1
+CASE-NEUDE902GCT,NEUDE902GCT,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.03,2.85,2.74,0,0,,,,93,88,85,6,2,1
+CASE-NEUDE902GCT,NEUDE902GCT,Vital Capacity,ANSWER-ALS Visit 2,103,,,,0,,,,,,,,,1,,2.6,2.26,2.32,0,0,,,,80,70,73,11,2,1
+CASE-NEUDE902GCT,NEUDE902GCT,Vital Capacity,ANSWER-ALS Visit 4,306,,,,0,,,,,,,,,1,,2.56,2.51,2.11,0,0,,,,79,78,65,2,95,1
+CASE-NEUDE902GCT,NEUDE902GCT,Vital Capacity,ANSWER-ALS Visit 3,208,,,,0,,,,,,,,,1,,2.5,2.7,2.78,0,0,,,,77,83,86,3,95,1
+CASE-NEUDE902GCT,NEUDE902GCT,Vital Capacity,ANSWER-ALS 15 Month Phone Follow-up Visit,999,,,,0,,,,,,,,,2,Patient could not make a tight seal,,,,0,0,,,,,,,,,
+CASE-NEUDE902GCT,NEUDE902GCT,Vital Capacity,ANSWER-ALS 12 Month Follow-up Visit,894,,,,0,,,,,,,,,1,,0.88,1.38,1.04,0,0,,,,27,43,32,25,2,1
+CTRL-NEUDE949BP3,NEUDE949BP3,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,healthy control,,,,0,0,,,,,,,,,
+CASE-NEUDG000ZG5,NEUDG000ZG5,Vital Capacity,ANSWER-ALS Visit 4,693,2.02,2.19,2.15,0,,,,73,80,78,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUDG000ZG5,NEUDG000ZG5,Vital Capacity,ANSWER-ALS Visit 2,164,,,,0,,,,,,,,,1,,2.48,2.44,2.48,0,0,,,,90,88,90,0,2,1
+CASE-NEUDG000ZG5,NEUDG000ZG5,Vital Capacity,ANSWER-ALS Screening Visit,0,2.38,2,2.21,0,,,,82,70,77,7,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUDG000ZG5,NEUDG000ZG5,Vital Capacity,ANSWER-ALS Visit 3,364,,,,0,,,,,,,,,1,,2.13,2.31,2.39,0,0,,,,77,84,87,3,2,1
+CASE-NEUDG000ZG5,NEUDG000ZG5,Vital Capacity,ANSWER-ALS Visit 5,1064,2.01,2.16,2.17,0,,,,74,79,80,0,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUDG272XWC,NEUDG272XWC,Vital Capacity,ANSWER-ALS Visit 2,103,,,,0,,,,,,,,,1,,4.86,4.95,5.06,0,0,,,,88,90,92,2,2,1
+CASE-NEUDG272XWC,NEUDG272XWC,Vital Capacity,ANSWER-ALS Visit 5,327,4.69,4.55,4.8,0,,,,82,79,84,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUDG272XWC,NEUDG272XWC,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,5.01,5.18,4.91,0,0,,,,90,93,88,3,2,1
+CASE-NEUDG272XWC,NEUDG272XWC,Vital Capacity,ANSWER-ALS Visit 3,206,,,,0,,,,,,,,,1,,4.64,4.83,4.84,0,0,,,,83,87,87,0,2,1
+CASE-NEUDJ536EVH,NEUDJ536EVH,Vital Capacity,ANSWER-ALS Follow-up Visit,454,,,,0,,,,,,,,,2,unable to seal lips,,,,0,0,,,,,,,,,
+CASE-NEUDJ536EVH,NEUDJ536EVH,Vital Capacity,ANSWER-ALS Follow-up Visit 2,586,,,,0,,,,,,,,,2,unable to seal lips,,,,0,0,,,,,,,,,
+CASE-NEUDJ536EVH,NEUDJ536EVH,Vital Capacity,ANSWER-ALS Visit 2,108,,,,0,,,,,,,,,1,,4.57,4.45,4.17,0,0,,,,89,87,81,3,2,1
+CASE-NEUDJ536EVH,NEUDJ536EVH,Vital Capacity,ANSWER-ALS Visit 5,402,,,,0,,,,,,,,,1,,2.77,2.48,2.68,0,0,,,,51,46,49,3,2,1
+CASE-NEUDJ536EVH,NEUDJ536EVH,Vital Capacity,ANSWER-ALS Visit 3,178,,,,0,,,,,,,,,1,,3.07,3.9,3.4,0,0,,,,56,62,71,13,2,1
+CASE-NEUDJ536EVH,NEUDJ536EVH,Vital Capacity,ANSWER-ALS Screening Visit,0,5.02,5.12,5.25,0,,,,93,95,97,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUDJ536EVH,NEUDJ536EVH,Vital Capacity,ANSWER-ALS Visit 4,290,,,,0,,,,,,,,,1,,2.6,3.79,3.63,0,0,,,,47,69,66,4,2,1
+CTRL-NEUDM126GNG,NEUDM126GNG,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Opted out,,,,0,0,,,,,,,,,
+CASE-NEUDP155HFH,NEUDP155HFH,Vital Capacity,ANSWER-ALS Screening Visit,0,3.6,3.73,3.91,0,,,,82,85,89,5,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUDT709YHN,NEUDT709YHN,Vital Capacity,ANSWER-ALS 6 Month Phone Follow-up Visit,868,,,,0,,,,,,,,,2,reason not done unknown,,,,0,0,,,,,,,,,
+CASE-NEUDT709YHN,NEUDT709YHN,Vital Capacity,Phone Follow-up Month 3,588,,,,0,,,,,,,,,1,,1.81,1.87,1.85,0,0,,,,61,63,62,1,2,1
+CASE-NEUDT709YHN,NEUDT709YHN,Vital Capacity,ANSWER-ALS Visit 4,385,,,,0,,,,,,,,,1,,2.69,2.72,2.78,0,0,,,,90,91,93,2,2,1
+CASE-NEUDT709YHN,NEUDT709YHN,Vital Capacity,ANSWER-ALS Visit 3,216,,,,0,,,,,,,,,1,,3.02,2.85,2.96,0,0,,,,101,95,99,2,2,1
+CASE-NEUDT709YHN,NEUDT709YHN,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.57,2.8,3.16,0,0,,,,83,90,103,11,2,1
+CASE-NEUDT709YHN,NEUDT709YHN,Vital Capacity,ANSWER-ALS Visit 2,125,,,,0,,,,,,,,,1,,2.68,2.7,2.99,0,0,,,,88,89,98,10,2,1
+CASE-NEUDT709YHN,NEUDT709YHN,Vital Capacity,ANSWER-ALS Visit 5,490,,,,0,,,,,,,,,1,,2.4,2.47,2.51,0,0,,,,81,83,84,2,95,1
+CASE-NEUEB422WW0,NEUEB422WW0,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Patient refused due to illness (cold),,,,0,0,,,,,,,,,
+CASE-NEUEB422WW0,NEUEB422WW0,Vital Capacity,ANSWER-ALS Visit 2,98,,,,0,,,,,,,,,1,,2.34,2.37,2.52,0,0,,,,75,76,80,6,2,1
+CASE-NEUEC400NYR,NEUEC400NYR,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.87,4.19,4.01,0,0,,,,104,113,108,4,2,1
+CASE-NEUEK191WYC,NEUEK191WYC,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.7,2.64,3.37,0,0,,,,49,77,98,22,2,1
+CASE-NEUEK191WYC,NEUEK191WYC,Vital Capacity,ANSWER-ALS Visit 2,105,,,,0,,,,,,,,,1,,1.74,3.27,2.16,0,0,,,,50,95,63,34,2,1
+CASE-NEUEM029XXZ,NEUEM029XXZ,Vital Capacity,ANSWER-ALS Visit 5,463,,,,0,,,,,,,,,1,,1.53,1.54,1.33,0,0,,,,56,57,49,1,2,1
+CASE-NEUEM029XXZ,NEUEM029XXZ,Vital Capacity,ANSWER-ALS Visit 3,182,,,,0,,,,,,,,,1,,2.6,2.6,2.71,0,0,,,,97,97,101,4,2,1
+CASE-NEUEM029XXZ,NEUEM029XXZ,Vital Capacity,ANSWER-ALS Visit 4,337,,,,0,,,,,,,,,1,,1.33,1.32,1.12,0,0,,,,49,49,41,1,2,1
+CASE-NEUEM029XXZ,NEUEM029XXZ,Vital Capacity,ANSWER-ALS Follow-up Visit 2,665,,,,0,,,,,,,,,2,Not a clinical visit,,,,0,0,,,,,,,,,
+CASE-NEUEM029XXZ,NEUEM029XXZ,Vital Capacity,ANSWER-ALS Follow-up Visit,570,,,,0,,,,,,,,,2,Completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUEM029XXZ,NEUEM029XXZ,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.35,2.71,2.73,0,0,,,,86,99,100,1,2,1
+CASE-NEUEM029XXZ,NEUEM029XXZ,Vital Capacity,ANSWER-ALS Visit 2,112,,,,0,,,,,,,,,1,,2.36,2.19,2.54,0,0,,,,88,81,94,7,2,1
+CASE-NEUEM029XXZ,NEUEM029XXZ,Vital Capacity,ANSWER-ALS Follow-up Visit 3,709,,,,0,,,,,,,,,2,Completed via phone call.,,,,0,0,,,,,,,,,
+CASE-NEUEM720BUU,NEUEM720BUU,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.68,1.52,1.92,0,0,,,,63,57,72,13,2,1
+CASE-NEUEM720BUU,NEUEM720BUU,Vital Capacity,ANSWER-ALS Visit 2,114,,,,0,,,,,,,,,2,Unable to conduct due to malfunctioning equipment,,,,0,0,,,,,,,,,
+CASE-NEUEN017PCJ,NEUEN017PCJ,Vital Capacity,ANSWER-ALS Visit 2,140,,,,0,,,,,,,,,1,,3.26,3.32,,0,1,1,,,88,90,,2,2,1
+CASE-NEUEN017PCJ,NEUEN017PCJ,Vital Capacity,ANSWER-ALS Visit 3,441,,,,0,,,,,,,,,1,,3.53,3.54,3.47,0,0,,,,96,96,95,0,95,1
+CASE-NEUEN017PCJ,NEUEN017PCJ,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.37,3.41,3.5,0,0,,,,89,90,92,3,2,1
+CASE-NEUEN476CLW,NEUEN476CLW,Vital Capacity,ANSWER-ALS Screening Visit,0,2.09,2.19,1.87,0,,,,35,36,31,5,,1,,,,,0,0,,,,,,,,2,2
+CTRL-NEUEU392AE8,NEUEU392AE8,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Opted out,,,,0,0,,,,,,,,,
+CASE-NEUEU558MNK,NEUEU558MNK,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,0.74,0.72,0.59,0,0,,,,34,33,27,3,2,1
+CTRL-NEUEY565NWT,NEUEY565NWT,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Healthy control,,,,0,0,,,,,,,,,
+CASE-NEUFB989DT1,NEUFB989DT1,Vital Capacity,ANSWER-ALS Visit 2,161,,,,0,,,,,,,,,1,,2.11,2.06,1.74,0,0,,,,59,57,48,2,2,1
+CASE-NEUFB989DT1,NEUFB989DT1,Vital Capacity,ANSWER-ALS Visit 3,267,,,,0,,,,,,,,,2,Visit completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUFB989DT1,NEUFB989DT1,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.21,2.35,2.11,0,0,,,,62,65,59,6,2,1
+CTRL-NEUFE306EFY,NEUFE306EFY,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Opted out,,,,0,0,,,,,,,,,
+CASE-NEUFH122WN7,NEUFH122WN7,Vital Capacity,ANSWER-ALS Visit 3,494,,,,0,,,,,,,,,1,,4.56,4.77,4.9,0,0,,,,104,109,112,3,2,1
+CASE-NEUFH122WN7,NEUFH122WN7,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,4.97,4.82,5,0,0,,,,113,110,114,1,2,1
+CASE-NEUFH122WN7,NEUFH122WN7,Vital Capacity,ANSWER-ALS Visit 2,85,,,,0,,,,,,,,,2,Visit completed via phone call,,,,0,0,,,,,,,,,
+CTRL-NEUFL840LZE,NEUFL840LZE,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,"not collected, subject is healthy control",,,,0,0,,,,,,,,,
+CASE-NEUFV237VCZ,NEUFV237VCZ,Vital Capacity,ANSWER-ALS Visit 2,84,,,,0,,,,,,,,,1,,2.18,2.13,2.26,0,0,,,,51,50,53,4,2,1
+CASE-NEUFV237VCZ,NEUFV237VCZ,Vital Capacity,ANSWER-ALS Visit 3,198,,,,0,,,,,,,,,2,Visit 3 completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUFV237VCZ,NEUFV237VCZ,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.84,2.31,2.93,0,0,,,,68,55,70,3,2,1
+CASE-NEUFY342UNG,NEUFY342UNG,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,4.15,4.55,4.25,0,0,,,,97,106,100,7,2,1
+CTRL-NEUFZ500KDB,NEUFZ500KDB,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Participant opt out,,,,0,0,,,,,,,,,
+CTRL-NEUFZ508VBV,NEUFZ508VBV,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Opted out,,,,0,0,,,,,,,,,
+CASE-NEUGD965XVD,NEUGD965XVD,Vital Capacity,ANSWER-ALS Follow-up Visit Month 3,966,,,,0,,,,,,,,,1,,1.92,1.9,1.44,0,0,,,,33,33,25,1,2,1
+CASE-NEUGD965XVD,NEUGD965XVD,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,4.3,4.56,4.37,0,0,,,,74,78,75,4,2,1
+CASE-NEUGD965XVD,NEUGD965XVD,Vital Capacity,ANSWER-ALS Visit 3,301,,,,0,,,,,,,,,1,,3.92,3.91,4.11,0,0,,,,67,67,71,5,2,1
+CASE-NEUGD965XVD,NEUGD965XVD,Vital Capacity,ANSWER-ALS Visit 4,504,,,,0,,,,,,,,,1,,3.43,3.53,3.57,0,0,,,,59,61,61,1,2,1
+CASE-NEUGD965XVD,NEUGD965XVD,Vital Capacity,ANSWER-ALS Visit 2,94,,,,0,,,,,,,,,1,,4.11,4.19,4.27,0,0,,,,70,72,73,2,2,1
+CASE-NEUGD965XVD,NEUGD965XVD,Vital Capacity,ANSWER-ALS 6 Month Phone Follow-up Visit,1302,,,,0,,,,,,,,,2,Was not collected by study staff,,,,0,0,,,,,,,,,
+CASE-NEUGE540TC4,NEUGE540TC4,Vital Capacity,ANSWER-ALS Visit 2,112,,,,0,,,,,,,,,2,Visit completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUGE540TC4,NEUGE540TC4,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Not collected due to time constraints,,,,0,0,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,Vital Capacity,ANSWER-ALS Visit 5,403,,,,0,,,,,,,,,2,Visit completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,Vital Capacity,ANSWER-ALS Follow-up Visit,534,,,,0,,,,,,,,,2,Completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,Vital Capacity,ANSWER-ALS Visit 2,65,,,,0,,,,,,,,,2,Visit 2 conducted via phone call,,,,0,0,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,Vital Capacity,ANSWER-ALS Follow-up Visit 2,651,,,,0,,,,,,,,,1,,5.02,4.78,4.78,0,0,,,,114,109,109,5,2,1
+CASE-NEUGJ081HKR,NEUGJ081HKR,Vital Capacity,ANSWER-ALS Visit 3,171,,,,0,,,,,,,,,2,Visit 3 conducted via phone call,,,,0,0,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,Vital Capacity,ANSWER-ALS Visit 4,304,,,,0,,,,,,,,,2,Visit 4 conducted via phone call,,,,0,0,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Patient not physically present,,,,0,0,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,Vital Capacity,ANSWER-ALS Follow-up Visit 3,1260,5.04,5.16,4.79,0,,,,110,112,104,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUGL543NJ1,NEUGL543NJ1,Vital Capacity,ANSWER-ALS Visit 5,378,,,,0,,,,,,,,,1,,1.42,1.44,1.4,0,0,,,,51,51,50,1,2,1
+CASE-NEUGL543NJ1,NEUGL543NJ1,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.41,1.81,2.03,0,0,,,,83,62,70,16,2,1
+CASE-NEUGL543NJ1,NEUGL543NJ1,Vital Capacity,ANSWER-ALS Visit 3,189,,,,0,,,,,,,,,1,,1.54,1.62,1.61,0,0,,,,54,57,57,1,2,1
+CASE-NEUGL543NJ1,NEUGL543NJ1,Vital Capacity,ANSWER-ALS Visit 2,63,,,,0,,,,,,,,,1,,1.76,1.75,1.71,0,0,,,,62,61,60,1,2,1
+CASE-NEUGL543NJ1,NEUGL543NJ1,Vital Capacity,ANSWER-ALS Phone Month 3 Follow-up,462,,,,0,,,,,,,,,1,,1.28,1.26,1.29,0,0,,,,46,45,46,1,2,1
+CASE-NEUGL543NJ1,NEUGL543NJ1,Vital Capacity,ANSWER-ALS Visit 4,259,,,,0,,,,,,,,,1,,1.41,1.31,1.3,0,0,,,,50,47,46,7,2,1
+CASE-NEUGL543NJ1,NEUGL543NJ1,Vital Capacity,ANSWER-ALS Month 6 Phone Follow-up,532,,,,0,,,,,,,,,1,,1.34,1.39,1.43,0,0,,,,48,49,51,3,95,1
+CASE-NEUGL543NJ1,NEUGL543NJ1,Vital Capacity,ANSWER-ALS Follow-up Visit Month 15,854,,,,0,,,,,,,,,1,,0.94,0.98,,0,1,1,,,34,35,,4,2,1
+CASE-NEUGL543NJ1,NEUGL543NJ1,Vital Capacity,ANSWER-ALS Follow-up Month 9,700,,,,0,,,,,,,,,1,,1.24,1.19,1.21,0,0,,,,45,43,43,2,2,1
+CASE-NEUGL543NJ1,NEUGL543NJ1,Vital Capacity,ANSWER-ALS Follow-up Visit Month 12,770,,,,0,,,,,,,,,1,,1.2,1.11,,0,1,1,,,43,40,,7,2,1
+CASE-NEUGL543NJ1,NEUGL543NJ1,Vital Capacity,ANSWER-ALS 18 Month Phone Follow-up Visit,945,,,,0,,,,,,,,,1,,0.97,,,1,1,99,Subject wanted to do only one trial,Subject wanted to do only one trial,35,,,100,2,1
+CASE-NEUGP781PDU,NEUGP781PDU,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,4.14,4.29,4.57,0,0,,,,99,104,109,6,2,1
+CASE-NEUGR121TFD,NEUGR121TFD,Vital Capacity,ANSWER-ALS Visit 3,147,,,,0,,,,,,,,,2,Visit done via phone call,,,,0,0,,,,,,,,,
+CASE-NEUGR121TFD,NEUGR121TFD,Vital Capacity,ANSWER-ALS Visit 2,112,,,,0,,,,,,,,,1,,3.46,3.13,3.39,0,0,,,,117,106,115,2,2,1
+CASE-NEUGR121TFD,NEUGR121TFD,Vital Capacity,ANSWER-ALS Visit 4,323,,,,0,,,,,,,,,2,Visit completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUGR121TFD,NEUGR121TFD,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.28,3.12,3.33,0,0,,,,119,113,121,2,2,1
+CASE-NEUGW326BRV,NEUGW326BRV,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.48,2.64,2.59,0,0,,,,90,96,94,2,2,1
+CASE-NEUGW326BRV,NEUGW326BRV,Vital Capacity,ANSWER-ALS Visit 3,190,,,,0,,,,,,,,,1,,1.99,2.03,1.91,0,0,,,,73,74,70,2,2,1
+CASE-NEUGW326BRV,NEUGW326BRV,Vital Capacity,ANSWER-ALS Visit 4,280,,,,0,,,,,,,,,1,,1.17,1.52,1.44,0,0,,,,42,56,53,5,2,1
+CASE-NEUGW326BRV,NEUGW326BRV,Vital Capacity,ANSWER-ALS Visit 2,104,,,,0,,,,,,,,,1,,2.43,2.3,2.32,0,0,,,,88,84,84,5,2,1
+CASE-NEUGW340YEB,NEUGW340YEB,Vital Capacity,ANSWER-ALS Visit 2,147,0.56,0.36,0.15,0,,,,17,11,5,36,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUGW340YEB,NEUGW340YEB,Vital Capacity,ANSWER-ALS Screening Visit,0,0.93,1.05,,1,,,,28,32,,11,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHB491NGF,NEUHB491NGF,Vital Capacity,ANSWER-ALS Screening Visit,0,3.3,3.53,3.43,0,,,,79,85,83,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHB491NGF,NEUHB491NGF,Vital Capacity,ANSWER-ALS Visit 2,118,,,,0,,,,,,,,,1,,2.67,3.08,2.95,0,0,,,,61,70,67,4,2,1
+CASE-NEUHB491NGF,NEUHB491NGF,Vital Capacity,ANSWER-ALS Visit 5,336,3.37,3.68,3.66,0,,,,82,89,89,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHB491NGF,NEUHB491NGF,Vital Capacity,ANSWER-ALS Visit 4,298,,,,0,,,,,,,,,2,Phone Visit,,,,0,0,,,,,,,,,
+CTRL-NEUHE723FGT,NEUHE723FGT,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Opted out,,,,0,0,,,,,,,,,
+CASE-NEUHG644RYB,NEUHG644RYB,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.56,3.47,3.56,0,0,,,,85,83,85,0,2,1
+CASE-NEUHG791RV5,NEUHG791RV5,Vital Capacity,ANSWER-ALS Visit 2,111,,,,0,,,,,,,,,2,Phone Visit,,,,0,0,,,,,,,,,
+CASE-NEUHG791RV5,NEUHG791RV5,Vital Capacity,ANSWER-ALS Follow-up Visit,532,3.08,,,0,,,,92,,,100,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHG791RV5,NEUHG791RV5,Vital Capacity,ANSWER-ALS Visit 5,357,3.29,3.2,3.14,0,,,,98,96,94,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHG791RV5,NEUHG791RV5,Vital Capacity,ANSWER-ALS Screening Visit,0,3.13,3.09,3.21,0,,,,94,92,96,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHG791RV5,NEUHG791RV5,Vital Capacity,ANSWER-ALS Visit 3,182,3.14,3.07,2.83,0,,,,94,92,84,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHG791RV5,NEUHG791RV5,Vital Capacity,ANSWER-ALS Visit 4,298,,,,0,,,,,,,,,2,Phone Visit,,,,0,0,,,,,,,,,
+CASE-NEUHG791RV5,NEUHG791RV5,Vital Capacity,ANSWER-ALS Follow-up Visit 4,707,2.67,2.46,2.49,0,,,,80,74,75,7,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHG791RV5,NEUHG791RV5,Vital Capacity,ANSWER-ALS Follow-up Visit 5,1323,2.18,1.95,2.01,0,,,,66,59,61,8,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHL999WWT,NEUHL999WWT,Vital Capacity,ANSWER-ALS Follow-up Visit 5,994,1.19,1.37,1.22,0,,,,32,32,28,11,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHL999WWT,NEUHL999WWT,Vital Capacity,ANSWER-ALS Follow-up Visit 3,703,2.05,,,0,,,,46,,,100,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHL999WWT,NEUHL999WWT,Vital Capacity,ANSWER-ALS Follow-up Visit 4,798,1.76,1.67,1.68,0,,,,38,36,36,5,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHL999WWT,NEUHL999WWT,Vital Capacity,ANSWER-ALS Screening Visit,0,2.06,2.45,2.02,0,,,,47,55,46,16,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHL999WWT,NEUHL999WWT,Vital Capacity,ANSWER-ALS Visit 3,189,1.89,1.9,2.07,0,,,,43,43,47,8,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHL999WWT,NEUHL999WWT,Vital Capacity,ANSWER-ALS Visit 5,455,1.85,1.99,1.85,0,,,,43,46,42,7,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHM532NDD,NEUHM532NDD,Vital Capacity,ANSWER-ALS Follow-up Visit 2,519,,,,0,,,,,,,,,1,,2.13,2.26,2.22,0,0,,,,79,84,82,2,2,1
+CASE-NEUHM532NDD,NEUHM532NDD,Vital Capacity,ANSWER-ALS Follow-up Visit,464,,,,0,,,,,,,,,2,unknown,,,,0,0,,,,,,,,,
+CASE-NEUHM532NDD,NEUHM532NDD,Vital Capacity,ANSWER-ALS Visit 3,176,,,,0,,,,,,,,,1,,2.21,2.38,2.48,0,0,,,,82,88,92,4,2,1
+CASE-NEUHM532NDD,NEUHM532NDD,Vital Capacity,ANSWER-ALS Visit 4,294,,,,0,,,,,,,,,1,,2.38,2.23,2.18,0,0,,,,89,83,81,6,2,1
+CASE-NEUHM532NDD,NEUHM532NDD,Vital Capacity,ANSWER-ALS Visit 5,343,,,,0,,,,,,,,,1,,2.14,2.05,1.81,0,0,,,,79,75,67,4,2,1
+CASE-NEUHM532NDD,NEUHM532NDD,Vital Capacity,ANSWER-ALS Visit 2,126,,,,0,,,,,,,,,1,,2.5,2.27,2.28,0,0,,,,93,84,84,9,2,1
+CASE-NEUHM532NDD,NEUHM532NDD,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,STUDY,1,,2.54,2.55,2.5,0,0,,,,91,92,90,0,2,1
+CASE-NEUHM532NDD,NEUHM532NDD,Vital Capacity,ANSWER-ALS Follow-up Visit 5,1157,1.98,2.02,1.89,0,,,,74,75,70,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHM532NDD,NEUHM532NDD,Vital Capacity,ANSWER-ALS Follow-up Visit 4,1010,2.2,2.24,2.2,0,,,,82,83,82,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHM532NDD,NEUHM532NDD,Vital Capacity,ANSWER-ALS Follow-up Visit 3,884,2.37,2.42,2.28,0,,,,71,73,68,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHV216EHA,NEUHV216EHA,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,4.34,4.48,4.57,0,0,,,,76,78,80,2,2,1
+CASE-NEUHW530WD8,NEUHW530WD8,Vital Capacity,ANSWER-ALS Visit 5,525,3.36,3.45,3.35,0,,,,108,111,108,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHW530WD8,NEUHW530WD8,Vital Capacity,ANSWER-ALS Visit 2,133,3.62,3.53,3.81,0,,,,115,112,121,5,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHW530WD8,NEUHW530WD8,Vital Capacity,ANSWER-ALS Visit 4,322,3.94,3.86,3.86,0,,,,127,125,125,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHW530WD8,NEUHW530WD8,Vital Capacity,ANSWER-ALS Screening Visit,0,3.93,3.71,3.59,0,,,,125,118,114,6,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHW530WD8,NEUHW530WD8,Vital Capacity,ANSWER-ALS Visit 3,231,3.9,3.69,3.71,0,,,,126,119,120,5,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUHW590KBH,NEUHW590KBH,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.53,2.92,2.7,0,0,,,,81,94,87,8,2,1
+CASE-NEUHZ302VU4,NEUHZ302VU4,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.54,,,1,1,99,Only one trial was completed. U has been entered.,Only one trial was completed. U has been entered.,51,,,100,2,1
+CASE-NEUHZ302VU4,NEUHZ302VU4,Vital Capacity,ANSWER-ALS Visit 2,119,,,,0,,,,,,,,,1,,1.54,1.5,1.5,0,0,,,,51,50,50,3,2,1
+CASE-NEUHZ302VU4,NEUHZ302VU4,Vital Capacity,ANSWER-ALS Visit 3,258,,,,0,,,,,,,,,1,,0.68,0.71,0.65,0,0,,,,23,24,22,4,2,1
+CTRL-NEUHZ716BZ2,NEUHZ716BZ2,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,did not consent,,,,0,0,,,,,,,,,
+CASE-NEUJA217MTJ,NEUJA217MTJ,Vital Capacity,ANSWER-ALS Visit 4,330,,,,0,,,,,,,,,1,,3.04,3.01,3.04,0,0,,,,113,111,113,0,2,1
+CASE-NEUJA217MTJ,NEUJA217MTJ,Vital Capacity,ANSWER-ALS Visit 3,204,,,,0,,,,,,,,,1,,3.25,3.15,3.2,0,0,,,,120,117,118,2,2,1
+CASE-NEUJA217MTJ,NEUJA217MTJ,Vital Capacity,ANSWER-ALS Visit 2,78,,,,0,,,,,,,,,1,,3.41,3.44,3.54,0,0,,,,124,125,128,3,2,1
+CASE-NEUJA217MTJ,NEUJA217MTJ,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.18,3.14,3.23,0,0,,,,119,118,121,2,2,1
+CASE-NEUJA666PYD,NEUJA666PYD,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.4,2.3,2.36,0,0,,,,76,73,75,2,2,1
+CASE-NEUJA666PYD,NEUJA666PYD,Vital Capacity,ANSWER-ALS Visit 2,83,,,,0,,,,,,,,,1,,1.89,1.53,1.92,0,0,,,,60,49,61,2,2,1
+CASE-NEUJA666PYD,NEUJA666PYD,Vital Capacity,ANSWER-ALS Visit 3,182,,,,0,,,,,,,,,1,,0.79,1.39,1.33,0,0,,,,25,44,42,4,2,1
+CASE-NEUJC191RLE,NEUJC191RLE,Vital Capacity,ANSWER-ALS Visit 2,113,,,,0,,,,,,,,,1,,4.72,4.55,4.66,0,0,,,,82,82,82,1,95,1
+CASE-NEUJC191RLE,NEUJC191RLE,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,5.73,5.09,5.13,0,0,,,,96,86,86,10,2,1
+CASE-NEUJC191RLE,NEUJC191RLE,Vital Capacity,ANSWER-ALS Visit 4,279,,,,0,,,,,,,,,1,,3.68,4.38,4.36,0,0,,,,74,74,74,0,2,1
+CASE-NEUJC191RLE,NEUJC191RLE,Vital Capacity,ANSWER-ALS Visit 3,225,,,,0,,,,,,,,,1,,4.01,4.51,4.16,0,0,,,,76,76,76,8,2,1
+CASE-NEUJC191RLE,NEUJC191RLE,Vital Capacity,ANSWER-ALS Visit 5,386,,,,0,,,,,,,,,1,,4.03,3.53,3.63,0,0,,,,68,68,68,10,1,1
+CASE-NEUJH197AK2,NEUJH197AK2,Vital Capacity,ANSWER-ALS Screening Visit,0,3.43,3.4,3.13,0,,,,80,79,73,1,,1,,,,,0,0,,,,,,,,2,2
+CTRL-NEUJH290RH7,NEUJH290RH7,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Opted out,,,,0,0,,,,,,,,,
+CASE-NEUJV798JGH,NEUJV798JGH,Vital Capacity,ANSWER-ALS Visit 2,90,,,,0,,,,,,,,,1,,1.8,1.39,1.74,0,0,,,,37,29,36,3,2,1
+CASE-NEUJV798JGH,NEUJV798JGH,Vital Capacity,ANSWER-ALS Visit 3,149,2.04,2.06,2.18,0,,,,43,43,46,6,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUJV798JGH,NEUJV798JGH,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.08,1.29,1.61,0,0,,,,22,26,33,20,2,1
+CASE-NEUJV798JGH,NEUJV798JGH,Vital Capacity,ANSWER-ALS Follow-up Visit 2,608,1.9,1.43,,1,,,unknown,46,35,,25,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUJV798JGH,NEUJV798JGH,Vital Capacity,ANSWER-ALS Follow-up Visit,531,1.23,0.84,1.03,0,,,,29,20,24,16,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUJV798JGH,NEUJV798JGH,Vital Capacity,ANSWER-ALS Visit 5,317,1.38,1.81,1.79,0,,,,29,38,38,1,,1,,,,,0,0,,,,,,,,2,2
+CTRL-NEUJX341NDP,NEUJX341NDP,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,"not collected, subject is healthy control",,,,0,0,,,,,,,,,
+CASE-NEUJX780XXK,NEUJX780XXK,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,0.92,1.02,,0,1,1,,,19,21,,10,2,1
+CASE-NEUJY426MBU,NEUJY426MBU,Vital Capacity,ANSWER-ALS Phone Follow-up Visit 3 mo,743,,,,0,,,,,,,,,1,,3.41,3.24,3.23,0,0,,,,67,64,64,5,2,1
+CASE-NEUJY426MBU,NEUJY426MBU,Vital Capacity,ANSWER-ALS Phone Follow-up Month 6,845,,,,0,,,,,,,,,1,,3.24,3.19,3.17,0,0,,,,64,63,63,2,1,1
+CASE-NEUJY426MBU,NEUJY426MBU,Vital Capacity,ANSWER-ALS Visit 2,138,,,,0,,,,,,,,,1,,4.28,4.1,4.39,0,0,,,,83,80,86,3,2,1
+CASE-NEUJY426MBU,NEUJY426MBU,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,4.45,4.3,4.38,0,0,,,,88,85,87,2,2,1
+CASE-NEUJY426MBU,NEUJY426MBU,Vital Capacity,ANSWER-ALS Visit 3,225,,,,0,,,,,,,,,1,,4.04,4.14,4.29,0,0,,,,79,81,84,3,2,1
+CASE-NEUJY426MBU,NEUJY426MBU,Vital Capacity,ANSWER-ALS Visit 4,259,,,,0,,,,,,,,,1,,4.07,3.8,3.76,0,0,,,,80,75,74,7,2,1
+CASE-NEUJY426MBU,NEUJY426MBU,Vital Capacity,ANSWER-ALS Visit 5,673,,,,0,,,,,,,,,2,Not collected by study staff during clinical visit due to time constraints,,,,0,0,,,,,,,,,
+CASE-NEUJY536DKF,NEUJY536DKF,Vital Capacity,ANSWER-ALS Screening Visit,0,3.48,2.99,2.88,0,,,,71,61,59,14,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUJY536DKF,NEUJY536DKF,Vital Capacity,ANSWER-ALS Visit 2,98,3.15,3.06,2.68,0,,,,64,62,55,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUKD025JPF,NEUKD025JPF,Vital Capacity,ANSWER-ALS Follow-up Visit 3,707,3.08,3.08,3.08,0,,,,87,87,87,0,,1,,,,,0,0,,,,,,,,95,2
+CASE-NEUKD025JPF,NEUKD025JPF,Vital Capacity,ANSWER-ALS Follow-up Visit 2,518,3.16,3.24,3.03,0,,,,78,80,75,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUKD025JPF,NEUKD025JPF,Vital Capacity,ANSWER-ALS Follow-up Visit,434,3.59,3.5,3.29,0,,,,85,83,78,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUKD025JPF,NEUKD025JPF,Vital Capacity,ANSWER-ALS Visit 4,273,,,,0,,,,,,,,,1,,4.02,3.9,3.73,0,0,,,,93,90,86,3,2,1
+CASE-NEUKD025JPF,NEUKD025JPF,Vital Capacity,ANSWER-ALS Visit 2,84,,,,0,,,,,,,,,1,,3.18,3.17,3.01,0,0,,,,86,86,81,0,2,1
+CASE-NEUKD025JPF,NEUKD025JPF,Vital Capacity,ANSWER-ALS Screening Visit,0,3.95,3.79,,1,,,physical therapist only did two trials,97,93,,4,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUKD025JPF,NEUKD025JPF,Vital Capacity,ANSWER-ALS Visit 5,343,3.74,3.9,3.89,0,,,,89,92,92,0,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUKD025JPF,NEUKD025JPF,Vital Capacity,ANSWER-ALS Visit 3,196,3.93,3.74,3.67,0,,,,90,86,84,5,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEULA777DBT,NEULA777DBT,Vital Capacity,ANSWER-ALS Visit 2,140,,,,0,,,,,,,,,1,,0.89,0.8,0.91,0,0,,,,22,20,22,2,2,1
+CASE-NEULA777DBT,NEULA777DBT,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.64,1.34,1.39,0,0,,,,40,33,34,15,1,1
+CASE-NEULD354RZB,NEULD354RZB,Vital Capacity,ANSWER-ALS Visit 5,399,1.54,1.56,1.34,0,,,,32,33,28,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEULD354RZB,NEULD354RZB,Vital Capacity,ANSWER-ALS Screening Visit,0,1.74,1.66,1.43,0,,,,36,34,30,5,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEULD354RZB,NEULD354RZB,Vital Capacity,ANSWER-ALS Follow-up Visit 2,500,1.54,,,1,99,,,33,,,100,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEULD354RZB,NEULD354RZB,Vital Capacity,ANSWER-ALS Visit 2,111,,,,0,,,,,,,,,1,,1.9,1.56,1.44,0,0,,,,40,33,30,18,2,1
+CASE-NEULD354RZB,NEULD354RZB,Vital Capacity,ANSWER-ALS Visit 4,245,1.69,1.24,1.56,0,,,,35,26,33,8,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEULD354RZB,NEULD354RZB,Vital Capacity,ANSWER-ALS Follow-up Visit 4,931,0.95,0.9,0.74,0,,,,20,19,16,5,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEULD354RZB,NEULD354RZB,Vital Capacity,ANSWER-ALS Follow-up Visit 3,763,0.87,0.86,1.01,0,,,,18,18,21,14,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEULD354RZB,NEULD354RZB,Vital Capacity,ANSWER-ALS Follow-up Visit 5,1092,0.66,0.64,0.51,0,,,,13,13,10,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEULL588ALG,NEULL588ALG,Vital Capacity,ANSWER-ALS Screening Visit,0,4.55,4.39,4.58,0,,,,99,96,100,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEULL588ALG,NEULL588ALG,Vital Capacity,ANSWER-ALS Visit 3,220,,,,0,,,,,,,,,2,Phone Visit,,,,0,0,,,,,,,,,
+CASE-NEULL588ALG,NEULL588ALG,Vital Capacity,ANSWER-ALS Visit 5,336,4.66,4.82,4.91,0,,,,98,101,103,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEULL588ALG,NEULL588ALG,Vital Capacity,ANSWER-ALS Visit 2,125,,,,0,,,,,,,,,2,Phone Visit,,,,0,0,,,,,,,,,
+CASE-NEULL588ALG,NEULL588ALG,Vital Capacity,ANSWER-ALS Visit 4,314,,,,0,,,,,,,,,2,Phone Visit,,,,0,0,,,,,,,,,
+CASE-NEULL648LJ1,NEULL648LJ1,Vital Capacity,ANSWER-ALS Visit 3,231,,,,0,,,,,,,,,1,,1.69,1.48,1.63,0,0,,,,55,48,53,4,2,1
+CASE-NEULL648LJ1,NEULL648LJ1,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.92,1.67,1.81,0,0,,,,61,53,58,6,2,1
+CASE-NEULL648LJ1,NEULL648LJ1,Vital Capacity,ANSWER-ALS Visit 2,119,,,,0,,,,,,,,,1,,1.64,1.58,1.59,0,0,,,,53,51,51,3,2,1
+CASE-NEULL648LJ1,NEULL648LJ1,Vital Capacity,ANSWER-ALS Visit 4,343,,,,0,,,,,,,,,1,,1.4,1.57,1.54,0,0,,,,45,51,50,2,2,1
+CASE-NEULL648LJ1,NEULL648LJ1,Vital Capacity,ANSWER-ALS Follow-up Visit,441,1.87,,,1,99,Taken from medical records. Only final result reported.,Taken from medical records. Only final result reported.,61,,,100,,1,,,,,0,0,,,,,,,,95,2
+CTRL-NEULL933JXY,NEULL933JXY,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,No certified personnel present to perform.,,,,0,0,,,,,,,,,
+CASE-NEULP998KDJ,NEULP998KDJ,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.49,2.61,2.67,0,0,,,,44,54,56,2,2,1
+CASE-NEULY177TTN,NEULY177TTN,Vital Capacity,ANSWER-ALS Visit 3,251,,,,0,,,,,,,,,1,,1.28,1.74,1.51,0,0,,,,24,33,29,13,2,1
+CASE-NEULY177TTN,NEULY177TTN,Vital Capacity,ANSWER-ALS Visit 2,153,,,,0,,,,,,,,,1,,2.01,2.07,2.16,0,0,,,,38,39,41,4,2,1
+CASE-NEULY177TTN,NEULY177TTN,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,4.88,4.78,2.5,0,0,,,,106,103,54,2,2,1
+CASE-NEULZ548ZXV,NEULZ548ZXV,Vital Capacity,ANSWER-ALS Screening Visit,0,2.02,2.29,2.32,0,,,,68,77,78,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEULZ548ZXV,NEULZ548ZXV,Vital Capacity,ANSWER-ALS Follow-up Visit,474,,,,0,,,,,,,,,2,unknown,,,,0,0,,,,,,,,,
+CASE-NEULZ548ZXV,NEULZ548ZXV,Vital Capacity,ANSWER-ALS Follow-up Visit 3,651,0.7,0.68,0.69,0,,,,24,23,23,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEULZ548ZXV,NEULZ548ZXV,Vital Capacity,ANSWER-ALS Visit 4,252,1.87,1.85,1.78,0,,,,63,63,60,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUMD869UV7,NEUMD869UV7,Vital Capacity,ANSWER-ALS Follow-up Visit 4,717,2.38,2.44,2.29,0,,,,59,61,57,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUMD869UV7,NEUMD869UV7,Vital Capacity,ANSWER-ALS Visit 5,346,3.01,3.04,2.96,0,,,,74,75,73,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUMD869UV7,NEUMD869UV7,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,4.32,4.17,4.41,0,0,,,,106,102,108,2,2,1
+CASE-NEUMD869UV7,NEUMD869UV7,Vital Capacity,ANSWER-ALS Visit 3,230,,,,0,,,,,,,,,1,,3.77,3.23,3.52,0,0,,,,93,80,87,7,2,1
+CASE-NEUMD869UV7,NEUMD869UV7,Vital Capacity,ANSWER-ALS Follow-up Visit 2,528,2.79,,,0,,,,69,,,100,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUMD869UV7,NEUMD869UV7,Vital Capacity,ANSWER-ALS Visit 2,79,,,,0,,,,,,,,,1,,4.33,4.33,4.32,0,0,,,,107,107,106,0,2,1
+CASE-NEUME498PCJ,NEUME498PCJ,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,4.43,4.22,4.01,0,0,,,,127,121,115,5,2,1
+CASE-NEUME498PCJ,NEUME498PCJ,Vital Capacity,ANSWER-ALS Visit 4,261,,,,0,,,,,,,,,2,Visit conducted via telephone,,,,0,0,,,,,,,,,
+CASE-NEUME498PCJ,NEUME498PCJ,Vital Capacity,ANSWER-ALS Visit 2,93,,,,0,,,,,,,,,1,,4.3,3.79,3.97,0,0,,,,123,108,113,8,2,1
+CASE-NEUME498PCJ,NEUME498PCJ,Vital Capacity,ANSWER-ALS Visit 3,175,,,,0,,,,,,,,,2,Not conducted due to equipment malfunctioning,,,,0,0,,,,,,,,,
+CASE-NEUME498PCJ,NEUME498PCJ,Vital Capacity,ANSWER-ALS Visit 5,392,,,,0,,,,,,,,,2,Completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUME498PCJ,NEUME498PCJ,Vital Capacity,ANSWER-ALS Follow-up Visit,546,3.61,3.94,3.69,0,,,,98,107,100,6,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUME498PCJ,NEUME498PCJ,Vital Capacity,ANSWER-ALS Follow-up Visit 3,931,3.98,3.92,3.95,0,,,,109,107,108,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUME498PCJ,NEUME498PCJ,Vital Capacity,ANSWER-ALS Follow-up Visit 2,618,,,,0,,,,,,,,,2,Completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUME498PCJ,NEUME498PCJ,Vital Capacity,ANSWER-ALS Follow-up Visit 4,1085,3.63,3.92,3.99,0,,,,100,108,110,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUMN012EVP,NEUMN012EVP,Vital Capacity,ANSWER-ALS Follow-up Visit 3,770,,,,0,,,,,,,,,2,Patient is on 24 BiPAP and cannot perform spirometry,,,,0,0,,,,,,,,,
+CASE-NEUMN012EVP,NEUMN012EVP,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.35,2.71,2.73,0,0,,,,100,100,100,1,2,1
+CASE-NEUMN012EVP,NEUMN012EVP,Vital Capacity,ANSWER-ALS Visit 5,371,,,,0,,,,,,,,,1,,1.22,1.38,1.29,0,0,,,,33,38,35,7,2,1
+CASE-NEUMN012EVP,NEUMN012EVP,Vital Capacity,ANSWER-ALS Follow-up Visit,497,0.76,1.09,0.84,0,,,,20,29,23,23,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUMN012EVP,NEUMN012EVP,Vital Capacity,ANSWER-ALS Visit 3,182,,,,0,,,,,,,,,1,,2.27,2.08,2.18,0,0,,,,63,58,61,4,2,1
+CASE-NEUMN012EVP,NEUMN012EVP,Vital Capacity,ANSWER-ALS Visit 4,279,,,,0,,,,,,,,,1,,1.66,1.5,1.53,0,0,,,,45,41,42,8,2,1
+CASE-NEUMN012EVP,NEUMN012EVP,Vital Capacity,ANSWER-ALS Follow-up Visit 2,630,,,,0,,,,,,,,,2,Not collected during clinical visit,,,,0,0,,,,,,,,,
+CASE-NEUMN012EVP,NEUMN012EVP,Vital Capacity,ANSWER-ALS Visit 2,114,,,,0,,,,,,,,,1,,3.15,2.78,2.88,0,0,,,,85,75,77,9,2,1
+CTRL-NEUMN061ATZ,NEUMN061ATZ,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Healthy control,,,,0,0,,,,,,,,,
+CASE-NEUMN922PMZ,NEUMN922PMZ,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.2,2.98,2.8,0,0,,,,88,82,78,7,2,1
+CASE-NEUMN922PMZ,NEUMN922PMZ,Vital Capacity,ANSWER-ALS Visit 2,287,,,,0,,,,,,,,,1,,3.06,2.64,3.05,0,0,,,,85,73,84,0,2,1
+CASE-NEUMN922PMZ,NEUMN922PMZ,Vital Capacity,ANSWER-ALS Visit 3,462,,,,0,,,,,,,,,1,,3.07,2.84,3.32,0,0,,,,85,79,92,8,95,1
+CASE-NEUMN922PMZ,NEUMN922PMZ,Vital Capacity,ANSWER-ALS Visit 4,651,,,,0,,,,,,,,,1,,2.89,2.45,2.84,0,0,,,,81,68,79,2,2,1
+CTRL-NEUMT184NWC,NEUMT184NWC,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Opted out,,,,0,0,,,,,,,,,
+CASE-NEUMY871DGF,NEUMY871DGF,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.14,3.87,3.3,0,0,,,,73,90,77,15,2,1
+CASE-NEUNA248WXL,NEUNA248WXL,Vital Capacity,ANSWER-ALS Visit 2,124,,,,0,,,,,,,,,2,Phone Visit,,,,0,0,,,,,,,,,
+CASE-NEUNA248WXL,NEUNA248WXL,Vital Capacity,ANSWER-ALS Screening Visit,0,2.93,2.93,3.15,0,,,,109,109,117,7,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUNA248WXL,NEUNA248WXL,Vital Capacity,ANSWER-ALS Follow-up Visit,399,2.91,,,1,99,unknown,unknown,105,,,100,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUNA248WXL,NEUNA248WXL,Vital Capacity,ANSWER-ALS Visit 4,245,2.95,3.17,3.07,0,,,,110,114,118,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUNA248WXL,NEUNA248WXL,Vital Capacity,ANSWER-ALS Visit 5,390,,,,0,,,,,,,,,2,Phone Visit,,,,0,0,,,,,,,,,
+CASE-NEUNG326MFP,NEUNG326MFP,Vital Capacity,ANSWER-ALS Visit 2,112,,,,0,,,,,,,,,2,Phone Visit,,,,0,0,,,,,,,,,
+CASE-NEUNG326MFP,NEUNG326MFP,Vital Capacity,ANSWER-ALS Screening Visit,0,4.08,4.28,4.15,0,,,,84,88,85,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUNG326MFP,NEUNG326MFP,Vital Capacity,ANSWER-ALS Visit 3,182,3.11,3.29,2.85,0,,,,64,59,68,5,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUNG326MFP,NEUNG326MFP,Vital Capacity,ANSWER-ALS Visit 4,298,,,,0,,,,,,,,,2,Phone Visit,,,,0,0,,,,,,,,,
+CASE-NEUNL415AFW,NEUNL415AFW,Vital Capacity,ANSWER-ALS Visit 2,112,,,,0,,,,,,,,,1,,1.08,0.98,0.91,0,0,,,,34,31,28,9,2,1
+CASE-NEUNL415AFW,NEUNL415AFW,Vital Capacity,ANSWER-ALS Visit 3,203,,,,0,,,,,,,,,1,,0.53,0.55,0.62,0,0,,,,17,17,19,11,2,1
+CASE-NEUNL415AFW,NEUNL415AFW,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.79,1.91,1.98,0,0,,,,56,59,61,4,95,1
+CTRL-NEUNW343RXP,NEUNW343RXP,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,not done - patient is a control,,,,0,0,,,,,,,,,
+CASE-NEUPD674JPG,NEUPD674JPG,Vital Capacity,ANSWER-ALS Visit 2,103,,,,0,,,,,,,,,1,,3.41,3.31,3.6,0,0,,,,100,97,106,5,2,1
+CASE-NEUPD674JPG,NEUPD674JPG,Vital Capacity,ANSWER-ALS Visit 5,366,2.02,2.04,1.9,0,,,,61,62,58,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUPD674JPG,NEUPD674JPG,Vital Capacity,ANSWER-ALS Visit 3,142,3.64,3.45,3.55,0,,,,111,105,108,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUPD674JPG,NEUPD674JPG,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.36,2.75,3.62,0,0,,,,98,80,105,7,2,1
+CTRL-NEUPH301NNX,NEUPH301NNX,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Opted out,,,,0,0,,,,,,,,,
+CASE-NEUPK546ZLD,NEUPK546ZLD,Vital Capacity,ANSWER-ALS Visit 3,275,,,,0,,,,,,,,,2,Visit completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUPK546ZLD,NEUPK546ZLD,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.72,1.64,1.55,0,0,,,,64,61,58,5,2,1
+CASE-NEUPK546ZLD,NEUPK546ZLD,Vital Capacity,ANSWER-ALS Visit 2,98,,,,0,,,,,,,,,1,,1.54,1.6,1.63,0,0,,,,59,61,61,2,2,1
+CASE-NEUPK546ZLD,NEUPK546ZLD,Vital Capacity,ANSWER-ALS Visit 4,335,,,,0,,,,,,,,,2,Completed via phone call.,,,,0,0,,,,,,,,,
+CTRL-NEUPL878MTL,NEUPL878MTL,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,n/a - patient is a control,,,,0,0,,,,,,,,,
+CASE-NEUPN525XEW,NEUPN525XEW,Vital Capacity,ANSWER-ALS Visit 3,322,,,,0,,,,,,,,,1,,0.65,0.57,0.65,0,0,,,,21,18,21,0,2,1
+CASE-NEUPN525XEW,NEUPN525XEW,Vital Capacity,ANSWER-ALS Visit 2,106,,,,0,,,,,,,,,2,Equipment malfunction,,,,0,0,,,,,,,,,
+CASE-NEUPN525XEW,NEUPN525XEW,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.28,0.57,1.51,0,0,,,,42,19,49,15,2,1
+CASE-NEUPN525XEW,NEUPN525XEW,Vital Capacity,ANSWER-ALS Visit 4,476,,,,0,,,,,,,,,1,,0.5,0.52,0.29,0,0,,,,16,17,9,4,2,1
+CASE-NEUPR357AUF,NEUPR357AUF,Vital Capacity,ANSWER-ALS Screening Visit,0,0.68,0.85,0.8,0,,,,29,36,34,6,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUPR357AUF,NEUPR357AUF,Vital Capacity,ANSWER-ALS Visit 4,245,,,,0,,,,,,,,,2,subject unable to complete due to disease progression (bulbar),,,,0,0,,,,,,,,,
+CASE-NEUPR357AUF,NEUPR357AUF,Vital Capacity,ANSWER-ALS Visit 2,91,0.44,0.51,0.6,0,,,,26,26,26,15,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUPR357AUF,NEUPR357AUF,Vital Capacity,ANSWER-ALS Visit 3,196,0.36,0.45,0.42,0,,,,16,20,18,7,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUPR600MBU,NEUPR600MBU,Vital Capacity,ANSWER-ALS Visit 4,441,1.96,1.86,1.87,0,,,,72,68,68,5,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUPR600MBU,NEUPR600MBU,Vital Capacity,ANSWER-ALS Follow-up Visit,637,,,,0,,,,,,,,,1,,1.28,1.3,0.82,0,0,,,,47,48,30,2,2,1
+CASE-NEUPR600MBU,NEUPR600MBU,Vital Capacity,ANSWER-ALS Visit 5,574,1.42,1.17,1.16,0,,,,52,43,43,18,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUPR600MBU,NEUPR600MBU,Vital Capacity,ANSWER-ALS Visit 2,182,2.41,2.43,2.07,0,,,,86,87,74,1,,1,,,,,0,0,,,,,,,,1,2
+CASE-NEUPR600MBU,NEUPR600MBU,Vital Capacity,ANSWER-ALS Visit 3,322,2.51,2.44,,1,,,Only two trials were collected on this visit,92,89,,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUPR600MBU,NEUPR600MBU,Vital Capacity,ANSWER-ALS Screening Visit,0,2.61,2.48,2.31,0,,,,94,90,83,5,,1,,,,,0,0,,,,,,,,1,2
+CASE-NEURA639MK8,NEURA639MK8,Vital Capacity,ANSWER-ALS Visit 2,99,,,,0,,,,,,,,,1,,1.04,1.07,0.99,0,0,,,,29,30,28,3,2,1
+CASE-NEURA639MK8,NEURA639MK8,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Not done due to malfunctioning equipment,,,,0,0,,,,,,,,,
+CASE-NEURJ362MXH,NEURJ362MXH,Vital Capacity,ANSWER-ALS Phone 3 month,644,,,,0,,,,,,,,,1,,2.69,0.79,2.41,0,0,,,,90,27,81,10,2,1
+CASE-NEURJ362MXH,NEURJ362MXH,Vital Capacity,ANSWER-ALS Visit 5,539,,,,0,,,,,,,,,2,not obtained in ALS multidisciplinary clinic,,,,0,0,,,,,,,,,
+CASE-NEURJ362MXH,NEURJ362MXH,Vital Capacity,ANSWER-ALS Visit 4,413,,,,0,,,,,,,,,1,,2.73,2.9,2.64,0,0,,,,91,97,88,6,95,1
+CASE-NEURJ362MXH,NEURJ362MXH,Vital Capacity,ANSWER-ALS Visit 2,91,,,,0,,,,,,,,,1,,3.31,3.37,3.14,0,0,,,,109,112,104,2,2,1
+CASE-NEURJ362MXH,NEURJ362MXH,Vital Capacity,ANSWER-ALS Visit 3,182,,,,0,,,,,,,,,1,,2.54,3.02,2.48,0,0,,,,85,101,83,16,2,1
+CASE-NEURJ362MXH,NEURJ362MXH,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.69,3.92,3.98,0,0,,,,119,126,128,2,2,1
+CTRL-NEURJ861MMD,NEURJ861MMD,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Opted out,,,,0,0,,,,,,,,,
+CASE-NEURR881FKY,NEURR881FKY,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.83,3.88,3.54,0,0,,,,79,80,73,1,2,1
+CASE-NEURR881FKY,NEURR881FKY,Vital Capacity,ANSWER-ALS Visit 5,401,,,,0,,,,,,,,,2,Completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEURR881FKY,NEURR881FKY,Vital Capacity,ANSWER-ALS Visit 4,316,,,,0,,,,,,,,,2,Completed via phone call.,,,,0,0,,,,,,,,,
+CASE-NEURR881FKY,NEURR881FKY,Vital Capacity,ANSWER-ALS Visit 3,254,,,,0,,,,,,,,,2,Completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEURR881FKY,NEURR881FKY,Vital Capacity,ANSWER-ALS Visit 2,126,,,,0,,,,,,,,,2,Completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEURX315DYH,NEURX315DYH,Vital Capacity,ANSWER-ALS Screening Visit,0,3.11,3.26,3.23,0,,,,99,104,103,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEURX315DYH,NEURX315DYH,Vital Capacity,ANSWER-ALS Visit 5,371,3.13,3.12,3.18,0,,,,101,101,103,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEURX315DYH,NEURX315DYH,Vital Capacity,ANSWER-ALS Visit 3,196,3.18,3.04,3.19,0,,,,102,97,102,0,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEURX315DYH,NEURX315DYH,Vital Capacity,ANSWER-ALS Follow-up Visit 2,560,3.01,,,0,,,,97,,,100,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEURX315DYH,NEURX315DYH,Vital Capacity,ANSWER-ALS Follow-up Visit 5,868,2.45,2.53,2.6,0,,,,80,82,85,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEURX315DYH,NEURX315DYH,Vital Capacity,ANSWER-ALS Follow-up Visit 6,1008,2.53,2.6,2.47,0,,,,82,85,80,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEURX315DYH,NEURX315DYH,Vital Capacity,ANSWER-ALS Follow-up Visit 4,700,2.84,2.82,2.76,0,,,,92,91,89,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEURX315DYH,NEURX315DYH,Vital Capacity,ANSWER-ALS Follow-up Visit 7,1176,2.26,2.44,2.4,0,,,,66,71,70,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEURX909UL6,NEURX909UL6,Vital Capacity,ANSWER-ALS Follow-up Visit 5,790,2.93,2.85,2.82,0,,,,119,115,114,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEURX909UL6,NEURX909UL6,Vital Capacity,ANSWER-ALS Follow-up Visit 6,1203,,,,0,,,,,,,,,1,,2.81,2.9,3.01,0,0,,,,111,115,119,4,2,1
+CASE-NEURX909UL6,NEURX909UL6,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.12,3.11,2.92,0,0,,,,131,130,122,0,2,1
+CASE-NEURX909UL6,NEURX909UL6,Vital Capacity,ANSWER-ALS Visit 5,399,,,,0,,,,,,,,,1,,2.88,3,2.81,0,0,,,,115,120,112,4,2,1
+CASE-NEURX909UL6,NEURX909UL6,Vital Capacity,ANSWER-ALS Follow-up Visit 2,580,2.8,,,0,,,,113,,,100,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEURX909UL6,NEURX909UL6,Vital Capacity,ANSWER-ALS Visit 2,90,,,,0,,,,,,,,,1,,2.93,2.72,3.13,0,0,,,,123,114,131,6,2,1
+CASE-NEURX909UL6,NEURX909UL6,Vital Capacity,ANSWER-ALS Visit 3,184,,,,0,,,,,,,,,1,,2.9,2.88,3.05,0,0,,,,116,115,122,5,2,1
+CASE-NEURX909UL6,NEURX909UL6,Vital Capacity,ANSWER-ALS Visit 4,302,,,,0,,,,,,,,,1,,2.96,2.86,2.83,0,0,,,,125,121,119,3,2,1
+CASE-NEUTA057AF6,NEUTA057AF6,Vital Capacity,ANSWER-ALS Visit 3,189,,,,0,,,,,,,,,1,,4.22,4.41,4.18,0,0,,,,83,87,82,4,2,1
+CASE-NEUTA057AF6,NEUTA057AF6,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,4.22,4.13,3.96,0,0,,,,83,82,78,2,2,1
+CASE-NEUTA057AF6,NEUTA057AF6,Vital Capacity,ANSWER-ALS Phone 12 Month Follow-up,674,,,,0,,,,,,,,,1,,2.74,2.4,2.65,0,0,,,,54,47,52,3,2,1
+CASE-NEUTA057AF6,NEUTA057AF6,Vital Capacity,ANSWER-ALS Visit 2,91,,,,0,,,,,,,,,1,,4.09,4.05,,0,1,99,,Subject reports sinus problems at the time of assessment,81,80,,1,2,1
+CASE-NEUTA057AF6,NEUTA057AF6,Vital Capacity,ANSWER-ALS Phone 9 Month Follow-up,624,,,,0,,,,,,,,,1,,2.8,2.8,2.91,0,0,,,,55,55,58,4,2,1
+CASE-NEUTA057AF6,NEUTA057AF6,Vital Capacity,ANSWER-ALS Phone Month 6 Follow-up,561,,,,0,,,,,,,,,1,,2.97,3.15,3.15,0,0,,,,59,62,62,0,2,1
+CASE-NEUTA057AF6,NEUTA057AF6,Vital Capacity,ANSWER-ALS Phone Follow-up Visit (3 mo),504,,,,0,,,,,,,,Obtained from research visit at NCRI,1,,3.42,3.18,3.29,0,0,,,,68,63,65,4,2,1
+CASE-NEUTA057AF6,NEUTA057AF6,Vital Capacity,ANSWER-ALS Visit 5,408,,,,0,,,,,,,,,2,Patient planned to return the following day to complete outcomes but cancelled the visit,,,,0,0,,,,,,,,,
+CASE-NEUTA057AF6,NEUTA057AF6,Vital Capacity,ANSWER-ALS 15 Month Phone Follow-up Visit,1365,,,,0,,,,,,,,,2,Was not collected by study staff,,,,0,0,,,,,,,,,
+CASE-NEUTA689LN5,NEUTA689LN5,Vital Capacity,ANSWER-ALS Follow-up Visit 2,1179,1.55,1.74,1.62,0,,,,53,59,55,7,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUTA689LN5,NEUTA689LN5,Vital Capacity,ANSWER-ALS Visit 5,401,1.49,1.27,1.46,0,,,,50,43,49,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUTA689LN5,NEUTA689LN5,Vital Capacity,ANSWER-ALS Visit 3,206,,,,0,,,,,,,,,1,,1.45,1.56,1.61,0,0,,,,48,52,54,3,2,1
+CASE-NEUTA689LN5,NEUTA689LN5,Vital Capacity,ANSWER-ALS Visit 2,87,1.61,1.56,1.64,0,,,,54,52,55,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUTA689LN5,NEUTA689LN5,Vital Capacity,ANSWER-ALS Screening Visit,0,1.66,1.72,1.69,0,,,,55,57,56,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUTA689LN5,NEUTA689LN5,Vital Capacity,ANSWER-ALS Follow-up Visit,752,1.65,1.93,1.67,0,,,,50,58,50,13,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUTB230DA3,NEUTB230DA3,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,was not completed due to pt. time constraints,,,,0,0,,,,,,,,,
+CASE-NEUTD314VFT,NEUTD314VFT,Vital Capacity,ANSWER-ALS Visit 5,434,2.58,2.99,2.54,0,,,,56,64,55,14,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUTD314VFT,NEUTD314VFT,Vital Capacity,ANSWER-ALS Visit 2,115,,,,0,,,,,,,,,2,Phone Visit,,,,0,0,,,,,,,,,
+CASE-NEUTD314VFT,NEUTD314VFT,Vital Capacity,ANSWER-ALS Visit 3,196,2.88,2.98,2.82,0,,,,62,64,60,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUTD314VFT,NEUTD314VFT,Vital Capacity,ANSWER-ALS Visit 4,315,2.89,2.82,2.99,0,,,,62,60,64,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUTD314VFT,NEUTD314VFT,Vital Capacity,ANSWER-ALS Screening Visit,0,3.53,3.56,3.72,0,,,,75,76,79,4,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUTD314VFT,NEUTD314VFT,Vital Capacity,ANSWER-ALS Follow-up Visit 4,833,1.26,1.5,1.5,0,,,,26,30,30,0,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUTD314VFT,NEUTD314VFT,Vital Capacity,ANSWER-ALS Follow-up Visit 3,665,1.93,1.46,1.62,0,,,,42,31,35,16,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUTD713DE3,NEUTD713DE3,Vital Capacity,ANSWER-ALS Visit 2,105,,,,0,,,,,,,,,1,,2.75,2.54,2.53,0,0,,,,94,87,86,8,2,1
+CASE-NEUTD713DE3,NEUTD713DE3,Vital Capacity,ANSWER-ALS Visit 3,413,,,,0,,,,,,,,,1,,1.95,1.74,2.06,0,0,,,,70,62,74,5,2,1
+CASE-NEUTD713DE3,NEUTD713DE3,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.73,2.62,2.53,0,0,,,,96,92,89,4,2,1
+CASE-NEUTJ613AH9,NEUTJ613AH9,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,0.42,0.47,0.37,0,0,,,,10,12,9,11,2,1
+CASE-NEUTL699WJ0,NEUTL699WJ0,Vital Capacity,ANSWER-ALS Visit 4,307,,,,0,,,,,,,,,1,,1.28,1.16,1.04,0,0,,,,39,36,32,9,2,1
+CASE-NEUTL699WJ0,NEUTL699WJ0,Vital Capacity,ANSWER-ALS Visit 3,169,,,,0,,,,,,,,,1,,1.49,1.64,1.65,0,0,,,,51,56,57,1,2,1
+CASE-NEUTL699WJ0,NEUTL699WJ0,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.1,1.16,1.18,0,0,,,,34,36,36,2,2,1
+CASE-NEUTM934BPY,NEUTM934BPY,Vital Capacity,ANSWER-ALS Visit 3,196,,,,0,,,,,,,,,1,,1.88,1.94,1.93,0,0,,,,60,61,61,1,1,1
+CASE-NEUTM934BPY,NEUTM934BPY,Vital Capacity,ANSWER-ALS Visit 2,105,,,,0,,,,,,,,,1,,1.9,1.88,2.26,0,0,,,,70,69,83,16,2,1
+CASE-NEUTM934BPY,NEUTM934BPY,Vital Capacity,ANSWER-ALS Visit 5,406,,,,0,,,,,,,,,1,,1.69,1.51,1.77,0,0,,,,54,48,56,5,2,1
+CASE-NEUTM934BPY,NEUTM934BPY,Vital Capacity,ANSWER-ALS 6 Month Phone Follow-up,595,,,,0,,,,,,,,,1,,1.09,0.79,0.73,0,0,,,,32,23,21,28,95,1
+CASE-NEUTM934BPY,NEUTM934BPY,Vital Capacity,ANSWER-ALS 3 Month Phone Follow-Up,504,,,,0,,,,,,,,,1,,1.9,1.42,1.15,0,0,,,,61,45,37,25,95,1
+CASE-NEUTM934BPY,NEUTM934BPY,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.1,1.91,2.06,0,0,,,,76,70,75,2,2,1
+CASE-NEUTM934BPY,NEUTM934BPY,Vital Capacity,ANSWER-ALS Visit 4,308,,,,0,,,,,,,,,1,,1.51,1.54,1.22,0,0,,,,48,49,39,2,2,1
+CASE-NEUTM934BPY,NEUTM934BPY,Vital Capacity,ANSWER-ALS Phone Follow-up Visit 9 mo,777,,,,0,,,,,,,,,1,,0.44,0.49,0.44,0,0,,,,14,16,14,10,95,1
+CASE-NEUTM934BPY,NEUTM934BPY,Vital Capacity,ANSWER-ALS Follow-up Visit Month 12,966,,,,0,,,,,,,,,1,,0.38,0.34,,0,1,1,,,12,11,,11,2,1
+CASE-NEUTN952DDG,NEUTN952DDG,Vital Capacity,ANSWER-ALS Visit 4,349,,,,0,,,,,,,,,1,,1.66,1.96,1.84,0,0,,,,55,65,61,6,2,1
+CASE-NEUTN952DDG,NEUTN952DDG,Vital Capacity,ANSWER-ALS Visit 2,127,,,,0,,,,,,,,,1,,2.31,2.38,2.07,0,0,,,,76,79,69,3,2,1
+CASE-NEUTN952DDG,NEUTN952DDG,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.64,2.6,2.68,0,0,,,,87,86,89,1,2,1
+CASE-NEUTN952DDG,NEUTN952DDG,Vital Capacity,ANSWER-ALS Visit 3,237,,,,0,,,,,,,,,1,,1.9,2.25,1.9,0,0,,,,63,74,63,16,2,1
+CASE-NEUTN952DDG,NEUTN952DDG,Vital Capacity,ANSWER-ALS Visit 5,479,,,,0,,,,,,,,,2,Completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUTU360YJY,NEUTU360YJY,Vital Capacity,ANSWER-ALS Visit 2,77,,,,0,,,,,,,,,1,,2.18,2.38,2.39,0,0,,,,57,62,63,0,2,1
+CASE-NEUTU360YJY,NEUTU360YJY,Vital Capacity,ANSWER-ALS Visit 5,392,,,,0,,,,,,,,,1,,1.97,2.07,2.14,0,0,,,,52,55,56,3,2,1
+CASE-NEUTU360YJY,NEUTU360YJY,Vital Capacity,ANSWER-ALS Follow-up Visit,446,2.33,,,0,,,,59,,,100,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUTU360YJY,NEUTU360YJY,Vital Capacity,ANSWER-ALS Visit 3,195,,,,0,,,,,,,,,1,,2.34,2.24,2.22,0,0,,,,62,59,59,4,2,1
+CASE-NEUTU360YJY,NEUTU360YJY,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.38,2.47,2.59,0,0,,,,67,69,73,5,2,1
+CASE-NEUTU360YJY,NEUTU360YJY,Vital Capacity,ANSWER-ALS Visit 4,286,,,,0,,,,,,,,,1,,2.35,2.46,2.78,0,0,,,,62,65,73,12,2,1
+CASE-NEUTU360YJY,NEUTU360YJY,Vital Capacity,ANSWER-ALS Follow-up Visit 6,1195,,,,0,,,,,,,,,1,,2.19,2.37,2.2,0,0,,,,59,64,59,7,2,1
+CASE-NEUTU360YJY,NEUTU360YJY,Vital Capacity,ANSWER-ALS Follow-up Visit 5,1006,2.1,,,1,99,unknown,unknown,54,,,100,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUTU360YJY,NEUTU360YJY,Vital Capacity,ANSWER-ALS Follow-up Visit 4,817,2.3,,,1,99,unknown,unknown,54,,,100,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUTU360YJY,NEUTU360YJY,Vital Capacity,ANSWER-ALS Follow-up Visit 3,635,2.24,2.29,2.36,0,,,,52,54,55,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUTU360YJY,NEUTU360YJY,Vital Capacity,ANSWER-ALS Follow-up Visit 7,1377,2.2,2.22,2.2,0,,,,59,60,59,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUUE852BB1,NEUUE852BB1,Vital Capacity,ANSWER-ALS Visit 2,133,,,,0,,,,,,,,,1,,1.83,1.86,1.92,0,0,,,,32,33,34,3,2,1
+CASE-NEUUE852BB1,NEUUE852BB1,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.45,2.78,2.41,0,0,,,,43,49,43,12,2,1
+CASE-NEUUL256UC9,NEUUL256UC9,Vital Capacity,ANSWER-ALS Visit 3,232,,,,0,,,,,,,,,1,,2.69,2.69,1.92,0,0,,,,62,62,62,0,2,1
+CASE-NEUUL256UC9,NEUUL256UC9,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.11,2.76,2.34,0,0,,,,65,58,49,11,2,1
+CASE-NEUUL256UC9,NEUUL256UC9,Vital Capacity,ANSWER-ALS Visit 2,91,,,,0,,,,,,,,,1,,2.39,2.14,2.97,0,0,,,,50,45,62,20,2,1
+CASE-NEUUL256UC9,NEUUL256UC9,Vital Capacity,ANSWER-ALS Visit 5,336,,,,0,,,,,,,,,1,,1.05,0.77,1.29,0,0,,,,22,16,27,19,2,1
+CASE-NEUUL256UC9,NEUUL256UC9,Vital Capacity,ANSWER-ALS Visit 4,295,,,,0,,,,,,,,,1,,2.28,1.91,2.15,0,0,,,,52,52,52,6,1,1
+CASE-NEUUP280KXL,NEUUP280KXL,Vital Capacity,ANSWER-ALS Visit 4,315,,,,0,,,,,,,,,1,,2.1,2.04,2.26,0,0,,,,63,61,67,7,2,1
+CASE-NEUUP280KXL,NEUUP280KXL,Vital Capacity,ANSWER-ALS Visit 3,173,,,,0,,,,,,,,,1,,1.66,1.53,1.99,0,0,,,,50,46,59,17,2,1
+CASE-NEUUP280KXL,NEUUP280KXL,Vital Capacity,ANSWER-ALS Visit 2,106,,,,0,,,,,,,,,2,Visit completed over the phone,,,,0,0,,,,,,,,,
+CASE-NEUUP280KXL,NEUUP280KXL,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.92,2.1,1.67,0,0,,,,59,65,51,9,2,1
+CASE-NEUUP280KXL,NEUUP280KXL,Vital Capacity,ANSWER-ALS Visit 5,370,,,,0,,,,,,,,,2,Completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUUP280KXL,NEUUP280KXL,Vital Capacity,ANSWER-ALS Follow-up Visit,719,1.73,1.82,1.6,0,,,,52,55,48,5,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUUP280KXL,NEUUP280KXL,Vital Capacity,ANSWER-ALS Follow-up Visit 2,1020,2.11,2.14,1.99,0,,,,64,65,61,1,,1,,,,,0,0,,,,,,,,2,2
+CTRL-NEUUV825HYF,NEUUV825HYF,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Opted out,,,,0,0,,,,,,,,,
+CASE-NEUVF888UHM,NEUVF888UHM,Vital Capacity,ANSWER-ALS Visit 3,245,,,,0,,,,,,,,,1,,1.6,1.58,1.45,0,0,,,,63,62,57,1,95,1
+CASE-NEUVF888UHM,NEUVF888UHM,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.75,1.64,1.72,0,0,,,,68,64,67,2,2,1
+CASE-NEUVF888UHM,NEUVF888UHM,Vital Capacity,ANSWER-ALS Visit 2,161,,,,0,,,,,,,,,1,,1.81,1.9,1.78,0,0,,,,70,74,69,5,2,1
+CASE-NEUVF888UHM,NEUVF888UHM,Vital Capacity,ANSWER-ALS Visit 5,448,,,,0,,,,,,,,,1,,1.28,1.31,1.3,0,0,,,,50,51,51,1,2,1
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Vital Capacity,ANSWER-ALS Visit 5,461,,,,0,,,,,,,,,1,,1.53,1.48,1.37,0,0,,,,42,40,37,3,2,1
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Vital Capacity,ANSWER-ALS Follow-up Visit Month 12,1001,,,,0,,,,,,,,,1,,0.81,1.07,1.06,0,0,,,,22,29,29,1,2,1
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Vital Capacity,ANSWER-ALS Follow-up Visit,847,,,,0,,,,,,,,,2,patient refused.,,,,0,0,,,,,,,,,
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Vital Capacity,ANSWER-ALS Phone Follow-up Month 9 Visit,938,,,,0,,,,,,,,,1,,1.07,1.2,,0,1,99,,reason not done unknown,29,33,,11,2,1
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Vital Capacity,ANSWER-ALS Visit 3,203,,,,0,,,,,,,,,1,,2.43,2.29,2.44,0,0,,,,62,59,63,0,2,1
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Vital Capacity,ANSWER-ALS Visit 2,105,,,,0,,,,,,,,,1,,1.84,1.98,2.13,0,0,,,,48,52,56,7,2,1
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Vital Capacity,ANSWER-ALS 3 Month Phone Follow-up,567,,,,0,,,,,,,,,1,,1.7,1.49,1.4,0,0,,,,44,39,36,12,2,1
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Vital Capacity,ANSWER-ALS Visit 4,378,,,,0,,,,,,,,,1,,1.59,1.54,1.42,0,0,,,,41,40,37,3,2,1
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.74,2.88,2.94,0,0,,,,70,74,75,2,2,1
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Vital Capacity,ANSWER-ALS 15 Month Phone Follow-up Visit 2,1323,,,,0,,,,,,,,,2,Was not collected by study staff,,,,0,0,,,,,,,,,
+CASE-NEUVL876PUV,NEUVL876PUV,Vital Capacity,ANSWER-ALS Visit 5,326,,,,0,,,,,,,,,1,,3,3.25,4.01,0,0,,,,90,97,120,19,2,1
+CASE-NEUVL876PUV,NEUVL876PUV,Vital Capacity,ANSWER-ALS Visit 2,77,,,,0,,,,,,,,,1,,3.2,3.19,3.13,0,0,,,,94,94,92,0,2,1
+CASE-NEUVL876PUV,NEUVL876PUV,Vital Capacity,ANSWER-ALS Follow-up Visit,509,3.18,,,0,,,,84,,,100,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUVL876PUV,NEUVL876PUV,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.12,3.21,3.23,0,0,,,,91,94,94,1,2,1
+CASE-NEUVL876PUV,NEUVL876PUV,Vital Capacity,ANSWER-ALS Visit 3,173,,,,0,,,,,,,,,2,Time,,,,0,0,,,,,,,,,
+CASE-NEUVM674HUA,NEUVM674HUA,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.1,1.19,1.04,0,0,,,,40,43,38,8,2,1
+CASE-NEUVN746WKV,NEUVN746WKV,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.09,2.99,2.94,0,0,,,,96,93,91,3,2,1
+CASE-NEUVN746WKV,NEUVN746WKV,Vital Capacity,ANSWER-ALS Visit 2,636,,,,0,,,,,,,,,1,,3.05,3.05,3.05,0,0,,,,93,93,93,0,2,1
+CASE-NEUVR636VTP,NEUVR636VTP,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.86,3.23,0.78,0,0,,,,93,162,39,42,2,1
+CASE-NEUVW680LPK,NEUVW680LPK,Vital Capacity,ANSWER-ALS Visit 2,80,,,,0,,,,,,,,,2,Unable to complete procedure due to time constraints,,,,0,0,,,,,,,,,
+CASE-NEUVW680LPK,NEUVW680LPK,Vital Capacity,ANSWER-ALS Visit 4,297,,,,0,,,,,,,,,2,Visit completed over the phone,,,,0,0,,,,,,,,,
+CASE-NEUVW680LPK,NEUVW680LPK,Vital Capacity,ANSWER-ALS Visit 3,154,1.33,1.67,1.62,0,,,,33,42,40,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUVW680LPK,NEUVW680LPK,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.74,2.83,2.59,0,0,,,,69,71,65,3,2,1
+CASE-NEUVW680LPK,NEUVW680LPK,Vital Capacity,ANSWER-ALS Visit 5,396,,,,0,,,,,,,,,2,Completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUVW999FP9,NEUVW999FP9,Vital Capacity,ANSWER-ALS Visit 2,91,,,,0,,,,,,,,,1,,5.22,5.78,5.46,0,0,,,,83,92,84,6,2,1
+CASE-NEUVW999FP9,NEUVW999FP9,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,5.56,5.71,5.36,0,0,,,,85,90,85,3,2,1
+CASE-NEUVX902YNL,NEUVX902YNL,Vital Capacity,ANSWER-ALS Visit 2,93,,,,0,,,,,,,,,1,,1.18,,,1,1,1,,,27,,,100,1,1
+CASE-NEUVX902YNL,NEUVX902YNL,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.63,2.36,,0,1,1,,,60,54,,10,1,1
+CTRL-NEUVZ050YX7,NEUVZ050YX7,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Opted out,,,,0,0,,,,,,,,,
+CASE-NEUWD538KT3,NEUWD538KT3,Vital Capacity,ANSWER-ALS Visit 3,203,,,,0,,,,,,,,,1,,0.9,0.95,0.68,0,0,,,,20,21,15,5,2,1
+CASE-NEUWD538KT3,NEUWD538KT3,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.61,,,1,1,99,RRT inadvertently did not complete trial number 2,RRT inadvertently did not complete trial number 3,59,,,100,2,1
+CASE-NEUWH380YHV,NEUWH380YHV,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,5.46,5.26,5.49,0,0,,,,105,102,106,1,2,1
+CASE-NEUWH380YHV,NEUWH380YHV,Vital Capacity,ANSWER-ALS Visit 2,267,,,,0,,,,,,,,,1,,5.13,5.04,4.99,0,0,,,,100,99,99,2,2,1
+CASE-NEUWH380YHV,NEUWH380YHV,Vital Capacity,ANSWER-ALS Visit 3,479,,,,0,,,,,,,,,1,,4.85,4.72,5.02,0,0,,,,96,93,99,3,95,1
+CASE-NEUWJ389FC7,NEUWJ389FC7,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.15,3.23,3.1,0,0,,,,69,73,70,2,2,1
+CASE-NEUWJ389FC7,NEUWJ389FC7,Vital Capacity,ANSWER-ALS Visit 2,161,,,,0,,,,,,,,,1,,2.91,2.79,3.05,0,0,,,,64,63,69,5,2,1
+CASE-NEUWJ389FC7,NEUWJ389FC7,Vital Capacity,ANSWER-ALS Visit 4,266,,,,0,,,,,,,,,1,,2.18,1.77,2.14,0,0,,,,50,40,47,2,2,1
+CASE-NEUWJ389FC7,NEUWJ389FC7,Vital Capacity,ANSWER-ALS Follow-up Visit,483,,,,0,,,,,,,,,1,,1.63,,,1,1,,,,36,,,100,2,1
+CASE-NEUWP426NBR,NEUWP426NBR,Vital Capacity,ANSWER-ALS Visit 2,133,1.33,1.42,1.43,0,,,,58,61,62,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUWP426NBR,NEUWP426NBR,Vital Capacity,ANSWER-ALS Screening Visit,0,0.8,1.04,0.91,0,,,,37,49,43,13,,1,,,,,0,0,,,,,,,,2,2
+CTRL-NEUWT164JRQ,NEUWT164JRQ,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,opted out,,,,0,0,,,,,,,,,
+CASE-NEUWX167DAH,NEUWX167DAH,Vital Capacity,ANSWER-ALS Visit 2,171,,,,0,,,,,,,,,2,visit was a televisit,,,,0,0,,,,,,,,,
+CASE-NEUWX167DAH,NEUWX167DAH,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.82,1.54,2.43,0,0,,,,44,38,59,25,2,1
+CASE-NEUWX167DAH,NEUWX167DAH,Vital Capacity,ANSWER-ALS Visit 4,630,,,,0,,,,,,,,,2,Not collected by study staff during clinical visit,,,,0,0,,,,,,,,,
+CASE-NEUXE491RMM,NEUXE491RMM,Vital Capacity,ANSWER-ALS Screening Visit,0,1.33,0.78,0.63,0,,,,44,26,21,41,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUXE491RMM,NEUXE491RMM,Vital Capacity,ANSWER-ALS Visit 2,133,,,,0,,,,,,,,,2,subject attempted spirometry but did not complete secondary to disease progression,,,,0,0,,,,,,,,,
+CASE-NEUXP289KRC,NEUXP289KRC,Vital Capacity,ANSWER-ALS Visit 2,259,,,,0,,,,,,,,,1,,3.9,3.82,3.81,0,0,,,,103,101,101,2,2,1
+CASE-NEUXP289KRC,NEUXP289KRC,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Inadvertently not collected,,,,0,0,,,,,,,,,
+CASE-NEUXP289KRC,NEUXP289KRC,Vital Capacity,ANSWER-ALS Visit 3,379,,,,0,,,,,,,,,1,,3.31,3.36,3.52,0,0,,,,87,89,93,5,2,1
+CASE-NEUXP289KRC,NEUXP289KRC,Vital Capacity,ANSWER-ALS Follow-up Visit 3,1001,,,,0,,,,,,,,,1,,0.42,0.32,0.39,0,0,,,,11,9,10,7,2,1
+CASE-NEUXP289KRC,NEUXP289KRC,Vital Capacity,ANSWER-ALS Follow-up Visit,714,1.84,1.97,1.96,0,,,,45,49,48,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUXP289KRC,NEUXP289KRC,Vital Capacity,ANSWER-ALS Visit 5,540,2.63,2.65,2.59,0,,,,65,65,64,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUXP289KRC,NEUXP289KRC,Vital Capacity,ANSWER-ALS Follow-up Visit 2,869,1.32,1.42,1.54,0,,,,33,35,38,8,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUXP289KRC,NEUXP289KRC,Vital Capacity,ANSWER-ALS Visit 4,466,,,,0,,,,,,,,,2,Completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUXP595FFP,NEUXP595FFP,Vital Capacity,ANSWER-ALS Follow-up Visit: Month 6,1127,,,,0,,,,,,,,,2,Patient declined due to fatigue,,,,0,0,,,,,,,,,
+CASE-NEUXP595FFP,NEUXP595FFP,Vital Capacity,ANSWER-ALS 3 month Phone Follow-up Visit,791,,,,0,,,,,,,,,2,reason not done unknown,,,,0,0,,,,,,,,,
+CASE-NEUXP595FFP,NEUXP595FFP,Vital Capacity,ANSWER-ALS Visit 4,406,,,,0,,,,,,,,,2,not completed due to time constraints in the ALS Multidisciplinary Clinic,,,,0,0,,,,,,,,,
+CASE-NEUXP595FFP,NEUXP595FFP,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,0.74,,,1,1,1,,,19,,,100,2,1
+CASE-NEUXP595FFP,NEUXP595FFP,Vital Capacity,ANSWER-ALS Visit 5,630,,,,0,,,,,,,,,2,Patient declined due to fatigue and disease progression,,,,0,0,,,,,,,,,
+CASE-NEUXP595FFP,NEUXP595FFP,Vital Capacity,ANSWER-ALS Visit 3,224,,,,0,,,,,,,,,2,Not collected by study staff during clinical visit,,,,0,0,,,,,,,,,
+CASE-NEUXV122FN3,NEUXV122FN3,Vital Capacity,ANSWER-ALS Phone Follow-up Visit 3mo,833,,,,0,,,,,,,,,1,,3.44,3.46,3.43,0,0,,,,70,71,70,1,2,1
+CASE-NEUXV122FN3,NEUXV122FN3,Vital Capacity,ANSWER-ALS Visit 2,105,,,,0,,,,,,,,,1,,3.47,3.64,3.6,0,0,,,,70,74,73,1,2,1
+CASE-NEUXV122FN3,NEUXV122FN3,Vital Capacity,ANSWER-ALS Visit 3,231,,,,0,,,,,,,,,1,,3.69,4.01,3.15,0,0,,,,75,81,64,8,2,1
+CASE-NEUXV122FN3,NEUXV122FN3,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.56,3,3.82,0,0,,,,72,60,77,7,2,1
+CASE-NEUXV122FN3,NEUXV122FN3,Vital Capacity,ANSWER-ALS Visit 4,413,,,,0,,,,,,,,,1,,3.47,3.37,3.25,0,0,,,,71,69,66,3,2,1
+CASE-NEUXV122FN3,NEUXV122FN3,Vital Capacity,ANSWER-ALS Visit 5,553,,,,0,,,,,,,,,1,,3.64,3.87,3.73,0,0,,,,74,79,76,4,95,1
+CASE-NEUXV122FN3,NEUXV122FN3,Vital Capacity,ANSWER-ALS 9 Month Phone Follow-up Visit,1218,,,,0,,,,,,,,,2,Not collected by study staff,,,,0,0,,,,,,,,,
+CASE-NEUXV122FN3,NEUXV122FN3,Vital Capacity,ANSWER-ALS 12 Month Phone Follow-up Visit,1316,,,,0,,,,,,,,,2,Was not collected by study staff,,,,0,0,,,,,,,,,
+CASE-NEUXX361RUG,NEUXX361RUG,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Patient unable to complete due to exhaustion,,,,0,0,,,,,,,,,
+CASE-NEUYG298CA9,NEUYG298CA9,Vital Capacity,ANSWER-ALS Visit 2,69,,,,0,,,,,,,,,1,,3.77,3.72,3.98,0,0,,,,78,77,82,5,2,1
+CASE-NEUYG298CA9,NEUYG298CA9,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.77,U,U,0,0,,,,85,U,U,100,1,1
+CASE-NEUYG298CA9,NEUYG298CA9,Vital Capacity,ANSWER-ALS Visit 3,1020,,,,0,,,,,,,,,1,,2.44,3.34,3.39,0,0,,,,59,80,81,1,2,1
+CASE-NEUYH924UCE,NEUYH924UCE,Vital Capacity,ANSWER-ALS Visit 3,231,,,,0,,,,,,,,,1,,4.11,4.16,4.19,0,0,,,,79,80,80,1,2,1
+CASE-NEUYH924UCE,NEUYH924UCE,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,4.56,4.58,4.46,0,0,,,,85,85,83,0,2,1
+CASE-NEUYH924UCE,NEUYH924UCE,Vital Capacity,ANSWER-ALS Visit 2,98,,,,0,,,,,,,,,1,,4.6,4.61,4.47,0,0,,,,86,86,83,0,2,1
+CASE-NEUYH924UCE,NEUYH924UCE,Vital Capacity,ANSWER-ALS Visit 4,714,,,,0,,,,,,,,,1,,2.51,2.3,2.38,0,0,,,,47,43,45,5,95,1
+CASE-NEUYK029WUU,NEUYK029WUU,Vital Capacity,ANSWER-ALS Screening Visit,0,2.3,2.48,2.15,0,,,,70,76,66,7,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUYK029WUU,NEUYK029WUU,Vital Capacity,ANSWER-ALS Visit 5,371,1.81,1.78,2.35,0,,,,56,55,72,23,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUYK029WUU,NEUYK029WUU,Vital Capacity,ANSWER-ALS Visit 3,182,1.88,2.25,2.12,0,,,,58,69,65,6,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUYK029WUU,NEUYK029WUU,Vital Capacity,ANSWER-ALS Visit 4,300,,,,0,,,,,,,,,1,,1.26,1.57,1.54,0,0,,,,39,48,47,2,2,1
+CASE-NEUYK029WUU,NEUYK029WUU,Vital Capacity,ANSWER-ALS Visit 2,138,,,,0,,,,,,,,,1,,0.98,1.03,1.39,0,0,,,,30,31,43,26,2,1
+CASE-NEUYK029WUU,NEUYK029WUU,Vital Capacity,ANSWER-ALS Follow-up Visit 7,1204,1.84,1.87,1.84,0,,,,57,58,57,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUYK029WUU,NEUYK029WUU,Vital Capacity,ANSWER-ALS Follow-up Visit 5,889,1.76,1.88,1.91,0,,,,54,58,59,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUYK029WUU,NEUYK029WUU,Vital Capacity,ANSWER-ALS Follow-up Visit 6,1050,1.96,2.1,1.84,0,,,,61,65,57,7,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUYK029WUU,NEUYK029WUU,Vital Capacity,ANSWER-ALS Follow-up Visit 4,721,1.93,1.97,2.23,0,,,,60,61,69,12,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUYL008GM4,NEUYL008GM4,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,SVC not collected due to equipment malfunction.,,,,0,0,,,,,,,,,
+CASE-NEUYL008GM4,NEUYL008GM4,Vital Capacity,ANSWER-ALS Visit 2,107,,,,0,,,,,,,,,2,Visit was conducted via telephone,,,,0,0,,,,,,,,,
+CASE-NEUYL149PRF,NEUYL149PRF,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Equipment malfunction,,,,0,0,,,,,,,,,
+CASE-NEUYL149PRF,NEUYL149PRF,Vital Capacity,ANSWER-ALS Visit 2,127,,,,0,,,,,,,,,2,Visit completed via phone call,,,,0,0,,,,,,,,,
+CTRL-NEUYM011FER,NEUYM011FER,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,opted to not collect for control,,,,0,0,,,,,,,,,
+CTRL-NEUYM205MRL,NEUYM205MRL,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,healthy control - measure not needed,,,,0,0,,,,,,,,,
+CASE-NEUYP235ZLD,NEUYP235ZLD,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,0.62,0.61,0.65,0,0,,,,10,10,10,5,2,1
+CASE-NEUYY225MNZ,NEUYY225MNZ,Vital Capacity,ANSWER-ALS Visit 4,358,,,,0,,,,,,,,,1,,0.62,0.66,0.66,0,0,,,,19,20,20,0,2,1
+CASE-NEUYY225MNZ,NEUYY225MNZ,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.78,2.86,3.17,0,0,,,,75,77,85,10,2,1
+CASE-NEUYY225MNZ,NEUYY225MNZ,Vital Capacity,ANSWER-ALS Visit 2,92,2.2,2.03,2.77,0,,,,66,61,83,21,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUYY225MNZ,NEUYY225MNZ,Vital Capacity,ANSWER-ALS Visit 3,198,1.58,1.9,1.64,0,,,,46,55,48,14,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUYY878JGP,NEUYY878JGP,Vital Capacity,ANSWER-ALS Visit 3,175,1.14,0.94,1.17,0,,,,34,28,34,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUYY878JGP,NEUYY878JGP,Vital Capacity,ANSWER-ALS Visit 4,266,,,,0,,,,,,,,,2,Patient declined procedure,,,,0,0,,,,,,,,,
+CASE-NEUYY878JGP,NEUYY878JGP,Vital Capacity,ANSWER-ALS Visit 2,105,1.62,1.18,,1,,,subject refusal,48,48,,27,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUYY878JGP,NEUYY878JGP,Vital Capacity,ANSWER-ALS Screening Visit,0,2.31,2.51,2.36,0,,,,69,75,71,6,,1,,,,,0,0,,,,,,,,2,2
+CTRL-NEUZL045YD3,NEUZL045YD3,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.14,2.02,2.21,0,0,,,,75,70,77,3,2,1
+CASE-NEUZN836GME,NEUZN836GME,Vital Capacity,ANSWER-ALS Screening Visit,0,1.19,1.04,1.02,0,,,,26,23,22,13,,1,,,,,0,0,,,,,,,,1,2
+CASE-NEUZN936HJ9,NEUZN936HJ9,Vital Capacity,ANSWER-ALS Visit 3,207,,,,0,,,,,,,,,2,Visit completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,Vital Capacity,ANSWER-ALS Visit 2,112,,,,0,,,,,,,,,2,Visit completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.86,4.16,4.03,0,0,,,,84,91,88,3,2,1
+CASE-NEUZN936HJ9,NEUZN936HJ9,Vital Capacity,ANSWER-ALS Visit 4,309,,,,0,,,,,,,,,2,Completed via phone call,,,,0,0,,,,,,,,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,Vital Capacity,ANSWER-ALS Follow-up Visit 2,840,4.12,4.13,4.2,0,,,,89,89,91,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUZN936HJ9,NEUZN936HJ9,Vital Capacity,ANSWER-ALS Follow-up Visit,707,4.1,4.17,4.12,0,,,,88,90,89,1,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUZN936HJ9,NEUZN936HJ9,Vital Capacity,ANSWER-ALS Visit 5,525,4.35,4.43,4.16,0,,,,93,95,89,2,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUZP278MR4,NEUZP278MR4,Vital Capacity,ANSWER-ALS Visit 5,385,,,,0,,,,,,,,,1,,1.98,2.01,1.83,0,0,,,,57,57,52,1,2,1
+CASE-NEUZP278MR4,NEUZP278MR4,Vital Capacity,ANSWER-ALS Visit 3,204,,,,0,,,,,,,,,1,,1.94,2.09,2.03,0,0,,,,55,60,58,3,2,1
+CASE-NEUZP278MR4,NEUZP278MR4,Vital Capacity,ANSWER-ALS Visit 2,98,,,,0,,,,,,,,,1,,2.19,2.02,2.05,0,0,,,,55,50,51,6,2,1
+CASE-NEUZP278MR4,NEUZP278MR4,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,1.47,1.5,1.45,0,0,,,,37,37,36,2,2,1
+CASE-NEUZP278MR4,NEUZP278MR4,Vital Capacity,ANSWER-ALS Visit 4,295,,,,0,,,,,,,,,1,,2.17,2.15,2.01,0,0,,,,62,61,57,1,1,1
+CASE-NEUZT557DHF,NEUZT557DHF,Vital Capacity,ANSWER-ALS Visit 2,153,,,,0,,,,,,,,,2,"Visit 2 conducted via phone call, patient unable to travel to study site.",,,,0,0,,,,,,,,,
+CASE-NEUZT557DHF,NEUZT557DHF,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,3.95,3.8,3.78,0,0,,,,140,134,134,4,2,1
+CASE-NEUZV656DD1,NEUZV656DD1,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,2,Could not be done due to progression of ALS,,,,0,0,,,,,,,,,
+CASE-NEUZV656DD1,NEUZV656DD1,Vital Capacity,ANSWER-ALS Visit 2,105,,,,0,,,,,,,,,2,Not done due to illness,,,,0,0,,,,,,,,,
+CASE-NEUZX521TKK,NEUZX521TKK,Vital Capacity,ANSWER-ALS Screening Visit,0,2.21,2.32,2.38,0,,,,47,50,51,3,,1,,,,,0,0,,,,,,,,2,2
+CASE-NEUZX521TKK,NEUZX521TKK,Vital Capacity,ANSWER-ALS Visit 2,101,,,,0,,,,,,,,,2,Phone Visit,,,,0,0,,,,,,,,,
+CASE-NEUZX521TKK,NEUZX521TKK,Vital Capacity,ANSWER-ALS Visit 4,312,,,,0,,,,,,,,,2,Phone Visit,,,,0,0,,,,,,,,,
+CASE-NEUZX847VWV,NEUZX847VWV,Vital Capacity,ANSWER-ALS Screening Visit,0,,,,0,,,,,,,,,1,,2.29,2.29,2.18,0,0,,,,71,71,68,0,2,1

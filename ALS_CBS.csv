@@ -1,0 +1,881 @@
+Participant_ID,SubjectUID,Child_Name,Visit_Name,Visit_Date,atta,attb1,attb2,attc1,attc2,attscr,carbeh,carbeh01,carbeh02,carbeh03,carbeh04,carbeh05,carbeh06,carbeh07,carbeh08,carbeh09,carbeh10,carbeh11,carbeh12,carbeh13,carbeh14,carbeh15,cbsdn,cbsdnsp,cbstot,cbswrite,cgcuranx,cgcurcry,cgcurdep,cgcurftg,cgqcnst,cgqdn,cgqdnsp,cgqrel,con3,con4,con5,con6,con7,con8,conscr,ini01,ini02,ini03,ini04,ini05,ini06,ini07,ini08,ini09,ini10,ini11,ini12,ini13,ini14,ini15,ini16,ini17,ini18,ini19,ini20,iniscr,trka,trkb,trkc,trkcor,trkerr,trkscr
+CASE-NEUAA599TMX,NEUAA599TMX,ALS CBS,ANSWER-ALS Visit 2,154,0,5,7,8,4,3,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,1,1,1,1,5,freeze,frog,fork,from,frozen,fudgesicle,foot,flip-flops,,,,,,,,,,,,,4,0,0,2,3,0,3
+CASE-NEUAA599TMX,NEUAA599TMX,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,free,flow,fall,fell,feel,felt,fill,foe,follow,fruit,fungicide,foul,foal,,,,,,,,5,0,0,0,4,0,5
+CASE-NEUAA599TMX,NEUAA599TMX,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,154,,,,,,,34,1,1,4,3,2,1,1,1,1,3,2,2,2,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAA599TMX,NEUAA599TMX,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,36,2,2,3,1,2,2,1,1,1,2,1,2,1,2,1,,,,,1,1,1,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAB000NKC,NEUAB000NKC,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,251,,,,,,,43,1,2,1,1,1,1,2,1,1,1,1,1,1,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAB000NKC,NEUAB000NKC,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,157,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAB000NKC,NEUAB000NKC,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,44,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAB000NKC,NEUAB000NKC,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAB000NKC,NEUAB000NKC,ALS CBS,ANSWER-ALS Visit 3,157,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,Funny,Find,Friend,Family,For,Freeze,Foot,Familiar,Farm,Feed,Fortune,Full,,,,,,,,,5,0,0,0,4,0,5
+CASE-NEUAB000NKC,NEUAB000NKC,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,2,2,4,Far,Fear,Free,Fast,Fix,Friendly,Foe,Fridge,Familiar,Fax,For,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUAB000NKC,NEUAB000NKC,ALS CBS,ANSWER-ALS Visit 2,114,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAB000NKC,NEUAB000NKC,ALS CBS,ANSWER-ALS Visit 4,251,0,5,7,8,6,3,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,2,1,5,Far,Find,Fire,Flame,Fog,Frost,Float,Filter,Father,Free,Fancy,Familiar,Fixture,Frog,For,,,,,,5,0,0,0,4,0,5
+CASE-NEUAE993EPR,NEUAE993EPR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,34,1,1,3,1,3,2,2,1,2,1,1,3,2,2,1,,,,,2,2,2,1,95,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAE993EPR,NEUAE993EPR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,470,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Data collected through medical records,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAE993EPR,NEUAE993EPR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,314,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAE993EPR,NEUAE993EPR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,No caregiver present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAE993EPR,NEUAE993EPR,ALS CBS,ANSWER-ALS Visit 2,64,,,,,,,,,,,,,,,,,,,,,,,1,,,0,,,,,,,,,1,1,1,1,2,2,4,sister,sink,slow,sun,sore,sock,slip,same,,,,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUAE993EPR,NEUAE993EPR,ALS CBS,ANSWER-ALS Visit 5,470,,,,,,,,,,,,,,,,,,,,,,,2,Data collected through medical records,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAE993EPR,NEUAE993EPR,ALS CBS,ANSWER-ALS Visit 4,314,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAE993EPR,NEUAE993EPR,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,2,1,2,2,4,force,friends,fall,finish,fork,finger,frog,,,,,,,,,,,,,,3,0,0,0,2,0,5
+CASE-NEUAE993EPR,NEUAE993EPR,ALS CBS,ANSWER-ALS Visit 3,254,,,,,,,,,,,,,,,,,,,,,,,1,,,0,,,,,,,,,1,1,1,1,2,2,4,same,sun,set,solemn,sometimes,some,school,secret,sorry,sew,saw,struggle,steady,stretch,stand,,,,,,4,1,0,0,4,1,4
+CASE-NEUAF553MJ3,NEUAF553MJ3,ALS CBS,ANSWER-ALS Visit 2,84,0,5,7,8,6,3,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,Food,Farrow,Field,Focus,Flower,Flour,Fuck,Fixture,Face,Facile,Feed,Focus,Flood,,,,,,,,4,0,0,0,4,1,5
+CASE-NEUAF553MJ3,NEUAF553MJ3,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,for,far,find,four,food,far,farther,fateur,favorite,fuck,feed,feasable,ferocious,favorite,favorable,,,,,,3,0,0,0,4,2,5
+CASE-NEUAF553MJ3,NEUAF553MJ3,ALS CBS,ANSWER-ALS Visit 3,819,,,,,,,,,,,,,,,,,,,,,,,2,Unable to communicate,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAF553MJ3,NEUAF553MJ3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,84,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAF553MJ3,NEUAF553MJ3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAF553MJ3,NEUAF553MJ3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,819,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Unable to communicate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAG603XLK,NEUAG603XLK,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,224,,,,,,,44,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAG603XLK,NEUAG603XLK,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,2,2,4,Food,Ford,Floor,Fouton,Fruit,Flood,Fool,Fancy,Flank,Freak,Flavor,Flip,Fuji,Flown,Feel,Fantastic,Fountain,,,,5,0,0,0,4,0,5
+CASE-NEUAG603XLK,NEUAG603XLK,ALS CBS,ANSWER-ALS Visit 4,315,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,2,1,5,Floor,Foot,Feet,Fly,Fade,Focus,Father,Flag,Foot,Flower,Feel,Flip,Flop,Flake,Flourish,Furnish,Fence,,,,4,0,0,0,4,1,5
+CASE-NEUAG603XLK,NEUAG603XLK,ALS CBS,ANSWER-ALS Visit 2,126,0,5,7,8,6,3,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,Fruit,Freak,Fountain,Flood,Frustrated,Furious,Fondle,Filled,Fool,Floor,Feed,Fell,Fruitloop,Flower,Frosting,Field,Fly,Flute,Flame,,5,0,0,0,4,0,5
+CASE-NEUAG603XLK,NEUAG603XLK,ALS CBS,ANSWER-ALS Visit 3,224,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,Food,Flower,Fake,Front,Feel,Forward,Freeing,Family,Focus,Fork,Fine,Fled,Fly,Found,Full,Fill,Flip,Flake,Flap,Flop,5,0,0,0,4,0,5
+CASE-NEUAG603XLK,NEUAG603XLK,ALS CBS,ANSWER-ALS Visit 5,455,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,2,5,flower,food,field,flood,fun,finger,for,flag,found,fund,feel,flip,foot,fake,flee,flop,flat,full,full,feed,5,0,0,0,4,0,5
+CASE-NEUAG603XLK,NEUAG603XLK,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,315,,,,,,,42,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,,,,,1,2,1,1,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAG603XLK,NEUAG603XLK,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,455,,,,,,,39,2,2,1,2,2,2,2,1,1,1,1,1,1,1,1,,,,,2,2,2,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAG603XLK,NEUAG603XLK,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,39,1,3,2,1,1,2,2,1,2,1,1,1,1,1,1,,,,,2,2,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAG603XLK,NEUAG603XLK,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,126,,,,,,,43,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,,,,,2,2,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAM655HF7,NEUAM655HF7,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,35,2,1,1,1,3,2,2,1,2,2,1,2,2,2,1,,,,,2,1,1,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAM655HF7,NEUAM655HF7,ALS CBS,ANSWER-ALS Visit 3,210,,,,,,,,,,,,,,,,,,,,,,,2,Pt. has loss of speech and writing abilities,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAM655HF7,NEUAM655HF7,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,10,0,,,,,,,,,1,1,1,1,1,1,5,,,,,,,,,,,,,,,,,,,,,0,,,,,,0
+CASE-NEUAM655HF7,NEUAM655HF7,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,210,,,,,,,39,1,3,3,1,1,1,1,2,2,1,1,1,1,1,1,,,,,2,1,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAT234RK6,NEUAT234RK6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,350,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAT234RK6,NEUAT234RK6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,182,,,,,,,41,1,1,1,1,1,2,4,1,1,1,1,1,1,1,1,,,,,1,1,1,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAT234RK6,NEUAT234RK6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,290,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAT234RK6,NEUAT234RK6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,41,1,1,1,1,2,2,3,1,1,1,1,1,1,1,1,,,,,1,1,1,1,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAT234RK6,NEUAT234RK6,ALS CBS,ANSWER-ALS Visit 5,350,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAT234RK6,NEUAT234RK6,ALS CBS,ANSWER-ALS Visit 4,290,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAT234RK6,NEUAT234RK6,ALS CBS,ANSWER-ALS Screening Visit,0,1,,,,,1,,,,,,,,,,,,,,,,,1,,8,0,,,,,,,,,,,,,,,2,Furn,Family,Far,Frequency,Fence,Fog,Further,,,,,,,,,,,,,,3,0,1,2,2,0,2
+CASE-NEUAT234RK6,NEUAT234RK6,ALS CBS,ANSWER-ALS Visit 3,182,0,3,4,4,1,1,,,,,,,,,,,,,,,,,1,,8,0,,,,,,,,,2,2,,,,,2,Farm,Family,Fun,Fellowship,Fertilizer,,,,,,,,,,,,,,,,3,0,1,2,2,0,2
+CASE-NEUAW157NMJ,NEUAW157NMJ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,110,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAW157NMJ,NEUAW157NMJ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAW157NMJ,NEUAW157NMJ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,420,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAW157NMJ,NEUAW157NMJ,ALS CBS,ANSWER-ALS Visit 2,110,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,Fuck,Fart,Foam,Fake,Face,Fathom,Feel,Feature,Fire,First,Fast,Foremost,Forgot,Forever,Further,Farther,Fake,Foe,Feet,Free,4,0,0,0,4,1,5
+CASE-NEUAW157NMJ,NEUAW157NMJ,ALS CBS,ANSWER-ALS Visit 3,173,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,Sand,Set,Said,Sterile,Sex,Soup,Sap,Seaweed,Seek,Said,Sanitize,South,Southern,Septic,Shoe,Sock,Soft,Seek,Step,Straight,3,0,0,0,4,2,5
+CASE-NEUAW157NMJ,NEUAW157NMJ,ALS CBS,ANSWER-ALS Visit 4,329,,,,,,,,,,,,,,,,,,,,,,,2,Insufficient time,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAW157NMJ,NEUAW157NMJ,ALS CBS,ANSWER-ALS Screening Visit,0,0,,,8,8,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,Fill,Full,Four,Food,Fan,Folly,Flavor,Fast,Feet,Forest,Fun,For,Five,Fix,Fan,,,,,,3,0,0,0,4,2,5
+CASE-NEUAW157NMJ,NEUAW157NMJ,ALS CBS,ANSWER-ALS Visit 5,420,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAW157NMJ,NEUAW157NMJ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,329,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Insufficient time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAW157NMJ,NEUAW157NMJ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAW717TN6,NEUAW717TN6,ALS CBS,ANSWER-ALS Visit 3,177,0,5,7,8,6,3,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,silly,save,selfish,salmon,self,schiarcha,sandy,salmonella,sequence,salivate,seed,secretion,sausage,sick,sacred,salty,,,,,5,0,0,0,4,0,5
+CASE-NEUAW717TN6,NEUAW717TN6,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,6,8,8,4,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,fudge,favorite,feild,fiddle,farse,fan,fence,fake,fail,fondue,face,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUAW717TN6,NEUAW717TN6,ALS CBS,ANSWER-ALS Visit 4,282,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,fall,fault,fatty,foliage,fill,frank,failure,future,family,full,faint,for,few,,,,,,,,5,0,0,0,4,0,5
+CASE-NEUAW717TN6,NEUAW717TN6,ALS CBS,ANSWER-ALS Visit 5,373,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,2,1,5,fail,for,forementioned,fairway,fall,family,friends,folk,familiar,farrow,foresight,frank,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUAW717TN6,NEUAW717TN6,ALS CBS,ANSWER-ALS Visit 2,93,0,5,6,8,7,3,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,2,1,1,1,5,fail,faliure,food,force,family,familiar,frankly,female,feminine,FALSE,fad,famine,face,fags,,,,,,,5,0,0,2,4,0,3
+CASE-NEUAW717TN6,NEUAW717TN6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,37,2,1,2,1,3,1,1,1,1,1,3,3,1,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAW717TN6,NEUAW717TN6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,282,,,,,,,44,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAW717TN6,NEUAW717TN6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,93,,,,,,,44,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAW717TN6,NEUAW717TN6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,177,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAW717TN6,NEUAW717TN6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,373,,,,,,,44,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAX665ZHY,NEUAX665ZHY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,44,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,1,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAX665ZHY,NEUAX665ZHY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,427,,,,,,,41,2,1,2,1,2,1,1,1,1,1,1,2,1,1,1,,,,,2,2,1,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAX665ZHY,NEUAX665ZHY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,273,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUAX665ZHY,NEUAX665ZHY,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,2,1,5,far,fall,farm,foreign,fix,full,fulcrum,fabulous,fantastic,feral,filling,food,fickle,frame,,,,,,,5,0,0,0,4,0,5
+CASE-NEUAX665ZHY,NEUAX665ZHY,ALS CBS,ANSWER-ALS Visit 2,98,0,5,9,8,8,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,fabulous,fabricate,face,fad,fake,fail,fame,fan,far,fast,favorite,foam,famish,fat,finish,,,,,,5,0,0,0,4,0,5
+CASE-NEUAX665ZHY,NEUAX665ZHY,ALS CBS,ANSWER-ALS Visit 3,273,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,fabulous,fabricate,face,factory,fact,fail,family,fame,fan,far,fast,fasciculation,fat,favorite,few,far,frantic,frivolous,flight,flame,4,0,0,0,4,1,5
+CASE-NEUAX665ZHY,NEUAX665ZHY,ALS CBS,ANSWER-ALS Visit 4,427,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,sad,safe,sage,sake,sale,sailboat,same,sane,saw,say,second,segway,seminole,sentinel,session,sew,sum,sod,soggy,,5,0,0,0,4,0,5
+CASE-NEUAX665ZHY,NEUAX665ZHY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,No caregiver,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBA169GXD,NEUBA169GXD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,22,2,2,2,3,4,4,2,2,2,2,1,3,3,4,2,,,,,1,1,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBA169GXD,NEUBA169GXD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,106,,,,,,,43,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBA169GXD,NEUBA169GXD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,472,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBA169GXD,NEUBA169GXD,ALS CBS,ANSWER-ALS Visit 4,364,,,,,,,,,,,,,,,,,,,,,,,1,,,0,,,,,,,,,1,2,1,1,2,2,4,few,forward,fix,finalize,fictitious,found,frame,folder,font,finalize,finish,forge,flop,fix,fish,fixture,frank,,,,3,0,0,0,4,2,5
+CASE-NEUBA169GXD,NEUBA169GXD,ALS CBS,ANSWER-ALS Visit 3,210,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,2,2,2,4,sun,see,seaweed,snakes,syllables,stars,stacks,stupid,silly,smart,system,sacrilegious,smart,seven,silly,symantic,,,,,3,0,0,0,4,2,5
+CASE-NEUBA169GXD,NEUBA169GXD,ALS CBS,ANSWER-ALS Visit 2,106,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,2,2,4,stop,start,semi,sun,star,stare,subtitle,sylvia,steve,social,similar,space,stretcher,simple,satire,stable,,,,,3,0,0,0,4,2,5
+CASE-NEUBA169GXD,NEUBA169GXD,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,5,8,8,4,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,2,1,1,1,2,2,4,face,follicle,free,fight,fire,fall,fraction,fart,fellow,farm,,,,,,,,,,,4,0,0,2,3,0,3
+CASE-NEUBA169GXD,NEUBA169GXD,ALS CBS,ANSWER-ALS Visit 5,472,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBA169GXD,NEUBA169GXD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,210,,,,,,,44,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,,,,,2,2,2,2,95,1,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBC998WWB,NEUBC998WWB,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,5,8,8,4,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,1,1,2,1,2,2,4,Figure,Fox,First,Future,Fortune,Flib,Flip,,,,,,,,,,,,,,3,0,0,2,2,0,3
+CASE-NEUBC998WWB,NEUBC998WWB,ALS CBS,ANSWER-ALS Visit 2,91,0,3,4,7,5,1,,,,,,,,,,,,,,,,,1,,11,0,,,,,,,,,1,1,2,1,1,2,5,Food,Freak,For,Farm,Five,Finally,Forbid,Fawn,,,,,,,,,,,,,2,0,0,2,2,1,3
+CASE-NEUBC998WWB,NEUBC998WWB,ALS CBS,ANSWER-ALS Visit 5,371,,,,,,,,,,,,,,,,,,,,,,,2,Patient refused due to not feeling well,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBC998WWB,NEUBC998WWB,ALS CBS,ANSWER-ALS Visit 3,182,0,4,3,8,4,2,,,,,,,,,,,,,,,,,1,,10,0,,,,,,,,,2,2,2,2,2,2,2,First,For,Forbidden,Forsake,Fruitpunch,Fruit,,,,,,,,,,,,,,,3,0,1,1,2,0,3
+CASE-NEUBC998WWB,NEUBC998WWB,ALS CBS,ANSWER-ALS Visit 4,280,0,4,3,8,5,2,,,,,,,,,,,,,,,,,1,,9,0,,,,,,,,,1,1,2,2,2,2,3,For,First,Front,Foreman,Formost,,,,,,,,,,,,,,,,3,1,1,2,2,0,1
+CASE-NEUBC998WWB,NEUBC998WWB,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,371,,,,,,,6,4,4,4,3,3,3,3,3,3,4,4,4,4,4,4,,,,,1,2,1,1,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBC998WWB,NEUBC998WWB,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,280,,,,,,,33,2,2,2,2,3,2,2,2,3,1,1,1,1,1,2,,,,,1,2,1,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBC998WWB,NEUBC998WWB,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,91,,,,,,,39,2,1,2,1,2,2,1,1,2,1,1,1,1,1,2,,,,,2,2,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBC998WWB,NEUBC998WWB,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,36,2,2,3,2,3,1,2,1,2,1,1,1,1,1,1,,,,,2,1,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBC998WWB,NEUBC998WWB,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,182,,,,,,,,3,3,3,3,3,3,3,1,2,1,,1,1,1,3,,,,,2,2,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBD218YR3,NEUBD218YR3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,189,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBD218YR3,NEUBD218YR3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBD218YR3,NEUBD218YR3,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBD218YR3,NEUBD218YR3,ALS CBS,ANSWER-ALS Visit 3,189,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBD218YR3,NEUBD218YR3,ALS CBS,ANSWER-ALS Visit 2,115,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBD218YR3,NEUBD218YR3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBD288RXQ,NEUBD288RXQ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,39,2,2,1,1,2,1,2,1,2,2,1,1,1,1,1,,,,,2,1,1,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBD288RXQ,NEUBD288RXQ,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,4,8,8,4,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,2,1,2,2,,,3,Foam,Friend,Fad,Finger,Feel,Fornicate,Familiar,February,Forgotton,Form,Force,Fearless,Fraught,Fire,Fuck,,,,,,5,1,0,2,4,0,2
+CASE-NEUBK117YXL,NEUBK117YXL,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,266,,,,,,,41,1,1,1,1,2,2,2,1,2,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBK117YXL,NEUBK117YXL,ALS CBS,ANSWER-ALS Visit 3,191,,,,,,,,,,,,,,,,,,,,,,,1,,,0,,,,,,,,,1,1,1,1,1,1,5,shoot,sock,sail,sun,some,summer,sap,sand,sea,shell,solid,sulfur,soul,,,,,,,,5,0,0,0,4,0,5
+CASE-NEUBK117YXL,NEUBK117YXL,ALS CBS,ANSWER-ALS Visit 2,119,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,2,1,5,fumbled,football,friend,frank,fart,facist,face,follow,floor,four,foot,follow,forbid,flag,foreign,,,,,,3,0,0,0,4,2,5
+CASE-NEUBK117YXL,NEUBK117YXL,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,2,2,4,fruit,frank,faint,ferocious,firewall,feisty,fist,ful,friday,fire,fight,flavor,flow,fart,,,,,,,5,0,0,0,4,0,5
+CASE-NEUBK117YXL,NEUBK117YXL,ALS CBS,ANSWER-ALS Visit 4,266,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,2,1,5,fit,fill,for,follow,forbid,forgone,foresnadow,forlorn,fall,fair,far,farther,farthest,fit,fist,fill,fotball,feet,fart,fur,3,0,0,0,4,2,5
+CASE-NEUBK117YXL,NEUBK117YXL,ALS CBS,ANSWER-ALS Visit 5,365,,,,,,,,,,,,,,,,,,,,,,,1,,,0,,,,,,,,,1,1,1,1,2,2,4,sun,sand,sea,soul,sold,scold,sand,shell,sell,scout,scorn,scale,sail,snail,shake,,,,,,4,0,0,2,4,1,3
+CASE-NEUBK117YXL,NEUBK117YXL,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,41,1,1,1,1,1,1,2,1,3,1,1,1,1,2,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBK117YXL,NEUBK117YXL,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,191,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,"Visit 3 completed via telephone, caregiver was unavailable",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBK117YXL,NEUBK117YXL,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,365,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Caregiver unavailable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBK117YXL,NEUBK117YXL,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,119,,,,,,,42,1,1,1,1,2,1,2,1,2,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBY734PFR,NEUBY734PFR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,91,,,,,,,31,2,1,3,1,1,1,3,1,4,2,3,1,1,1,4,,,,,2,1,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBY734PFR,NEUBY734PFR,ALS CBS,ANSWER-ALS Visit 5,497,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBY734PFR,NEUBY734PFR,ALS CBS,ANSWER-ALS Visit 2,91,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,2,5,sore,sustain,suck,soar,salt,sante,,,,,,,,,,,,,,,3,0,0,0,2,0,5
+CASE-NEUBY734PFR,NEUBY734PFR,ALS CBS,ANSWER-ALS Visit 4,433,,,,,,,,,,,,,,,,,,,,,,,2,Patient cannot speak or write,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBY734PFR,NEUBY734PFR,ALS CBS,ANSWER-ALS Visit 3,280,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,2,1,1,2,2,4,school,send,sister,schedule,sent,sass,sucker,,,,,,,,,,,,,,3,0,0,0,2,0,5
+CASE-NEUBY734PFR,NEUBY734PFR,ALS CBS,ANSWER-ALS Screening Visit,0,1,4,6,8,8,3,,,,,,,,,,,,,,,,,1,,9,0,,,,,,,,,2,2,,,,,2,snake,sort,sunday,signal,shoes,socks,soda,sell,,,,,,,,,,,,,4,2,1,2,3,0,0
+CASE-NEUBY734PFR,NEUBY734PFR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,280,,,,,,,37,1,1,3,1,2,1,2,1,2,1,1,1,1,1,4,,,,,2,1,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBY734PFR,NEUBY734PFR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,497,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBY734PFR,NEUBY734PFR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,433,,,,,,,30,3,2,2,1,4,3,2,2,2,1,1,2,1,2,2,,,,,2,1,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUBY734PFR,NEUBY734PFR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,42,1,1,1,1,1,1,2,1,2,1,2,1,1,1,1,,,,,2,1,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUCB613CA9,NEUCB613CA9,ALS CBS,ANSWER-ALS Visit 3,396,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUCB613CA9,NEUCB613CA9,ALS CBS,ANSWER-ALS Visit 2,266,,,,,,,,,,,,,,,,,,,,,,,1,,,0,,,,,,,,,1,1,1,1,2,1,5,stream,stick,sky,cinch,scepter,sew,sewing,swim,swimming,swimmer,swing,swinger,soiree,stitch,stomp,step,stepson,stepdaughter,,,3,0,0,0,4,2,5
+CASE-NEUCB613CA9,NEUCB613CA9,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Patient did not have enough time to complete ALS CBS due to time constraints,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUCB613CA9,NEUCB613CA9,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Caregiver did not have enough time to complete ALS CBS due to time constraints,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUCB613CA9,NEUCB613CA9,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,396,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUCE965ZGK,NEUCE965ZGK,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,2,2,1,2,3,funny,fun,fold,Foldgers,falcon,foot,folder,focus,February,flood,fall,fourteen,fifteen,five,finger,,,,,,5,0,0,2,4,0,3
+CASE-NEUCE965ZGK,NEUCE965ZGK,ALS CBS,ANSWER-ALS Visit 2,91,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,foot,finger,fall,fold,fatter,fill,filling,feet,forever,fish,floor,forget,forgive,finesse,flash,find,forgiveness,figure,farm,,5,0,0,0,4,0,5
+CASE-NEUCE965ZGK,NEUCE965ZGK,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,91,,,,,,,37,2,1,1,1,2,2,1,1,2,1,2,2,2,2,1,,,,,1,1,2,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUCF538BRM,NEUCF538BRM,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,323,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUCF538BRM,NEUCF538BRM,ALS CBS,ANSWER-ALS Visit 2,84,1,5,6,7,8,2,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,Fuck,Fell,Free,Fire,Fish,Forget,Forgiven,Forever,Food,Finger,Foul,Foxtrot,Fandigo,Freaking,Fishnet,Feel,Foot,,,,5,0,0,0,4,0,5
+CASE-NEUCF538BRM,NEUCF538BRM,ALS CBS,ANSWER-ALS Visit 3,238,0,4,7,8,8,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,2,1,5,Fill,Funny,Flower,Fickle,Fairy,Fun,Fondle,Funnel-cake,Fat,Freckle,Freaky,Fish,,,,,,,,,3,0,0,0,3,1,5
+CASE-NEUCF538BRM,NEUCF538BRM,ALS CBS,ANSWER-ALS Screening Visit,0,1,5,6,8,8,3,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,1,1,5,fart,fish,franks,forever,fist,frame,function,free,fill,flowers,fairytale,fire,fresh,fingers,fireworks,,,,,,3,0,0,0,4,2,5
+CASE-NEUCF538BRM,NEUCF538BRM,ALS CBS,ANSWER-ALS Visit 4,323,0,5,6,8,7,3,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,2,1,5,Fuck,Fire,Fence,Frolic,Fancy,Foot,Female,Frog,Fish,Feline,Franklin,Fishing,Flat,Fix,Forget,Feasible,For,Frequent,Flashy,Forgetful,4,0,0,0,4,1,5
+CASE-NEUCF538BRM,NEUCF538BRM,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,238,,,,,,,30,3,2,2,1,3,2,3,1,2,2,2,2,2,2,1,,,,,2,2,2,1,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUCF538BRM,NEUCF538BRM,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,84,,,,,,,29,2,2,2,2,3,2,2,2,3,2,3,2,1,2,1,,,,,2,2,2,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUCN596RR3,NEUCN596RR3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,205,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUCN596RR3,NEUCN596RR3,ALS CBS,ANSWER-ALS Visit 2,205,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUCN596RR3,NEUCN596RR3,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,1,1,5,sit,sat,sun,sunny,sum,slumber,smooth,straight,sundown,sum,slipper,slimy,slushy,sleep,,,,,,,2,0,0,0,3,2,5
+CASE-NEUCN596RR3,NEUCN596RR3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUCU245GBQ,NEUCU245GBQ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,44,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,1,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUCU245GBQ,NEUCU245GBQ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,147,,,,,,,37,1,2,2,1,1,1,2,1,3,1,3,2,1,1,1,,,,,2,1,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUCU245GBQ,NEUCU245GBQ,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,6,2,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,2,1,5,Fine,Finger,Feed,Ferment,Figment,Fig,Fickle,Fur,Finesse,Follow,Forest,Forever,Fun,Follic,Falling,,,,,,5,0,0,0,4,0,5
+CASE-NEUCU245GBQ,NEUCU245GBQ,ALS CBS,ANSWER-ALS Visit 3,147,0,5,5,8,8,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,2,1,5,flower,fire,fox,forrest,fumble,find,ferment,fickle,firm,find,fur,,,,,,,,,,3,0,0,0,3,1,5
+CASE-NEUDD018KAH,NEUDD018KAH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,32,2,1,1,3,1,2,4,3,2,1,1,2,2,1,2,,,,,1,2,1,1,95,1,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDD018KAH,NEUDD018KAH,ALS CBS,ANSWER-ALS Screening Visit,0,0,2,4,8,8,4,,,,,,,,,,,,,,,,,1,,,0,,,,,,,,,2,1,2,2,,,3,,,,,,,,,,,,,,,,,,,,,,0,0,2,,,3
+CASE-NEUDE902GCT,NEUDE902GCT,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,397,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDE902GCT,NEUDE902GCT,ALS CBS,ANSWER-ALS Visit 3,208,0,5,6,8,7,3,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,2,5,,,,,,,,,,,,,,,,,,,,,5,0,0,1,4,0,4
+CASE-NEUDE902GCT,NEUDE902GCT,ALS CBS,ANSWER-ALS Visit 5,397,0,5,6,8,7,3,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,2,2,4,face,finger,feet,flex,full,floor,fracture,fix,foul,forever,forest,floating,fence,fox,found,fest,fulfiled,flood,footless,,5,0,0,0,4,0,5
+CASE-NEUDE902GCT,NEUDE902GCT,ALS CBS,ANSWER-ALS Visit 4,306,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,2,1,1,1,1,1,5,face,fury,foot,facetime,fall,fix,floor,faucet,frame,forest,folliage,fir,farmer,fence,fox,fall,flounder,flipflop,float,football,4,1,0,1,4,1,3
+CASE-NEUDE902GCT,NEUDE902GCT,ALS CBS,ANSWER-ALS Visit 2,103,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,2,1,1,1,1,5,face,finger,foot,flex,frame,flower,farm,farce,fish,flow,flounder,funny,fantastic,felony,flippers,flip-flop,floor,frosting,football,fender,5,0,0,0,4,0,5
+CASE-NEUDE902GCT,NEUDE902GCT,ALS CBS,ANSWER-ALS Screening Visit,0,1,5,7,8,6,2,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,1,1,1,1,1,1,5,face,finger,fat,frame,fixed,fell,farmer,fence,fox,fish,fin,flounder,float,flower,fantastic,fan,feel,felony,flip-flop,face,4,0,0,2,4,1,3
+CASE-NEUDE902GCT,NEUDE902GCT,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,306,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDE902GCT,NEUDE902GCT,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,208,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDE902GCT,NEUDE902GCT,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDE902GCT,NEUDE902GCT,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,103,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDG000ZG5,NEUDG000ZG5,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,364,,,,,,,41,1,1,2,1,1,2,2,1,2,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDG000ZG5,NEUDG000ZG5,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,1064,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDG000ZG5,NEUDG000ZG5,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,693,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDG000ZG5,NEUDG000ZG5,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,41,1,1,1,1,1,2,1,1,2,2,1,1,1,1,2,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDG000ZG5,NEUDG000ZG5,ALS CBS,ANSWER-ALS Screening Visit,0,0,7,7,8,8,4,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,1,2,5,fun,fear,fall,FALSE,food,fit,find,force,fulfillment,ferocious,fixated,foreign,FALSE,federal,femur,festival,,,,,4,2,0,0,4,1,3
+CASE-NEUDG000ZG5,NEUDG000ZG5,ALS CBS,ANSWER-ALS Visit 2,164,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,2,1,5,female,feline,fear,fill,fan,famine,fast,fax,fat,force,forelorn,forest,fern,,,,,,,,5,0,0,0,4,0,5
+CASE-NEUDG000ZG5,NEUDG000ZG5,ALS CBS,ANSWER-ALS Visit 3,364,0,6,7,8,8,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,2,1,1,2,5,file,fear,far,fast,few,funny,fork,foul,floor,flow,frozen,fever,forest,future,friendly,foggy,floss,foreign,fart,fashion,5,0,0,2,4,0,3
+CASE-NEUDG000ZG5,NEUDG000ZG5,ALS CBS,ANSWER-ALS Visit 4,693,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,2,1,2,1,5,fog,fade,fire,fresh,fill,force,fulfillment,freezer,,,fire,fudge,fridge,friendly,folksy,failure,firmament,,,,4,0,0,0,4,1,5
+CASE-NEUDG000ZG5,NEUDG000ZG5,ALS CBS,ANSWER-ALS Visit 5,1064,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,1,1,2,2,4,fool,friendly,face,foe,formidable,frost,foster,fudge,fickle,formidable,fungicide,friendly,fickle,forgotten,for,fore,fill,food,friendly,,3,0,0,2,4,2,3
+CASE-NEUDG000ZG5,NEUDG000ZG5,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,164,,,,,,,39,1,1,1,1,1,2,2,1,2,3,1,1,1,1,2,,,,,1,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDG272XWC,NEUDG272XWC,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,327,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDG272XWC,NEUDG272XWC,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDG272XWC,NEUDG272XWC,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,7,6,2,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,1,1,1,1,5,Fuck,Fart,,,,Find,Foot,Feet,Fester,Floor,Fence,Force,Forcefield,Felt,Felt,Fend,Flick,Flop,Forest,Fragrant,3,0,0,0,4,2,5
+CASE-NEUDG272XWC,NEUDG272XWC,ALS CBS,ANSWER-ALS Visit 3,206,0,5,7,8,6,3,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,1,1,5,Shit,Superfluous,Super,Selection,Start,Self,Selfless,Sore,Slither,Snake,Scorch,Smile,Sad,Sag,Surf,Sort,Salt,Said,Salt,Sinned,5,0,0,2,4,0,3
+CASE-NEUDG272XWC,NEUDG272XWC,ALS CBS,ANSWER-ALS Visit 5,327,,,,,,,,,,,,,,,,,,,,,,,2,Insufficient time,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDG272XWC,NEUDG272XWC,ALS CBS,ANSWER-ALS Visit 2,103,0,5,7,7,7,3,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,Shit,Smegma,Snake,S-,Synchronicity,Silver,Sinned,Slack,Sell,Soft,Soon,Sale,Sail,Sell,Selma,Snood,Snivel,Slime,Slaughter,Simeon,4,0,0,0,4,1,5
+CASE-NEUDG272XWC,NEUDG272XWC,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDG272XWC,NEUDG272XWC,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDJ536EVH,NEUDJ536EVH,ALS CBS,ANSWER-ALS Visit 5,402,,,,,,,,,,,,,,,,,,,,,,,2,Not done due to severe dysarthria and inability to handwrite,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDJ536EVH,NEUDJ536EVH,ALS CBS,ANSWER-ALS Visit 4,290,0,5,6,7,8,3,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,Factor,Figure,Facent,Far,Fathom,Forest,Further,Foreseen,Freak,Fat,Father,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUDJ536EVH,NEUDJ536EVH,ALS CBS,ANSWER-ALS Visit 2,108,0,4,6,7,7,2,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,Far,Fabulous,Freaky,Flighty,Forrest,Foresome,Failing,F,Fav-,Force,Fashion,Folder,Fable,Five,Fortune,,,,,,5,0,0,0,4,0,5
+CASE-NEUDJ536EVH,NEUDJ536EVH,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,2,2,4,Flag,Follow,Feeble,Food,For,Fixing,Factor,Fee,Feet,Friction,Fjord,Furrow,Fall,,,,,,,,5,1,0,2,4,0,2
+CASE-NEUDJ536EVH,NEUDJ536EVH,ALS CBS,ANSWER-ALS Visit 3,178,,,,,,,,,,,,,,,,,,,,,,,2,Not done due to severe dysarthria,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDJ536EVH,NEUDJ536EVH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,290,,,,,,,43,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDJ536EVH,NEUDJ536EVH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDJ536EVH,NEUDJ536EVH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDJ536EVH,NEUDJ536EVH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,178,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDJ536EVH,NEUDJ536EVH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,108,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,1,1,1,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDP155HFH,NEUDP155HFH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Caregiver not present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDP155HFH,NEUDP155HFH,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Subject unable to perform due to disease progression,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDT709YHN,NEUDT709YHN,ALS CBS,ANSWER-ALS Visit 5,490,0,5,7,8,6,3,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,fast,farm,fend,fennel,fat,football,foot,feet,far,first,fair,for,fur,fore,fly,,,,,,5,0,0,0,4,0,5
+CASE-NEUDT709YHN,NEUDT709YHN,ALS CBS,ANSWER-ALS Visit 2,125,,,,,,,,,,,,,,,,,,,,,,,2,not collected due to time constraints in the ALS Multidisciplinary Clinic,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDT709YHN,NEUDT709YHN,ALS CBS,ANSWER-ALS Visit 4,385,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,football,frenzy,feather,folly,friday,friendly,forage,fox,fire,four,freaky,foolish,frothy,frozen,,,,,,,4,0,0,2,4,1,3
+CASE-NEUDT709YHN,NEUDT709YHN,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,6,3,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,Fat,Feather,Flute,Fool,Frame,Fun,Floosy,Farm,Frenchfries,Frenzy,Fa,Far,Fade,Fad,Fry,Frizzle,,,,,5,0,0,1,4,0,4
+CASE-NEUDT709YHN,NEUDT709YHN,ALS CBS,ANSWER-ALS Visit 3,216,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,2,1,5,feather,funny,fool,fish,for,friend,fried,forever,farther,fetish,,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUDT709YHN,NEUDT709YHN,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,"not collected due to time constraints in the ALS Multidisciplinary Clinic	",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDT709YHN,NEUDT709YHN,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,490,,,,,,,35,1,1,1,2,1,1,3,2,3,2,1,1,2,3,1,,,,,2,1,2,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDT709YHN,NEUDT709YHN,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,385,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Caregiver not present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUDT709YHN,NEUDT709YHN,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,39,2,1,2,1,1,2,2,1,2,1,1,1,1,1,2,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEB422WW0,NEUEB422WW0,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,26,2,2,2,1,3,3,4,2,3,1,3,3,1,3,1,,,,,2,1,2,2,95,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEB422WW0,NEUEB422WW0,ALS CBS,ANSWER-ALS Visit 2,98,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,1,2,2,,4,silver,screen,shoes,serendipitiy,second,sky,silly,snake,shiny,second,,,,,,,,,,,2,0,0,0,3,2,5
+CASE-NEUEB422WW0,NEUEB422WW0,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,sit,stand,sell,silver,sausage,source,silly,sarcastic,sit,serious,silicone,,,,,,,,,,3,0,0,0,3,1,5
+CASE-NEUEB422WW0,NEUEB422WW0,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,98,,,,,,,24,1,1,1,3,3,3,3,3,3,1,3,3,2,4,2,,,,,2,1,2,1,95,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEC400NYR,NEUEC400NYR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Not collected due to patient time constraints,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEC400NYR,NEUEC400NYR,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Not collected due to patient time constraints,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEK191WYC,NEUEK191WYC,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEK191WYC,NEUEK191WYC,ALS CBS,ANSWER-ALS Screening Visit,0,0,3,5,8,8,4,,,,,,,,,,,,,,,,,1,,12,0,,,,,,,,,1,1,2,2,2,2,3,Friend,Form,Fry,Fight,Flee,Free,Front,,,,,,,,,,,,,,3,0,1,2,2,0,2
+CASE-NEUEK191WYC,NEUEK191WYC,ALS CBS,ANSWER-ALS Visit 2,105,0,4,6,8,7,3,,,,,,,,,,,,,,,,,1,,13,0,,,,,,,,,1,1,2,2,2,2,3,Fast,Friend,Form,For,Forget,Front,Fight,Flee,,,,,,,,,,,,,4,0,0,2,3,0,3
+CASE-NEUEM029XXZ,NEUEM029XXZ,ALS CBS,ANSWER-ALS Visit 2,112,0,5,6,8,7,3,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,sit,stay,send,sin,some,something,sun,sub,sandwich,sail,sailboat,sauce,sausage,still,stuff,single,sometimes,soothe,soon,,5,0,0,0,4,0,5
+CASE-NEUEM029XXZ,NEUEM029XXZ,ALS CBS,ANSWER-ALS Visit 3,182,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,fan,for,fox,fence,fig,frog,flame,flamingo,finger,fix,find,finish,form,force,fly,fore,flee,fir,foe,,5,0,0,0,4,0,5
+CASE-NEUEM029XXZ,NEUEM029XXZ,ALS CBS,ANSWER-ALS Visit 5,463,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,sun,son,sex,six,sixty,solomn,sunny,shoe,shine,some,someone,sometimes,sonogram,sixty,seldom,scene,scenic,scenery,so,salivate,3,0,0,0,4,2,5
+CASE-NEUEM029XXZ,NEUEM029XXZ,ALS CBS,ANSWER-ALS Visit 4,337,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,fun,finger,fantastic,fanatic,final,flush,flat,form,force,fine,flip,flop,fist,fish,funky,flunk,fink,,,,5,0,0,0,4,0,5
+CASE-NEUEM029XXZ,NEUEM029XXZ,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,fish,finger,frog,find,fail,flip,face,favor,flower,family,fly,force,film,feeling,flipped,first,find,,,,3,0,0,0,4,2,5
+CASE-NEUEM029XXZ,NEUEM029XXZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,112,,,,,,,44,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,1,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEM029XXZ,NEUEM029XXZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,182,,,,,,,42,1,1,1,1,1,1,2,1,2,1,1,1,1,1,2,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEM029XXZ,NEUEM029XXZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,No caregiver present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEM029XXZ,NEUEM029XXZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,463,,,,,,,40,1,3,2,1,2,1,1,1,1,1,1,1,2,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEM029XXZ,NEUEM029XXZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,337,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEM720BUU,NEUEM720BUU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,114,,,,,,,41,1,2,1,1,1,1,2,1,1,1,1,1,2,2,1,,,,,2,1,2,2,95,1,,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEM720BUU,NEUEM720BUU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Not enough time to complete test,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEM720BUU,NEUEM720BUU,ALS CBS,ANSWER-ALS Visit 2,114,1,5,7,8,8,4,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,1,1,2,2,4,fish,fry,fly,fresh,fall,fell,fill,fine,fink,fan,fence,freak,flunk,flank,,,,,,,2,0,0,0,3,2,5
+CASE-NEUEM720BUU,NEUEM720BUU,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Not enough time to complete test,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEN017PCJ,NEUEN017PCJ,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,5,8,6,2,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,1,1,2,2,4,fruit,foot,fable,fake,frost,fridge,finger,folk,folly,forgot,foam,fire,flag,frame,,,,,,,5,0,0,1,4,0,4
+CASE-NEUEN017PCJ,NEUEN017PCJ,ALS CBS,ANSWER-ALS Visit 2,140,0,4,6,8,8,4,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,1,1,2,1,2,2,4,forgot,fun,fish,fin,finish,food,fool,fun,,,flag,fig,fan,fantastic,fable,finish,flap,foot,,,3,0,0,2,4,2,3
+CASE-NEUEN017PCJ,NEUEN017PCJ,ALS CBS,ANSWER-ALS Visit 3,441,0,4,7,8,8,4,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,2,1,2,2,4,fun,forgot,forest,futile,fungus,favorite,fig,fun,fill,fix,for,funnel,flip,flop,fossil,freak,fairy,,,,4,0,0,2,4,1,3
+CASE-NEUEN017PCJ,NEUEN017PCJ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEN017PCJ,NEUEN017PCJ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,140,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEN017PCJ,NEUEN017PCJ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,441,,,,,,,37,1,3,2,1,2,1,3,1,2,1,2,1,1,1,1,,,,,2,2,2,1,95,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEN476CLW,NEUEN476CLW,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,44,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUEN476CLW,NEUEN476CLW,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,2,1,5,Floor,Few,Far,Farther,Farm,Fair,Fairy,Free,Farthers,Freedom,foil,food,fool,froth,frosty,,,,,,4,0,0,0,4,1,5
+CASE-NEUEU558MNK,NEUEU558MNK,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,5,5,2,1,,,,,,,,,,,,,,,,,1,,9,0,,,,,,,,,1,1,2,2,2,2,3,Funny,Freaky,Five,Feasible,Forogt,Free,,,,,,,,,,,,,,,2,0,0,2,2,1,3
+CASE-NEUEU558MNK,NEUEU558MNK,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,40,2,1,3,1,3,1,1,1,1,1,1,1,1,1,1,,,,,1,2,1,1,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUFB989DT1,NEUFB989DT1,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,"Patient did not complete CBS, therefore caregiver questionnaire was not completed.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUFB989DT1,NEUFB989DT1,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,44,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,,,,,2,1,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUFB989DT1,NEUFB989DT1,ALS CBS,ANSWER-ALS Visit 3,267,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUFB989DT1,NEUFB989DT1,ALS CBS,ANSWER-ALS Visit 2,161,,,,,,,,,,,,,,,,,,,,,,,2,Patient cannot speak or write,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUFB989DT1,NEUFB989DT1,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,6,8,8,4,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,2,5,shy,see,smile,seem,silly,sock,small,serious,sack,string,strength,simple,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUFB989DT1,NEUFB989DT1,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,267,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUFH122WN7,NEUFH122WN7,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,494,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUFH122WN7,NEUFH122WN7,ALS CBS,ANSWER-ALS Visit 3,494,0,4,7,8,8,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,food,fan,fare,fast,first,flat,fame,flame,flamingo,fantastic,flare,forward,future,fundamental,fantasmagorical,flick,flight,fly,fellow,fellowship,3,0,0,0,4,2,5
+CASE-NEUFH122WN7,NEUFH122WN7,ALS CBS,ANSWER-ALS Visit 2,85,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUFH122WN7,NEUFH122WN7,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,sit,shoot,shot,shit,soon,some,seen,savory,satisfaction,shine,ship,signal,sophistication,scooter,school,sorry,sore,scarlet,slander,snap,4,0,0,0,4,1,5
+CASE-NEUFH122WN7,NEUFH122WN7,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUFH122WN7,NEUFH122WN7,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUFV237VCZ,NEUFV237VCZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,198,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit 3 completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUFV237VCZ,NEUFV237VCZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,33,3,2,2,1,4,2,3,1,2,1,1,1,1,2,1,,,,,2,2,1,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUFV237VCZ,NEUFV237VCZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,84,,,,,,,35,3,2,3,4,1,1,1,1,2,1,1,1,1,2,1,,,,,2,2,1,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUFV237VCZ,NEUFV237VCZ,ALS CBS,ANSWER-ALS Visit 2,84,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,2,2,4,fig,first,final,furry,furnace,fidget,finger,floor,fist,flower,,,,,,,,,,,4,0,0,1,3,0,4
+CASE-NEUFV237VCZ,NEUFV237VCZ,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,2,1,2,2,4,fast,furious,fanatic,floor,foot,favor,favorite,fur,fanatic,fan,favorite,food,frisbee,,,,,,,,2,0,0,0,3,2,5
+CASE-NEUFV237VCZ,NEUFV237VCZ,ALS CBS,ANSWER-ALS Visit 3,198,,,,,,,,,,,,,,,,,,,,,,,2,Visit 3 completed via phone call; patient is unable to talk,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUFY342UNG,NEUFY342UNG,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,No caregiver present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUFY342UNG,NEUFY342UNG,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,5,8,8,4,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,2,1,2,2,4,same,simple,slick,surprise,snake,solid,sometimes,sorry,salt,sunny,savage,suck,slip,sound,sane,,,,,,5,0,0,0,4,0,5
+CASE-NEUGD965XVD,NEUGD965XVD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,504,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGD965XVD,NEUGD965XVD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,94,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGD965XVD,NEUGD965XVD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,301,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGD965XVD,NEUGD965XVD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,693,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGD965XVD,NEUGD965XVD,ALS CBS,ANSWER-ALS Visit 5,693,0,5,8,8,8,4,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,felon,facelift,fasiculation,facetious,floor,fed,further,festooned,fenestrating,fertile,futile,fat,for,facts,father,free,fire,firebrand,fix,flat,5,1,0,0,4,0,4
+CASE-NEUGD965XVD,NEUGD965XVD,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,mistakenly not collected by study staff,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGD965XVD,NEUGD965XVD,ALS CBS,ANSWER-ALS Visit 2,94,0,5,7,8,8,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,fabulous,fatuous,fast,fan,fantastic,fun,fungible,fettered,fenistrated,first,flying,flapping,fed,fail,fill,,,,,,5,0,0,0,4,0,5
+CASE-NEUGD965XVD,NEUGD965XVD,ALS CBS,ANSWER-ALS Visit 3,301,0,4,6,8,8,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,fast,fan,fat,fasten,failing,fin,flow,fly,fenestrated,fasciulation,fatuous,fastidious,furtive,flea,fit,fist,first,,,,5,0,0,0,4,0,5
+CASE-NEUGD965XVD,NEUGD965XVD,ALS CBS,ANSWER-ALS Visit 4,504,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,2,2,4,fan,fabulous,furious,fantastic,fun,feral,fear,foot,firebrand,foreclosure,frustrating,fruitful,fall,forceful,freedom,FALSE,furtive,fallacious,fanciful,,5,1,0,1,4,0,3
+CASE-NEUGE540TC4,NEUGE540TC4,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Not collected due to time constraints,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGE540TC4,NEUGE540TC4,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGE540TC4,NEUGE540TC4,ALS CBS,ANSWER-ALS Visit 2,112,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGE540TC4,NEUGE540TC4,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Not collected due to time constraints,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit 3 conducted via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Patient needed to leave due to travel constraints,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,403,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,304,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit 4 conducted via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit 2 conducted via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,ALS CBS,ANSWER-ALS Visit 3,171,,,,,,,,,,,,,,,,,,,,,,,2,Visit 3 conducted via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,ALS CBS,ANSWER-ALS Visit 4,304,,,,,,,,,,,,,,,,,,,,,,,2,Visit 4 conducted via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,ALS CBS,ANSWER-ALS Visit 2,65,,,,,,,,,,,,,,,,,,,,,,,2,Visit 2 conducted via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,ALS CBS,ANSWER-ALS Visit 5,403,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Patient needed to leave due to travel constraints,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGL543NJ1,NEUGL543NJ1,ALS CBS,ANSWER-ALS Visit 2,63,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,2,2,4,fox,flimsy,flight,fix,fire engine,fixate,flour,,,,fire,flashy,fight,forgetful,fire house,flower,frog,,,,3,0,0,0,4,2,5
+CASE-NEUGL543NJ1,NEUGL543NJ1,ALS CBS,ANSWER-ALS Visit 5,378,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,2,1,5,furious,fantastic,frog,finish,fight,flight,fidget,formula,fabulous,fibromyalgia,feeling,furnace,flaberghasted,fudge,frigid,,,,,,5,0,0,0,4,0,5
+CASE-NEUGL543NJ1,NEUGL543NJ1,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,2,5,field,fake,feeling,frosty,figuring,frog,frantic,,,,,,,,,,,,,,3,0,0,0,2,0,5
+CASE-NEUGL543NJ1,NEUGL543NJ1,ALS CBS,ANSWER-ALS Visit 3,189,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,frozen,frump,frightened,fox,fix,forgetful,fed,fixated,fence,forgotten,fool,foolish,february,frightened,filled,fraught,faught,,,,4,0,0,0,4,1,5
+CASE-NEUGL543NJ1,NEUGL543NJ1,ALS CBS,ANSWER-ALS Visit 4,259,0,5,7,7,8,4,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,FOX,FINISH,FABULOUS,FIGURE,FALLOPIAN,FINAL,FANCY,FANDANGO,FIASCO,FLAMINGO,FRANTIC,FABULOUS,FREGO,FROG,FIX,FINALLY,,,,,4,0,0,0,4,1,5
+CASE-NEUGL543NJ1,NEUGL543NJ1,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,no caregiver present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGL543NJ1,NEUGL543NJ1,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,378,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Caregiver not present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGL543NJ1,NEUGL543NJ1,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,caregiver not present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGL543NJ1,NEUGL543NJ1,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Caregiver not present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGL543NJ1,NEUGL543NJ1,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,189,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,No caregiver was present at the visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGP781PDU,NEUGP781PDU,ALS CBS,ANSWER-ALS Screening Visit,0,0,,,8,6,2,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,2,2,2,4,Fire,Funny,Freak,Farce,Facade,Fake,Fraud,Free,For,Feces,folkram,found,freedom,free,,,,,,,5,0,0,0,4,0,5
+CASE-NEUGP781PDU,NEUGP781PDU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,44,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,,,,,2,2,2,2,95,1,,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGR121TFD,NEUGR121TFD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit done via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGR121TFD,NEUGR121TFD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,112,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGR121TFD,NEUGR121TFD,ALS CBS,ANSWER-ALS Visit 4,323,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGR121TFD,NEUGR121TFD,ALS CBS,ANSWER-ALS Visit 2,112,0,5,4,8,8,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,2,1,1,5,fun,fast,flame,fair,face,fox,fur,field,flag,flair,feel,further,flat,foul,feelings,,,,,,5,0,0,0,4,0,5
+CASE-NEUGR121TFD,NEUGR121TFD,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,4,8,8,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,2,1,2,5,stand,stop,stoop,stair,sit,slow,soft,slimy,slouch,save,stiff,saline,stick,staff,stool,,,,,,5,0,0,0,4,0,5
+CASE-NEUGR121TFD,NEUGR121TFD,ALS CBS,ANSWER-ALS Visit 3,147,,,,,,,,,,,,,,,,,,,,,,,2,Visit done via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGR121TFD,NEUGR121TFD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,323,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGR121TFD,NEUGR121TFD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGW326BRV,NEUGW326BRV,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,104,,,,,,,38,1,1,3,3,1,2,1,1,1,1,1,1,2,2,1,,,,,2,2,2,1,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGW326BRV,NEUGW326BRV,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,37,1,1,3,2,2,2,1,1,1,1,1,2,2,2,1,,,,,2,2,2,2,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGW326BRV,NEUGW326BRV,ALS CBS,ANSWER-ALS Visit 2,104,0,6,7,8,7,3,,,,,,,,,,,,,,,,,1,,11,0,,,,,,,,,1,1,1,2,2,,4,frank,fantastic,,,,,,,,,foolish,feeling,,,,,,,,,0,0,0,1,1,0,4
+CASE-NEUGW326BRV,NEUGW326BRV,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,6,2,,,,,,,,,,,,,,,,,1,,12,0,,,,,,,,,2,1,1,2,2,2,4,Sad,Susceptible,Sauce,Sun,Stars,Sissy,Sassy,,,,,,,,,,,,,,3,0,0,2,2,0,3
+CASE-NEUGW326BRV,NEUGW326BRV,ALS CBS,ANSWER-ALS Visit 3,190,0,6,7,8,5,2,,,,,,,,,,,,,,,,,1,,9,0,,,,,,,,,2,1,2,2,,,3,frank,frankincense,football,football,footsies,,,,,,,,,,,,,,,,0,0,0,1,1,2,4
+CASE-NEUGW326BRV,NEUGW326BRV,ALS CBS,ANSWER-ALS Visit 4,280,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,11,0,,,,,,,,,1,1,2,1,2,2,4,start,Simpson,supercalifragilisticexpialidocious,,,,,,,,,,,,,,,,,,0,0,0,2,1,1,3
+CASE-NEUGW326BRV,NEUGW326BRV,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,190,,,,,,,37,1,1,2,2,2,2,1,1,1,1,1,2,2,3,1,,,,,2,2,2,1,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGW326BRV,NEUGW326BRV,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,280,,,,,,,39,2,1,2,2,1,2,1,1,1,1,1,1,2,2,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGW340YEB,NEUGW340YEB,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,32,2,3,3,1,2,1,3,1,2,1,4,2,1,1,1,,,,,1,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGW340YEB,NEUGW340YEB,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,147,,,,,,,38,2,1,1,1,2,1,2,1,3,1,1,2,1,2,1,,,,,1,2,1,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUGW340YEB,NEUGW340YEB,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,4,0,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,0,,,,,,0
+CASE-NEUGW340YEB,NEUGW340YEB,ALS CBS,ANSWER-ALS Visit 2,147,0,5,7,7,8,4,,,,,,,,,,,,,,,,,1,,0,0,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,0,,,,,,0
+CASE-NEUHB491NGF,NEUHB491NGF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,298,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHB491NGF,NEUHB491NGF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,336,,,,,,,21,2,2,3,3,2,3,3,3,2,4,3,2,2,2,3,,,,,2,1,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHB491NGF,NEUHB491NGF,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHB491NGF,NEUHB491NGF,ALS CBS,ANSWER-ALS Visit 2,118,0,5,5,8,8,4,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,1,2,2,,4,Flavor,Fright,Fudge,Foam,Friggin,Fart,Flower,,,,,,,,,,,,,,3,1,0,0,2,0,4
+CASE-NEUHB491NGF,NEUHB491NGF,ALS CBS,ANSWER-ALS Visit 5,336,0,4,8,8,8,4,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,1,2,2,,4,Feather,Flower,Fuck,Felt,Finder,Fatback,fOO,fIGHTER,Firm,,,,,,,,,,,,4,0,0,2,3,0,3
+CASE-NEUHB491NGF,NEUHB491NGF,ALS CBS,ANSWER-ALS Visit 4,298,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHB491NGF,NEUHB491NGF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,118,,,,,,,30,2,2,2,4,2,3,2,1,2,1,2,2,2,2,1,,,,,2,,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHB491NGF,NEUHB491NGF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHG644RYB,NEUHG644RYB,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,42,1,1,2,1,1,1,2,1,2,1,1,1,1,1,1,,,,,2,1,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHG644RYB,NEUHG644RYB,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,1,1,2,2,4,floor,fold,flower,face,fodder,facade,facial,full,fledge,feeling,folder,fool,,,,,,,,,2,0,0,0,3,2,5
+CASE-NEUHG791RV5,NEUHG791RV5,ALS CBS,ANSWER-ALS Visit 2,111,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHG791RV5,NEUHG791RV5,ALS CBS,ANSWER-ALS Visit 5,357,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,2,5,For,Fore,File,Fire,Finally,Fit,Foam,,,,,,,,,,,,,,3,0,0,0,2,0,5
+CASE-NEUHG791RV5,NEUHG791RV5,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,2,,,4,For,Funk,Funky,Foam,Fix,From,,,,,,,,,,,,,,,2,0,0,0,2,1,5
+CASE-NEUHG791RV5,NEUHG791RV5,ALS CBS,ANSWER-ALS Visit 4,298,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHG791RV5,NEUHG791RV5,ALS CBS,ANSWER-ALS Visit 3,182,0,5,7,8,5,3,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,2,5,For,Fort,Front,Fan,Fox,Fun,Forward,Flip,Flop,Flat,From,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUHG791RV5,NEUHG791RV5,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,298,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHG791RV5,NEUHG791RV5,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,182,,,,,,,36,1,2,2,2,1,2,1,2,2,1,1,2,2,2,1,,,,,,,,,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHG791RV5,NEUHG791RV5,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,357,,,,,,,23,2,4,2,3,3,3,3,2,2,2,1,3,3,3,1,,,,,2,1,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHG791RV5,NEUHG791RV5,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,111,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHG791RV5,NEUHG791RV5,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,29,1,4,1,3,2,2,2,3,3,1,1,2,2,3,1,,,,,2,1,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHL999WWT,NEUHL999WWT,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,37,2,1,1,2,2,2,3,2,2,1,1,1,1,1,1,,,,,,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHL999WWT,NEUHL999WWT,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,455,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHL999WWT,NEUHL999WWT,ALS CBS,ANSWER-ALS Visit 5,455,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHL999WWT,NEUHL999WWT,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,7,7,2,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,1,1,2,1,5,Farm,Fly,Forrest,Fire,Flame,Forget,Forgot,Fuel,Fleece,Fur,Friendly,Friend,,,,,,,,,3,0,0,0,3,1,5
+CASE-NEUHL999WWT,NEUHL999WWT,ALS CBS,ANSWER-ALS Visit 3,189,0,5,7,1,7,3,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,2,1,5,Find,Fan,Fur,Fun,Family,Friends,Furnitutre,Foam,From,Fire,Fuzzy,Film,Forget,Forgot,,,,,,,4,0,0,0,4,1,5
+CASE-NEUHL999WWT,NEUHL999WWT,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,189,,,,,,,32,3,2,3,2,2,2,2,2,2,1,1,2,2,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHM532NDD,NEUHM532NDD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,176,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHM532NDD,NEUHM532NDD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHM532NDD,NEUHM532NDD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,343,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHM532NDD,NEUHM532NDD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,294,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHM532NDD,NEUHM532NDD,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,6,3,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,Fish,Fry,Feet,Force,Flex,Fine,Find,Fire,Firecracker,Freeze,Frappe,Fuse,Friend,Future,Female,,,,,,5,0,0,0,4,0,5
+CASE-NEUHM532NDD,NEUHM532NDD,ALS CBS,ANSWER-ALS Visit 2,126,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,2,5,Friend,Foo,Factory,Flower,Floral,Fire,Firetruck,Frisby,Few,Fiasco,Forrest,Frenzy,Fig,Frog,Fence,,,,,,5,0,0,0,4,0,5
+CASE-NEUHM532NDD,NEUHM532NDD,ALS CBS,ANSWER-ALS Visit 3,176,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,Sap,Sabel,Sow,Stitch,Sling,Strut,Stairs,Stupid,Steer,Strict,Shoe,Shelf,Soup,Stomach,Story,Stables,Store,Spotlight,,,5,0,0,0,4,0,5
+CASE-NEUHM532NDD,NEUHM532NDD,ALS CBS,ANSWER-ALS Visit 4,294,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,Fierce,Force,Fist,Fiasco,Fort,Front,Fit,Fly,Fry,Fire,Freezer,Flip,Fee,,,,,,,,5,0,0,0,4,0,5
+CASE-NEUHM532NDD,NEUHM532NDD,ALS CBS,ANSWER-ALS Visit 5,343,,,,,,,,,,,,,,,,,,,,,,,2,Insufficient time,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHM532NDD,NEUHM532NDD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,126,,,,,,,44,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHV216EHA,NEUHV216EHA,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,34,1,1,3,2,2,3,2,1,2,1,1,1,2,2,2,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHV216EHA,NEUHV216EHA,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,sing,scat,send,sail,sold,silk,salute,sex,sign,simple,save,special,spot,start,scoop,start,,,,,5,0,0,0,4,0,5
+CASE-NEUHW530WD8,NEUHW530WD8,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,322,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Subject is Spanish speaking. ALS CBS is not translated into Spanish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHW530WD8,NEUHW530WD8,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,525,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Caregiver was not present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHW530WD8,NEUHW530WD8,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,1,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHW530WD8,NEUHW530WD8,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Not collected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHW530WD8,NEUHW530WD8,ALS CBS,ANSWER-ALS Visit 5,525,,,,,,,,,,,,,,,,,,,,,,,2,Not performed. Subject is primarily Spanish speaking.,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHW530WD8,NEUHW530WD8,ALS CBS,ANSWER-ALS Visit 4,322,,,,,,,,,,,,,,,,,,,,,,,2,Subject is spanish speaking. ALS CBS does not have a Spanish version,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHW530WD8,NEUHW530WD8,ALS CBS,ANSWER-ALS Visit 2,133,,,,,,,,,,,,,,,,,,,,,,,2,not collected,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHW530WD8,NEUHW530WD8,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Subject only speaks Spanish; no Spanish version of the CBS available,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHW530WD8,NEUHW530WD8,ALS CBS,ANSWER-ALS Visit 3,231,,,,,,,,,,,,,,,,,,,,,,,2,Spanish speaking,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHW590KBH,NEUHW590KBH,ALS CBS,ANSWER-ALS Screening Visit,0,0,3,5,8,5,2,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,2,1,1,2,2,,4,sock,sit,set,soup,smell,send,seat,spinach,succotash,stand,soap,shampoo,,,,,,,,,5,0,0,0,4,0,5
+CASE-NEUHW590KBH,NEUHW590KBH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHZ302VU4,NEUHZ302VU4,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHZ302VU4,NEUHZ302VU4,ALS CBS,ANSWER-ALS Visit 3,258,0,5,7,8,6,3,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,fire,fortune,forget,flag,future,fortitude,fear,fill,flock,fur,funny,forget,forever,,,,,,,,4,0,0,0,4,1,5
+CASE-NEUHZ302VU4,NEUHZ302VU4,ALS CBS,ANSWER-ALS Visit 2,119,0,5,7,8,6,3,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,2,5,Fragile,Flip,Frank,Friday,Fun,Frivious,Fortunate,Funny,Frugle,Forget,Formula,Frumpy,Fuck,,,,,,,,5,0,0,0,4,0,5
+CASE-NEUHZ302VU4,NEUHZ302VU4,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,7,8,7,3,,,,,,,,,,,,,,,,,1,,10,0,,,,,,,,,1,1,1,1,2,2,4,,,,,,,,,,,,,,,,,,,,,,0,0,2,,,3
+CASE-NEUHZ302VU4,NEUHZ302VU4,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,258,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUHZ302VU4,NEUHZ302VU4,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJA217MTJ,NEUJA217MTJ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,78,,,,,,,44,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJA217MTJ,NEUJA217MTJ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,204,,,,,,,44,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,1,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJA217MTJ,NEUJA217MTJ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,43,1,1,1,1,1,2,1,1,1,1,1,1,1,1,2,,,,,2,2,2,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJA217MTJ,NEUJA217MTJ,ALS CBS,ANSWER-ALS Visit 2,78,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,fit,feed,food,fun,fix,fixate,fiction,fantasy,fabulous,fantastic,football,finish,flat,flam,full,fork,finish,fish,fog,,5,0,0,0,4,0,5
+CASE-NEUJA217MTJ,NEUJA217MTJ,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,fit,fat,fun,fart,fuck,fight,finger,finish,farmer,father,frump,freeze,froze,fragile,fantastic,far,fore,front,fabulous,front,4,0,0,0,4,1,5
+CASE-NEUJA217MTJ,NEUJA217MTJ,ALS CBS,ANSWER-ALS Visit 3,204,,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,2,1,5,fit,fun,fin,faint,fine,fart,flat,funny,flounder,fumble,fat,far,find,found,finish,finger,flatulence,foundation,fitness,fantastic,5,0,0,0,4,0,5
+CASE-NEUJA666PYD,NEUJA666PYD,ALS CBS,ANSWER-ALS Visit 2,83,0,4,5,8,5,2,,,,,,,,,,,,,,,,,1,,10,0,,,,,,,,,1,1,1,1,2,2,4,,,,,,,,,,,,,,,,,,,,,0,1,0,0,,,4
+CASE-NEUJA666PYD,NEUJA666PYD,ALS CBS,ANSWER-ALS Visit 3,182,0,,,8,7,3,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,2,2,,,3,fish,flute,fist,fire,feeling,,,,,,from,far,flee,forward,,,,,,,4,0,0,2,3,0,3
+CASE-NEUJA666PYD,NEUJA666PYD,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,"The CBS was attempted but due to language barriers, the patient's performance was not believed to be reflective of patient's abilities and so was the scale was not scored.",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJA666PYD,NEUJA666PYD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,182,,,,,,,35,2,1,1,1,2,3,2,1,2,1,2,1,2,2,2,,,,,2,2,2,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJC191RLE,NEUJC191RLE,ALS CBS,ANSWER-ALS Visit 5,386,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,frame,frat,film,filter,fist,fight,for,flip,flight,fine,folley,future,fumegate,fear,feasler,famine,fast,far,fall,,5,0,0,0,4,0,5
+CASE-NEUJC191RLE,NEUJC191RLE,ALS CBS,ANSWER-ALS Visit 4,279,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,Fart,Fat,Full,Funny,Fake,Fumble,Frrgle,Fool,Fall,Foot,Feet,Filter,Future,Fine,Find,Found,,,,,5,0,0,0,4,0,5
+CASE-NEUJC191RLE,NEUJC191RLE,ALS CBS,ANSWER-ALS Visit 2,113,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,Fawn,For,Flip,Faunt,Fragile,Foster,Flop,Fort,Frown,Filth,Film,Filter,Fraile,Fake,Faulter,Fail,,,,,5,0,0,0,4,0,5
+CASE-NEUJC191RLE,NEUJC191RLE,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,Fudge,File,Fill,Float,Flip,Flop,Fortify,Function,Fast,Floor,Filtrate,Fanny,Feet,Fortrest,Fallacy,Farse,Film,Filter,Folly,Torture,5,0,0,0,4,0,5
+CASE-NEUJC191RLE,NEUJC191RLE,ALS CBS,ANSWER-ALS Visit 3,225,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,Farm,Frame,Fore,Frat,Flip,Flop,Faint,Fanegel,Future,Font,Fair,Fizzle,Find,Filter,,,,,,,5,0,0,0,4,0,5
+CASE-NEUJC191RLE,NEUJC191RLE,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,113,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJC191RLE,NEUJC191RLE,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJC191RLE,NEUJC191RLE,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJC191RLE,NEUJC191RLE,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,279,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJH197AK2,NEUJH197AK2,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,6,2,,,,,,,,,,,,,,,,,1,,13,0,,,,,,,,,1,1,1,1,1,1,5,Face,Friend,Foe,Fiend,Fish,friend,foe,fawn,friendly,,,,,,,,,,,,1,0,0,0,2,2,5
+CASE-NEUJH197AK2,NEUJH197AK2,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,No caregiver present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJV798JGH,NEUJV798JGH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJV798JGH,NEUJV798JGH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,317,,,,,,,40,1,1,2,1,2,1,1,1,2,1,2,2,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJV798JGH,NEUJV798JGH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJV798JGH,NEUJV798JGH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,149,,,,,,,41,1,1,2,1,1,1,2,1,2,1,2,1,1,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJV798JGH,NEUJV798JGH,ALS CBS,ANSWER-ALS Visit 5,317,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,Fuck,Florescent,February,Fountain,Foundation,Feet,Frieght,Fabulous,Fire,Foam,Faucet,Fixtures,,,,,,,,,5,0,0,0,4,0,5
+CASE-NEUJV798JGH,NEUJV798JGH,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,Flow,Future,Finally,Forever,Fix,Frankly,Floor,Fixtures,Funeral,Forward,Forearm,Femur,Follicles,,,,,,,,5,0,0,2,4,0,3
+CASE-NEUJV798JGH,NEUJV798JGH,ALS CBS,ANSWER-ALS Visit 2,90,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,Fire,Foam,Floor,Fan,Funnel,Future,Famous,Foliage,Farm,Fickle,Fox,Fool,Female,,,,,,,,5,0,0,0,4,0,5
+CASE-NEUJV798JGH,NEUJV798JGH,ALS CBS,ANSWER-ALS Visit 3,149,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,Fart,Fixture,Foam,February,Front,Female,Femur,Finna,Foliage,Fall,Folding,Familiar,Fever,Floor,,,,,,,5,0,0,2,4,0,3
+CASE-NEUJX780XXK,NEUJX780XXK,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,32,3,3,1,1,2,1,2,2,1,1,4,1,1,1,4,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJX780XXK,NEUJX780XXK,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,17,1,,,,,,,,,1,1,1,1,1,1,5,Fool,Fun,Fancy,Free,Fish,Foley,Favor,F-,Ford,Focus,,,,,,,,,,,3,0,0,0,3,1,5
+CASE-NEUJY426MBU,NEUJY426MBU,ALS CBS,ANSWER-ALS Visit 5,673,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,fan,fire,fantastic,few,fierce,fette,fun,flop,football,foot,foreign,forever,foul,fullness,fertile,,,,,,5,0,0,0,4,0,5
+CASE-NEUJY426MBU,NEUJY426MBU,ALS CBS,ANSWER-ALS Visit 4,259,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,face,Fin,famous,fabulous,fat,fascious,fast,faslse,few,feather,few,feather,fun,flower,floor,,,,,,5,0,0,1,4,0,4
+CASE-NEUJY426MBU,NEUJY426MBU,ALS CBS,ANSWER-ALS Visit 3,225,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,foot,fast,fat,female,fantastic,fathom,fester,few,fetted,follow,,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUJY426MBU,NEUJY426MBU,ALS CBS,ANSWER-ALS Visit 2,138,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,2,1,5,fall,fail,FALSE,falsetto,fat,fast,fallible,famous,fan,fox,forever,from,follow,few,fell,,,,,,5,0,0,0,4,0,5
+CASE-NEUJY426MBU,NEUJY426MBU,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,French,Fun,Fabulous,Free,Fan,Fun,Fender,Fuzzy,Fat,Free,Fraternity,Football,Furry,,,,,,,,2,0,0,0,3,2,5
+CASE-NEUJY426MBU,NEUJY426MBU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,259,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJY426MBU,NEUJY426MBU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,44,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJY426MBU,NEUJY426MBU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,673,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,no caregiver present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJY426MBU,NEUJY426MBU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,138,,,,,,,44,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJY536DKF,NEUJY536DKF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,"Patient refused to have us give a caregiver the questionaire on this date, siting being tired",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJY536DKF,NEUJY536DKF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,12,1,4,2,1,3,4,3,3,4,4,4,4,4,4,3,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUJY536DKF,NEUJY536DKF,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,6,8,8,4,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,2,1,2,2,4,Fun,Floor,Foreign,Face,Furniture,Facsimilie,Floral,Future,Fight,Figure eight,Foam,,,,,,,,,,4,0,0,2,3,0,3
+CASE-NEUJY536DKF,NEUJY536DKF,ALS CBS,ANSWER-ALS Visit 2,98,,,,,,,,,,,,,,,,,,,,,,,2,"Patient refused to do this ALS CBS on this date, siting being tired",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUKD025JPF,NEUKD025JPF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,196,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUKD025JPF,NEUKD025JPF,ALS CBS,ANSWER-ALS Visit 5,343,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,fast,fun,fear,fake,fraud,friendly,freak,fate,freight,feet,feat,foot,feminine,female,fun,fabulous,forensic,fetal,fair,,5,0,0,0,4,0,5
+CASE-NEUKD025JPF,NEUKD025JPF,ALS CBS,ANSWER-ALS Visit 4,273,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,fast,fish,first,feast,fin,fan,fun,faun,fart,flint,flake,fleet,flat,frisk,fresh,favorite,,,,,5,0,0,0,4,0,5
+CASE-NEUKD025JPF,NEUKD025JPF,ALS CBS,ANSWER-ALS Visit 3,196,0,5,7,7,8,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,2,5,fish,fin,fall,fun,fake,fabulous,fantastic,fortune,foot,feet,fat,flake,finger,fingernail,,,,,,,5,0,0,0,4,0,5
+CASE-NEUKD025JPF,NEUKD025JPF,ALS CBS,ANSWER-ALS Visit 2,84,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,fly,fan,fart,fun,fake,fingers,fat,flamingo,fancy,feet,fetish,fit,flute,flake,fleet,flat,,,,,5,0,0,0,4,0,5
+CASE-NEUKD025JPF,NEUKD025JPF,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,6,5,2,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,1,1,5,Fat,Fun,Fair,Fanny,Figure,FAmous,FArt,Fatigue,Flamboyant,Fast,Flame,Far,Feet,,,,,,,,5,0,0,1,4,0,4
+CASE-NEUKD025JPF,NEUKD025JPF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,343,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUKD025JPF,NEUKD025JPF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,273,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUKD025JPF,NEUKD025JPF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,84,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUKD025JPF,NEUKD025JPF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,44,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,,,,,1,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULA777DBT,NEULA777DBT,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,140,,,,,,,29,2,3,4,2,2,2,2,1,2,2,1,2,2,3,1,,,,,2,1,1,1,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULA777DBT,NEULA777DBT,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,27,3,2,3,2,2,2,3,2,2,2,2,2,2,2,2,,,,,2,1,1,1,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULA777DBT,NEULA777DBT,ALS CBS,ANSWER-ALS Visit 2,140,0,5,5,8,6,2,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,2,2,2,2,2,2,2,Family,Forensic,Fun,Fantastic,Fumigate,Fluorescent,Farmer,Fixing,Failed,Fallopian,Fell,Flame,,,,,,,,,5,0,0,2,3,,3
+CASE-NEULA777DBT,NEULA777DBT,ALS CBS,ANSWER-ALS Screening Visit,0,0,6,6,8,8,4,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,2,2,4,Flower,Felt,Falment,Farmer,Fragrance,Flag,Forensics,Floppy,Form,Frog,Floppy,Floor,Foot,,,,,,,,4,1,0,0,4,1,4
+CASE-NEULD354RZB,NEULD354RZB,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,7,3,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,1,1,1,1,1,1,5,Fun,Family,Frustration,Familiar,Forget,,,,,,,,,,,,,,,,3,0,0,2,2,0,3
+CASE-NEULD354RZB,NEULD354RZB,ALS CBS,ANSWER-ALS Visit 2,111,0,4,6,6,8,3,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,Find,Fine,Family,Frustratioon,Friends,Finite,Faucet,Factory,,,,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEULD354RZB,NEULD354RZB,ALS CBS,ANSWER-ALS Visit 4,245,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULD354RZB,NEULD354RZB,ALS CBS,ANSWER-ALS Visit 5,399,,,,,,,,,,,,,,,,,,,,,,,2,Not done due to severe dysarthria and inability to handwrite,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULD354RZB,NEULD354RZB,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,399,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULD354RZB,NEULD354RZB,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULD354RZB,NEULD354RZB,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,111,,,,,,,36,1,1,2,2,2,1,2,1,3,2,2,1,1,2,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULD354RZB,NEULD354RZB,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,37,2,1,1,1,3,1,2,2,2,1,2,1,1,2,1,,,,,2,1,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULL588ALG,NEULL588ALG,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,314,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULL588ALG,NEULL588ALG,ALS CBS,ANSWER-ALS Visit 5,336,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULL588ALG,NEULL588ALG,ALS CBS,ANSWER-ALS Visit 4,314,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULL588ALG,NEULL588ALG,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULL588ALG,NEULL588ALG,ALS CBS,ANSWER-ALS Visit 3,220,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULL588ALG,NEULL588ALG,ALS CBS,ANSWER-ALS Visit 2,125,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULL588ALG,NEULL588ALG,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,220,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULL588ALG,NEULL588ALG,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULL588ALG,NEULL588ALG,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULL588ALG,NEULL588ALG,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULL648LJ1,NEULL648LJ1,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,231,,,,,,,25,1,4,2,4,4,4,4,4,2,1,1,1,1,1,1,,,,,1,1,2,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULL648LJ1,NEULL648LJ1,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,343,,,,,,,17,1,4,2,4,4,4,4,4,4,4,4,1,1,1,1,,,,,1,1,2,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULL648LJ1,NEULL648LJ1,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Pt. had to leave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULL648LJ1,NEULL648LJ1,ALS CBS,ANSWER-ALS Visit 3,231,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,2,2,4,family,fun,funny,friend,finish,fill,find,fine,fourth,final,flimsy,fabulous,flabby,fat,first,form,,,,,5,0,0,0,4,0,5
+CASE-NEULL648LJ1,NEULL648LJ1,ALS CBS,ANSWER-ALS Visit 2,119,,,,,,,,,,,,,,,,,,,,,,,2,Pt. had to leave,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULL648LJ1,NEULL648LJ1,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Pt was in a rush to leave.,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULL648LJ1,NEULL648LJ1,ALS CBS,ANSWER-ALS Visit 4,343,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,2,2,2,4,fun,full,fat,for,foot,football,freak,free,feel,fill,foster,forget,fox,future,,,,,,,5,0,0,0,4,0,5
+CASE-NEULL648LJ1,NEULL648LJ1,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Pt was in a rush to leave.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULP998KDJ,NEULP998KDJ,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,4,8,2,2,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,1,2,5,flood,fun,friend,foreign,forget,forensic,foolish,famous,flag,flounder,fake,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEULP998KDJ,NEULP998KDJ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,37,3,1,2,1,3,1,2,2,2,1,1,1,1,1,1,,,,,1,2,1,1,95,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULY177TTN,NEULY177TTN,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,not collected due to time constraints in the ALS Multidisciplinary Clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULY177TTN,NEULY177TTN,ALS CBS,ANSWER-ALS Visit 3,251,,,,,,,,,,,,,,,,,,,,,,,2,subject declined,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULY177TTN,NEULY177TTN,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,2,1,5,Fancy,Freedom,Farmer,Franchise,Fish,Fog,Female,Fortune,Forget,,,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEULY177TTN,NEULY177TTN,ALS CBS,ANSWER-ALS Visit 2,153,,,,,,,,,,,,,,,,,,,,,,,2,not collected due to time constraints in the ALS Multidisciplinary Clinic,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULZ548ZXV,NEULZ548ZXV,ALS CBS,ANSWER-ALS Screening Visit,0,0,3,2,8,4,2,,,,,,,,,,,,,,,,,1,,12,0,,,,,,,,,2,1,2,2,,,3,Faith,Fall,Frosty,Fire,Follow,Food,Foot,For,Foam,Forever,Forgotten,Fair,Fate,F,,,,,,,5,0,1,2,4,0,2
+CASE-NEULZ548ZXV,NEULZ548ZXV,ALS CBS,ANSWER-ALS Visit 4,252,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULZ548ZXV,NEULZ548ZXV,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,252,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEULZ548ZXV,NEULZ548ZXV,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUMD869UV7,NEUMD869UV7,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,6,2,,,,,,,,,,,,,,,,,1,,13,0,,,,,,,,,2,1,1,1,2,1,5,Free,fear,frankly,fuck,for,,,,,,,,,,,,,,,,3,0,0,2,2,0,3
+CASE-NEUMD869UV7,NEUMD869UV7,ALS CBS,ANSWER-ALS Visit 5,346,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,2,2,,4,February,Foam,Freely,Frozen,Feet,Finder,Foreign,Fore,,,,,,,,,,,,,4,0,0,2,3,0,3
+CASE-NEUMD869UV7,NEUMD869UV7,ALS CBS,ANSWER-ALS Visit 3,230,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,2,1,5,Federal,Free Man,Freedom,Foot,Finger,Floor,Foam,Full,Frankly,,,,,,,,,,,,4,0,0,2,3,0,3
+CASE-NEUMD869UV7,NEUMD869UV7,ALS CBS,ANSWER-ALS Visit 2,79,0,5,7,7,6,2,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,2,1,5,Find,Free,Foresome,Freedom,Fear,Forest,Floor,Finder,Fire,Foam,,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUMD869UV7,NEUMD869UV7,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,39,1,2,1,1,1,2,2,1,2,2,1,2,1,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUMD869UV7,NEUMD869UV7,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,230,,,,,,,42,1,1,2,1,1,1,2,1,1,1,2,1,1,1,1,,,,,2,2,2,2,95,1,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUMD869UV7,NEUMD869UV7,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,346,,,,,,,38,2,2,1,1,2,1,2,1,2,2,1,2,1,1,1,,,,,1,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUMD869UV7,NEUMD869UV7,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,79,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUME498PCJ,NEUME498PCJ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,37,1,2,2,2,1,2,2,1,2,2,1,2,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUME498PCJ,NEUME498PCJ,ALS CBS,ANSWER-ALS Visit 4,261,,,,,,,,,,,,,,,,,,,,,,,1,,,0,,,,,,,,,1,1,2,1,2,2,4,fall,far,fish,funny,fickle,fart,fill,fox,folly,fickle,family,filter,fresh,flinch,filly,,,,,,4,2,0,2,4,1,1
+CASE-NEUME498PCJ,NEUME498PCJ,ALS CBS,ANSWER-ALS Visit 2,93,0,3,5,8,6,2,,,,,,,,,,,,,,,,,1,,9,0,,,,,,,,,1,1,2,2,,,3,say,see,sew,sure,sea,sit,stay,sofa,sulfur,sin,sap,stew,stupid,Seattle,cyclical,stable,steep,stupid,,,3,2,0,2,4,2,1
+CASE-NEUME498PCJ,NEUME498PCJ,ALS CBS,ANSWER-ALS Visit 3,175,0,4,6,8,8,4,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,1,1,2,2,,,3,sap,syrup,sin,soy,silly,socks,suture,supple,succumb,sick,silly,simple,soccer,sock,Socrates,soap,sugar,sample,suture,,3,1,0,0,4,2,4
+CASE-NEUME498PCJ,NEUME498PCJ,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,13,0,,,,,,,,,1,1,2,1,2,2,4,fall,farm,fart,flick,fill,floor,fleek,flute,Fallston,fault,fry,freedom,fickle,first,family,from,fern,fickle,farm,form,3,1,0,2,4,2,2
+CASE-NEUME498PCJ,NEUME498PCJ,ALS CBS,ANSWER-ALS Visit 5,392,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUME498PCJ,NEUME498PCJ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,392,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUME498PCJ,NEUME498PCJ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,93,,,,,,,41,1,2,1,2,1,2,1,1,1,1,1,1,2,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUME498PCJ,NEUME498PCJ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,175,,,,,,,42,1,1,1,2,1,2,1,1,1,1,1,1,2,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUMN012EVP,NEUMN012EVP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,279,,,,,,,40,2,1,1,1,2,2,2,1,2,1,1,1,1,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUMN012EVP,NEUMN012EVP,ALS CBS,ANSWER-ALS Visit 5,371,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,1,1,5,frank,four,fourteen,fur,fundamental,fish,fork,flutter,Florida,fortunate,frame,figure,fig,,,,,,,,2,0,0,0,3,2,5
+CASE-NEUMN012EVP,NEUMN012EVP,ALS CBS,ANSWER-ALS Visit 4,279,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,sun,sunflower,sword,snake,silver,skin,shoes,salamander,sin,sick,soul,sand,sea,seafood,sliver,sandy,ship,sink,soul,,3,1,0,0,4,2,4
+CASE-NEUMN012EVP,NEUMN012EVP,ALS CBS,ANSWER-ALS Visit 3,182,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,2,2,4,frank,frankfurter,foot,fart,finesse,fame,fat,funny,finger,figure,fume,fort,four,fourteen,funny,few,,,,,3,0,0,0,4,2,5
+CASE-NEUMN012EVP,NEUMN012EVP,ALS CBS,ANSWER-ALS Visit 2,114,0,4,5,8,8,4,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,2,1,2,2,4,safety,swim,school,sunflower,swim,surf,sand,sunglasses,sandals,shoe,significant,socks,shirt,,,,,,,,4,0,0,2,4,1,3
+CASE-NEUMN012EVP,NEUMN012EVP,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,1,2,5,friday,four,frog,fun,freaky,frivolous,fish,feather,,,,,,,,,,,,,1,0,0,0,2,2,5
+CASE-NEUMN012EVP,NEUMN012EVP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,182,,,,,,,41,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUMN012EVP,NEUMN012EVP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,42,1,2,2,1,1,2,1,1,1,1,1,1,1,1,1,,,,,2,1,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUMN012EVP,NEUMN012EVP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,371,,,,,,,38,2,1,1,1,2,1,2,1,2,1,4,1,1,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUMN012EVP,NEUMN012EVP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,114,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUMN922PMZ,NEUMN922PMZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,651,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,caregiver not present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUMN922PMZ,NEUMN922PMZ,ALS CBS,ANSWER-ALS Visit 4,651,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,2,1,2,1,5,football,flowers,flyers,farmers,fields,forensics,flies,fancy,feast,finagle,Finnish,flail,fling,fork,flourish,,,,,,5,0,0,0,4,0,5
+CASE-NEUMN922PMZ,NEUMN922PMZ,ALS CBS,ANSWER-ALS Visit 3,462,0,4,5,8,8,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,2,2,2,2,3,fire,flick,flame,farm,furniture,follic,fallacy,face,fountain,fowl,finch,feathers,flowers,football,fleet,fleece,floral,fauna,,,5,0,0,0,4,0,5
+CASE-NEUMN922PMZ,NEUMN922PMZ,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,6,8,8,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,frank,form,film,football,farm,forgetful,foolish,friendly,fine,finished,forefather,familiar,frivolous,faithful,flowers,fields,,,,,5,0,0,0,4,0,5
+CASE-NEUMN922PMZ,NEUMN922PMZ,ALS CBS,ANSWER-ALS Visit 2,287,0,5,6,8,6,2,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,1,1,2,2,2,2,3,fire,football,frankferter,feeling,fragile,frugal,fracture,fakeness,freight,fallen,feel,fighting,farm,frog,fraternal,flowers,flora,fona,,,4,0,0,0,4,1,5
+CASE-NEUMN922PMZ,NEUMN922PMZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,462,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,unknown reason,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUMN922PMZ,NEUMN922PMZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,287,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,no caregiver present at visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUMY871DGF,NEUMY871DGF,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,2,5,fake,follow,fern,fight,forty,five,fix,feel,find,fender,fabulous,,,,,,,,,,2,0,0,0,3,2,5
+CASE-NEUMY871DGF,NEUMY871DGF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,43,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNA248WXL,NEUNA248WXL,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNA248WXL,NEUNA248WXL,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNA248WXL,NEUNA248WXL,ALS CBS,ANSWER-ALS Visit 5,390,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNA248WXL,NEUNA248WXL,ALS CBS,ANSWER-ALS Screening Visit,0,0,3,4,8,8,4,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,1,1,2,2,4,Fuck,For,Find,Favor,Famika,Fish,Frankfurter,Farce,Food,Forever,Front,Fire,,,,,,,,,5,1,0,2,4,0,2
+CASE-NEUNA248WXL,NEUNA248WXL,ALS CBS,ANSWER-ALS Visit 4,245,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNA248WXL,NEUNA248WXL,ALS CBS,ANSWER-ALS Visit 2,124,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNA248WXL,NEUNA248WXL,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,124,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNA248WXL,NEUNA248WXL,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,390,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNG326MFP,NEUNG326MFP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNG326MFP,NEUNG326MFP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,298,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNG326MFP,NEUNG326MFP,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,6,8,7,3,,,,,,,,,,,,,,,,,1,,12,0,,,,,,,,,1,1,1,1,2,2,4,forget,Four,fog,freak,frightening,forward,frog,,,,,,,,,,,,,,3,1,0,2,2,0,2
+CASE-NEUNG326MFP,NEUNG326MFP,ALS CBS,ANSWER-ALS Visit 2,112,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNG326MFP,NEUNG326MFP,ALS CBS,ANSWER-ALS Visit 3,182,0,5,6,8,7,3,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,2,1,5,Frizzy,Freaky,Frequent,Forever,Foresight,Forgiving,Frequency,Fork,Fortunate,,,,,,,,,,,,4,0,0,1,3,0,4
+CASE-NEUNG326MFP,NEUNG326MFP,ALS CBS,ANSWER-ALS Visit 4,298,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNG326MFP,NEUNG326MFP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,43,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,,,,,1,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNG326MFP,NEUNG326MFP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,182,,,,,,,44,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,1,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNL415AFW,NEUNL415AFW,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,203,,,,,,,21,3,3,2,3,2,3,2,3,2,2,2,3,3,3,3,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNL415AFW,NEUNL415AFW,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,112,,,,,,,20,2,3,2,3,3,3,2,3,2,2,2,2,4,4,3,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNL415AFW,NEUNL415AFW,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,24,2,3,1,2,2,3,3,3,2,3,1,2,3,3,3,,,,,2,2,2,2,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUNL415AFW,NEUNL415AFW,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,1,,,,,,,,,1,1,1,1,1,1,5,fork,frankfurt,fort,fish,finish,fruit,fast,fly,frog,fox,,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUNL415AFW,NEUNL415AFW,ALS CBS,ANSWER-ALS Visit 2,112,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,1,,,,,,,,,1,1,1,1,1,1,5,full,fell,felt,frankfort,feast,fig,flash,furniture,fire,future,fun,,,,,,,,,,3,0,0,0,3,1,5
+CASE-NEUNL415AFW,NEUNL415AFW,ALS CBS,ANSWER-ALS Visit 3,203,0,4,6,7,6,1,,,,,,,,,,,,,,,,,1,,10,1,,,,,,,,,1,1,2,2,2,,3,frankfooter,furniture,freast,furnace,floor,fly,,,,,,,,,,,,,,,2,0,1,0,2,1,4
+CASE-NEUPD674JPG,NEUPD674JPG,ALS CBS,ANSWER-ALS Visit 3,142,0,5,7,4,5,2,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,1,1,5,Sand,Slipper,Safe,Side,Screwdriver,Sterile,Sandpaper,Secure,Soft,,,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUPD674JPG,NEUPD674JPG,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,2,2,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,1,1,1,1,5,From,For,Forward,Fionger,Flex,Foam,Foreground,Frog,Fish,Flume,Forget,Frankly,,,,,,,,,5,0,0,2,4,0,3
+CASE-NEUPD674JPG,NEUPD674JPG,ALS CBS,ANSWER-ALS Visit 2,103,0,5,7,8,2,3,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,2,1,1,5,Fire,Firecracker,Foam,Fresh,Feel,First,Friend,Firetruck,Friendly,Find,,,,,,,,,,,3,0,0,0,3,1,5
+CASE-NEUPD674JPG,NEUPD674JPG,ALS CBS,ANSWER-ALS Visit 5,366,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPD674JPG,NEUPD674JPG,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,366,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPD674JPG,NEUPD674JPG,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,142,,,,,,,33,1,3,3,1,2,1,3,1,4,1,2,2,1,1,1,,,,,1,1,1,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPD674JPG,NEUPD674JPG,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPD674JPG,NEUPD674JPG,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,103,,,,,,,43,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,,,,,1,1,1,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPK546ZLD,NEUPK546ZLD,ALS CBS,ANSWER-ALS Visit 3,275,,,,,,,,,,,,,,,,,,,,,,,1,,,0,,,,,,,,,1,1,1,1,1,1,5,say,said,six,seven,sixteen,seventeen,sixty,seventy,sautee,sauce,sizzle,sort,sugar,skin,sand,sauce,see,slice,spice,salt,3,0,0,0,4,2,5
+CASE-NEUPK546ZLD,NEUPK546ZLD,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,2,1,1,2,2,,4,sail,same,says,size,sea,shell,shall,shoe,sew,soap,sand,seal,seat,sheet,sheep,,,,,,5,1,0,0,4,0,4
+CASE-NEUPK546ZLD,NEUPK546ZLD,ALS CBS,ANSWER-ALS Visit 2,98,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,2,1,1,1,1,1,5,fat,fun,fudge,fuse,fell,flip,freeze,float,flim,food,fume,fire,foot,from,frolick,,,,,,5,0,0,2,4,0,3
+CASE-NEUPK546ZLD,NEUPK546ZLD,ALS CBS,ANSWER-ALS Visit 4,335,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call.,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPK546ZLD,NEUPK546ZLD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,98,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPK546ZLD,NEUPK546ZLD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,335,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPK546ZLD,NEUPK546ZLD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPN525XEW,NEUPN525XEW,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,476,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPN525XEW,NEUPN525XEW,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,44,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,,,,,2,2,2,2,95,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPN525XEW,NEUPN525XEW,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,106,,,,,,,43,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPN525XEW,NEUPN525XEW,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,322,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPN525XEW,NEUPN525XEW,ALS CBS,ANSWER-ALS Visit 3,322,1,7,7,8,8,3,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,2,2,,,3,sun,son,scale,scoop,snow,ski,skate,soup,sleep,,,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUPN525XEW,NEUPN525XEW,ALS CBS,ANSWER-ALS Visit 2,106,0,6,7,8,8,4,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,2,1,2,2,4,stop,snow,snoring,shower,shop,sofa,sniffles,swim,,,,,,,,,,,,,2,0,0,0,3,2,5
+CASE-NEUPN525XEW,NEUPN525XEW,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,2,2,,,,,2,sun,son,spice,sigma,summer,sport,,,,,,,,,,,,,,,2,0,0,0,2,1,5
+CASE-NEUPN525XEW,NEUPN525XEW,ALS CBS,ANSWER-ALS Visit 4,476,0,7,7,8,8,4,,,,,,,,,,,,,,,,,1,,12,0,,,,,,,,,1,1,2,1,2,2,4,show,start,sky,son,sun,ski,sit,soap,sigarette,support,skufer,,,,,,,,,,2,1,0,2,3,2,2
+CASE-NEUPR357AUF,NEUPR357AUF,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,subject unable to perform ALS-CBS due to disease progression,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPR357AUF,NEUPR357AUF,ALS CBS,ANSWER-ALS Visit 4,245,,,,,,,,,,,,,,,,,,,,,,,2,subject unable to complete due to severe dysarthria,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPR357AUF,NEUPR357AUF,ALS CBS,ANSWER-ALS Visit 2,91,1,,,,2,,,,,,,,,,,,,,,,,,1,,,0,,,,,,,,,1,1,1,,1,2,5,fat,feature,fine,frog,from,father,fun,fabric,,,form,farm,fin,funny,full,fantastic,,,,,4,0,0,1,3,0,4
+CASE-NEUPR357AUF,NEUPR357AUF,ALS CBS,ANSWER-ALS Visit 3,196,,,,,,,,,,,,,,,,,,,,,,,2,Subject unable to complete ALS-CBS due to disease progression (dysarthria),,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPR357AUF,NEUPR357AUF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,91,,,,,,,28,2,2,3,2,2,1,3,2,4,1,2,3,2,2,1,,,,,,2,1,2,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPR357AUF,NEUPR357AUF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,subject unable to perform ALS-CBS due to disease progression,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPR357AUF,NEUPR357AUF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,subject unable to complete due to severe dysarthria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPR357AUF,NEUPR357AUF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,196,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Subject unable to complete ALS-CBS due to disease progression (dysarthria),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPR600MBU,NEUPR600MBU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,441,,,,,,,38,2,1,1,2,2,2,2,1,2,1,1,1,2,1,1,,,,,2,1,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPR600MBU,NEUPR600MBU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,322,,,,,,,42,1,1,1,1,2,2,2,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPR600MBU,NEUPR600MBU,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,flower,fire,flour,family,firm,fermented,figure,fat,facts,face,fix,face,fart,fennel,femine,fixate,feast,,,,4,0,0,0,4,1,5
+CASE-NEUPR600MBU,NEUPR600MBU,ALS CBS,ANSWER-ALS Visit 3,322,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,2,1,1,5,Fat,fist,firm,front,fork,fast,fickle,fumble,flower,first,fiddle,fridge,fright,feet,feat,feisty,,,,,5,0,0,0,4,0,5
+CASE-NEUPR600MBU,NEUPR600MBU,ALS CBS,ANSWER-ALS Visit 2,182,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,fag,fig,fat,fan,family,familiar,finger,fix,fourteen,fend,fax,fit,fight,fete,fiddle,,,,,,4,0,0,0,4,1,5
+CASE-NEUPR600MBU,NEUPR600MBU,ALS CBS,ANSWER-ALS Visit 5,574,0,5,7,8,6,3,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,2,1,5,fix,fruit,fact,fax,fig,fidget,flower,from,farm,fact,figure,flop,flap,farm,foil,,,,,,5,0,0,0,4,0,5
+CASE-NEUPR600MBU,NEUPR600MBU,ALS CBS,ANSWER-ALS Visit 4,441,0,5,7,8,6,3,,,,,,,,,,,,,,,,,1,,18,1,,,,,,,,,1,1,1,1,1,1,5,fan,forever,fish,find,field,fence,fickle,first,favorite,fast,fax,flower,freezer,,,,,,,,5,0,0,0,4,0,5
+CASE-NEUPR600MBU,NEUPR600MBU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,574,,,,,,,31,1,2,2,2,1,2,1,1,2,1,4,1,2,3,4,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPR600MBU,NEUPR600MBU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,182,,,,,,,42,1,1,1,1,2,2,1,1,1,1,1,1,2,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUPR600MBU,NEUPR600MBU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,39,1,1,1,1,2,1,2,1,1,1,1,1,1,2,4,,,,,2,1,2,1,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURA639MK8,NEURA639MK8,ALS CBS,ANSWER-ALS Visit 2,99,0,5,8,8,8,4,,,,,,,,,,,,,,,,,1,,12,0,,,,,,,,,1,1,2,2,,,3,floor,fire,f*ck,furniture,,,,,,,,,,,,,,,,,0,0,0,0,1,0,5
+CASE-NEURA639MK8,NEURA639MK8,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,1,1,1,1,1,1,5,soft,sat,spaghetti,sharp,,,,,,,,,,,,,,,,,0,0,1,0,1,0,4
+CASE-NEURA639MK8,NEURA639MK8,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,99,,,,,,,44,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,,,,,2,2,2,2,95,1,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURA639MK8,NEURA639MK8,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,37,1,1,1,1,1,2,2,1,2,1,3,1,1,1,4,,,,,2,2,2,2,95,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURJ362MXH,NEURJ362MXH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,539,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,not done due to patient fatigue not wanting to stay for this to be completed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURJ362MXH,NEURJ362MXH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,no caregiver present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURJ362MXH,NEURJ362MXH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Not collected due to time constraints in clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURJ362MXH,NEURJ362MXH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,413,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,no caregiver present at visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURJ362MXH,NEURJ362MXH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,91,,,,,,,25,2,4,3,2,2,2,3,3,3,2,1,3,1,2,2,,,,,2,1,2,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURJ362MXH,NEURJ362MXH,ALS CBS,ANSWER-ALS Visit 5,539,,,,,,,,,,,,,,,,,,,,,,,2,not done due to patient fatigue,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURJ362MXH,NEURJ362MXH,ALS CBS,ANSWER-ALS Visit 4,413,0,5,6,8,7,3,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,2,1,5,fan,fandangle,fancy,fence,finance,float,flavor,,,,famous,fanetic,farmer,ferment,flank,fleet,force,,,,4,0,0,0,4,1,5
+CASE-NEURJ362MXH,NEURJ362MXH,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Not done due to time constraints in clinic,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURJ362MXH,NEURJ362MXH,ALS CBS,ANSWER-ALS Visit 2,91,0,5,7,7,5,2,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,2,1,2,2,4,funny,fancy,foolishness,family,fieldhouse,forward,finally,,,,famer,fowl,forward,famen,firemen,fox,,,,,5,0,0,0,4,0,5
+CASE-NEURJ362MXH,NEURJ362MXH,ALS CBS,ANSWER-ALS Visit 3,182,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,2,1,2,2,4,fan,fancy,finger,fin,finance,ferment,friendly,fortunate,fortune,famine,fragment,foreigner,freeze,frazzle,frozen,fame,farmer,,,,5,1,0,0,4,0,4
+CASE-NEURR881FKY,NEURR881FKY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,401,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURR881FKY,NEURR881FKY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURR881FKY,NEURR881FKY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,316,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURR881FKY,NEURR881FKY,ALS CBS,ANSWER-ALS Visit 5,401,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURR881FKY,NEURR881FKY,ALS CBS,ANSWER-ALS Visit 4,316,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call.,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURR881FKY,NEURR881FKY,ALS CBS,ANSWER-ALS Visit 3,254,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURR881FKY,NEURR881FKY,ALS CBS,ANSWER-ALS Visit 2,126,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURR881FKY,NEURR881FKY,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,6,8,8,4,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,1,1,5,sleep,sound,sun,sober,song,sumptuous,strenuous,strength,summer,soon,suddenly,soap,sentimental,sorrow,sad,,,,,,5,0,1,2,4,0,2
+CASE-NEURR881FKY,NEURR881FKY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,254,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURR881FKY,NEURR881FKY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,40,2,2,1,1,2,1,2,1,2,1,1,1,1,1,1,,,,,1,2,1,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURX315DYH,NEURX315DYH,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,7,8,,2,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,1,1,1,1,2,1,5,Free,Foe,Fine,Fume,Fox,Fun,Frequent,Frequency,Favor,Fever,Face,Facial,Fetus,Femur,Ford,Find,Famous,Fabulous,Fire,Fumes,4,0,0,2,4,1,3
+CASE-NEURX315DYH,NEURX315DYH,ALS CBS,ANSWER-ALS Visit 5,371,0,5,7,6,5,2,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,1,1,1,1,2,1,5,Fan,Favorite,Fiduciary,Fulcrum,Facial,Feet,Fibulla,Fire,Flank,Flask,F-,Feen,Foe,Feed,Feet,Fun,,,,,4,0,0,2,4,1,3
+CASE-NEURX315DYH,NEURX315DYH,ALS CBS,ANSWER-ALS Visit 3,196,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,2,1,5,Farm,Furn,Firm,Floral,Frankly,Phenomenal,Facetious,Furl,Foul,Formula,Fistula,Fist,Fire,Firehouse,Finesta,,,,,,5,0,0,2,4,0,3
+CASE-NEURX315DYH,NEURX315DYH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,196,,,,,,,43,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,,,,,1,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURX315DYH,NEURX315DYH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,44,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURX315DYH,NEURX315DYH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,371,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURX909UL6,NEURX909UL6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURX909UL6,NEURX909UL6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,302,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURX909UL6,NEURX909UL6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,399,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURX909UL6,NEURX909UL6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,184,,,,,,,44,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURX909UL6,NEURX909UL6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,90,,,,,,,44,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEURX909UL6,NEURX909UL6,ALS CBS,ANSWER-ALS Screening Visit,0,1,5,7,8,7,3,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,1,1,2,1,2,2,4,Fill,Fall,Fear,Field,Find,Full,Fair,Fare,Finger,Funnel,,,,,,,,,,,4,0,0,2,3,0,3
+CASE-NEURX909UL6,NEURX909UL6,ALS CBS,ANSWER-ALS Visit 5,399,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,2,2,4,Fine,Find,Fair,Fare,Fur,Flame,Fire,Flight,Fear,Fun,Foam,Froth,Floral,Flower,Fashion,Flush,Fight,Field,Flour,,5,0,1,0,4,0,4
+CASE-NEURX909UL6,NEURX909UL6,ALS CBS,ANSWER-ALS Visit 2,90,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,1,1,2,2,4,Friend,Foe,Find,Fine,Fix,Fox,Free,Fresh,Floral,Flower,Flutter,Fire,Friend,Foam,Frame,Fun,Flex,Fit,Floor,Flour,4,0,0,2,4,1,3
+CASE-NEURX909UL6,NEURX909UL6,ALS CBS,ANSWER-ALS Visit 3,184,0,6,7,8,6,2,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,1,2,5,Save,Safe,Sit,Stir,Scramble,Scream,Sprinkle,Stripes,Swim,Splash,Screen,Stay,Sweet,Sour,Squash,Seem,Sow,Stitch,,,5,0,1,0,4,0,4
+CASE-NEURX909UL6,NEURX909UL6,ALS CBS,ANSWER-ALS Visit 4,302,0,5,6,8,1,2,,,,,,,,,,,,,,,,,1,,13,0,,,,,,,,,1,2,2,,,,3,Find,Fun,Fair,Fare,Fling,Fledge,Faucet,Finger,Fidget,Found,File,Feather,Floral,Flower,,,,,,,5,0,0,2,4,0,3
+CASE-NEUTA057AF6,NEUTA057AF6,ALS CBS,ANSWER-ALS Visit 3,189,0,4,6,8,8,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,2,1,2,2,4,fall,furl,feminine,fox  X,furor,fight,forever,fast,fury,,fade,few,foxtrot,fever,flight,flop,forward,further,,,4,0,0,0,4,1,5
+CASE-NEUTA057AF6,NEUTA057AF6,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,6,8,5,2,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,1,2,2,1,4,,,,,,,,,,,,,,,,,,,,,5,,,,4,0,4
+CASE-NEUTA057AF6,NEUTA057AF6,ALS CBS,ANSWER-ALS Visit 5,408,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,2,1,5,food,find,few,feat,fellow,figure,fit,focus,firm,fatigue,formula,future,favorite,fourth,found,foundry,freckles,,,,5,0,0,0,4,0,5
+CASE-NEUTA057AF6,NEUTA057AF6,ALS CBS,ANSWER-ALS Visit 2,91,0,5,6,8,6,2,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,2,1,1,1,2,2,4,fence,fold,fix,fan,fight,fun,finger,funnel,furrow,fabulous,fill,full,fantastic,,,,,,,,5,0,0,1,4,0,4
+CASE-NEUTA057AF6,NEUTA057AF6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,38,1,3,4,1,2,1,2,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTA057AF6,NEUTA057AF6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,408,,,,,,,36,1,1,3,2,2,1,2,1,2,1,2,1,1,2,2,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTA057AF6,NEUTA057AF6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,91,,,,,,,39,2,1,1,1,2,1,2,2,2,1,1,1,1,1,2,,,,,2,2,2,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTA057AF6,NEUTA057AF6,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,189,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,caregiver not present for visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTA689LN5,NEUTA689LN5,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,401,,,,,,,41,2,1,1,1,1,1,2,1,1,1,1,2,2,1,1,,,,,2,1,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTA689LN5,NEUTA689LN5,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,87,,,,,,,43,1,1,1,1,1,1,1,1,2,1,1,2,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTA689LN5,NEUTA689LN5,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,3,4,4,4,3,4,4,4,2,4,4,4,4,4,4,4,,,,,,,,,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTA689LN5,NEUTA689LN5,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,Food,Find,Fool,Foot,Follow,Freak,Friday,Football,Fish,Flee,Fleet,Frog,Flag,Fly,Fob,Fabulous,Fat,,,,5,0,0,0,4,0,5
+CASE-NEUTA689LN5,NEUTA689LN5,ALS CBS,ANSWER-ALS Visit 5,401,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,Fish,Fact,Foolish,Freak,Fire,Free,Follow,Friend,F,Fixture,Feeling,Foe,Flake,Flop,Feed,,,,,,5,0,0,2,4,0,3
+CASE-NEUTA689LN5,NEUTA689LN5,ALS CBS,ANSWER-ALS Visit 3,206,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,2,1,5,Fool,Fee,Flip,Flop,Fine,Finicky,Fish,Flick,Flap,Fob,Foil,Finger,Foul,Full,Fixture,Fissure,Friend,Friendly,,,5,0,0,0,4,0,5
+CASE-NEUTA689LN5,NEUTA689LN5,ALS CBS,ANSWER-ALS Visit 2,87,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,2,2,1,4,Swallow,Swift,Sink,Silly,Stool,Stand,Spin,Spill,Spank,Squid,Stand,S,Shrink,Shack,School,Stock,Sand,,,,5,0,0,0,4,0,5
+CASE-NEUTB230DA3,NEUTB230DA3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,was not completed due to pt. time constraints,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTB230DA3,NEUTB230DA3,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,was not completed due to pt. time constraints,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTD314VFT,NEUTD314VFT,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTD314VFT,NEUTD314VFT,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,40,1,1,2,1,2,1,2,1,2,1,1,2,1,1,1,,,,,2,2,2,2,95,1,,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTD314VFT,NEUTD314VFT,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,434,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTD314VFT,NEUTD314VFT,ALS CBS,ANSWER-ALS Visit 5,434,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTD314VFT,NEUTD314VFT,ALS CBS,ANSWER-ALS Visit 4,315,,,,,,,,,,,,,,,,,,,,,,,2,Clinic Day,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTD314VFT,NEUTD314VFT,ALS CBS,ANSWER-ALS Visit 3,196,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,2,5,Fountain,Fire,Fout,Femur,Flare,Fall,Floor,Fabric,,,,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUTD314VFT,NEUTD314VFT,ALS CBS,ANSWER-ALS Visit 2,115,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTD314VFT,NEUTD314VFT,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,face,forearm,finger,foot,Fox,ferret,female,femur,Fire,foam,,,,,,,,,,,4,0,0,2,3,0,3
+CASE-NEUTD314VFT,NEUTD314VFT,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,196,,,,,,,27,3,2,3,1,3,1,4,2,4,2,2,2,1,2,1,,,,,2,1,1,1,95,1,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTD314VFT,NEUTD314VFT,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,315,,,,,,,28,3,3,1,1,3,1,4,3,4,3,1,2,1,1,1,,,,,2,1,1,2,95,1,,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTD713DE3,NEUTD713DE3,ALS CBS,ANSWER-ALS Visit 2,105,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,food,feel,face,frail,fact,fell,fool,finger,,,foot,feeling,fries,fearful,fiction,friend,find,,,,4,0,0,0,4,1,5
+CASE-NEUTD713DE3,NEUTD713DE3,ALS CBS,ANSWER-ALS Visit 3,413,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,2,2,,,3,frog,fries,fly,funny,fifty,fourteen,fifth,fluff,flexible,funny,fart,fox,Friday,friends,flower,,,,,,3,0,0,0,4,2,5
+CASE-NEUTD713DE3,NEUTD713DE3,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,2,1,1,2,5,frolic,flower,foot,feet,friend,first,fickle,frilly,fossil,foss,fork,flip,friction,fizzle,fix,,,,,,5,0,0,1,4,0,4
+CASE-NEUTD713DE3,NEUTD713DE3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,413,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Caregiver not present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTD713DE3,NEUTD713DE3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,105,,,,,,,44,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTJ613AH9,NEUTJ613AH9,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,5,0,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,0,,,,,,0
+CASE-NEUTJ613AH9,NEUTJ613AH9,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,39,2,1,2,1,3,1,2,1,1,1,1,1,1,2,1,,,,,2,2,1,1,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTL699WJ0,NEUTL699WJ0,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,307,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTL699WJ0,NEUTL699WJ0,ALS CBS,ANSWER-ALS Visit 4,307,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,2,1,5,Fan,Fanatic,Farm,Farmer,For,Family,Familiar,Fantastic,Fabulous,Funny,Fawn,From,Fortune,Fond,,,,,,,5,0,0,0,4,0,5
+CASE-NEUTL699WJ0,NEUTL699WJ0,ALS CBS,ANSWER-ALS Visit 3,169,0,4,7,8,7,3,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,2,1,2,5,Food,Feed,Farm,Fever,Fate,Frantic,Fear,Fearful,Fully,Full,Freight,Freighten,Freightful,Froze,Frozen,Freezing,Frank,Fort,Forgotten,Fat,3,0,0,0,4,2,5
+CASE-NEUTL699WJ0,NEUTL699WJ0,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,7,8,7,3,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,1,1,2,2,2,2,3,Frankfuter,Fat,Fudge,Fire,Find,Fun,Funnelcake,Finish,Fella,Find,Free,Field,Felt,Funny,Fund,Foot,Feet,Fence,,,5,0,0,2,4,0,3
+CASE-NEUTL699WJ0,NEUTL699WJ0,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,42,1,1,1,1,1,1,1,1,1,1,2,2,2,1,1,,,,,2,2,2,1,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTL699WJ0,NEUTL699WJ0,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTM934BPY,NEUTM934BPY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,406,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Not indicated on source documents,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTM934BPY,NEUTM934BPY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,196,,,,,,,37,1,3,2,2,1,1,3,1,3,1,1,1,1,1,1,,,,,2,1,2,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTM934BPY,NEUTM934BPY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,308,,,,,,,44,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,,,,,2,1,2,1,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTM934BPY,NEUTM934BPY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,43,1,1,2,1,1,1,1,1,2,1,1,1,1,1,1,,,,,2,1,2,1,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTM934BPY,NEUTM934BPY,ALS CBS,ANSWER-ALS Visit 3,196,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,2,1,1,1,5,favor,fellow,fever,fish,fun,fry,fee,,,,friend,find,fabulous,favorite,fed,frinal,,,,,5,0,0,1,4,0,4
+CASE-NEUTM934BPY,NEUTM934BPY,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,2,3,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,2,1,2,1,5,fat,food,ford,fury,force,fear,furry,feel,fit,fabulous,fictitious,farm,first,fashion,fabulous,,,,,,4,0,0,0,4,1,5
+CASE-NEUTM934BPY,NEUTM934BPY,ALS CBS,ANSWER-ALS Visit 2,105,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,2,2,2,4,failure,furniture,fun,flip,flop,fang,fill,farm,fret,frigid,frost,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUTM934BPY,NEUTM934BPY,ALS CBS,ANSWER-ALS Visit 5,406,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,family,five,fur,fox,fun,fantastic,furnace,farmer,furniture,firm,fire,feed,freezer,frozen,,,,,,,5,0,0,0,4,0,5
+CASE-NEUTM934BPY,NEUTM934BPY,ALS CBS,ANSWER-ALS Visit 4,308,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,fun,fabulous,famous,foundry,finding,fan,food,fool,feel,felt,firm,free,funny,fantastic,,,,,,,4,0,0,0,4,1,5
+CASE-NEUTN952DDG,NEUTN952DDG,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTN952DDG,NEUTN952DDG,ALS CBS,ANSWER-ALS Visit 4,349,0,4,7,8,8,4,,,,,,,,,,,,,,,,,1,,10,0,,,,,,,,,1,1,1,2,2,,4,free,freedom,friend,fell,fried chicken,fried shrimp,fellowship,,,,,,,,,,,,,,0,1,0,2,1,2,2
+CASE-NEUTN952DDG,NEUTN952DDG,ALS CBS,ANSWER-ALS Visit 2,127,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,12,0,,,,,,,,,1,1,1,2,2,,4,friend,fire,furry,friendship,fahrenheit,first,fable,,,,,,,,,,,,,,0,0,0,2,1,2,3
+CASE-NEUTN952DDG,NEUTN952DDG,ALS CBS,ANSWER-ALS Screening Visit,0,0,7,7,8,8,4,,,,,,,,,,,,,,,,,1,,12,0,,,,,,,,,1,1,1,1,2,2,4,salad,sure,snake,super,,,,,,,,,,,,,,,,,0,0,0,1,1,0,4
+CASE-NEUTN952DDG,NEUTN952DDG,ALS CBS,ANSWER-ALS Visit 3,237,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,13,0,,,,,,,,,1,1,1,1,2,2,4,sex,sunflower,sunny,,,,,,,,,,,,,,,,,,0,1,0,0,1,0,4
+CASE-NEUTN952DDG,NEUTN952DDG,ALS CBS,ANSWER-ALS Visit 5,479,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTN952DDG,NEUTN952DDG,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,237,,,,,,,22,3,3,3,3,2,2,3,3,1,3,2,3,3,2,2,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTN952DDG,NEUTN952DDG,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,127,,,,,,,28,3,3,2,2,2,2,2,3,1,2,2,2,2,2,2,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTN952DDG,NEUTN952DDG,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,23,3,3,3,2,2,3,3,3,1,1,2,3,3,3,2,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTN952DDG,NEUTN952DDG,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,349,,,,,,,20,3,3,4,3,2,3,3,3,1,3,1,3,3,3,2,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTU360YJY,NEUTU360YJY,ALS CBS,ANSWER-ALS Visit 2,77,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,Fib,Fiber,Fab,Fob,Fiction,Factual,Fictitious,Fiddle,Fife,Fight,Figure,Fine,Flout,Flip,Flop,Finish,Fire,Fist,Finger,Face,5,0,0,0,4,0,5
+CASE-NEUTU360YJY,NEUTU360YJY,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,7,8,8,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,Fabulous,Factual,Fad,Fat,Faggot,Far,Finish,Finger,Fire,Four,Furnish,Fern,Fooseball,Falacy,Fancy,Fitful,Fitness,,,,5,0,0,0,4,0,5
+CASE-NEUTU360YJY,NEUTU360YJY,ALS CBS,ANSWER-ALS Visit 5,392,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,Fat,Fabulous,Fact,Fade,Fake,Fail,Fame,Far,Fast,Favor,Fax,Fizz,Finger,Fiction,Fib,Fiddle,Fife,,,,5,0,0,0,4,0,5
+CASE-NEUTU360YJY,NEUTU360YJY,ALS CBS,ANSWER-ALS Visit 3,195,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,Fab,Factual,Fad,Favour,Fag,Father,Falling,Famous,Far,Fast,Fat,Favour,Fawn,Facts,Fib,Fictitious,Fiddle,Fife,Figure,,4,0,0,0,4,1,5
+CASE-NEUTU360YJY,NEUTU360YJY,ALS CBS,ANSWER-ALS Visit 4,286,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,Sibling,Six,Sick,Sidle,Syphillus,Sign,Silly,Similar,Sane,Signal,Serious,Simple,Situational,Sorry,Sought,Sat,Same,Sap,,,4,0,0,0,4,1,5
+CASE-NEUTU360YJY,NEUTU360YJY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTU360YJY,NEUTU360YJY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,77,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTU360YJY,NEUTU360YJY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,392,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTU360YJY,NEUTU360YJY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUTU360YJY,NEUTU360YJY,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,39,1,1,1,1,2,2,2,1,2,1,2,2,1,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUUE852BB1,NEUUE852BB1,ALS CBS,ANSWER-ALS Visit 2,133,0,4,6,8,8,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,2,2,2,4,floor,foot,finger,fat,flush,flower,figure,football,friend,franchise,,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUUE852BB1,NEUUE852BB1,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,5,8,8,4,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,2,1,1,5,FOOT,FINGER,FAN,FENCE,FORT,FRAME,FANNY,FEET,FIREWORK,FOOTBALL,,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUUE852BB1,NEUUE852BB1,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,133,,,,,,,43,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,1,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUUE852BB1,NEUUE852BB1,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,40,3,2,2,1,1,1,1,1,1,1,1,1,1,2,1,,,,,1,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUUL256UC9,NEUUL256UC9,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUUL256UC9,NEUUL256UC9,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,232,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUUL256UC9,NEUUL256UC9,ALS CBS,ANSWER-ALS Visit 3,232,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,2,1,1,1,1,1,5,Far,Future,Farm,Fun,Forget,Forever,Frog,Fast,Fix,Flip,Fin,Full,Fed,,,,,,,,5,0,0,0,4,0,5
+CASE-NEUUL256UC9,NEUUL256UC9,ALS CBS,ANSWER-ALS Visit 2,91,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,2,1,1,1,5,Fun,First,Fuck,Fact,Fast,Follow,Fix,Found,Feel,Flip,Forward,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUUL256UC9,NEUUL256UC9,ALS CBS,ANSWER-ALS Visit 5,336,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,1,1,1,1,1,1,5,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,0,5
+CASE-NEUUL256UC9,NEUUL256UC9,ALS CBS,ANSWER-ALS Visit 4,295,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,2,1,1,2,5,Fast,Fun,Forget,Forgive,Follow,Future,Funnel,Forward,Forever,First,,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUUL256UC9,NEUUL256UC9,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,2,1,1,1,5,Food,Frankfuter,Friendly,Fast,Ferrai,Ford,Five,Fifteen,Forty,Fifty,Fortune,First,Fun,Forgot,Far,February,Fill,Found,,,5,0,0,0,4,0,5
+CASE-NEUUP280KXL,NEUUP280KXL,ALS CBS,ANSWER-ALS Visit 4,315,0,6,7,8,8,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,so,sun,surf,sand,salt,sugar,swift,still,stand,speak,sneeze,squeak,snuggle,,,,,,,,5,0,0,0,4,0,5
+CASE-NEUUP280KXL,NEUUP280KXL,ALS CBS,ANSWER-ALS Visit 3,173,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,2,1,1,5,five,for,fore,fat,fig,far,fast,fare,fair,fool,fail,fort,fork,fling,,,,,,,3,0,0,0,4,2,5
+CASE-NEUUP280KXL,NEUUP280KXL,ALS CBS,ANSWER-ALS Visit 2,106,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed over the phone,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUUP280KXL,NEUUP280KXL,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,1,,,,,,,,,1,1,1,1,1,1,5,face,fact,fun,fuzzy,fur,fence,fork,foot,fool,fudge,freak,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUUP280KXL,NEUUP280KXL,ALS CBS,ANSWER-ALS Visit 5,370,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUUP280KXL,NEUUP280KXL,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed over the phone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUUP280KXL,NEUUP280KXL,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,35,1,1,1,2,2,1,4,1,4,1,1,2,1,2,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUUP280KXL,NEUUP280KXL,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,173,,,,,,,41,1,1,1,1,2,1,2,1,2,1,1,1,1,2,1,,,,,1,2,1,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUUP280KXL,NEUUP280KXL,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,315,,,,,,,41,1,1,2,1,2,1,1,1,2,1,1,2,1,1,1,,,,,1,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUUP280KXL,NEUUP280KXL,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,370,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVF888UHM,NEUVF888UHM,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,fire,fox,frequency,flowers,fun,forgive,forget,flounder,freebie,freelance,forgetful,freckles,follicles,feet,fever,feroul,fir,fur,,,5,0,0,2,4,0,3
+CASE-NEUVF888UHM,NEUVF888UHM,ALS CBS,ANSWER-ALS Visit 2,161,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,,,,,,,1,feature,feather,father,follow,for,fun,free,forenzic,frequent,fjord,flower,flour,fidget,fluffernutter,forget,forget-me-not,follicle,,,,4,0,0,0,,,5
+CASE-NEUVF888UHM,NEUVF888UHM,ALS CBS,ANSWER-ALS Visit 5,448,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,FAST,FIRE,FOX,FAUCET,FRECKLE,FACE,FLOUR,FLOWER,FUR,FENCE,FLUFFERNUTTER,FORLORN,FORGET,FOREVER,FLAX,FLEECE,FRIGID,FROZEN,FREEZER,FINGER,5,0,0,0,4,0,5
+CASE-NEUVF888UHM,NEUVF888UHM,ALS CBS,ANSWER-ALS Visit 3,245,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,2,2,,4,future,father,fir,forget,fluffernutter,frase,fox,face,freckle,,feature,further,fur,for,forget,fleece,fire,finger,forward,,4,0,0,0,4,1,5
+CASE-NEUVF888UHM,NEUVF888UHM,ALS CBS,ANSWER-ALS Visit 4,329,0,4,7,8,8,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,2,1,5,free,fall,form,flour,fern,fur,father,former,flower,forgive,forget,friend,food,flaxgale,fingers,freckles,foot,feet,forward,flu,5,0,0,0,4,0,5
+CASE-NEUVF888UHM,NEUVF888UHM,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,245,,,,,,,36,2,2,1,2,1,2,2,2,2,1,1,1,1,2,2,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVF888UHM,NEUVF888UHM,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,32,2,2,2,2,2,2,2,2,2,1,3,2,1,2,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVF888UHM,NEUVF888UHM,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,161,,,,,,,33,3,2,2,2,3,2,1,3,2,1,1,1,1,2,1,,,,,2,2,2,2,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVF888UHM,NEUVF888UHM,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,448,,,,,,,34,2,2,1,3,2,2,2,2,2,1,1,1,1,2,2,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVF888UHM,NEUVF888UHM,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,329,,,,,,,33,2,2,1,2,2,2,2,2,2,2,1,1,2,2,2,,,,,2,2,2,2,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,ALS CBS,ANSWER-ALS Visit 2,105,1,4,6,8,8,3,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,2,1,1,1,5,fire,fury,floors,fable,flashlight,furniture,flash,frankfurt,fences,french,fry,fish,,,,,,,,,4,1,0,1,3,0,3
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,ALS CBS,ANSWER-ALS Visit 5,461,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,1,1,1,1,2,2,4,fish,florida,fly,fry,fire,flavor,fine,foot,fearless,fart,feather,fly,flair,flirt,,,,,,,4,1,0,2,4,1,2
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,ALS CBS,ANSWER-ALS Visit 4,378,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,2,2,,4,fish,firecracker,firetruck,farm,fuse,fashion,fossil,fabulous,fruit,fingers,feet,,,,,,,,,,4,1,0,0,3,0,4
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,3,8,8,4,,,,,,,,,,,,,,,,,1,,12,0,,,,,,,,,1,1,2,2,2,2,3,firetruck,fireant,french fry,fireball,fried dough,fish,flamingo,Frankfurter,flapjack,flap,flash,,,,,,,,,,4,2,0,2,3,0,1
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,ALS CBS,ANSWER-ALS Visit 3,203,0,4,6,8,8,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,2,1,2,2,4,fresh,fish,farm,farry,fragrance,failure,furious,,,,frie,fruitful,fast,flame,future,for,fairy,,,,5,0,0,1,4,0,4
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,105,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,461,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,203,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,378,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVL876PUV,NEUVL876PUV,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Insufficient time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVL876PUV,NEUVL876PUV,ALS CBS,ANSWER-ALS Visit 5,326,,,,,,,,,,,,,,,,,,,,,,,2,Insufficient time,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVL876PUV,NEUVL876PUV,ALS CBS,ANSWER-ALS Visit 3,173,,,,,,,,,,,,,,,,,,,,,,,2,Insufficient time,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVL876PUV,NEUVL876PUV,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,1,1,5,Fat,Fish,Fantasy,Fart,Full,Fun,Frank,Fluke,Floss,Flounder,Fluffy,Fat,Foolish,Friendship,French,Fry,,,,,4,0,0,2,4,1,3
+CASE-NEUVL876PUV,NEUVL876PUV,ALS CBS,ANSWER-ALS Visit 2,77,0,5,7,8,6,3,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,2,1,1,5,Fish,Flounder,Fart,Fancy,Friday,Frisky,Fun,Frilly,Fiesta,Flower,Flour,Foot,Fighter,Fireman,Fabulous,,,,,,5,0,0,0,4,0,5
+CASE-NEUVL876PUV,NEUVL876PUV,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,77,,,,,,,39,1,1,1,2,1,3,1,1,2,3,1,1,1,1,1,,,,,2,2,2,1,95,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVL876PUV,NEUVL876PUV,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVL876PUV,NEUVL876PUV,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,326,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Insufficient time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVM674HUA,NEUVM674HUA,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,2,1,5,some,saint,sand,salient,synopsis,,,,,,,,,,,,,,,,3,0,0,0,2,0,5
+CASE-NEUVM674HUA,NEUVM674HUA,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,No caregiver present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVN746WKV,NEUVN746WKV,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,1,1,,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVN746WKV,NEUVN746WKV,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,6,7,8,3,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,2,1,2,1,5,frog,fat,forward,figure,fit,,,,,,fun,fake,fright,food,frankfurter,,,,,,3,0,0,1,3,1,4
+CASE-NEUVN746WKV,NEUVN746WKV,ALS CBS,ANSWER-ALS Visit 2,636,0,5,6,8,7,3,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,2,2,4,fuck,fudge,fake,fun,fat,fin,food,fist,fight,fake,first,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUVN746WKV,NEUVN746WKV,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,636,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,boyfriend did not feel comfortable answering questions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVR636VTP,NEUVR636VTP,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,6,2,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,1,1,5,,,,,,,,,Flick,From,Frog,Fray,Freak,Find,Filament,Flap,Frizzy,Froze,Fit,Finance,4,0,0,0,4,1,5
+CASE-NEUVR636VTP,NEUVR636VTP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,44,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVW680LPK,NEUVW680LPK,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,154,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Time constraints,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVW680LPK,NEUVW680LPK,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Unable to complete procedure due to time constraints,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVW680LPK,NEUVW680LPK,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,396,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVW680LPK,NEUVW680LPK,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,33,1,2,1,1,2,3,2,2,2,1,1,1,3,2,3,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVW680LPK,NEUVW680LPK,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,297,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed over the phone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVW680LPK,NEUVW680LPK,ALS CBS,ANSWER-ALS Visit 2,80,,,,,,,,,,,,,,,,,,,,,,,2,Unable to complete procedure due to time constraints,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVW680LPK,NEUVW680LPK,ALS CBS,ANSWER-ALS Visit 4,297,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed over the phone,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVW680LPK,NEUVW680LPK,ALS CBS,ANSWER-ALS Visit 3,154,,,,,,,,,,,,,,,,,,,,,,,2,Time constraints,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVW680LPK,NEUVW680LPK,ALS CBS,ANSWER-ALS Screening Visit,0,1,4,4,7,6,0,,,,,,,,,,,,,,,,,1,,7,0,,,,,,,,,1,1,2,2,,,3,sea,sailboat,seahorse,seabiscuit,saturn,sally,saw,screwdriver,,,,,,,,,,,,,1,0,1,1,2,2,3
+CASE-NEUVW680LPK,NEUVW680LPK,ALS CBS,ANSWER-ALS Visit 5,396,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVW999FP9,NEUVW999FP9,ALS CBS,ANSWER-ALS Visit 2,91,0,4,5,8,7,3,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,2,1,2,2,4,Fights,Fight,Fear,Fun,Funny,Friends,Family,Future,Freedom,Free,Follow,Fear,Firetruck,Fire,Full,,,,,,4,0,0,0,4,1,5
+CASE-NEUVW999FP9,NEUVW999FP9,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,5,8,6,2,,,,,,,,,,,,,,,,,1,,11,0,,,,,,,,,2,1,1,1,2,2,4,frank,fire,fifth,filth,fixture,feather,fun,funny,fight,flight,flying,,,,,,,,,,3,2,0,1,3,1,2
+CASE-NEUVW999FP9,NEUVW999FP9,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,44,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,,,,,2,2,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVW999FP9,NEUVW999FP9,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,91,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVX902YNL,NEUVX902YNL,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,2,1,5,fate,far,Farm,Feel,Felt,Fear,Fist,Fine,Fire,First,Foot,Fool,Fort,Frost,,,,,,,5,0,0,0,4,0,5
+CASE-NEUVX902YNL,NEUVX902YNL,ALS CBS,ANSWER-ALS Visit 2,93,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,Fan,Fair,Fire,FUn,Floozy,Floss,Fluid,Flap,Flee,Firm,Fear,Fist,Fun,,,,,,,,5,0,0,0,4,0,5
+CASE-NEUVX902YNL,NEUVX902YNL,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,36,1,1,3,2,1,1,2,2,1,3,1,1,2,1,2,,,,,1,2,1,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUVX902YNL,NEUVX902YNL,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,93,,,,,,,35,3,2,2,1,2,1,1,1,1,3,1,3,2,1,1,,,,,1,2,1,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUWD538KT3,NEUWD538KT3,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Pt had to leave.,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUWD538KT3,NEUWD538KT3,ALS CBS,ANSWER-ALS Visit 3,203,0,4,6,8,4,2,,,,,,,,,,,,,,,,,1,,9,0,,,,,,,,,1,1,1,1,2,2,4,,,,,,,,,,,,,,,,,,,,,,0,0,2,,,3
+CASE-NEUWD538KT3,NEUWD538KT3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,203,,,,,,,,2,1,1,1,2,2,1,1,2,1,,2,1,2,2,,,,,2,2,2,1,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUWD538KT3,NEUWD538KT3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Pt had to leave.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUWH380YHV,NEUWH380YHV,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,no caregiver present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUWH380YHV,NEUWH380YHV,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,5,8,6,2,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,2,1,2,1,2,2,4,friend,family,fun,frantic,fabulous,forever,from,faint,far,feather,fairy,fast,formed,front,fever,,,,,,5,0,0,1,4,0,4
+CASE-NEUWH380YHV,NEUWH380YHV,ALS CBS,ANSWER-ALS Visit 2,267,0,4,4,8,7,3,,,,,,,,,,,,,,,,,1,,15,0,,,,,,,,,1,1,1,1,2,2,4,fast,friendly,forward,from,festival,forgot,friend,flex,follow,freezer,,,,,,,,,,,3,0,0,0,3,1,5
+CASE-NEUWH380YHV,NEUWH380YHV,ALS CBS,ANSWER-ALS Visit 3,479,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,20,0,,,,,,,,,1,1,1,1,1,1,5,far,fan,fake,fast,fever,for,fork,fire,favorite,favor,fern,furor,feline,,,,,,,,5,0,0,0,4,0,5
+CASE-NEUWH380YHV,NEUWH380YHV,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,267,,,,,,,43,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,,,,,1,2,1,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUWH380YHV,NEUWH380YHV,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,42,2,1,3,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUWJ389FC7,NEUWJ389FC7,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,13,2,4,3,4,2,2,2,4,1,4,4,3,4,4,4,,,,,1,2,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUWJ389FC7,NEUWJ389FC7,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,266,,,,,,,21,3,1,1,3,3,3,2,4,2,3,3,3,1,3,4,,,,,1,2,2,1,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUWJ389FC7,NEUWJ389FC7,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,14,0,,,,,,,,,1,1,1,2,2,1,4,Fast,Fury,Fart,Funny,Fury,Fox,Fever,,,,,,,,,,,,,,2,2,0,0,2,,3
+CASE-NEUWJ389FC7,NEUWJ389FC7,ALS CBS,ANSWER-ALS Visit 2,161,0,6,6,8,4,2,,,,,,,,,,,,,,,,,1,,12,0,,,,,,,,,1,1,1,1,2,2,4,Fox,Flower,Front,Filler,Filter,,,,,,,,,,,,,,,,3,0,0,2,2,0,3
+CASE-NEUWJ389FC7,NEUWJ389FC7,ALS CBS,ANSWER-ALS Visit 4,266,0,14,16,8,6,2,,,,,,,,,,,,,,,,,1,,11,0,,,,,,,,,1,1,2,1,1,2,5,Fox,Friend,Father,Forth,Fiat,Fish,,,,,,,,,,,,,,,3,2,0,2,2,0,1
+CASE-NEUWJ389FC7,NEUWJ389FC7,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,161,,,,,,,,3,,3,4,2,3,2,3,2,4,2,3,1,4,4,,,,,2,1,2,1,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUWP426NBR,NEUWP426NBR,ALS CBS,ANSWER-ALS Screening Visit,0,0,4,5,8,8,4,,,,,,,,,,,,,,,,,1,,11,0,,,,,,,,,1,1,1,1,2,2,4,,,,,,,,,,,,,,,,,,,,,0,0,0,2,1,0,3
+CASE-NEUWP426NBR,NEUWP426NBR,ALS CBS,ANSWER-ALS Visit 2,133,0,4,4,8,8,4,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,2,1,2,1,5,fish,facets,fig,forest,fungus,food,fast,fake,,,,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUWP426NBR,NEUWP426NBR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,133,,,,,,,39,2,2,1,1,1,2,2,1,1,1,2,1,1,1,2,,,,,2,2,2,1,95,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUWP426NBR,NEUWP426NBR,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUWX167DAH,NEUWX167DAH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,28,4,2,1,2,4,1,3,2,4,2,1,1,2,2,1,,,,,2,1,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUWX167DAH,NEUWX167DAH,ALS CBS,ANSWER-ALS Visit 2,171,,,,,,,,,,,,,,,,,,,,,,,2,visit was a televisit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUWX167DAH,NEUWX167DAH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,315,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Not indicated on source documents,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUWX167DAH,NEUWX167DAH,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,17,1,,,,,,,,,1,1,1,1,1,1,5,fork,found,fine,find,figure,foundation,foot,footing,flower,,,,,,,,,,,,3,0,0,0,3,1,5
+CASE-NEUWX167DAH,NEUWX167DAH,ALS CBS,ANSWER-ALS Visit 3,315,,,,,,,,,,,,,,,,,,,,,,,2,Not indicated on source documents,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUWX167DAH,NEUWX167DAH,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,visit was a televisit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXE491RMM,NEUXE491RMM,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,10,0,,,,,,,,,1,1,2,2,,,3,fun,fart,farm,funny,fire,fanny,family,,,,,,,,,,,,,,2,2,0,2,2,1,1
+CASE-NEUXE491RMM,NEUXE491RMM,ALS CBS,ANSWER-ALS Visit 2,133,,,,,,,,,,,,,,,,,,,,,,,2,subject unable to complete secondary to severe dysarthria,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXE491RMM,NEUXE491RMM,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,41,2,1,1,1,3,1,1,1,1,1,1,1,1,1,2,,,,,2,2,1,1,95,1,,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXE491RMM,NEUXE491RMM,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,subject unable to complete secondary to severe dysarthria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXP289KRC,NEUXP289KRC,ALS CBS,ANSWER-ALS Visit 5,540,,,,,,,,,,,,,,,,,,,,,,,2,patient did not have time to stay for assessments,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXP289KRC,NEUXP289KRC,ALS CBS,ANSWER-ALS Visit 3,379,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,2,5,fall,fair,farthest,fat,feather,find,fix,felt,forever,fried,fill,failure,fossel,female,fame,famous,fellows,,,,4,0,0,0,4,1,5
+CASE-NEUXP289KRC,NEUXP289KRC,ALS CBS,ANSWER-ALS Visit 4,466,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXP289KRC,NEUXP289KRC,ALS CBS,ANSWER-ALS Visit 2,259,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,sin,say,sinner,sought,sell,silly,sun,sunshine,shine,sit,sat,sew,sewn,super,still,stole,sight,see,seen,silver,3,0,0,0,4,2,5
+CASE-NEUXP289KRC,NEUXP289KRC,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Not collected due to time constraints,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXP289KRC,NEUXP289KRC,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,No caregiver present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXP289KRC,NEUXP289KRC,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,540,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,patient did not have time to stay for assessments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXP289KRC,NEUXP289KRC,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,466,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXP289KRC,NEUXP289KRC,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,379,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,No caregiver,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXP289KRC,NEUXP289KRC,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,No caregiver,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXP595FFP,NEUXP595FFP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,406,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXP595FFP,NEUXP595FFP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,630,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,1,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXP595FFP,NEUXP595FFP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,CBS not assessed due to time constraints in clinic and inability to assess subject on the cognitive portion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXP595FFP,NEUXP595FFP,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Subject was unable to be assessed on this measure due to immobility and subject is unable to speak,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXP595FFP,NEUXP595FFP,ALS CBS,ANSWER-ALS Visit 4,406,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,4,0,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,0,,,,,,0
+CASE-NEUXP595FFP,NEUXP595FFP,ALS CBS,ANSWER-ALS Visit 5,630,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,9,0,,,,,,,,,1,1,1,1,2,2,4,,,,,,,,,,,,,,,,,,,,,0,2,0,2,1,0,1
+CASE-NEUXP595FFP,NEUXP595FFP,ALS CBS,ANSWER-ALS Visit 3,224,,,,,,,,,,,,,,,,,,,,,,,2,Patient declined due to disease progression,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXV122FN3,NEUXV122FN3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,413,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Caregiver not present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXV122FN3,NEUXV122FN3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,no caregiver present at visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXV122FN3,NEUXV122FN3,ALS CBS,ANSWER-ALS Visit 2,105,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,2,1,5,flat,fritter,flabbergasted,free,fun,fantastic,future,flamingo,furniture,freelance,from,further,farther,frontier,,,,,,,5,0,0,1,4,0,4
+CASE-NEUXV122FN3,NEUXV122FN3,ALS CBS,ANSWER-ALS Visit 3,231,0,5,6,8,7,3,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,foreign,fun,finagle,farm,fortune,family,fortunate,feign,fin,funnel,fringe,formaldehyde,frequency,,,,,,,,5,0,0,1,4,0,4
+CASE-NEUXV122FN3,NEUXV122FN3,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,5,3,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,2,1,5,Fun,Friend,Fallen,Fantastic,Frugal,Forward,Fundamental,Fear,Free-lance,Frangrance,Flower,Final,Fidelity,Formost,Forewarning,,,,,,5,0,0,0,4,0,5
+CASE-NEUXV122FN3,NEUXV122FN3,ALS CBS,ANSWER-ALS Visit 4,413,0,4,6,8,8,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,2,2,,,3,fun,free,fantastic,festival,freezers,fear,feel,frozen,freedom,fail,foil,fat,fortress,,,,,,,,5,0,0,0,4,0,5
+CASE-NEUXV122FN3,NEUXV122FN3,ALS CBS,ANSWER-ALS Visit 5,553,0,5,6,8,7,3,,,,,,,,,,,,,,,,,1,,13,0,,,,,,,,,1,2,2,,,,3,freak,fantasy,freedom,fudge,frugal,fruitful,fee,fungible,furlong,,,,,,,,,,,,4,0,0,2,3,0,3
+CASE-NEUXV122FN3,NEUXV122FN3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,553,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,unknown reason,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXV122FN3,NEUXV122FN3,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,No caregiver was present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUXX361RUG,NEUXX361RUG,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,13,0,,,,,,,,,1,1,1,1,1,1,5,funny,frivolous,fussy,furious,,,,,,,,,,,,,,,,,0,2,0,0,1,0,3
+CASE-NEUXX361RUG,NEUXX361RUG,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,42,2,2,1,1,1,2,1,1,1,1,1,1,1,1,1,,,,,2,2,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYG298CA9,NEUYG298CA9,ALS CBS,ANSWER-ALS Visit 2,69,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,2,5,french,firm,furious,free,freedom,feeling,finale,forge,founder,fun,find,fix,forever,fision,fucsion,focus,,,,,5,0,0,0,4,0,5
+CASE-NEUYG298CA9,NEUYG298CA9,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,4,3,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,2,2,4,Forum,Fork,Fire,Feeling,Federal,Funded,Filled,Farms,Family,Familiar,,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUYG298CA9,NEUYG298CA9,ALS CBS,ANSWER-ALS Visit 3,1020,0,5,7,8,6,3,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,2,1,5,flowers,fine,formaldehyde,fortress,formidable,functioning,foundation,founding,father,forever,fermenting,fermosa,for,forefathers,far,fat,famished,fastidious,fit,final,3,0,0,0,4,2,5
+CASE-NEUYG298CA9,NEUYG298CA9,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,"The participant came to clinic alone, there was no one present to give the questionnaire to.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYG298CA9,NEUYG298CA9,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,69,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,There was no caregiver present to complete the form,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYG298CA9,NEUYG298CA9,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,1020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Patient did not have a caregiver present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYH924UCE,NEUYH924UCE,ALS CBS,ANSWER-ALS Visit 4,714,,,,,,,,,,,,,,,,,,,,,,,2,"patient refused, was too tired to complete. Related to disease progression.",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYH924UCE,NEUYH924UCE,ALS CBS,ANSWER-ALS Visit 3,231,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,2,1,1,5,flower,fig,for,frame,fruit,frugal,fair,frank,flop,fire,freight,flat,flown,floor,flay,fist,four,,,,4,0,0,0,4,1,5
+CASE-NEUYH924UCE,NEUYH924UCE,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,2,2,4,Frog,Fig,Farse,Fry,Fairy,Final,Fancy,Facial,Foray,Freak,Frappe,Foreign,Finish,Fit,Fist,,,,,,5,0,0,1,4,0,4
+CASE-NEUYH924UCE,NEUYH924UCE,ALS CBS,ANSWER-ALS Visit 2,98,,,,,,,,,,,,,,,,,,,,,,,2,Not done due to time constraints in clinic,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYH924UCE,NEUYH924UCE,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,43,1,1,1,1,1,2,1,1,1,1,1,1,1,1,2,,,,,2,1,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYH924UCE,NEUYH924UCE,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,714,,,,,,,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,2,2,1,95,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYH924UCE,NEUYH924UCE,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,231,,,,,,,44,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYH924UCE,NEUYH924UCE,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Not collected due to time constraints in clinic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYK029WUU,NEUYK029WUU,ALS CBS,ANSWER-ALS Visit 5,371,,,,,,,,,,,,,,,,,,,,,,,2,Not done due to severe dysarthria,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYK029WUU,NEUYK029WUU,ALS CBS,ANSWER-ALS Visit 3,182,,,,,,,,,,,,,,,,,,,,,,,2,Not done due to severe dysarthria,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYK029WUU,NEUYK029WUU,ALS CBS,ANSWER-ALS Visit 4,300,,,,,,,,,,,,,,,,,,,,,,,2,Not done due to severe dysarthria,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYK029WUU,NEUYK029WUU,ALS CBS,ANSWER-ALS Visit 2,138,,,,,,,,,,,,,,,,,,,,,,,2,Not done due to severe dysarthria,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYK029WUU,NEUYK029WUU,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,Fun,Fan,Fire,Fame,Fad,Freeze,From,For,Feet,Free,Friend,Fudge,Forever,Fight,,,,,,,5,0,0,0,4,0,5
+CASE-NEUYK029WUU,NEUYK029WUU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYK029WUU,NEUYK029WUU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYK029WUU,NEUYK029WUU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,371,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYK029WUU,NEUYK029WUU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYK029WUU,NEUYK029WUU,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYL008GM4,NEUYL008GM4,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,1,1,5,sit,sat,start,stop,sift,sort,sling,slaughter,slip,slap,slop,sister,stem,step,stop,shift,short,shake,sill,semester,3,0,0,2,4,2,3
+CASE-NEUYL008GM4,NEUYL008GM4,ALS CBS,ANSWER-ALS Visit 2,107,,,,,,,,,,,,,,,,,,,,,,,1,,,0,,,,,,,,,1,1,1,1,2,2,4,fast,far,fury,for,fling,flong,flip,flop,fasciculation,farther,further,far,forensic,fist,fat,ferocious,female,femur,flit,fat,3,0,0,0,4,2,5
+CASE-NEUYL008GM4,NEUYL008GM4,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,40,2,1,1,1,1,1,2,2,3,1,1,1,1,1,1,,,,,2,2,1,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYL149PRF,NEUYL149PRF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,27,1,4,3,4,1,2,3,3,3,1,4,1,1,1,1,,,,,1,1,1,1,95,1,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYL149PRF,NEUYL149PRF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYL149PRF,NEUYL149PRF,ALS CBS,ANSWER-ALS Visit 2,127,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYL149PRF,NEUYL149PRF,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,1,1,5,sad,sudden,simple,saccharine,suit,sadness,secret,single,shingle,slip,slide,sleigh,slight,slow,station,Staten Island,sable,,,,3,0,0,2,4,2,3
+CASE-NEUYP235ZLD,NEUYP235ZLD,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,40,1,1,2,1,1,1,1,2,1,2,1,1,2,2,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYP235ZLD,NEUYP235ZLD,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,Fire,Firetruck,Freedom,For,Free,Far,Fun,Fellow,Forrestry,Favor,Fate,Finger,Face,Flame,Form,File,Fragile,Flight,,,5,0,0,0,4,0,5
+CASE-NEUYY225MNZ,NEUYY225MNZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,358,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Insufficient time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYY225MNZ,NEUYY225MNZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,92,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Insufficient time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYY225MNZ,NEUYY225MNZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,198,,,,,,,34,2,2,3,2,2,3,1,1,1,1,1,2,2,2,1,,,,,2,1,2,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYY225MNZ,NEUYY225MNZ,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Insufficient time,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYY225MNZ,NEUYY225MNZ,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Insufficient time,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYY225MNZ,NEUYY225MNZ,ALS CBS,ANSWER-ALS Visit 4,358,,,,,,,,,,,,,,,,,,,,,,,2,Insufficient time,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYY225MNZ,NEUYY225MNZ,ALS CBS,ANSWER-ALS Visit 2,92,,,,,,,,,,,,,,,,,,,,,,,2,Insufficient time,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYY225MNZ,NEUYY225MNZ,ALS CBS,ANSWER-ALS Visit 3,198,0,5,7,7,7,3,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,Feather,Face,Fingers,Feet,Find,Facilition,Father,Flag,Football,For,,,,,,,,,,,4,0,0,0,3,0,5
+CASE-NEUYY878JGP,NEUYY878JGP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,"subject unable to complete ALS-CBS, therefore caregiver did not complete this portion",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYY878JGP,NEUYY878JGP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,175,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Caregiver not present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYY878JGP,NEUYY878JGP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Caregiver was not present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYY878JGP,NEUYY878JGP,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,266,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Caregiver was not present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYY878JGP,NEUYY878JGP,ALS CBS,ANSWER-ALS Visit 3,175,,,,,,,,,,,,,,,,,,,,,,,2,subject unable,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYY878JGP,NEUYY878JGP,ALS CBS,ANSWER-ALS Visit 4,266,,,,,,,,,,,,,,,,,,,,,,,2,Patient unable to speak,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYY878JGP,NEUYY878JGP,ALS CBS,ANSWER-ALS Visit 2,105,,,,,,,,,,,,,,,,,,,,,,,2,Subject dysarthric,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUYY878JGP,NEUYY878JGP,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Secondary to bulbar symptoms- patient is unable to speak,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZN836GME,NEUZN836GME,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,8,5,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,friend,Fruit,fowl,further,front,friendly,fiction,find,finally,final,further,forward,fast,frequnt,fortitude,,,,,,5,2,0,0,4,0,3
+CASE-NEUZN836GME,NEUZN836GME,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,No caregiver present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 5,525,,,,,,,44,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,207,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,43,1,2,1,1,1,1,1,1,1,1,2,1,1,1,1,,,,,2,2,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,ALS CBS,ANSWER-ALS Visit 3,207,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,ALS CBS,ANSWER-ALS Visit 2,112,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,6,8,8,4,,,,,,,,,,,,,,,,,1,,10,0,,,,,,,,,1,1,2,2,,,3,sorry,sad,second,season,Saul,smiley,sorority,symmetry,sawdust,sand,stationary,sitting,,,,,,,,,2,2,1,1,3,2,1
+CASE-NEUZN936HJ9,NEUZN936HJ9,ALS CBS,ANSWER-ALS Visit 4,309,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,ALS CBS,ANSWER-ALS Visit 5,525,,,,,,,,,,,,,,,,,,,,,,,2,patient did not want to do the assessment,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,309,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Visit completed via phone call,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZP278MR4,NEUZP278MR4,ALS CBS,ANSWER-ALS Visit 2,98,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,Football,Full,Freedom,Fila,Flexible,Famished,Fantastic,Freeloader,Followup,Formula,Fishing,Fishhoole,Fellow,Fighting,Forgetting,Fun,Friendly,Fantasy,French,Future,5,0,0,2,4,0,3
+CASE-NEUZP278MR4,NEUZP278MR4,ALS CBS,ANSWER-ALS Visit 5,385,0,5,6,8,6,2,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,1,1,5,Friend,Fox,Foe,Family,Fig,Fellow,Fellowship,Follow,From,For,Far,Freedom,Fizzle,Farm,Floppy,Float,Form,,,,5,0,0,0,4,0,5
+CASE-NEUZP278MR4,NEUZP278MR4,ALS CBS,ANSWER-ALS Visit 3,204,0,5,7,8,6,3,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,Free,Fun,Freedom,Follow,Fell,Fillup,Focus,Foral,Female,Friendship,Father,Family,Finally,Funny,Flirtacious,Flamingo,,,,,5,0,0,0,4,0,5
+CASE-NEUZP278MR4,NEUZP278MR4,ALS CBS,ANSWER-ALS Screening Visit,0,1,4,6,8,8,3,,,,,,,,,,,,,,,,,1,,16,0,,,,,,,,,1,1,1,1,1,2,5,Foot,Femur,Follow,Fillup,Fake,Fine,Fun,Fish,Frankfurter,Formula,Forever,,,,,,,,,,4,0,0,1,3,0,4
+CASE-NEUZP278MR4,NEUZP278MR4,ALS CBS,ANSWER-ALS Visit 4,295,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,17,0,,,,,,,,,1,1,1,1,2,1,5,Fun,Fire,Family,Feelings,Future,Fantastic,Fortunate,Familiar,Fizzle,Flob,Flip,Phlem,Flatuate,Finally,Foreball,Fever,Fence,Fish,Finger,Foot,4,0,0,1,4,1,4
+CASE-NEUZP278MR4,NEUZP278MR4,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 3,204,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZP278MR4,NEUZP278MR4,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZT557DHF,NEUZT557DHF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,153,,,,,,,17,4,3,1,2,4,1,3,3,4,4,3,3,4,3,1,,,,,1,2,1,1,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZT557DHF,NEUZT557DHF,ALS CBS,ANSWER-ALS Screening Visit,0,1,5,7,8,7,3,,,,,,,,,,,,,,,,,1,,18,0,,,,,,,,,1,1,1,1,1,1,5,sew,sow,see,seek,sell,self,seldom,silo,someone,somehow,somewhere,solvent,simple,seller,,,,,,,5,0,0,0,4,0,5
+CASE-NEUZT557DHF,NEUZT557DHF,ALS CBS,ANSWER-ALS Visit 2,153,,,,,,,,,,,,,,,,,,,,,,,1,,,0,,,,,,,,,1,1,1,1,2,2,4,saw,sand,sanction,seal,send,savor,snarky,shark,shell,slow,start,surge,sound,shoot,standing,search,,,,,5,0,0,0,4,0,5
+CASE-NEUZT557DHF,NEUZT557DHF,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,21,3,2,2,2,3,1,3,4,3,2,3,3,3,3,2,,,,,1,2,1,1,95,1,,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZV656DD1,NEUZV656DD1,ALS CBS,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,2,Unable to Preform due to illness,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZV656DD1,NEUZV656DD1,ALS CBS,ANSWER-ALS Visit 2,105,,,,,,,,,,,,,,,,,,,,,,,2,Due to illness patient was unable to write or speak and therefore we could not do the ALS CBS,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZV656DD1,NEUZV656DD1,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,This was not collected on SV2 and a protocol deviation was created.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZV656DD1,NEUZV656DD1,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,43,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,,,,,2,1,2,2,95,1,,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZX521TKK,NEUZX521TKK,ALS CBS,ANSWER-ALS Screening Visit,0,0,5,7,8,7,4,,,,,,,,,,,,,,,,,1,,19,0,,,,,,,,,1,1,1,1,1,1,5,Fat,Feet,Fete,For,Foot,Fret,Ferrel,Franking,Forelorn,Furlow,Faction,Factory,Face,Facetious,Formidable,Format,Format,Forein,,,5,0,0,0,4,0,5
+CASE-NEUZX521TKK,NEUZX521TKK,ALS CBS,ANSWER-ALS Visit 4,312,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZX521TKK,NEUZX521TKK,ALS CBS,ANSWER-ALS Visit 2,101,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZX521TKK,NEUZX521TKK,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 4,312,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZX521TKK,NEUZX521TKK,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Visit 2,101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,Phone Visit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZX521TKK,NEUZX521TKK,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,came alone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CASE-NEUZX847VWV,NEUZX847VWV,ALS CBS,ANSWER-ALS Screening Visit,0,0,3,4,6,4,1,,,,,,,,,,,,,,,,,1,,8,0,,,,,,,,,1,1,1,1,2,2,4,Foot,Feet,Fix,For,Five,Flour,Floor,,,,,,,,,,,,,,2,1,1,2,2,1,1
+CASE-NEUZX847VWV,NEUZX847VWV,ALS Caregiver Behavioral Questionnaire,ANSWER-ALS Screening Visit,0,,,,,,,21,2,3,2,1,3,4,3,2,3,2,2,3,2,3,4,,,,,2,2,2,1,95,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
