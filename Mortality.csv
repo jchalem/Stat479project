@@ -1,0 +1,65 @@
+Participant_ID,SubjectUID,Form_Name,Visit_Name,aut,autdt,autobt,autpmi,auttyp,diedcaus,dieddt,icd10cm,source,sourcesp
+CASE-NEUAA599TMX,NEUAA599TMX,Mortality,Key Events,90,,,,,progression of ALS,329,G12.21,2,
+CASE-NEUAB000NKC,NEUAB000NKC,Mortality,Key Events,2,,,,,Progression of ALS,1194,,2,
+CASE-NEUAG603XLK,NEUAG603XLK,Mortality,Key Events,90,,,,,not listed,1017,,99,found in obituaries
+CASE-NEUAT234RK6,NEUAT234RK6,Mortality,Key Events,2,,,,,Progression of ALS.,706,,2,
+CASE-NEUAX665ZHY,NEUAX665ZHY,Mortality,Key Events,2,,,,,ALS related,670,,99,spouse reported
+CASE-NEUBC998WWB,NEUBC998WWB,Mortality,Key Events,2,,,,,Unknown,373,,1,
+CASE-NEUBD218YR3,NEUBD218YR3,Mortality,Key Events,90,,,,,Progression of ALS,216,,2,
+CASE-NEUBY734PFR,NEUBY734PFR,Mortality,Key Events,2,,,,,progression of disease,521,,1,
+CASE-NEUCE965ZGK,NEUCE965ZGK,Mortality,Key Events,90,,,,,not listed,391,,99,obituary
+CASE-NEUCF538BRM,NEUCF538BRM,Mortality,Key Events,2,,,,,ALS,1188,,2,
+CASE-NEUCU245GBQ,NEUCU245GBQ,Mortality,Key Events,90,,,,,,243,,99,retrieved from online obituary
+CASE-NEUDJ536EVH,NEUDJ536EVH,Mortality,Key Events,90,,,,,Progression of ALS,943,,2,
+CASE-NEUDP155HFH,NEUDP155HFH,Mortality,Key Events,90,,,,,unknown,407,,1,
+CASE-NEUDT709YHN,NEUDT709YHN,Mortality,Key Events,1,929,2,8,2,Resp. Failure secondary to ALS,929,Unknown,1,
+CASE-NEUEB422WW0,NEUEB422WW0,Mortality,Key Events,2,,,,,,391,,1,
+CASE-NEUEK191WYC,NEUEK191WYC,Mortality,Key Events,90,,,,,not listed,994,,99,found in obituary
+CASE-NEUEM029XXZ,NEUEM029XXZ,Mortality,Key Events,90,,,,,Disease progression,808,,2,
+CASE-NEUEN476CLW,NEUEN476CLW,Mortality,Key Events,2,,,,,ALS disease progression,75,,99,Our Nurse Practitioner had been in contact with participant's spouse and hospice nurse.
+CASE-NEUEU558MNK,NEUEU558MNK,Mortality,Key Events,90,,,,,,213,,99,retrieved from online obituary
+CASE-NEUFB989DT1,NEUFB989DT1,Mortality,Key Events,2,,,,,,449,,99,obituary
+CASE-NEUFV237VCZ,NEUFV237VCZ,Mortality,Key Events,90,,,,,Disease progression,305,,2,
+CASE-NEUGL543NJ1,NEUGL543NJ1,Mortality,Key Events,90,,,,,Unknown,1026,,99,obituary
+CASE-NEUGP781PDU,NEUGP781PDU,Mortality,Key Events,90,,,,,ALS,564,G12.21,99,obituary
+CASE-NEUGW340YEB,NEUGW340YEB,Mortality,Key Events,90,,,,,Progression of ALS,493,G12.21,90,
+CASE-NEUHB491NGF,NEUHB491NGF,Mortality,Key Events,90,,,,,Progression of ALS,471,,2,
+CASE-NEUHZ302VU4,NEUHZ302VU4,Mortality,Key Events,90,,,,,,382,,99,retrieved from online obituary
+CASE-NEUJA666PYD,NEUJA666PYD,Mortality,Key Events,90,,,,,ALS,435,G12.21,2,
+CASE-NEUJX780XXK,NEUJX780XXK,Mortality,Key Events,90,,,,,ALS,47,G12.21,99,obituary
+CASE-NEUJY426MBU,NEUJY426MBU,Mortality,Key Events,1,1075,1,8,2,Respiratory failure due to ALS disease progression.,1075,,1,
+CASE-NEUJY536DKF,NEUJY536DKF,Mortality,Key Events,2,,,,,"Progression of ALS, respiratory failure and pneumonia",923,G 12.21,2,
+CASE-NEULA777DBT,NEULA777DBT,Mortality,Key Events,90,,,,,,529,,99,retrieved from legacy.com
+CASE-NEULD354RZB,NEULD354RZB,Mortality,Key Events,2,,,,,Progression of ALS,1271,,2,
+CASE-NEULP998KDJ,NEULP998KDJ,Mortality,Key Events,90,,,,,ALS,132,12.21,2,
+CASE-NEULY177TTN,NEULY177TTN,Mortality,Key Events,90,,,,,ALS,283,G12.21,1,
+CASE-NEUMD869UV7,NEUMD869UV7,Mortality,Key Events,2,,,,,Progression of ALS,1042,,2,
+CASE-NEUMN012EVP,NEUMN012EVP,Mortality,Key Events,2,,,,,disease progression,849,unknown,1,
+CASE-NEUNG326MFP,NEUNG326MFP,Mortality,Key Events,,,,,,Progression of ALS,349,,2,
+CASE-NEUNL415AFW,NEUNL415AFW,Mortality,Key Events,90,,,,,ALS/ Respiratory failure.,750,,99,Obituary
+CASE-NEUPK546ZLD,NEUPK546ZLD,Mortality,Key Events,90,,,,,Disease progression,365,,3,
+CASE-NEUPN525XEW,NEUPN525XEW,Mortality,Key Events,90,,,,,Disease progression,641,,2,
+CASE-NEUPR357AUF,NEUPR357AUF,Mortality,Key Events,90,,,,,ALS,268,G12.21,1,
+CASE-NEUPR600MBU,NEUPR600MBU,Mortality,Key Events,1,832,,19,1,Respiratory failure due to ALS,831,G 12.21,1,
+CASE-NEURA639MK8,NEURA639MK8,Mortality,Key Events,90,,,,,Disease progression,316,,2,
+CASE-NEURR881FKY,NEURR881FKY,Mortality,Key Events,2,,,,,disease progression,525,unknown,1,
+CASE-NEUTB230DA3,NEUTB230DA3,Mortality,Key Events,90,,,,,No cause of death indicated,572,,99,obituary found
+CASE-NEUTJ613AH9,NEUTJ613AH9,Mortality,Key Events,90,,,,,,125,,99,online obituary database
+CASE-NEUTM934BPY,NEUTM934BPY,Mortality,Key Events,,,,,,ALS,1160,Unknown/not present in pt chart,99,Obituary
+CASE-NEUTN952DDG,NEUTN952DDG,Mortality,Key Events,90,,,,,disease proggresion,837,,99,internet search
+CASE-NEUUE852BB1,NEUUE852BB1,Mortality,Key Events,90,,,,,The cause of death was listed as ALS on subject's death certificate.,171,G12.21,99,spouse reported
+CASE-NEUUL256UC9,NEUUL256UC9,Mortality,Key Events,2,,,,,Taken off ventilator per his request; ALS related.,1037,,1,
+CASE-NEUVR636VTP,NEUVR636VTP,Mortality,Key Events,90,,,,,Glioblastoma,242,,2,
+CASE-NEUVW680LPK,NEUVW680LPK,Mortality,Key Events,90,,,,,Disease progression,446,,2,
+CASE-NEUVX902YNL,NEUVX902YNL,Mortality,Key Events,1,216,1,7,1,Disease progression of ALS,216,,99,wife of participant called study to inform us of his death
+CASE-NEUWD538KT3,NEUWD538KT3,Mortality,Key Events,90,,,,,,301,,1,
+CASE-NEUWJ389FC7,NEUWJ389FC7,Mortality,Key Events,90,,,,,Unknown,890,,1,
+CASE-NEUXE491RMM,NEUXE491RMM,Mortality,Key Events,90,,,,,Complications due to ALS,302,G12.21,1,
+CASE-NEUXP289KRC,NEUXP289KRC,Mortality,Key Events,2,,,,,disease progression,1084,unknown,1,
+CASE-NEUXX361RUG,NEUXX361RUG,Mortality,Key Events,90,,,,,Disease progression,7,,2,
+CASE-NEUYL149PRF,NEUYL149PRF,Mortality,Key Events,90,,,,,Disease progression,131,,2,
+CASE-NEUYY225MNZ,NEUYY225MNZ,Mortality,Key Events,1,,2,,,Progression of ALS,451,,2,
+CASE-NEUYY878JGP,NEUYY878JGP,Mortality,Key Events,1,412,1,72,1,Complications of Amytrophic Lateral Sclerosis with associated acute respiratory failure and exacerbated by bilateral lower lobe acute bronchopneumonia,409,G12.21,1,
+CASE-NEUZV656DD1,NEUZV656DD1,Mortality,Key Events,90,,,,,progression of ALS,310,G12.21,2,
+CASE-NEUZX521TKK,NEUZX521TKK,Mortality,Key Events,90,,,,,Progression of ALS,424,,2,
+CASE-NEUZX847VWV,NEUZX847VWV,Mortality,Key Events,1,308,1,21.5,2,ALS,307,G12.21,2,

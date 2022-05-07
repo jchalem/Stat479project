@@ -1,0 +1,629 @@
+Participant_ID,SubjectUID,Form_Name,Visit_Name,medhx1,medhxdsc,medhxprs,medhxyr
+CASE-NEUAA599TMX,NEUAA599TMX,Medical History,Baseline,1,Left shoulder replacement,2,2014
+CASE-NEUAA599TMX,NEUAA599TMX,Medical History,Baseline,1,Left knee replacement,2,2016
+CASE-NEUAA599TMX,NEUAA599TMX,Medical History,Baseline,1,GERD,1,2015
+CASE-NEUAA599TMX,NEUAA599TMX,Medical History,Baseline,1,Gall Bladder removal,2,2015
+CASE-NEUAA599TMX,NEUAA599TMX,Medical History,Baseline,1,Depression,1,U
+CASE-NEUAA599TMX,NEUAA599TMX,Medical History,Baseline,1,cataract removal,2,U
+CASE-NEUAA599TMX,NEUAA599TMX,Medical History,Baseline,1,right shoulder replacement,2,2015
+CASE-NEUAA599TMX,NEUAA599TMX,Medical History,Baseline,1,Hysterectomy,1,1977
+CASE-NEUAA599TMX,NEUAA599TMX,Medical History,Baseline,1,Intraosseous meningioma behind right eye,1,2011
+CASE-NEUAA599TMX,NEUAA599TMX,Medical History,Baseline,1,Anxiety,1,U
+CASE-NEUAB000NKC,NEUAB000NKC,Medical History,Baseline,1,Malignant Melanoma,2,2012
+CASE-NEUAB000NKC,NEUAB000NKC,Medical History,Baseline,1,Surgery for removal of malignant melanoma,2,2012
+CASE-NEUAE993EPR,NEUAE993EPR,Medical History,Baseline,1,Sickle cell trait,1,UUUU
+CASE-NEUAE993EPR,NEUAE993EPR,Medical History,Baseline,1,Lumbar spinal surgery,1,2015
+CASE-NEUAE993EPR,NEUAE993EPR,Medical History,Baseline,1,Cervical spinal surgery,1,2015
+CASE-NEUAF553MJ3,NEUAF553MJ3,Medical History,Baseline,1,Other symptoms involving skin and integumentary tissues,1,uuuu
+CASE-NEUAF553MJ3,NEUAF553MJ3,Medical History,Baseline,1,Intermittant Chest Congestion,1,uuuu
+CASE-NEUAF553MJ3,NEUAF553MJ3,Medical History,Baseline,1,Keratojunctivitis Sicca,1,uuuu
+CASE-NEUAF553MJ3,NEUAF553MJ3,Medical History,Baseline,1,Dysarthria,1,uuuu
+CASE-NEUAF553MJ3,NEUAF553MJ3,Medical History,Baseline,1,Connective Tissue Disorder,1,uuuu
+CASE-NEUAF553MJ3,NEUAF553MJ3,Medical History,Baseline,1,Unspecified Vitamin D Deficiency,1,uuuu
+CASE-NEUAG603XLK,NEUAG603XLK,Medical History,Baseline,1,None,,
+CTRL-NEUAJ928PAA,NEUAJ928PAA,Medical History,Baseline,1,congenital cataracts,2,1958
+CTRL-NEUAJ928PAA,NEUAJ928PAA,Medical History,Baseline,1,panic disorder,1,1987
+CTRL-NEUAJ928PAA,NEUAJ928PAA,Medical History,Baseline,1,ovarian cyst,2,1992
+CTRL-NEUAJ928PAA,NEUAJ928PAA,Medical History,Baseline,1,chronic UTIs,2,1978
+CTRL-NEUAJ928PAA,NEUAJ928PAA,Medical History,Baseline,1,depression,1,2015
+CTRL-NEUAJ928PAA,NEUAJ928PAA,Medical History,Baseline,1,cataract surgery,2,2010
+CASE-NEUAM655HF7,NEUAM655HF7,Medical History,Baseline,1,None,,
+CASE-NEUAT234RK6,NEUAT234RK6,Medical History,Baseline,1,Hypertension,1,uuuu
+CASE-NEUAW157NMJ,NEUAW157NMJ,Medical History,Baseline,1,Depression,1,uuuu
+CASE-NEUAW157NMJ,NEUAW157NMJ,Medical History,Baseline,1,Anxiety,1,uuuu
+CASE-NEUAW717TN6,NEUAW717TN6,Medical History,Baseline,1,Appendenctomy,2,2005
+CASE-NEUAW717TN6,NEUAW717TN6,Medical History,Baseline,1,Anal Sphincterotomy,2,2004
+CASE-NEUAW717TN6,NEUAW717TN6,Medical History,Baseline,1,High Cholesterol,1,UUUU
+CASE-NEUAX665ZHY,NEUAX665ZHY,Medical History,Baseline,1,Depression,1,1990
+CASE-NEUAX665ZHY,NEUAX665ZHY,Medical History,Baseline,1,Hypercholesterolemia,1,UUUU
+CASE-NEUBA169GXD,NEUBA169GXD,Medical History,Baseline,1,Heart attack,2,2010
+CASE-NEUBA169GXD,NEUBA169GXD,Medical History,Baseline,1,High blood pressure,1,2010
+CASE-NEUBA169GXD,NEUBA169GXD,Medical History,Baseline,1,High cholesterol,1,2010
+CASE-NEUBA169GXD,NEUBA169GXD,Medical History,Baseline,1,Arthritis,1,1995
+CASE-NEUBA169GXD,NEUBA169GXD,Medical History,Baseline,1,Skin inflammation,1,2007
+CASE-NEUBC998WWB,NEUBC998WWB,Medical History,Baseline,1,HTN,1,1970
+CASE-NEUBC998WWB,NEUBC998WWB,Medical History,Baseline,1,Hypercholesterolemia,1,1970
+CASE-NEUBC998WWB,NEUBC998WWB,Medical History,Baseline,1,PTSD,2,2006
+CASE-NEUBD218YR3,NEUBD218YR3,Medical History,Baseline,1,Diabetes Mellitus 2,2,uuuu
+CASE-NEUBD218YR3,NEUBD218YR3,Medical History,Baseline,1,COPD,1,uuuu
+CASE-NEUBD288RXQ,NEUBD288RXQ,Medical History,Baseline,1,Rotator cuff Repair and tennis elbow,2,
+CASE-NEUBD288RXQ,NEUBD288RXQ,Medical History,Baseline,1,Hyperlipidemia,,
+CASE-NEUBK117YXL,NEUBK117YXL,Medical History,Baseline,1,Mitral valve prolapse,1,1984
+CASE-NEUBY734PFR,NEUBY734PFR,Medical History,Baseline,1,Mitral valve prolapse,1,1977
+CASE-NEUBY734PFR,NEUBY734PFR,Medical History,Baseline,1,Irregular heart rate,1,1977
+CASE-NEUCB613CA9,NEUCB613CA9,Medical History,Baseline,1,Spinal cord lesion,1,2009
+CASE-NEUCE965ZGK,NEUCE965ZGK,Medical History,Baseline,1,Carpel Tunnel Syndrome,2,2016
+CASE-NEUCF538BRM,NEUCF538BRM,Medical History,Baseline,1,Acute respiratory failure,2,2018
+CASE-NEUCF538BRM,NEUCF538BRM,Medical History,Baseline,1,Sleep Apnea,1,2012
+CASE-NEUCF538BRM,NEUCF538BRM,Medical History,Baseline,1,Recurrent Major Depressive Disorder,2,2010
+CASE-NEUCF538BRM,NEUCF538BRM,Medical History,Baseline,1,Hematuria,2,2017
+CASE-NEUCF538BRM,NEUCF538BRM,Medical History,Baseline,1,Malignant neoplasm of urinary bladder neck,2,2018
+CASE-NEUCF538BRM,NEUCF538BRM,Medical History,Baseline,1,Mixed hyperlipidemia (Chronic),1,2012
+CASE-NEUCF538BRM,NEUCF538BRM,Medical History,Baseline,1,History of Bladder Cancer,1,2018
+CASE-NEUCF538BRM,NEUCF538BRM,Medical History,Baseline,1,Chronic Monocytosis,2,2012
+CASE-NEUCF538BRM,NEUCF538BRM,Medical History,Baseline,1,Hypertension,1,2012
+CASE-NEUCN596RR3,NEUCN596RR3,Medical History,Baseline,1,Hyperlipidemia,1,2011
+CASE-NEUCN596RR3,NEUCN596RR3,Medical History,Baseline,1,"Depression, anxiety",1,1990
+CASE-NEUCN596RR3,NEUCN596RR3,Medical History,Baseline,1,Left ankle surgery,2,1990
+CASE-NEUCN596RR3,NEUCN596RR3,Medical History,Baseline,1,Nasal surgery,2,2014
+CASE-NEUCN596RR3,NEUCN596RR3,Medical History,Baseline,1,Hysterectomy,2,2007
+CASE-NEUCU245GBQ,NEUCU245GBQ,Medical History,Baseline,1,None,,
+CTRL-NEUCV136DHM,NEUCV136DHM,Medical History,Baseline,1,Stent due to artery blockage,1,2008
+CTRL-NEUCV809LL4,NEUCV809LL4,Medical History,Baseline,2,,,
+CTRL-NEUDA782GW3,NEUDA782GW3,Medical History,Baseline,1,anemia,2,2002
+CTRL-NEUDA782GW3,NEUDA782GW3,Medical History,Baseline,1,asthma,2,1999
+CTRL-NEUDA782GW3,NEUDA782GW3,Medical History,Baseline,1,anemia,2,2006
+CASE-NEUDD018KAH,NEUDD018KAH,Medical History,Baseline,1,Arthritis,1,uuuu
+CASE-NEUDD018KAH,NEUDD018KAH,Medical History,Baseline,1,Transient ischemic attack,2,2015
+CASE-NEUDE902GCT,NEUDE902GCT,Medical History,Baseline,1,hyperlipidemia,1,1999
+CASE-NEUDE902GCT,NEUDE902GCT,Medical History,Baseline,1,c-section,2,1988
+CASE-NEUDE902GCT,NEUDE902GCT,Medical History,Baseline,1,osteoarthritis (right finger),1,2015
+CASE-NEUDE902GCT,NEUDE902GCT,Medical History,Baseline,1,fracture left foot - 5th toe,2,1973
+CTRL-NEUDE949BP3,NEUDE949BP3,Medical History,Baseline,1,wisdom teeth removal,2,1985
+CTRL-NEUDE949BP3,NEUDE949BP3,Medical History,Baseline,1,lipid cist removal (L shoulder),2,2005
+CTRL-NEUDE949BP3,NEUDE949BP3,Medical History,Baseline,1,cesarian section,2,2001
+CTRL-NEUDE949BP3,NEUDE949BP3,Medical History,Baseline,1,arthroscopic surgery,2,1986
+CTRL-NEUDE949BP3,NEUDE949BP3,Medical History,Baseline,1,cesarian section,2,1998
+CASE-NEUDG000ZG5,NEUDG000ZG5,Medical History,Baseline,1,Left broken wrist,2,1989
+CASE-NEUDG000ZG5,NEUDG000ZG5,Medical History,Baseline,1,Varicose veins removed,2,1990
+CASE-NEUDG000ZG5,NEUDG000ZG5,Medical History,Baseline,1,Left ovary removed,2,1987
+CASE-NEUDG000ZG5,NEUDG000ZG5,Medical History,Baseline,1,Right broken wrist,2,2015
+CASE-NEUDG000ZG5,NEUDG000ZG5,Medical History,Baseline,1,Musculoskeletal pain,1,2001
+CASE-NEUDG000ZG5,NEUDG000ZG5,Medical History,Baseline,1,Tonsilectomy,2,1950
+CASE-NEUDG000ZG5,NEUDG000ZG5,Medical History,Baseline,1,Mumps,2,1950
+CASE-NEUDG000ZG5,NEUDG000ZG5,Medical History,Baseline,1,Measles,2,1950
+CASE-NEUDG000ZG5,NEUDG000ZG5,Medical History,Baseline,1,Insomnia,1,2013
+CASE-NEUDG000ZG5,NEUDG000ZG5,Medical History,Baseline,1,Right broken wrist,2,2015
+CASE-NEUDG272XWC,NEUDG272XWC,Medical History,Baseline,1,Cervical Spinal Transplant of Fetal Stem Cells,1,2014
+CASE-NEUDG272XWC,NEUDG272XWC,Medical History,Baseline,1,Lumbar Spinal Transplant of Fetal Stem Cells,1,2014
+CASE-NEUDJ536EVH,NEUDJ536EVH,Medical History,Baseline,1,Anxiety,1,2018
+CTRL-NEUDM126GNG,NEUDM126GNG,Medical History,Baseline,1,Cold sores,2,1982
+CTRL-NEUDM126GNG,NEUDM126GNG,Medical History,Baseline,1,Gallstones,2,1978
+CASE-NEUDP155HFH,NEUDP155HFH,Medical History,Baseline,1,basal cell carcinoma,2,2014
+CASE-NEUDP155HFH,NEUDP155HFH,Medical History,Baseline,1,pseudobulbar affect,1,2015
+CASE-NEUDP155HFH,NEUDP155HFH,Medical History,Baseline,1,hepatitis A,2,1968
+CASE-NEUDT709YHN,NEUDT709YHN,Medical History,Baseline,1,cartilage repair left knee,2,2000
+CASE-NEUDT709YHN,NEUDT709YHN,Medical History,Baseline,1,absent seizures- epilepsy,2,1963
+CASE-NEUDT709YHN,NEUDT709YHN,Medical History,Baseline,1,gout,2,1980
+CASE-NEUDT709YHN,NEUDT709YHN,Medical History,Baseline,1,kidney stones,2,1977
+CASE-NEUDT709YHN,NEUDT709YHN,Medical History,Baseline,1,meniscus repair right knee,2,2012
+CASE-NEUEB422WW0,NEUEB422WW0,Medical History,Baseline,1,Arrhythmia,1,uuuu
+CASE-NEUEB422WW0,NEUEB422WW0,Medical History,Baseline,1,Hypertension,1,uuuu
+CASE-NEUEC400NYR,NEUEC400NYR,Medical History,Baseline,1,Enlarged thyroid,1,uuuu
+CASE-NEUEC400NYR,NEUEC400NYR,Medical History,Baseline,1,Bigeminy,1,uuuu
+CASE-NEUEK191WYC,NEUEK191WYC,Medical History,Baseline,1,Hypertension,1,2013
+CASE-NEUEM029XXZ,NEUEM029XXZ,Medical History,Baseline,1,Breast cancer,2,uuuu
+CASE-NEUEM029XXZ,NEUEM029XXZ,Medical History,Baseline,1,ALS,1,2015
+CASE-NEUEM720BUU,NEUEM720BUU,Medical History,Baseline,1,"Gallstones, gallbladder surgery",2,1970
+CASE-NEUEM720BUU,NEUEM720BUU,Medical History,Baseline,1,Caesarean section,2,1970
+CASE-NEUEN017PCJ,NEUEN017PCJ,Medical History,Baseline,1,Multiple head injuries,2,1982
+CASE-NEUEN017PCJ,NEUEN017PCJ,Medical History,Baseline,1,Hypertension,1,2015
+CASE-NEUEN017PCJ,NEUEN017PCJ,Medical History,Baseline,1,Kidney stones,1,1986
+CASE-NEUEN476CLW,NEUEN476CLW,Medical History,Baseline,1,Hypertension,2,UUUU
+CTRL-NEUEU392AE8,NEUEU392AE8,Medical History,Baseline,1,Anxiety disorder,2,2000
+CTRL-NEUEU392AE8,NEUEU392AE8,Medical History,Baseline,1,Chronic sinus infection,2,1997
+CTRL-NEUEU392AE8,NEUEU392AE8,Medical History,Baseline,1,Appendicitis,2,2011
+CTRL-NEUEU392AE8,NEUEU392AE8,Medical History,Baseline,1,Herniated disc,2,2007
+CASE-NEUEU558MNK,NEUEU558MNK,Medical History,Baseline,1,"""Tumor"" in appendix",2,2011
+CTRL-NEUEY565NWT,NEUEY565NWT,Medical History,Baseline,1,Tubal Ligation,2,1995
+CTRL-NEUEY565NWT,NEUEY565NWT,Medical History,Baseline,1,Pollen Allergy (Seasonal),1,1963
+CTRL-NEUEY565NWT,NEUEY565NWT,Medical History,Baseline,1,Partial Thyroidectomy,2,1996
+CTRL-NEUEY565NWT,NEUEY565NWT,Medical History,Baseline,1,Partial Hysterectomy,2,2010
+CASE-NEUFB989DT1,NEUFB989DT1,Medical History,Baseline,1,Kidney stones,1,2015
+CASE-NEUFB989DT1,NEUFB989DT1,Medical History,Baseline,1,Breast cancer,2,2007
+CTRL-NEUFE306EFY,NEUFE306EFY,Medical History,Baseline,1,Hay fever,1,1985
+CASE-NEUFH122WN7,NEUFH122WN7,Medical History,Baseline,1,Acid reflux (ulcers),1,2015
+CASE-NEUFH122WN7,NEUFH122WN7,Medical History,Baseline,1,Facial neuropathy,1,2002
+CASE-NEUFV237VCZ,NEUFV237VCZ,Medical History,Baseline,1,Cervical stenosis,1,2016
+CASE-NEUFV237VCZ,NEUFV237VCZ,Medical History,Baseline,1,Shoulder fracture,1,2000
+CASE-NEUFY342UNG,NEUFY342UNG,Medical History,Baseline,1,Carrier for Smith Lemli Opitz syndrome,1,2007
+CASE-NEUFY342UNG,NEUFY342UNG,Medical History,Baseline,1,Hepatitis A,1,uuuu
+CTRL-NEUFZ500KDB,NEUFZ500KDB,Medical History,Baseline,1,Caesarean section,2,2002
+CTRL-NEUFZ500KDB,NEUFZ500KDB,Medical History,Baseline,1,Caesarean section,2,1998
+CTRL-NEUFZ500KDB,NEUFZ500KDB,Medical History,Baseline,1,Trigeminal neuralgia,2,1985
+CTRL-NEUFZ508VBV,NEUFZ508VBV,Medical History,Baseline,1,Anxiety,1,2005
+CASE-NEUGD965XVD,NEUGD965XVD,Medical History,Baseline,1,mold allergy,1,2015
+CASE-NEUGD965XVD,NEUGD965XVD,Medical History,Baseline,1,allergy to hazelnuts,1,2001
+CASE-NEUGD965XVD,NEUGD965XVD,Medical History,Baseline,1,lateral meniscus repair,2,2000
+CASE-NEUGD965XVD,NEUGD965XVD,Medical History,Baseline,1,lateral meniscus tear,2,2000
+CASE-NEUGD965XVD,NEUGD965XVD,Medical History,Baseline,1,pes planus,1,2005
+CASE-NEUGD965XVD,NEUGD965XVD,Medical History,Baseline,1,allergy to peanuts,1,2001
+CASE-NEUGD965XVD,NEUGD965XVD,Medical History,Baseline,1,essential tremor,1,2010
+CASE-NEUGD965XVD,NEUGD965XVD,Medical History,Baseline,1,ALS,1,2014
+CASE-NEUGD965XVD,NEUGD965XVD,Medical History,Baseline,1,allergy to cats,1,2015
+CASE-NEUGD965XVD,NEUGD965XVD,Medical History,Baseline,1,hives,1,1992
+CASE-NEUGD965XVD,NEUGD965XVD,Medical History,Baseline,1,seasonal allergies,1,2014
+CASE-NEUGD965XVD,NEUGD965XVD,Medical History,Baseline,1,knee surgery - right lateral meniscus,2,2000
+CASE-NEUGD965XVD,NEUGD965XVD,Medical History,Baseline,1,situational anxiety,1,2015
+CASE-NEUGD965XVD,NEUGD965XVD,Medical History,Baseline,1,GERD,1,2012
+CASE-NEUGD965XVD,NEUGD965XVD,Medical History,Baseline,1,childhood asthma,2,1995
+CASE-NEUGE540TC4,NEUGE540TC4,Medical History,Baseline,1,Hypertension,1,uuuu
+CASE-NEUGE540TC4,NEUGE540TC4,Medical History,Baseline,1,Migraines,1,uuuu
+CASE-NEUGE540TC4,NEUGE540TC4,Medical History,Baseline,1,Ischemic bowel disease,2,2016
+CASE-NEUGL543NJ1,NEUGL543NJ1,Medical History,Baseline,1,Hypercholsterolemia,1,2015
+CASE-NEUGL543NJ1,NEUGL543NJ1,Medical History,Baseline,1,Asthma,1,1982
+CASE-NEUGP781PDU,NEUGP781PDU,Medical History,Baseline,1,right bundle branch block,1,u
+CASE-NEUGP781PDU,NEUGP781PDU,Medical History,Baseline,1,Polio,1,1951
+CASE-NEUGP781PDU,NEUGP781PDU,Medical History,Baseline,1,Arthritis in knees,1,2014
+CASE-NEUGP781PDU,NEUGP781PDU,Medical History,Baseline,1,Benign prostatic hyperplasia,1,u
+CASE-NEUGP781PDU,NEUGP781PDU,Medical History,Baseline,1,Hyperlipidemia,1,2006
+CASE-NEUGP781PDU,NEUGP781PDU,Medical History,Baseline,1,Hypertension,1,2011
+CASE-NEUGR121TFD,NEUGR121TFD,Medical History,Baseline,1,Hip surgery - broken hip,2,2001
+CASE-NEUGW326BRV,NEUGW326BRV,Medical History,Baseline,1,status post cesarean section,2,1983
+CASE-NEUGW326BRV,NEUGW326BRV,Medical History,Baseline,1,menopause,2,1995
+CASE-NEUGW326BRV,NEUGW326BRV,Medical History,Baseline,1,left knee arthroscopy,2,2014
+CASE-NEUGW326BRV,NEUGW326BRV,Medical History,Baseline,1,status post bunion surgery,2,1978
+CASE-NEUGW326BRV,NEUGW326BRV,Medical History,Baseline,1,Status post meniscus surgery repair,2,2014
+CASE-NEUGW326BRV,NEUGW326BRV,Medical History,Baseline,1,bilateral cataract surgery,2,u
+CASE-NEUGW326BRV,NEUGW326BRV,Medical History,Baseline,1,status post bunion surgery,2,1973
+CASE-NEUGW326BRV,NEUGW326BRV,Medical History,Baseline,1,status post hysterectomy,2,1995
+CASE-NEUGW326BRV,NEUGW326BRV,Medical History,Baseline,1,TAH BSO procedure,2,1995
+CASE-NEUGW340YEB,NEUGW340YEB,Medical History,Baseline,1,Sinus Surgery,2,2013
+CASE-NEUGW340YEB,NEUGW340YEB,Medical History,Baseline,1,Hernia Surgery,2,2011
+CASE-NEUGW340YEB,NEUGW340YEB,Medical History,Baseline,1,Sinusitis,1,U
+CASE-NEUGW340YEB,NEUGW340YEB,Medical History,Baseline,1,Depression,1,2014
+CASE-NEUHB491NGF,NEUHB491NGF,Medical History,Baseline,1,Bilateral biceps tendon tears,2,uuuu
+CASE-NEUHB491NGF,NEUHB491NGF,Medical History,Baseline,1,"R Ankle injury w/ residual ""bone"" fragment",2,uuuu
+CASE-NEUHB491NGF,NEUHB491NGF,Medical History,Baseline,1,CAD/MI s/p stents,,uuuu
+CASE-NEUHB491NGF,NEUHB491NGF,Medical History,Baseline,1,Dental Surgery,2,uuuu
+CASE-NEUHB491NGF,NEUHB491NGF,Medical History,Baseline,1,Methadone Dependence,2,uuuu
+CTRL-NEUHE723FGT,NEUHE723FGT,Medical History,Baseline,1,Polio,2,1955
+CTRL-NEUHE723FGT,NEUHE723FGT,Medical History,Baseline,1,Stent,1,2016
+CTRL-NEUHE723FGT,NEUHE723FGT,Medical History,Baseline,1,Heart attack,2,2010
+CTRL-NEUHE723FGT,NEUHE723FGT,Medical History,Baseline,1,Atrial flutter,1,2017
+CTRL-NEUHE723FGT,NEUHE723FGT,Medical History,Baseline,1,Stent,1,2010
+CASE-NEUHG644RYB,NEUHG644RYB,Medical History,Baseline,1,tonsillectomy,2,1969
+CASE-NEUHG644RYB,NEUHG644RYB,Medical History,Baseline,1,diverticulitis of colon,2,2013
+CASE-NEUHG644RYB,NEUHG644RYB,Medical History,Baseline,1,ulnar neuropathy,1,2016
+CASE-NEUHG644RYB,NEUHG644RYB,Medical History,Baseline,1,recurrent sinusitis,1,1994
+CASE-NEUHG644RYB,NEUHG644RYB,Medical History,Baseline,1,right knee pain,1,2001
+CASE-NEUHG644RYB,NEUHG644RYB,Medical History,Baseline,1,low back pain,1,1998
+CASE-NEUHG644RYB,NEUHG644RYB,Medical History,Baseline,1,cataract surgery,2,2013
+CASE-NEUHG644RYB,NEUHG644RYB,Medical History,Baseline,1,hypertension,1,2014
+CASE-NEUHG644RYB,NEUHG644RYB,Medical History,Baseline,1,polyp of colon,2,2013
+CASE-NEUHG644RYB,NEUHG644RYB,Medical History,Baseline,1,syncope,2,2014
+CASE-NEUHG644RYB,NEUHG644RYB,Medical History,Baseline,1,carotid stenosis,2,2014
+CASE-NEUHG644RYB,NEUHG644RYB,Medical History,Baseline,1,dyslipidemia,1,2013
+CASE-NEUHG791RV5,NEUHG791RV5,Medical History,Baseline,1,Thyroid Surgery,2,1979
+CASE-NEUHG791RV5,NEUHG791RV5,Medical History,Baseline,1,Migraines,1,1971
+CASE-NEUHL999WWT,NEUHL999WWT,Medical History,Baseline,1,Sleep  Apnea,1,uuuu
+CASE-NEUHL999WWT,NEUHL999WWT,Medical History,Baseline,1,Diabetes,1,uuuu
+CASE-NEUHL999WWT,NEUHL999WWT,Medical History,Baseline,1,Hypertension,1,uuuu
+CASE-NEUHL999WWT,NEUHL999WWT,Medical History,Baseline,1,Cervical Spine fusion,2,uuuu
+CASE-NEUHM532NDD,NEUHM532NDD,Medical History,Baseline,1,Hypokalemia,1,2015
+CASE-NEUHM532NDD,NEUHM532NDD,Medical History,Baseline,1,Glaucoma,1,2015
+CASE-NEUHM532NDD,NEUHM532NDD,Medical History,Baseline,1,Hypertension,1,2010
+CASE-NEUHV216EHA,NEUHV216EHA,Medical History,Baseline,1,Heart murmur,2,uuuu
+CASE-NEUHW530WD8,NEUHW530WD8,Medical History,Baseline,1,Dyslipidemia,1,uuuu
+CASE-NEUHW530WD8,NEUHW530WD8,Medical History,Baseline,1,Myocardial Infarction,2,2007
+CASE-NEUHW530WD8,NEUHW530WD8,Medical History,Baseline,1,Hypertension,1,uuuu
+CASE-NEUHW530WD8,NEUHW530WD8,Medical History,Baseline,1,Myopathy,1,uuuu
+CASE-NEUHW590KBH,NEUHW590KBH,Medical History,Baseline,1,Cesarean section,2,1978
+CASE-NEUHW590KBH,NEUHW590KBH,Medical History,Baseline,1,Cesarean section,2,1984
+CASE-NEUHZ302VU4,NEUHZ302VU4,Medical History,Baseline,1,Diabetes type 2,1,
+CASE-NEUHZ302VU4,NEUHZ302VU4,Medical History,Baseline,1,Hyperlipidemia,1,
+CASE-NEUHZ302VU4,NEUHZ302VU4,Medical History,Baseline,1,Hypertension,1,
+CASE-NEUHZ302VU4,NEUHZ302VU4,Medical History,Baseline,1,Charcot-Marie-Tooth Type 1,1,1970
+CASE-NEUJA217MTJ,NEUJA217MTJ,Medical History,Baseline,1,post-menopausal,2,2000
+CASE-NEUJA217MTJ,NEUJA217MTJ,Medical History,Baseline,1,stem cell transplant - severe lumbosacral (L5-S1) spine degeneration with foraminal narrowing,1,2015
+CASE-NEUJA217MTJ,NEUJA217MTJ,Medical History,Baseline,1,radicular back pain,1,2015
+CASE-NEUJA217MTJ,NEUJA217MTJ,Medical History,Baseline,1,tonsillectomy,2,1957
+CASE-NEUJA217MTJ,NEUJA217MTJ,Medical History,Baseline,1,upper respiratory infection,2,uuuu
+CASE-NEUJA217MTJ,NEUJA217MTJ,Medical History,Baseline,1,tubal ligation,2,1990
+CASE-NEUJA217MTJ,NEUJA217MTJ,Medical History,Baseline,1,generalized seizures,2,1968
+CASE-NEUJA666PYD,NEUJA666PYD,Medical History,Baseline,1,pneumonia,2,2015
+CASE-NEUJA666PYD,NEUJA666PYD,Medical History,Baseline,1,bilateral shoulder surgery (to remove bone hyperostosis),2,1991
+CASE-NEUJA666PYD,NEUJA666PYD,Medical History,Baseline,1,bilateral shoulder surgery (to remove bone hyperostosis),2,1980
+CASE-NEUJA666PYD,NEUJA666PYD,Medical History,Baseline,1,viral meningitis,2,1976
+CASE-NEUJA666PYD,NEUJA666PYD,Medical History,Baseline,1,"""squeezed"" nerve released in foot (L)",2,2005
+CASE-NEUJA666PYD,NEUJA666PYD,Medical History,Baseline,1,"""squeezed"" nerve released in foot (R)",2,2014
+CASE-NEUJA666PYD,NEUJA666PYD,Medical History,Baseline,1,psoriasis arthritis,1,1981
+CASE-NEUJC191RLE,NEUJC191RLE,Medical History,Baseline,1,Hyperlipidemia,1,2014
+CASE-NEUJC191RLE,NEUJC191RLE,Medical History,Baseline,1,Seasonal allergies,1,1980
+CASE-NEUJH197AK2,NEUJH197AK2,Medical History,Baseline,1,Diverticulitus,2,U
+CASE-NEUJH197AK2,NEUJH197AK2,Medical History,Baseline,1,hernia Surgery,2,2014
+CASE-NEUJH197AK2,NEUJH197AK2,Medical History,Baseline,1,hernia Surgery,2,2004
+CASE-NEUJH197AK2,NEUJH197AK2,Medical History,Baseline,1,Appendix removal,2,1961
+CASE-NEUJH197AK2,NEUJH197AK2,Medical History,Baseline,1,nerve compression,2,2013
+CASE-NEUJH197AK2,NEUJH197AK2,Medical History,Baseline,1,high cholesterolemia,1,U
+CASE-NEUJH197AK2,NEUJH197AK2,Medical History,Baseline,1,high Blood Pressure,1,U
+CASE-NEUJH197AK2,NEUJH197AK2,Medical History,Baseline,1,Diabetic,1,2008
+CTRL-NEUJH290RH7,NEUJH290RH7,Medical History,Baseline,1,Underactive thyroid,1,2002
+CTRL-NEUJH290RH7,NEUJH290RH7,Medical History,Baseline,1,High cholesterol,1,1997
+CASE-NEUJV798JGH,NEUJV798JGH,Medical History,Baseline,1,Pneumonitis,2,uuuu
+CTRL-NEUJX341NDP,NEUJX341NDP,Medical History,Baseline,1,tonsilectomy,1,1984
+CTRL-NEUJX341NDP,NEUJX341NDP,Medical History,Baseline,1,childhood asthma,2,1988
+CTRL-NEUJX341NDP,NEUJX341NDP,Medical History,Baseline,1,appendectomy,2,2004
+CTRL-NEUJX341NDP,NEUJX341NDP,Medical History,Baseline,1,Crohn's disease,1,1997
+CTRL-NEUJX341NDP,NEUJX341NDP,Medical History,Baseline,1,hernia surgery,2,2017
+CTRL-NEUJX341NDP,NEUJX341NDP,Medical History,Baseline,1,hernia surgery,2,2011
+CTRL-NEUJX341NDP,NEUJX341NDP,Medical History,Baseline,1,illiocollectomy,2,2016
+CTRL-NEUJX341NDP,NEUJX341NDP,Medical History,Baseline,1,hernia surgery,2,2005
+CTRL-NEUJX341NDP,NEUJX341NDP,Medical History,Baseline,1,craniectomy - eosinophilliac granuloma removal,2,1997
+CASE-NEUJX780XXK,NEUJX780XXK,Medical History,Baseline,1,sensorineural hearing loss,,UUUU
+CASE-NEUJX780XXK,NEUJX780XXK,Medical History,Baseline,1,skin cancer- Mohs surgery,2,2010
+CASE-NEUJX780XXK,NEUJX780XXK,Medical History,Baseline,1,barrett's esophagus/GERD,,UUUU
+CASE-NEUJX780XXK,NEUJX780XXK,Medical History,Baseline,1,Ulnar neuropathy,2,UUUU
+CASE-NEUJX780XXK,NEUJX780XXK,Medical History,Baseline,1,Asbestos exposure,2,UUUU
+CASE-NEUJX780XXK,NEUJX780XXK,Medical History,Baseline,1,borderline hyperlipidemia,,UUUU
+CASE-NEUJX780XXK,NEUJX780XXK,Medical History,Baseline,1,s/p inguinal hernia repair,2,2011
+CASE-NEUJX780XXK,NEUJX780XXK,Medical History,Baseline,1,Umbilical hernia surgery,2,UUUU
+CASE-NEUJX780XXK,NEUJX780XXK,Medical History,Baseline,1,cervical disk disease,,UUUU
+CASE-NEUJX780XXK,NEUJX780XXK,Medical History,Baseline,1,allergic rhinitis,,UUUU
+CASE-NEUJX780XXK,NEUJX780XXK,Medical History,Baseline,1,"abnormal brain MRI- small left frontal cavernous angioma, stable",,UUUU
+CASE-NEUJY426MBU,NEUJY426MBU,Medical History,Baseline,1,Headaches,1,1985
+CASE-NEUJY426MBU,NEUJY426MBU,Medical History,Baseline,1,Deep vein thrombosis,2,2014
+CASE-NEUJY426MBU,NEUJY426MBU,Medical History,Baseline,1,Lyme Disease,2,2005
+CASE-NEUJY426MBU,NEUJY426MBU,Medical History,Baseline,1,Hypertension (mild),1,2013
+CASE-NEUJY426MBU,NEUJY426MBU,Medical History,Baseline,1,Right ACL repair,2,1990
+CASE-NEUJY426MBU,NEUJY426MBU,Medical History,Baseline,1,Right ACL,2,2006
+CASE-NEUJY536DKF,NEUJY536DKF,Medical History,Baseline,1,Arthroscopic surgery,2,2014
+CASE-NEUJY536DKF,NEUJY536DKF,Medical History,Baseline,1,Arthroscopic surgery,2,1990
+CASE-NEUJY536DKF,NEUJY536DKF,Medical History,Baseline,1,Carpel Tunnel,1,2014
+CASE-NEUKD025JPF,NEUKD025JPF,Medical History,Baseline,1,3 C-sections,2,U
+CASE-NEUKD025JPF,NEUKD025JPF,Medical History,Baseline,1,anorexia,2,1976
+CTRL-NEUKW131XJ2,NEUKW131XJ2,Medical History,Baseline,1,hormonal imbalance,2,1990
+CASE-NEULA777DBT,NEULA777DBT,Medical History,Baseline,1,Skin cancer (basal cell),2,2013
+CASE-NEULD354RZB,NEULD354RZB,Medical History,Baseline,1,Hypertension,1,uuuu
+CASE-NEULL588ALG,NEULL588ALG,Medical History,Baseline,1,L4- L5 Microdiskectomy,2,2006
+CASE-NEULL588ALG,NEULL588ALG,Medical History,Baseline,1,Anxiety,1,uuuu
+CASE-NEULL588ALG,NEULL588ALG,Medical History,Baseline,1,Hypertension,1,uuuu
+CASE-NEULL648LJ1,NEULL648LJ1,Medical History,Baseline,1,Irregular heartbeat,1,2002
+CTRL-NEULL933JXY,NEULL933JXY,Medical History,Baseline,1,Carpal-cubital tunnel,1,2016
+CASE-NEULP998KDJ,NEULP998KDJ,Medical History,Baseline,1,Insomnia,1,u
+CASE-NEULP998KDJ,NEULP998KDJ,Medical History,Baseline,1,Tibialis anterior tendon rupture,2,2014
+CASE-NEULP998KDJ,NEULP998KDJ,Medical History,Baseline,1,Deviated septum repair,2,2006
+CASE-NEULP998KDJ,NEULP998KDJ,Medical History,Baseline,1,Deviated septum,2,2006
+CASE-NEULP998KDJ,NEULP998KDJ,Medical History,Baseline,1,Tonsillectomy,2,2006
+CASE-NEULY177TTN,NEULY177TTN,Medical History,Baseline,1,low back pain,1,2005
+CASE-NEULY177TTN,NEULY177TTN,Medical History,Baseline,1,penacillin allergy,1,1956
+CASE-NEULY177TTN,NEULY177TTN,Medical History,Baseline,1,carotid artherosclerosis,1,2014
+CASE-NEULY177TTN,NEULY177TTN,Medical History,Baseline,1,Hyperlipidemia,1,2014
+CASE-NEULY177TTN,NEULY177TTN,Medical History,Baseline,1,lumbar stenosis (L2-5),2,2005
+CASE-NEULY177TTN,NEULY177TTN,Medical History,Baseline,1,lyme disease,2,2011
+CASE-NEULY177TTN,NEULY177TTN,Medical History,Baseline,1,lumbar lamendectomy,2,2005
+CASE-NEULZ548ZXV,NEULZ548ZXV,Medical History,Baseline,1,Neck Pain,,
+CASE-NEUMD869UV7,NEUMD869UV7,Medical History,Baseline,1,Hypertension,1,1999
+CASE-NEUMD869UV7,NEUMD869UV7,Medical History,Baseline,1,Benign Prostatic Hyperplasia,1,2011
+CASE-NEUMD869UV7,NEUMD869UV7,Medical History,Baseline,1,Acid Reflux,1,2001
+CASE-NEUMD869UV7,NEUMD869UV7,Medical History,Baseline,1,Coronary Artery Disease,1,1999
+CASE-NEUME498PCJ,NEUME498PCJ,Medical History,Baseline,1,Myopia,1,1958
+CASE-NEUME498PCJ,NEUME498PCJ,Medical History,Baseline,1,Gastroesophageal Reflux Disease,1,2009
+CASE-NEUME498PCJ,NEUME498PCJ,Medical History,Baseline,1,Insomnia,1,2010
+CASE-NEUME498PCJ,NEUME498PCJ,Medical History,Baseline,1,Muscle Pain,1,2010
+CASE-NEUME498PCJ,NEUME498PCJ,Medical History,Baseline,1,Appendicitis,2,1960
+CASE-NEUME498PCJ,NEUME498PCJ,Medical History,Baseline,1,Headaches (intermittent),1,2012
+CASE-NEUME498PCJ,NEUME498PCJ,Medical History,Baseline,1,Fatigue,1,2010
+CASE-NEUME498PCJ,NEUME498PCJ,Medical History,Baseline,1,Urinary Urgency,1,2010
+CASE-NEUMN012EVP,NEUMN012EVP,Medical History,Baseline,1,Surgery (appendix),2,UUUU
+CASE-NEUMN012EVP,NEUMN012EVP,Medical History,Baseline,1,Asthma,1,1964
+CASE-NEUMN012EVP,NEUMN012EVP,Medical History,Baseline,1,Surgery (tonsils),2,UUUU
+CTRL-NEUMN061ATZ,NEUMN061ATZ,Medical History,Baseline,1,depression,1,1990
+CTRL-NEUMN061ATZ,NEUMN061ATZ,Medical History,Baseline,1,seasonal allergies,1,1970
+CTRL-NEUMN061ATZ,NEUMN061ATZ,Medical History,Baseline,1,left ankle arthritis,1,1996
+CTRL-NEUMN061ATZ,NEUMN061ATZ,Medical History,Baseline,1,GERD,1,2013
+CTRL-NEUMN061ATZ,NEUMN061ATZ,Medical History,Baseline,1,high cholesterol,1,2006
+CTRL-NEUMN061ATZ,NEUMN061ATZ,Medical History,Baseline,1,broken nose,2,1973
+CASE-NEUMN922PMZ,NEUMN922PMZ,Medical History,Baseline,1,Sulfa drug allergy,1,1990
+CASE-NEUMY871DGF,NEUMY871DGF,Medical History,Baseline,1,Spinal stenosis,1,2015
+CASE-NEUMY871DGF,NEUMY871DGF,Medical History,Baseline,1,Torn rotator cuff,2,2007
+CASE-NEUMY871DGF,NEUMY871DGF,Medical History,Baseline,1,Scoliosis,1,uuuu
+CASE-NEUNA248WXL,NEUNA248WXL,Medical History,Baseline,1,Colon Resection for Benign Tumor,,2009
+CASE-NEUNA248WXL,NEUNA248WXL,Medical History,Baseline,1,Hypertension,1,uuuu
+CASE-NEUNG326MFP,NEUNG326MFP,Medical History,Baseline,1,Hypertension,1,unknown
+CASE-NEUNG326MFP,NEUNG326MFP,Medical History,Baseline,1,IBS,1,unknown
+CASE-NEUNG326MFP,NEUNG326MFP,Medical History,Baseline,1,GERD,1,unknown
+CASE-NEUNG326MFP,NEUNG326MFP,Medical History,Baseline,1,Anxiety,1,unknown
+CASE-NEUNL415AFW,NEUNL415AFW,Medical History,Baseline,1,mole removal (x10),2,1983
+CASE-NEUNL415AFW,NEUNL415AFW,Medical History,Baseline,1,hypertension,1,2010
+CASE-NEUNL415AFW,NEUNL415AFW,Medical History,Baseline,1,benign familial head tremor,1,2012
+CASE-NEUNL415AFW,NEUNL415AFW,Medical History,Baseline,1,osteoarthritis of hands and knees,1,2012
+CASE-NEUNL415AFW,NEUNL415AFW,Medical History,Baseline,1,constipation,1,1986
+CASE-NEUNL415AFW,NEUNL415AFW,Medical History,Baseline,1,Cold,2,2014
+CASE-NEUNL415AFW,NEUNL415AFW,Medical History,Baseline,1,hysterectomy,2,2000
+CTRL-NEUNW343RXP,NEUNW343RXP,Medical History,Baseline,1,sports hernia surgery,2,2014
+CTRL-NEUNW343RXP,NEUNW343RXP,Medical History,Baseline,1,slightly high cholesterol,1,U
+CASE-NEUPD674JPG,NEUPD674JPG,Medical History,Baseline,1,Benign Neurofibroma R Thigh,2,1986
+CASE-NEUPD674JPG,NEUPD674JPG,Medical History,Baseline,1,Ectopic Pregnancy Surgery,2,2004
+CASE-NEUPD674JPG,NEUPD674JPG,Medical History,Baseline,1,Cesarian Section,2,2007
+CASE-NEUPD674JPG,NEUPD674JPG,Medical History,Baseline,1,Cesarian Section,2,2005
+CTRL-NEUPH301NNX,NEUPH301NNX,Medical History,Baseline,1,Ear surgery,2,1972
+CTRL-NEUPH301NNX,NEUPH301NNX,Medical History,Baseline,1,Arterial blockage,2,2003
+CTRL-NEUPH301NNX,NEUPH301NNX,Medical History,Baseline,1,Asthma,2,uuuu
+CASE-NEUPK546ZLD,NEUPK546ZLD,Medical History,Baseline,1,Tonsillectomy,2,1972
+CASE-NEUPK546ZLD,NEUPK546ZLD,Medical History,Baseline,1,"Lumbar cyst, leg pain",2,2013
+CASE-NEUPK546ZLD,NEUPK546ZLD,Medical History,Baseline,1,Bunion removal,2,2014
+CASE-NEUPK546ZLD,NEUPK546ZLD,Medical History,Baseline,1,Bunion removal,2,2003
+CASE-NEUPK546ZLD,NEUPK546ZLD,Medical History,Baseline,1,Wisdom teeth removed,2,1978
+CTRL-NEUPL878MTL,NEUPL878MTL,Medical History,Baseline,1,migraines,1,U
+CTRL-NEUPL878MTL,NEUPL878MTL,Medical History,Baseline,1,anxiety/panic attacks,1,U
+CTRL-NEUPL878MTL,NEUPL878MTL,Medical History,Baseline,1,Borderline high cholesterol,1,U
+CTRL-NEUPL878MTL,NEUPL878MTL,Medical History,Baseline,1,Left breast - benign tumors removed,2,1980
+CTRL-NEUPL878MTL,NEUPL878MTL,Medical History,Baseline,1,Hysterectomy,2,2000
+CTRL-NEUPL878MTL,NEUPL878MTL,Medical History,Baseline,1,Left knee replaced,2,2011
+CASE-NEUPN525XEW,NEUPN525XEW,Medical History,Baseline,1,"Polyps in colon, benign",1,2011
+CASE-NEUPN525XEW,NEUPN525XEW,Medical History,Baseline,1,"Polyps in breast, benign",1,2014
+CASE-NEUPN525XEW,NEUPN525XEW,Medical History,Baseline,1,"Polyps in breast, benign",1,2003
+CASE-NEUPN525XEW,NEUPN525XEW,Medical History,Baseline,1,Appendectomy,1,1977
+CASE-NEUPN525XEW,NEUPN525XEW,Medical History,Baseline,1,Hysterectomy,1,2001
+CASE-NEUPR357AUF,NEUPR357AUF,Medical History,Baseline,1,amoxicillin allergy,1,2008
+CASE-NEUPR357AUF,NEUPR357AUF,Medical History,Baseline,1,Tetanus Toxoid�allergy,1,2012
+CASE-NEUPR357AUF,NEUPR357AUF,Medical History,Baseline,1,Simvastatin allergy,1,2012
+CASE-NEUPR357AUF,NEUPR357AUF,Medical History,Baseline,1,Codeine allergy,1,UUUU
+CASE-NEUPR357AUF,NEUPR357AUF,Medical History,Baseline,1,Atorvastatin allergy,1,2011
+CASE-NEUPR357AUF,NEUPR357AUF,Medical History,Baseline,1,Alendronate�allergy,1,2007
+CASE-NEUPR357AUF,NEUPR357AUF,Medical History,Baseline,1,right shoulder surgery,2,2001
+CASE-NEUPR357AUF,NEUPR357AUF,Medical History,Baseline,1,bilateral carpal tunnel release,2,2001
+CASE-NEUPR357AUF,NEUPR357AUF,Medical History,Baseline,1,back surgery,2,2010
+CASE-NEUPR357AUF,NEUPR357AUF,Medical History,Baseline,1,back injury from motor vehicle accident,2,2009
+CASE-NEUPR600MBU,NEUPR600MBU,Medical History,Baseline,1,Gallbladder Surgery,2,2005
+CASE-NEUPR600MBU,NEUPR600MBU,Medical History,Baseline,1,Thymectomy,2,UUUU
+CASE-NEURJ362MXH,NEURJ362MXH,Medical History,Baseline,1,Menopause,2,1996
+CASE-NEURJ362MXH,NEURJ362MXH,Medical History,Baseline,1,Knee surgery,2,2010
+CASE-NEURJ362MXH,NEURJ362MXH,Medical History,Baseline,1,Broken (R) ankle plate,2,2015
+CASE-NEURJ362MXH,NEURJ362MXH,Medical History,Baseline,1,Broken nose,2,2016
+CASE-NEURJ362MXH,NEURJ362MXH,Medical History,Baseline,1,Hypertension,1,1986
+CASE-NEURJ362MXH,NEURJ362MXH,Medical History,Baseline,1,Kidney stones,2,2016
+CTRL-NEURJ861MMD,NEURJ861MMD,Medical History,Baseline,1,Meningitis,2,1988
+CASE-NEURR881FKY,NEURR881FKY,Medical History,Baseline,1,Impotence,1,2006
+CASE-NEURR881FKY,NEURR881FKY,Medical History,Baseline,1,Sleep apnea,1,2015
+CASE-NEURX315DYH,NEURX315DYH,Medical History,Baseline,1,Benign Prostatic Hypertrophy,,uuuu
+CASE-NEURX315DYH,NEURX315DYH,Medical History,Baseline,1,Hyperlipidemia,1,uuuu
+CASE-NEURX315DYH,NEURX315DYH,Medical History,Baseline,1,Hypertension,1,uuuu
+CASE-NEURX909UL6,NEURX909UL6,Medical History,Baseline,1,Broken Metatarsal Left Foot,2,2018
+CASE-NEURX909UL6,NEURX909UL6,Medical History,Baseline,1,Glaucoma,1,2006
+CASE-NEURX909UL6,NEURX909UL6,Medical History,Baseline,1,Hypercholestrolemia,1,1985
+CASE-NEURX909UL6,NEURX909UL6,Medical History,Baseline,1,Osteopenia,1,uuuu
+CASE-NEURX909UL6,NEURX909UL6,Medical History,Baseline,1,Anxiety,1,2013
+CASE-NEURX909UL6,NEURX909UL6,Medical History,Baseline,1,Depression,1,1995
+CASE-NEURX909UL6,NEURX909UL6,Medical History,Baseline,1,Hypertension,1,2010
+CASE-NEUTA057AF6,NEUTA057AF6,Medical History,Baseline,1,ALS,1,2015
+CASE-NEUTA057AF6,NEUTA057AF6,Medical History,Baseline,1,Head injury (concussion),2,1971
+CASE-NEUTA057AF6,NEUTA057AF6,Medical History,Baseline,1,Hernia operation,2,2010
+CASE-NEUTA057AF6,NEUTA057AF6,Medical History,Baseline,1,3rd degree shoulder separation surgery,2,1986
+CASE-NEUTA057AF6,NEUTA057AF6,Medical History,Baseline,1,Hypertension,1,2000
+CASE-NEUTA689LN5,NEUTA689LN5,Medical History,Baseline,1,Perimenopausal,1,2016
+CASE-NEUTA689LN5,NEUTA689LN5,Medical History,Baseline,1,Acne,2,1997
+CASE-NEUTA689LN5,NEUTA689LN5,Medical History,Baseline,1,Acne,2,1992
+CASE-NEUTA689LN5,NEUTA689LN5,Medical History,Baseline,1,(R) cervical lymph node removal,2,1994
+CASE-NEUTA689LN5,NEUTA689LN5,Medical History,Baseline,1,C-section,2,1992
+CASE-NEUTA689LN5,NEUTA689LN5,Medical History,Baseline,1,High cholesterol (LDL),1,1970
+CASE-NEUTB230DA3,NEUTB230DA3,Medical History,Baseline,1,skull fracture,2,1961
+CASE-NEUTB230DA3,NEUTB230DA3,Medical History,Baseline,1,umbilical hernia repair,2,U
+CASE-NEUTB230DA3,NEUTB230DA3,Medical History,Baseline,1,inguinal hernia repair,2,U
+CASE-NEUTD713DE3,NEUTD713DE3,Medical History,Baseline,1,stuffy nose and lack of coordination breathing through nose,1,2014
+CASE-NEUTD713DE3,NEUTD713DE3,Medical History,Baseline,1,decreased lung capacity,1,2014
+CASE-NEUTD713DE3,NEUTD713DE3,Medical History,Baseline,1,allergy to sulfa,1,1995
+CASE-NEUTD713DE3,NEUTD713DE3,Medical History,Baseline,1,allergy to lobster,1,1991
+CASE-NEUTD713DE3,NEUTD713DE3,Medical History,Baseline,1,anxiety,1,2007
+CASE-NEUTD713DE3,NEUTD713DE3,Medical History,Baseline,1,concussion,2,2010
+CASE-NEUTD713DE3,NEUTD713DE3,Medical History,Baseline,1,IUD insertion,1,2000
+CASE-NEUTD713DE3,NEUTD713DE3,Medical History,Baseline,1,allergy to penicillin - hives,1,1995
+CASE-NEUTJ613AH9,NEUTJ613AH9,Medical History,Baseline,1,None,,
+CASE-NEUTL699WJ0,NEUTL699WJ0,Medical History,Baseline,1,None,,
+CASE-NEUTM934BPY,NEUTM934BPY,Medical History,Baseline,1,Prolactinoma (tumor in pituitary),1,1990
+CASE-NEUTM934BPY,NEUTM934BPY,Medical History,Baseline,1,Pulmonary Embolism,2,2008
+CASE-NEUTN952DDG,NEUTN952DDG,Medical History,Baseline,1,Tonsilitis,2,1972
+CASE-NEUTN952DDG,NEUTN952DDG,Medical History,Baseline,1,Hypothyroidism,1,2011
+CASE-NEUTU360YJY,NEUTU360YJY,Medical History,Baseline,1,S/P Tonsillectomy,,
+CASE-NEUTU360YJY,NEUTU360YJY,Medical History,Baseline,1,Fracture Right Elbow,,
+CASE-NEUTU360YJY,NEUTU360YJY,Medical History,Baseline,1,Benign Prostatic Hypertrophy,,
+CASE-NEUTU360YJY,NEUTU360YJY,Medical History,Baseline,1,Hypertension,,
+CASE-NEUTU360YJY,NEUTU360YJY,Medical History,Baseline,1,Hypercholestrolemia,,
+CASE-NEUTU360YJY,NEUTU360YJY,Medical History,Baseline,1,Elevated Diaphragm,,
+CASE-NEUTU360YJY,NEUTU360YJY,Medical History,Baseline,1,Asthma,,
+CASE-NEUUE852BB1,NEUUE852BB1,Medical History,Baseline,1,ANXIETY,1,2016
+CASE-NEUUE852BB1,NEUUE852BB1,Medical History,Baseline,1,BENIGN PROSTATIC HYPERPLASIA,2,uuuu
+CASE-NEUUE852BB1,NEUUE852BB1,Medical History,Baseline,1,ESOPHAGUS SURGERY,2,2002
+CASE-NEUUE852BB1,NEUUE852BB1,Medical History,Baseline,1,GERD,2,2016
+CASE-NEUUE852BB1,NEUUE852BB1,Medical History,Baseline,1,ASTHMA,2,uuuu
+CASE-NEUUL256UC9,NEUUL256UC9,Medical History,Baseline,1,Congestive heart failure,1,
+CASE-NEUUL256UC9,NEUUL256UC9,Medical History,Baseline,1,Cardiomyopathy,1,
+CASE-NEUUL256UC9,NEUUL256UC9,Medical History,Baseline,1,Febrile Seizures,2,
+CASE-NEUUL256UC9,NEUUL256UC9,Medical History,Baseline,1,Hyperlipidemia,1,
+CASE-NEUUL256UC9,NEUUL256UC9,Medical History,Baseline,1,Depression,1,
+CASE-NEUUP280KXL,NEUUP280KXL,Medical History,Baseline,1,Broken arm,2,1955
+CASE-NEUUP280KXL,NEUUP280KXL,Medical History,Baseline,1,Broken foot,1,2016
+CASE-NEUUP280KXL,NEUUP280KXL,Medical History,Baseline,1,Broken foot,1,2015
+CASE-NEUUP280KXL,NEUUP280KXL,Medical History,Baseline,1,Feeding tube insertion,1,2015
+CASE-NEUUP280KXL,NEUUP280KXL,Medical History,Baseline,1,Baclofen pump implant,1,2008
+CASE-NEUUP280KXL,NEUUP280KXL,Medical History,Baseline,1,Acid reflux,1,UUUU
+CASE-NEUUP280KXL,NEUUP280KXL,Medical History,Baseline,1,High cholesterol,1,UUUU
+CASE-NEUUP280KXL,NEUUP280KXL,Medical History,Baseline,1,Depression,1,1990
+CASE-NEUUP280KXL,NEUUP280KXL,Medical History,Baseline,1,Histerectomy,1,1998
+CASE-NEUUP280KXL,NEUUP280KXL,Medical History,Baseline,1,Knee injury,2,1994
+CASE-NEUUP280KXL,NEUUP280KXL,Medical History,Baseline,1,Tubal ligation,1,1981
+CASE-NEUUP280KXL,NEUUP280KXL,Medical History,Baseline,1,Miscarriage,2,1974
+CASE-NEUUP280KXL,NEUUP280KXL,Medical History,Baseline,1,Broken arm,2,1954
+CTRL-NEUUV825HYF,NEUUV825HYF,Medical History,Baseline,1,knee pain,1,2016
+CTRL-NEUUV825HYF,NEUUV825HYF,Medical History,Baseline,1,neck pain,1,2016
+CASE-NEUVF888UHM,NEUVF888UHM,Medical History,Baseline,1,menopause,1,2012
+CASE-NEUVF888UHM,NEUVF888UHM,Medical History,Baseline,1,neck pain since car accident,2,1994
+CASE-NEUVF888UHM,NEUVF888UHM,Medical History,Baseline,1,high cholesterol,2,2000
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Medical History,Baseline,1,C4-5 disc herniation,2,2000
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Medical History,Baseline,1,Left shoulder rotator cuff partial tear,2,2009
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Medical History,Baseline,1,Left thumb partial amputation injury,2,2014
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Medical History,Baseline,1,Left thumb surgery (re-attachment),2,2014
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Medical History,Baseline,1,Left shoulder surgery,2,2010
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Medical History,Baseline,1,Right shoulder surgery,2,2009
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Medical History,Baseline,1,Right elbow surgery,2,2008
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Medical History,Baseline,1,C4-5 anterior discectomy and fusion,2,2000
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Medical History,Baseline,1,Kidney Stones,2,2014
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Medical History,Baseline,1,Gout,,u
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Medical History,Baseline,1,Hyperlipidemia,1,u
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Medical History,Baseline,1,Anxiety,1,2015
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,Medical History,Baseline,1,seasonal allergies,1,1965
+CASE-NEUVL876PUV,NEUVL876PUV,Medical History,Baseline,1,Infection,2,2016
+CASE-NEUVL876PUV,NEUVL876PUV,Medical History,Baseline,1,Depression,1,2010
+CASE-NEUVL876PUV,NEUVL876PUV,Medical History,Baseline,1,Anxiety,1,2010
+CASE-NEUVL876PUV,NEUVL876PUV,Medical History,Baseline,1,Cesarian Section,2,2002
+CASE-NEUVL876PUV,NEUVL876PUV,Medical History,Baseline,1,Ganglion Cyst Removal Left Wrist,2,2010
+CASE-NEUVM674HUA,NEUVM674HUA,Medical History,Baseline,1,Broken neck,2,1960
+CASE-NEUVN746WKV,NEUVN746WKV,Medical History,Baseline,1,low vitamin D,1,2004
+CASE-NEUVN746WKV,NEUVN746WKV,Medical History,Baseline,1,lysis of ahesions,2,2006
+CASE-NEUVN746WKV,NEUVN746WKV,Medical History,Baseline,1,post-surgical adhesions,2,2006
+CASE-NEUVN746WKV,NEUVN746WKV,Medical History,Baseline,1,roux-en-y bypass surgery,2,2004
+CASE-NEUVN746WKV,NEUVN746WKV,Medical History,Baseline,1,obesity,1,u
+CASE-NEUVN746WKV,NEUVN746WKV,Medical History,Baseline,1,appendectomy,2,1996
+CASE-NEUVN746WKV,NEUVN746WKV,Medical History,Baseline,1,appendicitis,2,1996
+CASE-NEUVN746WKV,NEUVN746WKV,Medical History,Baseline,1,cholecystectomy,2,2006
+CASE-NEUVN746WKV,NEUVN746WKV,Medical History,Baseline,1,gall stones,2,2006
+CASE-NEUVN746WKV,NEUVN746WKV,Medical History,Baseline,1,anxiety,1,2006
+CASE-NEUVN746WKV,NEUVN746WKV,Medical History,Baseline,1,hyperlipidemia,1,2011
+CASE-NEUVR636VTP,NEUVR636VTP,Medical History,Baseline,1,Ankle Surgery,2,1992
+CASE-NEUVR636VTP,NEUVR636VTP,Medical History,Baseline,1,R Rotator Cuff Surgery,2,2008
+CASE-NEUVR636VTP,NEUVR636VTP,Medical History,Baseline,1,Chronic Immune-Suppression,1,2011
+CASE-NEUVR636VTP,NEUVR636VTP,Medical History,Baseline,1,Stem Cell Transplant,2,2011
+CASE-NEUVR636VTP,NEUVR636VTP,Medical History,Baseline,1,Cervical Spine Surgery X3,2,2012
+CASE-NEUVR636VTP,NEUVR636VTP,Medical History,Baseline,1,Lumbar Spine Surgery,2,2011
+CASE-NEUVR636VTP,NEUVR636VTP,Medical History,Baseline,1,Sinus Infection,1,2016
+CASE-NEUVR636VTP,NEUVR636VTP,Medical History,Baseline,1,Hypertension,1,uuuu
+CASE-NEUVR636VTP,NEUVR636VTP,Medical History,Baseline,1,Anxiety,1,uuuu
+CASE-NEUVR636VTP,NEUVR636VTP,Medical History,Baseline,1,High Cholesterol,1,uuuu
+CASE-NEUVW680LPK,NEUVW680LPK,Medical History,Baseline,1,Chronic blood clot,1,2016
+CASE-NEUVW680LPK,NEUVW680LPK,Medical History,Baseline,1,High blood pressure,2,2011
+CASE-NEUVW680LPK,NEUVW680LPK,Medical History,Baseline,1,High cholesterol,2,2011
+CASE-NEUVW999FP9,NEUVW999FP9,Medical History,Baseline,1,Foot Drop,1,2014
+CASE-NEUVW999FP9,NEUVW999FP9,Medical History,Baseline,1,ALS,1,2012
+CASE-NEUVW999FP9,NEUVW999FP9,Medical History,Baseline,1,Wrist fracture orthosis,2,2004
+CASE-NEUVW999FP9,NEUVW999FP9,Medical History,Baseline,1,Appendectomy,2,2008
+CASE-NEUVX902YNL,NEUVX902YNL,Medical History,Baseline,1,Hypercholesterolemia,1,UUUU
+CASE-NEUVX902YNL,NEUVX902YNL,Medical History,Baseline,1,Gastric bypass,2,2008
+CASE-NEUVX902YNL,NEUVX902YNL,Medical History,Baseline,1,psoriasis,1,1993
+CASE-NEUVX902YNL,NEUVX902YNL,Medical History,Baseline,1,Mitrovalve prolapse,2,1973
+CASE-NEUVX902YNL,NEUVX902YNL,Medical History,Baseline,1,cardiovascular-- hypertension,1,UUUU
+CASE-NEUVX902YNL,NEUVX902YNL,Medical History,Baseline,1,Cardiovascular-- MI,2,2002
+CASE-NEUVX902YNL,NEUVX902YNL,Medical History,Baseline,1,enlarged prostate,1,UUUU
+CASE-NEUVX902YNL,NEUVX902YNL,Medical History,Baseline,1,Depression and anxiety,1,1973
+CASE-NEUVX902YNL,NEUVX902YNL,Medical History,Baseline,1,Possible bowel obstruction,2,2016
+CASE-NEUVX902YNL,NEUVX902YNL,Medical History,Baseline,1,G-tube placement,1,2015
+CASE-NEUVX902YNL,NEUVX902YNL,Medical History,Baseline,1,Hip replacement,1,UUUU
+CTRL-NEUVZ050YX7,NEUVZ050YX7,Medical History,Baseline,1,Hypertension,1,2006
+CASE-NEUWD538KT3,NEUWD538KT3,Medical History,Baseline,1,None,,
+CASE-NEUWH380YHV,NEUWH380YHV,Medical History,Baseline,1,Episode of memory loss,2,2002
+CASE-NEUWH380YHV,NEUWH380YHV,Medical History,Baseline,1,ADHD,2,1993
+CASE-NEUWJ389FC7,NEUWJ389FC7,Medical History,Baseline,1,None,,
+CASE-NEUWP426NBR,NEUWP426NBR,Medical History,Baseline,1,Abdominal Surgery - Tummy Tuck,2,1996
+CASE-NEUWP426NBR,NEUWP426NBR,Medical History,Baseline,1,Hypothyroidism,1,2014
+CASE-NEUWP426NBR,NEUWP426NBR,Medical History,Baseline,1,Lumbar radiculopathy,1,2016
+CTRL-NEUWT164JRQ,NEUWT164JRQ,Medical History,Baseline,1,Acid reflux,1,2012
+CTRL-NEUWT164JRQ,NEUWT164JRQ,Medical History,Baseline,1,Vertigo,1,1990
+CTRL-NEUWT164JRQ,NEUWT164JRQ,Medical History,Baseline,1,High cholesterol,1,2003
+CTRL-NEUWT164JRQ,NEUWT164JRQ,Medical History,Baseline,1,High blood pressure,1,2003
+CASE-NEUWX167DAH,NEUWX167DAH,Medical History,Baseline,1,Hip fracture,2,2015
+CASE-NEUWX167DAH,NEUWX167DAH,Medical History,Baseline,1,Coronary artery disease,1,2014
+CASE-NEUWX167DAH,NEUWX167DAH,Medical History,Baseline,1,Sinus operation,2,u
+CASE-NEUWX167DAH,NEUWX167DAH,Medical History,Baseline,1,Nose surgery,2,2011
+CASE-NEUWX167DAH,NEUWX167DAH,Medical History,Baseline,1,Nose surgery/sinus,2,1993
+CASE-NEUWX167DAH,NEUWX167DAH,Medical History,Baseline,1,Deviated septum,1,1990
+CASE-NEUWX167DAH,NEUWX167DAH,Medical History,Baseline,1,Rheumatoid arthritis,1,1995
+CASE-NEUWX167DAH,NEUWX167DAH,Medical History,Baseline,1,GERD,1,1988
+CASE-NEUWX167DAH,NEUWX167DAH,Medical History,Baseline,1,Asthma,1,1988
+CASE-NEUWX167DAH,NEUWX167DAH,Medical History,Baseline,1,Hernia,1,2000
+CASE-NEUWX167DAH,NEUWX167DAH,Medical History,Baseline,1,Appendix burst,2,1952
+CASE-NEUXE491RMM,NEUXE491RMM,Medical History,Baseline,1,Essential Hypertension,,
+CASE-NEUXE491RMM,NEUXE491RMM,Medical History,Baseline,1,Shingles,,2014
+CASE-NEUXP289KRC,NEUXP289KRC,Medical History,Baseline,1,Hernia,2,1995
+CASE-NEUXP595FFP,NEUXP595FFP,Medical History,Baseline,1,Allergic to dust,1,1996
+CASE-NEUXV122FN3,NEUXV122FN3,Medical History,Baseline,1,Broken ankle from fall,2,2006
+CASE-NEUXV122FN3,NEUXV122FN3,Medical History,Baseline,1,Broken shoulder from fall,2,2006
+CASE-NEUXV122FN3,NEUXV122FN3,Medical History,Baseline,1,Broken ribs (x4) from fall,2,2006
+CASE-NEUXV122FN3,NEUXV122FN3,Medical History,Baseline,1,Compressed ulnar nerve,1,2004
+CASE-NEUXV122FN3,NEUXV122FN3,Medical History,Baseline,1,Kidney stones (6+ episodes),2,2000
+CASE-NEUXV122FN3,NEUXV122FN3,Medical History,Baseline,1,Surgical removal of colon polyps,2,2009
+CASE-NEUXV122FN3,NEUXV122FN3,Medical History,Baseline,1,GERD,1,1985
+CASE-NEUXV122FN3,NEUXV122FN3,Medical History,Baseline,1,PVC - arrhythmia due to caffeine,1,2004
+CASE-NEUXV122FN3,NEUXV122FN3,Medical History,Baseline,1,Hypertension,1,1998
+CASE-NEUXV122FN3,NEUXV122FN3,Medical History,Baseline,1,Severe sinus infections,1,1995
+CASE-NEUXV122FN3,NEUXV122FN3,Medical History,Baseline,1,Codeine allergy,1,1972
+CASE-NEUXV122FN3,NEUXV122FN3,Medical History,Baseline,1,Aspartame allergy,1,1990
+CASE-NEUXV122FN3,NEUXV122FN3,Medical History,Baseline,1,Seasonal allergies,1,1958
+CASE-NEUXV122FN3,NEUXV122FN3,Medical History,Baseline,1,Melanoma,2,2013
+CASE-NEUXV122FN3,NEUXV122FN3,Medical History,Baseline,1,Melanoma,2,2015
+CASE-NEUXX361RUG,NEUXX361RUG,Medical History,Baseline,1,Thyroid problem,1,2009
+CASE-NEUXX361RUG,NEUXX361RUG,Medical History,Baseline,1,Caesarean section,2,1983
+CASE-NEUXX361RUG,NEUXX361RUG,Medical History,Baseline,1,Hypertension,1,1985
+CASE-NEUYH924UCE,NEUYH924UCE,Medical History,Baseline,1,Vitiligo,1,1985
+CASE-NEUYH924UCE,NEUYH924UCE,Medical History,Baseline,1,Anxiety,1,1997
+CASE-NEUYH924UCE,NEUYH924UCE,Medical History,Baseline,1,Thumb structure surgery,2,1971
+CASE-NEUYH924UCE,NEUYH924UCE,Medical History,Baseline,1,Seasonal allergies,1,2000
+CASE-NEUYH924UCE,NEUYH924UCE,Medical History,Baseline,1,Cosmetic ear surgery,2,1990
+CASE-NEUYH924UCE,NEUYH924UCE,Medical History,Baseline,1,Migraines,2,1997
+CASE-NEUYH924UCE,NEUYH924UCE,Medical History,Baseline,1,Inguinal hernia (right) surgery,2,1999
+CASE-NEUYH924UCE,NEUYH924UCE,Medical History,Baseline,1,"Unicameral bone cyst repair (cortisone injection), right arm",2,1981
+CASE-NEUYH924UCE,NEUYH924UCE,Medical History,Baseline,1,"Unicameral bone cyst, right arm",2,1981
+CASE-NEUYH924UCE,NEUYH924UCE,Medical History,Baseline,1,Depression,1,1997
+CTRL-NEUYM011FER,NEUYM011FER,Medical History,Baseline,1,hernia,2,2011
+CTRL-NEUYM011FER,NEUYM011FER,Medical History,Baseline,1,high cholesterol,1,2000
+CTRL-NEUYM011FER,NEUYM011FER,Medical History,Baseline,1,high blood pressure,1,2000
+CTRL-NEUYM205MRL,NEUYM205MRL,Medical History,Baseline,1,re-attachment of shoulder,2,2012
+CTRL-NEUYM205MRL,NEUYM205MRL,Medical History,Baseline,1,knife accident (eye),2,1961
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,diffusement of war sting,2,2013
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,Mononucleosis infection,2,2008
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,Seasonal allergies,1,1991
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,Anxiety,1,2014
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,Depression,1,2014
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,ADHD,1,2012
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,Eczema,1,2006
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,Transient painless right shoulder weakness,2,2011
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,Bilateral frozen surgery and associated pain,1,2015
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,Chronic lower back pain,1,2009
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,Elevated liver enzymes,1,2015
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,Hypercholesterolemia,1,UUUU
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,Hypertension,1,2014
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,Sports induced asthma,2,2003
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,Wisdom teeth removal,2,2008
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,Nasal fracture,2,2003
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,Nasal fracture repair,2,1997
+CASE-NEUYP235ZLD,NEUYP235ZLD,Medical History,Baseline,1,Nasal fracture,2,1997
+CASE-NEUYY225MNZ,NEUYY225MNZ,Medical History,Baseline,1,Hysterectomy,2,uuuu
+CASE-NEUYY225MNZ,NEUYY225MNZ,Medical History,Baseline,1,C-section x2,2,uuuu
+CASE-NEUYY225MNZ,NEUYY225MNZ,Medical History,Baseline,1,Right Shoulder Surgery,2,2008
+CASE-NEUYY225MNZ,NEUYY225MNZ,Medical History,Baseline,1,Hyperlipidemia,1,uuuu
+CASE-NEUYY225MNZ,NEUYY225MNZ,Medical History,Baseline,1,Hypertension,1,uuuu
+CASE-NEUYY878JGP,NEUYY878JGP,Medical History,Baseline,1,postnasal drip,1,U
+CASE-NEUYY878JGP,NEUYY878JGP,Medical History,Baseline,1,sinus infections,1,U
+CASE-NEUYY878JGP,NEUYY878JGP,Medical History,Baseline,1,Colonoscopy,2,U
+CASE-NEUYY878JGP,NEUYY878JGP,Medical History,Baseline,1,Wisdom teeth removal,2,U
+CASE-NEUYY878JGP,NEUYY878JGP,Medical History,Baseline,1,Shingles,2,2013
+CASE-NEUYY878JGP,NEUYY878JGP,Medical History,Baseline,1,Hypertension,1,U
+CTRL-NEUZL045YD3,NEUZL045YD3,Medical History,Baseline,1,,,
+CASE-NEUZN836GME,NEUZN836GME,Medical History,Baseline,1,Tonsils removed,2,1958
+CASE-NEUZN936HJ9,NEUZN936HJ9,Medical History,Baseline,1,Restless leg syndrome,1,2008
+CASE-NEUZN936HJ9,NEUZN936HJ9,Medical History,Baseline,1,High blood pressure,1,2004
+CASE-NEUZN936HJ9,NEUZN936HJ9,Medical History,Baseline,1,Carpal tunnel syndrome,1,2016
+CASE-NEUZN936HJ9,NEUZN936HJ9,Medical History,Baseline,1,Back surgery,1,1980
+CASE-NEUZN936HJ9,NEUZN936HJ9,Medical History,Baseline,1,Knee replacement,1,2012
+CASE-NEUZP278MR4,NEUZP278MR4,Medical History,Baseline,1,Hypertension,1,2016
+CASE-NEUZT557DHF,NEUZT557DHF,Medical History,Baseline,1,Insomnia,2,uuuu
+CASE-NEUZT557DHF,NEUZT557DHF,Medical History,Baseline,1,"Depression, anxiety",2,uuuu
+CASE-NEUZV656DD1,NEUZV656DD1,Medical History,Baseline,1,Asthma,1,U
+CASE-NEUZX521TKK,NEUZX521TKK,Medical History,Baseline,1,Hypertension,1,uuuu
+CASE-NEUZX521TKK,NEUZX521TKK,Medical History,Baseline,1,Mild Obstructive Sleep Apnea,1,uuuu
+CASE-NEUZX521TKK,NEUZX521TKK,Medical History,Baseline,1,Hyperlipidemia,1,uuuu
+CASE-NEUZX521TKK,NEUZX521TKK,Medical History,Baseline,1,Chronic Renal Insufficiency,1,uuuu
+CASE-NEUZX847VWV,NEUZX847VWV,Medical History,Baseline,1,"""ICU psychosis"" post-prostatectomy",2,2009
+CASE-NEUZX847VWV,NEUZX847VWV,Medical History,Baseline,1,Umbilical hernia repair,2,u
+CASE-NEUZX847VWV,NEUZX847VWV,Medical History,Baseline,1,Obstructive sleep apnea,1,u
+CASE-NEUZX847VWV,NEUZX847VWV,Medical History,Baseline,1,Prostatectomy,2,2009
+CASE-NEUZX847VWV,NEUZX847VWV,Medical History,Baseline,1,Prostate cancer,2,u

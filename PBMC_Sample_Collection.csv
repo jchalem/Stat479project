@@ -1,0 +1,506 @@
+Participant_ID,SubjectUID,Form_Name,Visit_Name,Visit_Date,smplcol,smpldn,smpldnsp,smpldt,tbscol,tubshdt
+CASE-NEUAA599TMX,NEUAA599TMX,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUAA599TMX,NEUAA599TMX,PBMC Sample Collection,ANSWER-ALS Visit 2,154,,2,Not Drawn on this visit,,,
+CASE-NEUAB000NKC,NEUAB000NKC,PBMC Sample Collection,ANSWER-ALS Visit 2,114,,2,Screening only,,,
+CASE-NEUAB000NKC,NEUAB000NKC,PBMC Sample Collection,ANSWER-ALS Visit 3,157,,2,Screening only,,,
+CASE-NEUAB000NKC,NEUAB000NKC,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUAB000NKC,NEUAB000NKC,PBMC Sample Collection,ANSWER-ALS Visit 4,251,,2,Screening only,,,
+CASE-NEUAE993EPR,NEUAE993EPR,PBMC Sample Collection,ANSWER-ALS Visit 3,254,,2,Visit was conducted via telephone call,,,
+CASE-NEUAE993EPR,NEUAE993EPR,PBMC Sample Collection,ANSWER-ALS Visit 2,64,,2,Follow-up was completed via telephone,,,
+CASE-NEUAE993EPR,NEUAE993EPR,PBMC Sample Collection,ANSWER-ALS Visit 5,470,,2,Collected during previous visit,,,
+CASE-NEUAE993EPR,NEUAE993EPR,PBMC Sample Collection,ANSWER-ALS Visit 4,314,,2,Collected during previous visit,,,
+CASE-NEUAE993EPR,NEUAE993EPR,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUAF553MJ3,NEUAF553MJ3,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUAF553MJ3,NEUAF553MJ3,PBMC Sample Collection,ANSWER-ALS Visit 3,819,,2,Screening,,,
+CASE-NEUAF553MJ3,NEUAF553MJ3,PBMC Sample Collection,ANSWER-ALS Visit 2,84,,2,Screening only,,,
+CASE-NEUAG603XLK,NEUAG603XLK,PBMC Sample Collection,ANSWER-ALS Visit 3,224,,2,NA,,,
+CASE-NEUAG603XLK,NEUAG603XLK,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUAG603XLK,NEUAG603XLK,PBMC Sample Collection,ANSWER-ALS Visit 4,315,,2,NA,,,
+CASE-NEUAG603XLK,NEUAG603XLK,PBMC Sample Collection,ANSWER-ALS Visit 5,455,,2,N/A,,,
+CASE-NEUAG603XLK,NEUAG603XLK,PBMC Sample Collection,ANSWER-ALS Visit 2,126,,2,NA,,,
+CTRL-NEUAJ025JC3,NEUAJ025JC3,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUAJ025JC3,NEUAJ025JC3,PBMC Sample Collection,ANSWER-ALS Visit 2,106,,2,Collected during previous visit,,,
+CTRL-NEUAJ928PAA,NEUAJ928PAA,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUAM655HF7,NEUAM655HF7,PBMC Sample Collection,ANSWER-ALS Visit 3,210,,2,NA,,,
+CASE-NEUAM655HF7,NEUAM655HF7,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUAT234RK6,NEUAT234RK6,PBMC Sample Collection,ANSWER-ALS Visit 5,350,,2,Screening only,,,
+CASE-NEUAT234RK6,NEUAT234RK6,PBMC Sample Collection,ANSWER-ALS Visit 4,290,,2,Screening only,,,
+CASE-NEUAT234RK6,NEUAT234RK6,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUAT234RK6,NEUAT234RK6,PBMC Sample Collection,ANSWER-ALS Visit 3,182,,2,Screening only,,,
+CASE-NEUAW157NMJ,NEUAW157NMJ,PBMC Sample Collection,ANSWER-ALS Visit 3,173,,2,Screening only,,,
+CASE-NEUAW157NMJ,NEUAW157NMJ,PBMC Sample Collection,ANSWER-ALS Visit 2,110,,2,Screening only,,,
+CASE-NEUAW157NMJ,NEUAW157NMJ,PBMC Sample Collection,ANSWER-ALS Visit 4,329,,2,Screening only,,,
+CASE-NEUAW157NMJ,NEUAW157NMJ,PBMC Sample Collection,ANSWER-ALS Visit 5,420,,2,Screening only,,,
+CASE-NEUAW157NMJ,NEUAW157NMJ,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUAW717TN6,NEUAW717TN6,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUAW717TN6,NEUAW717TN6,PBMC Sample Collection,ANSWER-ALS Visit 5,373,,2,already collected at prior visit,,,
+CASE-NEUAW717TN6,NEUAW717TN6,PBMC Sample Collection,ANSWER-ALS Visit 4,282,,2,PBMC was not drawn on this visit as it was already collected,,,
+CASE-NEUAW717TN6,NEUAW717TN6,PBMC Sample Collection,ANSWER-ALS Visit 3,177,,2,PBMC was not drawn on this visit as it was already collected,,,
+CASE-NEUAW717TN6,NEUAW717TN6,PBMC Sample Collection,ANSWER-ALS Visit 2,93,,2,This sample has already been collected.,,,
+CASE-NEUAX665ZHY,NEUAX665ZHY,PBMC Sample Collection,ANSWER-ALS Visit 2,98,,2,Collected during previous visit,,,
+CASE-NEUAX665ZHY,NEUAX665ZHY,PBMC Sample Collection,ANSWER-ALS Visit 4,427,,2,Collected during previous visit,,,
+CASE-NEUAX665ZHY,NEUAX665ZHY,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUAX665ZHY,NEUAX665ZHY,PBMC Sample Collection,ANSWER-ALS Visit 3,273,,2,Collected during previous visit,,,
+CASE-NEUBA169GXD,NEUBA169GXD,PBMC Sample Collection,ANSWER-ALS Visit 5,472,,2,Collected during previous visit,,,
+CASE-NEUBA169GXD,NEUBA169GXD,PBMC Sample Collection,ANSWER-ALS Visit 3,210,2,1,,210,4,210
+CASE-NEUBA169GXD,NEUBA169GXD,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUBA169GXD,NEUBA169GXD,PBMC Sample Collection,ANSWER-ALS Visit 2,106,,2,Sample already collected during Screening visit,,,
+CASE-NEUBA169GXD,NEUBA169GXD,PBMC Sample Collection,ANSWER-ALS Visit 4,364,,2,Collected during previous visit,,,
+CASE-NEUBC998WWB,NEUBC998WWB,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUBC998WWB,NEUBC998WWB,PBMC Sample Collection,ANSWER-ALS Visit 2,91,,2,NA,,,
+CASE-NEUBC998WWB,NEUBC998WWB,PBMC Sample Collection,ANSWER-ALS Visit 5,371,,2,N/A,,,
+CASE-NEUBC998WWB,NEUBC998WWB,PBMC Sample Collection,ANSWER-ALS Visit 4,280,,2,NA,,,
+CASE-NEUBC998WWB,NEUBC998WWB,PBMC Sample Collection,ANSWER-ALS Visit 3,182,,2,NA,,,
+CASE-NEUBD218YR3,NEUBD218YR3,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUBD218YR3,NEUBD218YR3,PBMC Sample Collection,ANSWER-ALS Visit 3,189,,2,Screening only,,,
+CASE-NEUBD218YR3,NEUBD218YR3,PBMC Sample Collection,ANSWER-ALS Visit 2,115,,2,Screening only,,,
+CASE-NEUBD288RXQ,NEUBD288RXQ,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUBK117YXL,NEUBK117YXL,PBMC Sample Collection,ANSWER-ALS Visit 4,266,,2,Collected during previous visit,,,
+CASE-NEUBK117YXL,NEUBK117YXL,PBMC Sample Collection,ANSWER-ALS Visit 5,365,,2,Visit 5 conducted over the phone,,,
+CASE-NEUBK117YXL,NEUBK117YXL,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUBK117YXL,NEUBK117YXL,PBMC Sample Collection,ANSWER-ALS Visit 2,119,,2,Collected during patient's screening visit,,,
+CASE-NEUBK117YXL,NEUBK117YXL,PBMC Sample Collection,ANSWER-ALS Visit 3,191,,2,Already collected during Screening visit,,,
+CASE-NEUBY734PFR,NEUBY734PFR,PBMC Sample Collection,ANSWER-ALS Visit 2,91,,2,Collected during patient's first visit,,,
+CASE-NEUBY734PFR,NEUBY734PFR,PBMC Sample Collection,ANSWER-ALS Visit 3,280,,2,Collected during previous visit,,,
+CASE-NEUBY734PFR,NEUBY734PFR,PBMC Sample Collection,ANSWER-ALS Visit 5,497,,2,Collected during previous visit,,,
+CASE-NEUBY734PFR,NEUBY734PFR,PBMC Sample Collection,ANSWER-ALS Visit 4,433,,2,Collected during previous visit,,,
+CASE-NEUBY734PFR,NEUBY734PFR,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUCA748GF2,NEUCA748GF2,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUCB613CA9,NEUCB613CA9,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUCB613CA9,NEUCB613CA9,PBMC Sample Collection,ANSWER-ALS Visit 3,396,,2,Collected during previous visit,,,
+CASE-NEUCB613CA9,NEUCB613CA9,PBMC Sample Collection,ANSWER-ALS Visit 2,266,,2,Visit completed via phone call,,,
+CASE-NEUCE965ZGK,NEUCE965ZGK,PBMC Sample Collection,ANSWER-ALS Visit 2,91,,2,N/A,,,
+CASE-NEUCE965ZGK,NEUCE965ZGK,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUCF538BRM,NEUCF538BRM,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUCF538BRM,NEUCF538BRM,PBMC Sample Collection,ANSWER-ALS Visit 2,84,,2,NA,,,
+CASE-NEUCF538BRM,NEUCF538BRM,PBMC Sample Collection,ANSWER-ALS Visit 4,323,,2,NA,,,
+CASE-NEUCF538BRM,NEUCF538BRM,PBMC Sample Collection,ANSWER-ALS Visit 3,238,,2,NA,,,
+CASE-NEUCN596RR3,NEUCN596RR3,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUCN596RR3,NEUCN596RR3,PBMC Sample Collection,ANSWER-ALS Visit 2,205,,2,Collected during previous visit,,,
+CASE-NEUCU245GBQ,NEUCU245GBQ,PBMC Sample Collection,ANSWER-ALS Visit 3,147,,2,N/A,,,
+CASE-NEUCU245GBQ,NEUCU245GBQ,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUCV136DHM,NEUCV136DHM,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUCV809LL4,NEUCV809LL4,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUDA782GW3,NEUDA782GW3,PBMC Sample Collection,ANSWER-ALS Visit 2,104,,2,collected at screening visit,,,
+CTRL-NEUDA782GW3,NEUDA782GW3,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUDD018KAH,NEUDD018KAH,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUDE902GCT,NEUDE902GCT,PBMC Sample Collection,ANSWER-ALS Visit 3,208,,2,collected previously at screening,,,
+CASE-NEUDE902GCT,NEUDE902GCT,PBMC Sample Collection,ANSWER-ALS Visit 5,397,,2,collected previously at screening,,,
+CASE-NEUDE902GCT,NEUDE902GCT,PBMC Sample Collection,ANSWER-ALS Visit 2,103,,2,Not collected after screening visit unless otherwise inidcated,,,
+CASE-NEUDE902GCT,NEUDE902GCT,PBMC Sample Collection,ANSWER-ALS Visit 4,306,,2,collected only at screening unless otherwise indicated,,,
+CASE-NEUDE902GCT,NEUDE902GCT,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,1095
+CTRL-NEUDE949BP3,NEUDE949BP3,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUDE949BP3,NEUDE949BP3,PBMC Sample Collection,ANSWER-ALS Visit 2,94,2,1,,94,3,94
+CASE-NEUDG000ZG5,NEUDG000ZG5,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUDG000ZG5,NEUDG000ZG5,PBMC Sample Collection,ANSWER-ALS Visit 4,693,,2,collected at first visit,,,
+CASE-NEUDG000ZG5,NEUDG000ZG5,PBMC Sample Collection,ANSWER-ALS Visit 3,364,,2,Collected during previous visit,,,
+CASE-NEUDG000ZG5,NEUDG000ZG5,PBMC Sample Collection,ANSWER-ALS Visit 2,164,,2,Collected during previous visit,,,
+CASE-NEUDG000ZG5,NEUDG000ZG5,PBMC Sample Collection,ANSWER-ALS Visit 5,1064,,2,collected at first visit,,,
+CASE-NEUDG272XWC,NEUDG272XWC,PBMC Sample Collection,ANSWER-ALS Visit 3,206,,2,Screening only,,,
+CASE-NEUDG272XWC,NEUDG272XWC,PBMC Sample Collection,ANSWER-ALS Visit 5,327,,2,Screening only,,,
+CASE-NEUDG272XWC,NEUDG272XWC,PBMC Sample Collection,ANSWER-ALS Visit 2,103,,2,Screening only,,,
+CASE-NEUDG272XWC,NEUDG272XWC,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUDJ536EVH,NEUDJ536EVH,PBMC Sample Collection,ANSWER-ALS Visit 5,402,,2,Screening only,,,
+CASE-NEUDJ536EVH,NEUDJ536EVH,PBMC Sample Collection,ANSWER-ALS Visit 3,178,,2,Screening only,,,
+CASE-NEUDJ536EVH,NEUDJ536EVH,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUDJ536EVH,NEUDJ536EVH,PBMC Sample Collection,ANSWER-ALS Visit 4,290,,2,Screening only,,,
+CASE-NEUDJ536EVH,NEUDJ536EVH,PBMC Sample Collection,ANSWER-ALS Visit 2,108,,2,Screening only,,,
+CTRL-NEUDM126GNG,NEUDM126GNG,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUDM126GNG,NEUDM126GNG,PBMC Sample Collection,ANSWER-ALS Visit 2,106,,2,Collected during previous visit,,,
+CASE-NEUDP155HFH,NEUDP155HFH,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUDT709YHN,NEUDT709YHN,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUDT709YHN,NEUDT709YHN,PBMC Sample Collection,ANSWER-ALS Visit 4,385,,2,Not collected after screening visit unless otherwise inidcated,,,
+CASE-NEUDT709YHN,NEUDT709YHN,PBMC Sample Collection,ANSWER-ALS Visit 2,125,,2,collected at screening visit,,,
+CASE-NEUDT709YHN,NEUDT709YHN,PBMC Sample Collection,ANSWER-ALS Visit 5,490,,2,collected only at screening unless otherwise indicated,,,
+CASE-NEUDT709YHN,NEUDT709YHN,PBMC Sample Collection,ANSWER-ALS Visit 3,216,,2,pbmcs not collected at this visit. already collected at visit 1,,,
+CASE-NEUEB422WW0,NEUEB422WW0,PBMC Sample Collection,ANSWER-ALS Visit 2,98,,2,Collected during previous visit,,,
+CASE-NEUEB422WW0,NEUEB422WW0,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUEC400NYR,NEUEC400NYR,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUEK191WYC,NEUEK191WYC,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUEK191WYC,NEUEK191WYC,PBMC Sample Collection,ANSWER-ALS Visit 2,105,,2,SCREENING VISIT ONLY,,,
+CASE-NEUEM029XXZ,NEUEM029XXZ,PBMC Sample Collection,ANSWER-ALS Visit 3,182,,2,Collected during screening visit,,,
+CASE-NEUEM029XXZ,NEUEM029XXZ,PBMC Sample Collection,ANSWER-ALS Visit 4,337,,2,Collected during a previous visit,,,
+CASE-NEUEM029XXZ,NEUEM029XXZ,PBMC Sample Collection,ANSWER-ALS Visit 5,463,,2,Collected during previous visit,,,
+CASE-NEUEM029XXZ,NEUEM029XXZ,PBMC Sample Collection,ANSWER-ALS Visit 2,112,,2,Collected during screening visit,,,
+CASE-NEUEM029XXZ,NEUEM029XXZ,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUEM720BUU,NEUEM720BUU,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUEM720BUU,NEUEM720BUU,PBMC Sample Collection,ANSWER-ALS Visit 2,114,,2,Collected during visit 1,,,
+CASE-NEUEN017PCJ,NEUEN017PCJ,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUEN017PCJ,NEUEN017PCJ,PBMC Sample Collection,ANSWER-ALS Visit 3,441,,2,Not collected after screening visit unless otherwise indicated,,,
+CASE-NEUEN017PCJ,NEUEN017PCJ,PBMC Sample Collection,ANSWER-ALS Visit 2,140,,2,collected at previous visit,,,
+CASE-NEUEN476CLW,NEUEN476CLW,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUEU392AE8,NEUEU392AE8,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUEU392AE8,NEUEU392AE8,PBMC Sample Collection,ANSWER-ALS Visit 2,106,,2,Collected during previous visit,,,
+CASE-NEUEU558MNK,NEUEU558MNK,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUEY565NWT,NEUEY565NWT,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUFB989DT1,NEUFB989DT1,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUFB989DT1,NEUFB989DT1,PBMC Sample Collection,ANSWER-ALS Visit 2,161,,2,Collected during previous visit,,,
+CASE-NEUFB989DT1,NEUFB989DT1,PBMC Sample Collection,ANSWER-ALS Visit 3,267,,2,Collected during previous visit,,,
+CTRL-NEUFE306EFY,NEUFE306EFY,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUFE306EFY,NEUFE306EFY,PBMC Sample Collection,ANSWER-ALS Visit 2,112,,2,Collected during previous visit,,,
+CASE-NEUFH122WN7,NEUFH122WN7,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUFH122WN7,NEUFH122WN7,PBMC Sample Collection,ANSWER-ALS Visit 3,494,,2,collected at first visit,,,
+CASE-NEUFH122WN7,NEUFH122WN7,PBMC Sample Collection,ANSWER-ALS Visit 2,85,,2,Visit completed via phone call,,,
+CTRL-NEUFL840LZE,NEUFL840LZE,PBMC Sample Collection,ANSWER-ALS Visit 2,104,,2,collected at screening visit,,,
+CTRL-NEUFL840LZE,NEUFL840LZE,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUFV237VCZ,NEUFV237VCZ,PBMC Sample Collection,ANSWER-ALS Visit 3,198,,2,Visit 3 completed via phone call,,,
+CASE-NEUFV237VCZ,NEUFV237VCZ,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUFV237VCZ,NEUFV237VCZ,PBMC Sample Collection,ANSWER-ALS Visit 2,84,,2,Collected during Visit 1,,,
+CASE-NEUFY342UNG,NEUFY342UNG,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUFZ500KDB,NEUFZ500KDB,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUFZ500KDB,NEUFZ500KDB,PBMC Sample Collection,ANSWER-ALS Visit 2,,,2,Collected during previous visit,,,
+CTRL-NEUFZ508VBV,NEUFZ508VBV,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUFZ508VBV,NEUFZ508VBV,PBMC Sample Collection,ANSWER-ALS Visit 2,106,,2,Collected during previous visit,,,
+CASE-NEUGD965XVD,NEUGD965XVD,PBMC Sample Collection,ANSWER-ALS Visit 5,693,,2,collected only at screening unless otherwise indicated,,,
+CASE-NEUGD965XVD,NEUGD965XVD,PBMC Sample Collection,ANSWER-ALS Visit 4,504,,2,Not collected after screening visit unless otherwise inidcated,,,
+CASE-NEUGD965XVD,NEUGD965XVD,PBMC Sample Collection,ANSWER-ALS Visit 2,94,,2,PBMC's are not collected on second visit,,,
+CASE-NEUGD965XVD,NEUGD965XVD,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUGD965XVD,NEUGD965XVD,PBMC Sample Collection,ANSWER-ALS Visit 3,301,,2,not collected at this visit. already collected tubes at screening visit.,,,
+CASE-NEUGE540TC4,NEUGE540TC4,PBMC Sample Collection,ANSWER-ALS Visit 2,112,,2,Visit completed via phone call,,,
+CASE-NEUGE540TC4,NEUGE540TC4,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUGJ081HKR,NEUGJ081HKR,PBMC Sample Collection,ANSWER-ALS Visit 5,403,,2,Collected during previous visit,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,PBMC Sample Collection,ANSWER-ALS Visit 2,65,,2,Collected during previous visit,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,PBMC Sample Collection,ANSWER-ALS Visit 3,171,,2,Collected during previous visit,,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUGJ081HKR,NEUGJ081HKR,PBMC Sample Collection,ANSWER-ALS Visit 4,304,,2,Collected during previous visit,,,
+CASE-NEUGL543NJ1,NEUGL543NJ1,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUGL543NJ1,NEUGL543NJ1,PBMC Sample Collection,ANSWER-ALS Visit 5,378,,2,Not collected after screening visit unless otherwise inidcated,,,
+CASE-NEUGL543NJ1,NEUGL543NJ1,PBMC Sample Collection,ANSWER-ALS Visit 2,63,,2,Not collected after screening visit unless otherwise inidcated,,,
+CASE-NEUGL543NJ1,NEUGL543NJ1,PBMC Sample Collection,ANSWER-ALS Visit 3,189,,2,PBMC's are not collected at the 3rd visit,,,
+CASE-NEUGL543NJ1,NEUGL543NJ1,PBMC Sample Collection,ANSWER-ALS Visit 4,259,,2,Collected at first visit,,,
+CASE-NEUGP781PDU,NEUGP781PDU,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUGR121TFD,NEUGR121TFD,PBMC Sample Collection,ANSWER-ALS Visit 4,323,,2,Collected during previous visit,,,
+CASE-NEUGR121TFD,NEUGR121TFD,PBMC Sample Collection,ANSWER-ALS Visit 3,147,,2,Collected during previous visit,,,
+CASE-NEUGR121TFD,NEUGR121TFD,PBMC Sample Collection,ANSWER-ALS Visit 2,112,,2,Collected during Visit 1,,,
+CASE-NEUGR121TFD,NEUGR121TFD,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUGW326BRV,NEUGW326BRV,PBMC Sample Collection,ANSWER-ALS Visit 2,104,,2,collected at screening visit,,,
+CASE-NEUGW326BRV,NEUGW326BRV,PBMC Sample Collection,ANSWER-ALS Visit 4,280,,2,Collected at first visit,,,
+CASE-NEUGW326BRV,NEUGW326BRV,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUGW326BRV,NEUGW326BRV,PBMC Sample Collection,ANSWER-ALS Visit 3,190,,2,collected at screening visit,,,
+CASE-NEUGW340YEB,NEUGW340YEB,PBMC Sample Collection,ANSWER-ALS Visit 2,147,2,1,,147,3,147
+CASE-NEUGW340YEB,NEUGW340YEB,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUHB491NGF,NEUHB491NGF,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUHB491NGF,NEUHB491NGF,PBMC Sample Collection,ANSWER-ALS Visit 5,336,,2,Screening only,,,
+CASE-NEUHB491NGF,NEUHB491NGF,PBMC Sample Collection,ANSWER-ALS Visit 2,118,,2,Screening only,,,
+CASE-NEUHB491NGF,NEUHB491NGF,PBMC Sample Collection,ANSWER-ALS Visit 4,298,,2,Phone Visit,,,
+CTRL-NEUHE723FGT,NEUHE723FGT,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUHG644RYB,NEUHG644RYB,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUHG791RV5,NEUHG791RV5,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUHG791RV5,NEUHG791RV5,PBMC Sample Collection,ANSWER-ALS Visit 2,111,,2,Screening only,,,
+CASE-NEUHG791RV5,NEUHG791RV5,PBMC Sample Collection,ANSWER-ALS Visit 5,357,,2,Screening only,,,
+CASE-NEUHG791RV5,NEUHG791RV5,PBMC Sample Collection,ANSWER-ALS Visit 3,182,,2,Screening only,,,
+CASE-NEUHG791RV5,NEUHG791RV5,PBMC Sample Collection,ANSWER-ALS Visit 4,298,,2,Phone Visit,,,
+CASE-NEUHL999WWT,NEUHL999WWT,PBMC Sample Collection,ANSWER-ALS Visit 3,189,,2,Unable to obtain,,,
+CASE-NEUHL999WWT,NEUHL999WWT,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUHL999WWT,NEUHL999WWT,PBMC Sample Collection,ANSWER-ALS Visit 5,455,,2,Screening only,,,
+CASE-NEUHM532NDD,NEUHM532NDD,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUHM532NDD,NEUHM532NDD,PBMC Sample Collection,ANSWER-ALS Visit 4,294,,2,Screening only,,,
+CASE-NEUHM532NDD,NEUHM532NDD,PBMC Sample Collection,ANSWER-ALS Visit 5,343,,2,Screening only,,,
+CASE-NEUHM532NDD,NEUHM532NDD,PBMC Sample Collection,ANSWER-ALS Visit 2,126,,2,Screening only,,,
+CASE-NEUHM532NDD,NEUHM532NDD,PBMC Sample Collection,ANSWER-ALS Visit 3,176,,2,Screening only,,,
+CASE-NEUHV216EHA,NEUHV216EHA,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUHW530WD8,NEUHW530WD8,PBMC Sample Collection,ANSWER-ALS Visit 5,525,,2,Only collected at screening,,,
+CASE-NEUHW530WD8,NEUHW530WD8,PBMC Sample Collection,ANSWER-ALS Visit 4,322,,2,PBMC is only collected at screening,,,
+CASE-NEUHW530WD8,NEUHW530WD8,PBMC Sample Collection,ANSWER-ALS Visit 2,133,,2,Collected at screening visit,,,
+CASE-NEUHW530WD8,NEUHW530WD8,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUHW530WD8,NEUHW530WD8,PBMC Sample Collection,ANSWER-ALS Visit 3,231,,2,Collected at screening visit,,,
+CASE-NEUHW590KBH,NEUHW590KBH,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUHZ302VU4,NEUHZ302VU4,PBMC Sample Collection,ANSWER-ALS Visit 3,258,,2,N/A,,,
+CASE-NEUHZ302VU4,NEUHZ302VU4,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUHZ302VU4,NEUHZ302VU4,PBMC Sample Collection,ANSWER-ALS Visit 2,119,,2,NA,,,
+CTRL-NEUHZ716BZ2,NEUHZ716BZ2,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUJA217MTJ,NEUJA217MTJ,PBMC Sample Collection,ANSWER-ALS Visit 2,78,,2,PBMC's are not collected on second visit,,,
+CASE-NEUJA217MTJ,NEUJA217MTJ,PBMC Sample Collection,ANSWER-ALS Visit 3,204,,2,Not collected after screening visit unless otherwise inidcated,,,
+CASE-NEUJA217MTJ,NEUJA217MTJ,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUJA666PYD,NEUJA666PYD,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUJA666PYD,NEUJA666PYD,PBMC Sample Collection,ANSWER-ALS Visit 2,83,,2,PBMC's are not collected on second visit,,,
+CASE-NEUJA666PYD,NEUJA666PYD,PBMC Sample Collection,ANSWER-ALS Visit 3,182,,2,collected at screening visit,,,
+CASE-NEUJC191RLE,NEUJC191RLE,PBMC Sample Collection,ANSWER-ALS Visit 4,279,,2,NA,,,
+CASE-NEUJC191RLE,NEUJC191RLE,PBMC Sample Collection,ANSWER-ALS Visit 3,225,,2,NA,,,
+CASE-NEUJC191RLE,NEUJC191RLE,PBMC Sample Collection,ANSWER-ALS Visit 2,113,,2,NA,,,
+CASE-NEUJC191RLE,NEUJC191RLE,PBMC Sample Collection,ANSWER-ALS Visit 5,386,,2,N/A,,,
+CASE-NEUJC191RLE,NEUJC191RLE,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,2,0
+CASE-NEUJH197AK2,NEUJH197AK2,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUJH290RH7,NEUJH290RH7,PBMC Sample Collection,ANSWER-ALS Visit 2,84,,2,Collected during previous visit,,,
+CTRL-NEUJH290RH7,NEUJH290RH7,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUJV798JGH,NEUJV798JGH,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUJV798JGH,NEUJV798JGH,PBMC Sample Collection,ANSWER-ALS Visit 2,90,,2,Screening only,,,
+CASE-NEUJV798JGH,NEUJV798JGH,PBMC Sample Collection,ANSWER-ALS Visit 5,317,,2,Screening only,,,
+CASE-NEUJV798JGH,NEUJV798JGH,PBMC Sample Collection,ANSWER-ALS Visit 3,149,,2,Screening only,,,
+CTRL-NEUJX341NDP,NEUJX341NDP,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUJX780XXK,NEUJX780XXK,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUJY426MBU,NEUJY426MBU,PBMC Sample Collection,ANSWER-ALS Visit 5,673,,2,collected only at screening unless otherwise indicated,,,
+CASE-NEUJY426MBU,NEUJY426MBU,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUJY426MBU,NEUJY426MBU,PBMC Sample Collection,ANSWER-ALS Visit 4,259,,2,already collected at visit 1,,,
+CASE-NEUJY426MBU,NEUJY426MBU,PBMC Sample Collection,ANSWER-ALS Visit 3,225,,2,PBMCs were already collected at visit 1,,,
+CASE-NEUJY426MBU,NEUJY426MBU,PBMC Sample Collection,ANSWER-ALS Visit 2,138,,2,PBMC's are not collected on second visit,,,
+CASE-NEUJY536DKF,NEUJY536DKF,PBMC Sample Collection,ANSWER-ALS Visit 2,98,,2,Not Drawn on this visit,,,
+CASE-NEUJY536DKF,NEUJY536DKF,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUKD025JPF,NEUKD025JPF,PBMC Sample Collection,ANSWER-ALS Visit 2,84,,2,already collected at previous visit,,,
+CASE-NEUKD025JPF,NEUKD025JPF,PBMC Sample Collection,ANSWER-ALS Visit 5,343,,2,already collected previously,,,
+CASE-NEUKD025JPF,NEUKD025JPF,PBMC Sample Collection,ANSWER-ALS Visit 3,196,2,1,,196,3,196
+CASE-NEUKD025JPF,NEUKD025JPF,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUKD025JPF,NEUKD025JPF,PBMC Sample Collection,ANSWER-ALS Visit 4,273,,2,already collected previously,,,
+CTRL-NEUKW131XJ2,NEUKW131XJ2,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUKW131XJ2,NEUKW131XJ2,PBMC Sample Collection,ANSWER-ALS Visit 2,91,,2,collected at first visit,,,
+CASE-NEULA777DBT,NEULA777DBT,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEULA777DBT,NEULA777DBT,PBMC Sample Collection,ANSWER-ALS Visit 2,140,,2,NA,,,
+CASE-NEULD354RZB,NEULD354RZB,PBMC Sample Collection,ANSWER-ALS Visit 5,399,,2,Screening only,,,
+CASE-NEULD354RZB,NEULD354RZB,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEULD354RZB,NEULD354RZB,PBMC Sample Collection,ANSWER-ALS Visit 2,111,,2,Screening only,,,
+CASE-NEULD354RZB,NEULD354RZB,PBMC Sample Collection,ANSWER-ALS Visit 4,245,,2,Screening only,,,
+CASE-NEULL588ALG,NEULL588ALG,PBMC Sample Collection,ANSWER-ALS Visit 3,220,,2,Screening only,,,
+CASE-NEULL588ALG,NEULL588ALG,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEULL588ALG,NEULL588ALG,PBMC Sample Collection,ANSWER-ALS Visit 5,336,,2,Screening only,,,
+CASE-NEULL588ALG,NEULL588ALG,PBMC Sample Collection,ANSWER-ALS Visit 2,125,,2,Phone Visit,,,
+CASE-NEULL588ALG,NEULL588ALG,PBMC Sample Collection,ANSWER-ALS Visit 4,314,,2,Screening only,,,
+CASE-NEULL648LJ1,NEULL648LJ1,PBMC Sample Collection,ANSWER-ALS Visit 4,343,,2,N/A,,,
+CASE-NEULL648LJ1,NEULL648LJ1,PBMC Sample Collection,ANSWER-ALS Visit 3,231,,2,N/A,,,
+CASE-NEULL648LJ1,NEULL648LJ1,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,,2,"Two attempts, both unsuccessful, pt. refused another stick",,,
+CASE-NEULL648LJ1,NEULL648LJ1,PBMC Sample Collection,ANSWER-ALS Visit 2,119,1,1,,119,3,119
+CTRL-NEULL933JXY,NEULL933JXY,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEULP998KDJ,NEULP998KDJ,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEULY177TTN,NEULY177TTN,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,13,3,13
+CASE-NEULY177TTN,NEULY177TTN,PBMC Sample Collection,ANSWER-ALS Visit 3,251,,2,not collected at this visit as these tubes were already collected,,,
+CASE-NEULY177TTN,NEULY177TTN,PBMC Sample Collection,ANSWER-ALS Visit 2,153,,2,not needed,,,
+CASE-NEULZ548ZXV,NEULZ548ZXV,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEULZ548ZXV,NEULZ548ZXV,PBMC Sample Collection,ANSWER-ALS Visit 4,252,,2,Screening only,,,
+CASE-NEUMD869UV7,NEUMD869UV7,PBMC Sample Collection,ANSWER-ALS Visit 3,230,,2,Screening only,,,
+CASE-NEUMD869UV7,NEUMD869UV7,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUMD869UV7,NEUMD869UV7,PBMC Sample Collection,ANSWER-ALS Visit 5,346,,2,Screening only,,,
+CASE-NEUMD869UV7,NEUMD869UV7,PBMC Sample Collection,ANSWER-ALS Visit 2,79,,2,Screening only,,,
+CASE-NEUME498PCJ,NEUME498PCJ,PBMC Sample Collection,ANSWER-ALS Visit 3,175,,2,Collected during Visit 1,,,
+CASE-NEUME498PCJ,NEUME498PCJ,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUME498PCJ,NEUME498PCJ,PBMC Sample Collection,ANSWER-ALS Visit 4,261,,2,Sample already collected,,,
+CASE-NEUME498PCJ,NEUME498PCJ,PBMC Sample Collection,ANSWER-ALS Visit 2,93,,2,Collected during Visit 1,,,
+CASE-NEUME498PCJ,NEUME498PCJ,PBMC Sample Collection,ANSWER-ALS Visit 5,392,,2,Collected during previous visit,,,
+CASE-NEUMN012EVP,NEUMN012EVP,PBMC Sample Collection,ANSWER-ALS Visit 5,371,,2,Collected during screening visit,,,
+CASE-NEUMN012EVP,NEUMN012EVP,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUMN012EVP,NEUMN012EVP,PBMC Sample Collection,ANSWER-ALS Visit 3,182,,2,Collected during screening visit,,,
+CASE-NEUMN012EVP,NEUMN012EVP,PBMC Sample Collection,ANSWER-ALS Visit 4,279,,2,Collected during Visit 1,,,
+CASE-NEUMN012EVP,NEUMN012EVP,PBMC Sample Collection,ANSWER-ALS Visit 2,114,,2,Collected during screening visit,,,
+CTRL-NEUMN061ATZ,NEUMN061ATZ,PBMC Sample Collection,ANSWER-ALS Visit 2,169,,2,collected at screening,,,
+CTRL-NEUMN061ATZ,NEUMN061ATZ,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUMN922PMZ,NEUMN922PMZ,PBMC Sample Collection,ANSWER-ALS Visit 4,651,,2,collected only at screening unless otherwise indicated,,,
+CASE-NEUMN922PMZ,NEUMN922PMZ,PBMC Sample Collection,ANSWER-ALS Visit 3,462,,2,collected only at screening unless otherwise indicated,,,
+CASE-NEUMN922PMZ,NEUMN922PMZ,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUMN922PMZ,NEUMN922PMZ,PBMC Sample Collection,ANSWER-ALS Visit 2,287,,2,already collected at visit 1,,,
+CTRL-NEUMT184NWC,NEUMT184NWC,PBMC Sample Collection,ANSWER-ALS Visit 2,196,,2,collected at first visit,,,
+CTRL-NEUMT184NWC,NEUMT184NWC,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUMY871DGF,NEUMY871DGF,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUNA248WXL,NEUNA248WXL,PBMC Sample Collection,ANSWER-ALS Visit 2,124,,2,Phone Visit,,,
+CASE-NEUNA248WXL,NEUNA248WXL,PBMC Sample Collection,ANSWER-ALS Visit 4,245,1,1,,245,3,245
+CASE-NEUNA248WXL,NEUNA248WXL,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,,2,Unable to obtain,,,
+CASE-NEUNA248WXL,NEUNA248WXL,PBMC Sample Collection,ANSWER-ALS Visit 5,390,,2,Screening only,,,
+CASE-NEUNG326MFP,NEUNG326MFP,PBMC Sample Collection,ANSWER-ALS Visit 2,112,,2,Screening only,,,
+CASE-NEUNG326MFP,NEUNG326MFP,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUNG326MFP,NEUNG326MFP,PBMC Sample Collection,ANSWER-ALS Visit 3,182,,2,Screening only,,,
+CASE-NEUNG326MFP,NEUNG326MFP,PBMC Sample Collection,ANSWER-ALS Visit 4,298,,2,Screening only,,,
+CASE-NEUNL415AFW,NEUNL415AFW,PBMC Sample Collection,ANSWER-ALS Visit 2,112,,2,collected at screening visit,,,
+CASE-NEUNL415AFW,NEUNL415AFW,PBMC Sample Collection,ANSWER-ALS Visit 3,203,,2,collected at visit 1,,,
+CASE-NEUNL415AFW,NEUNL415AFW,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUNW343RXP,NEUNW343RXP,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUNW343RXP,NEUNW343RXP,PBMC Sample Collection,ANSWER-ALS Visit 2,178,,2,Optional,,,
+CASE-NEUPD674JPG,NEUPD674JPG,PBMC Sample Collection,ANSWER-ALS Visit 5,366,,2,Screening only,,,
+CASE-NEUPD674JPG,NEUPD674JPG,PBMC Sample Collection,ANSWER-ALS Visit 3,142,,2,Screening only,,,
+CASE-NEUPD674JPG,NEUPD674JPG,PBMC Sample Collection,ANSWER-ALS Visit 2,103,,2,Screening only,,,
+CASE-NEUPD674JPG,NEUPD674JPG,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUPH301NNX,NEUPH301NNX,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUPK546ZLD,NEUPK546ZLD,PBMC Sample Collection,ANSWER-ALS Visit 3,275,,2,Visit completed via phone call,,,
+CASE-NEUPK546ZLD,NEUPK546ZLD,PBMC Sample Collection,ANSWER-ALS Visit 4,335,,2,Collected during previous visit,,,
+CASE-NEUPK546ZLD,NEUPK546ZLD,PBMC Sample Collection,ANSWER-ALS Visit 2,98,,2,Collected during Visit 1,,,
+CASE-NEUPK546ZLD,NEUPK546ZLD,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUPL878MTL,NEUPL878MTL,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUPN525XEW,NEUPN525XEW,PBMC Sample Collection,ANSWER-ALS Visit 3,322,,2,Collected during previous visit,,,
+CASE-NEUPN525XEW,NEUPN525XEW,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUPN525XEW,NEUPN525XEW,PBMC Sample Collection,ANSWER-ALS Visit 4,476,,2,Collected during previous visit,,,
+CASE-NEUPN525XEW,NEUPN525XEW,PBMC Sample Collection,ANSWER-ALS Visit 2,106,,2,Collected during previous visit,,,
+CASE-NEUPR357AUF,NEUPR357AUF,PBMC Sample Collection,ANSWER-ALS Visit 4,245,,2,collected at visit 1,,,
+CASE-NEUPR357AUF,NEUPR357AUF,PBMC Sample Collection,ANSWER-ALS Visit 2,91,,2,subject declined optional procedure,,,
+CASE-NEUPR357AUF,NEUPR357AUF,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,1,3,0
+CASE-NEUPR357AUF,NEUPR357AUF,PBMC Sample Collection,ANSWER-ALS Visit 3,196,,2,collected at screening,,,
+CASE-NEUPR600MBU,NEUPR600MBU,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUPR600MBU,NEUPR600MBU,PBMC Sample Collection,ANSWER-ALS Visit 4,441,,2,already collected at previous visit,,,
+CASE-NEUPR600MBU,NEUPR600MBU,PBMC Sample Collection,ANSWER-ALS Visit 3,322,,2,PBMC was not drawn on this visit as it was already collected,,,
+CASE-NEUPR600MBU,NEUPR600MBU,PBMC Sample Collection,ANSWER-ALS Visit 5,574,,2,already collected previously,,,
+CASE-NEUPR600MBU,NEUPR600MBU,PBMC Sample Collection,ANSWER-ALS Visit 2,182,,2,This sample has already been collected.,,,
+CASE-NEURA639MK8,NEURA639MK8,PBMC Sample Collection,ANSWER-ALS Visit 2,99,,2,Collected during screening visit,,,
+CASE-NEURA639MK8,NEURA639MK8,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEURJ362MXH,NEURJ362MXH,PBMC Sample Collection,ANSWER-ALS Visit 2,91,,2,not needed at this visit,,,
+CASE-NEURJ362MXH,NEURJ362MXH,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,1
+CASE-NEURJ362MXH,NEURJ362MXH,PBMC Sample Collection,ANSWER-ALS Visit 3,182,,2,pbmcs not collected at this visit. already collected at visit 1,,,
+CASE-NEURJ362MXH,NEURJ362MXH,PBMC Sample Collection,ANSWER-ALS Visit 5,539,,2,collected only at screening unless otherwise indicated,,,
+CASE-NEURJ362MXH,NEURJ362MXH,PBMC Sample Collection,ANSWER-ALS Visit 4,413,,2,PBMC sample only collected at screening visit,,,
+CTRL-NEURJ861MMD,NEURJ861MMD,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEURR881FKY,NEURR881FKY,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEURR881FKY,NEURR881FKY,PBMC Sample Collection,ANSWER-ALS Visit 4,316,,2,Collected during previous visit.,,,
+CASE-NEURR881FKY,NEURR881FKY,PBMC Sample Collection,ANSWER-ALS Visit 5,401,,2,Collected during previous visit,,,
+CASE-NEURR881FKY,NEURR881FKY,PBMC Sample Collection,ANSWER-ALS Visit 3,254,,2,Collected during previous visit,,,
+CASE-NEURR881FKY,NEURR881FKY,PBMC Sample Collection,ANSWER-ALS Visit 2,126,,2,Collected during previous visit,,,
+CASE-NEURX315DYH,NEURX315DYH,PBMC Sample Collection,ANSWER-ALS Visit 5,371,,2,Screening only,,,
+CASE-NEURX315DYH,NEURX315DYH,PBMC Sample Collection,ANSWER-ALS Visit 3,196,,2,Screening only,,,
+CASE-NEURX315DYH,NEURX315DYH,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEURX909UL6,NEURX909UL6,PBMC Sample Collection,ANSWER-ALS Visit 3,184,,2,Screening only,,,
+CASE-NEURX909UL6,NEURX909UL6,PBMC Sample Collection,ANSWER-ALS Visit 5,399,,2,Screening only,,,
+CASE-NEURX909UL6,NEURX909UL6,PBMC Sample Collection,ANSWER-ALS Visit 2,90,,2,Screening only,,,
+CASE-NEURX909UL6,NEURX909UL6,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEURX909UL6,NEURX909UL6,PBMC Sample Collection,ANSWER-ALS Visit 4,302,,2,Screening only,,,
+CASE-NEUTA057AF6,NEUTA057AF6,PBMC Sample Collection,ANSWER-ALS Visit 3,189,,2,due to time constraints in clinic,,,
+CASE-NEUTA057AF6,NEUTA057AF6,PBMC Sample Collection,ANSWER-ALS Visit 5,408,,2,Not collected after screening visit unless otherwise inidcated,,,
+CASE-NEUTA057AF6,NEUTA057AF6,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUTA057AF6,NEUTA057AF6,PBMC Sample Collection,ANSWER-ALS Visit 2,91,,2,PBMC's are not collected on second visit,,,
+CASE-NEUTA689LN5,NEUTA689LN5,PBMC Sample Collection,ANSWER-ALS Visit 5,401,,2,Screening only,,,
+CASE-NEUTA689LN5,NEUTA689LN5,PBMC Sample Collection,ANSWER-ALS Visit 3,206,,2,Screening only,,,
+CASE-NEUTA689LN5,NEUTA689LN5,PBMC Sample Collection,ANSWER-ALS Visit 2,87,,2,Screening only,,,
+CASE-NEUTA689LN5,NEUTA689LN5,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUTB230DA3,NEUTB230DA3,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,7,3,7
+CASE-NEUTD314VFT,NEUTD314VFT,PBMC Sample Collection,ANSWER-ALS Visit 5,434,,2,Screening only,,,
+CASE-NEUTD314VFT,NEUTD314VFT,PBMC Sample Collection,ANSWER-ALS Visit 3,196,,2,Screening only,,,
+CASE-NEUTD314VFT,NEUTD314VFT,PBMC Sample Collection,ANSWER-ALS Visit 2,115,,2,Screening only,,,
+CASE-NEUTD314VFT,NEUTD314VFT,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUTD314VFT,NEUTD314VFT,PBMC Sample Collection,ANSWER-ALS Visit 4,315,,2,Screening only,,,
+CASE-NEUTD713DE3,NEUTD713DE3,PBMC Sample Collection,ANSWER-ALS Visit 2,105,,2,collected at screening visit,,,
+CASE-NEUTD713DE3,NEUTD713DE3,PBMC Sample Collection,ANSWER-ALS Visit 3,413,,2,Not collected after screening visit unless otherwise inidcated,,,
+CASE-NEUTD713DE3,NEUTD713DE3,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUTJ613AH9,NEUTJ613AH9,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUTL699WJ0,NEUTL699WJ0,PBMC Sample Collection,ANSWER-ALS Visit 4,307,,2,NA,,,
+CASE-NEUTL699WJ0,NEUTL699WJ0,PBMC Sample Collection,ANSWER-ALS Visit 3,169,,2,NA,,,
+CASE-NEUTL699WJ0,NEUTL699WJ0,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUTM934BPY,NEUTM934BPY,PBMC Sample Collection,ANSWER-ALS Visit 3,196,,2,collected only at screening unless otherwise indicated,,,
+CASE-NEUTM934BPY,NEUTM934BPY,PBMC Sample Collection,ANSWER-ALS Visit 2,105,1,1,,105,3,105
+CASE-NEUTM934BPY,NEUTM934BPY,PBMC Sample Collection,ANSWER-ALS Visit 5,406,,2,Only collected on screening visit unless otherwise indicated,,,
+CASE-NEUTM934BPY,NEUTM934BPY,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,
+CASE-NEUTM934BPY,NEUTM934BPY,PBMC Sample Collection,ANSWER-ALS Visit 4,308,,2,these tubes were already collected at previous visit.,,,
+CASE-NEUTN952DDG,NEUTN952DDG,PBMC Sample Collection,ANSWER-ALS Visit 4,349,,2,Collected during previous visit,,,
+CASE-NEUTN952DDG,NEUTN952DDG,PBMC Sample Collection,ANSWER-ALS Visit 2,127,2,1,,127,3,127
+CASE-NEUTN952DDG,NEUTN952DDG,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUTN952DDG,NEUTN952DDG,PBMC Sample Collection,ANSWER-ALS Visit 3,237,,2,Collected during previous visit,,,
+CASE-NEUTN952DDG,NEUTN952DDG,PBMC Sample Collection,ANSWER-ALS Visit 5,479,,2,Collected during previous visit,,,
+CASE-NEUTU360YJY,NEUTU360YJY,PBMC Sample Collection,ANSWER-ALS Visit 2,77,,2,Screening only,,,
+CASE-NEUTU360YJY,NEUTU360YJY,PBMC Sample Collection,ANSWER-ALS Visit 5,392,,2,Screening only,,,
+CASE-NEUTU360YJY,NEUTU360YJY,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUTU360YJY,NEUTU360YJY,PBMC Sample Collection,ANSWER-ALS Visit 3,195,,2,Screening only,,,
+CASE-NEUTU360YJY,NEUTU360YJY,PBMC Sample Collection,ANSWER-ALS Visit 4,286,,2,Screening only,,,
+CASE-NEUUE852BB1,NEUUE852BB1,PBMC Sample Collection,ANSWER-ALS Visit 2,133,,2,Not collected after screening visit unless otherwise inidcated,,,
+CASE-NEUUE852BB1,NEUUE852BB1,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUUL256UC9,NEUUL256UC9,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUUL256UC9,NEUUL256UC9,PBMC Sample Collection,ANSWER-ALS Visit 2,91,,2,NA,,,
+CASE-NEUUL256UC9,NEUUL256UC9,PBMC Sample Collection,ANSWER-ALS Visit 5,336,,2,NA,,,
+CASE-NEUUL256UC9,NEUUL256UC9,PBMC Sample Collection,ANSWER-ALS Visit 4,295,,2,NA,,,
+CASE-NEUUL256UC9,NEUUL256UC9,PBMC Sample Collection,ANSWER-ALS Visit 3,232,,2,NA,,,
+CASE-NEUUP280KXL,NEUUP280KXL,PBMC Sample Collection,ANSWER-ALS Visit 4,315,,2,Collected during previous visit,,,
+CASE-NEUUP280KXL,NEUUP280KXL,PBMC Sample Collection,ANSWER-ALS Visit 3,173,,2,Collected during previous visit,,,
+CASE-NEUUP280KXL,NEUUP280KXL,PBMC Sample Collection,ANSWER-ALS Visit 2,106,,2,Collected during previous visit,,,
+CASE-NEUUP280KXL,NEUUP280KXL,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,2,0
+CASE-NEUUP280KXL,NEUUP280KXL,PBMC Sample Collection,ANSWER-ALS Visit 5,370,,2,Collected during previous visit,,,
+CTRL-NEUUV825HYF,NEUUV825HYF,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUVF888UHM,NEUVF888UHM,PBMC Sample Collection,ANSWER-ALS Visit 4,329,,2,collected previously at screening,,,
+CASE-NEUVF888UHM,NEUVF888UHM,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,-366,3,0
+CASE-NEUVF888UHM,NEUVF888UHM,PBMC Sample Collection,ANSWER-ALS Visit 2,161,,2,Not collected after screening visit unless otherwise inidcated,,,
+CASE-NEUVF888UHM,NEUVF888UHM,PBMC Sample Collection,ANSWER-ALS Visit 5,448,,2,PBMCs were collected at Screening Visit,,,
+CASE-NEUVF888UHM,NEUVF888UHM,PBMC Sample Collection,ANSWER-ALS Visit 3,245,,2,Not collected after screening visit unless otherwise indicated,,,
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,PBMC Sample Collection,ANSWER-ALS Visit 2,105,,2,PBMC's are not collected on second visit,,,
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,PBMC Sample Collection,ANSWER-ALS Visit 3,203,,2,collected at screening,,,
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,PBMC Sample Collection,ANSWER-ALS Visit 5,461,,2,Not collected after screening visit unless otherwise inidcated,,,
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,PBMC Sample Collection,ANSWER-ALS Visit 4,378,,2,Samples only collected at screening visit unless otherwise indicated,,,
+CASE-NEUVL876PUV,NEUVL876PUV,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUVL876PUV,NEUVL876PUV,PBMC Sample Collection,ANSWER-ALS Visit 5,326,,2,Screening only,,,
+CASE-NEUVL876PUV,NEUVL876PUV,PBMC Sample Collection,ANSWER-ALS Visit 3,173,,2,Screening only,,,
+CASE-NEUVL876PUV,NEUVL876PUV,PBMC Sample Collection,ANSWER-ALS Visit 2,77,,2,Screening only,,,
+CASE-NEUVM674HUA,NEUVM674HUA,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUVN746WKV,NEUVN746WKV,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUVN746WKV,NEUVN746WKV,PBMC Sample Collection,ANSWER-ALS Visit 2,636,,2,not required at this visit,,,
+CASE-NEUVR636VTP,NEUVR636VTP,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,1,0
+CASE-NEUVW680LPK,NEUVW680LPK,PBMC Sample Collection,ANSWER-ALS Visit 2,80,,2,Collected during screening visit,,,
+CASE-NEUVW680LPK,NEUVW680LPK,PBMC Sample Collection,ANSWER-ALS Visit 4,297,,2,Collected during previous visit,,,
+CASE-NEUVW680LPK,NEUVW680LPK,PBMC Sample Collection,ANSWER-ALS Visit 3,154,,2,Collected during previous visit,,,
+CASE-NEUVW680LPK,NEUVW680LPK,PBMC Sample Collection,ANSWER-ALS Visit 5,396,,2,Collected during previous visit,,,
+CASE-NEUVW680LPK,NEUVW680LPK,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,1,3,1
+CASE-NEUVW999FP9,NEUVW999FP9,PBMC Sample Collection,ANSWER-ALS Visit 2,91,,2,NA,,,
+CASE-NEUVW999FP9,NEUVW999FP9,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUVX902YNL,NEUVX902YNL,PBMC Sample Collection,ANSWER-ALS Visit 2,93,,2,This sample was not drawn on this visit as it was already collected on a previous visit.,,,
+CASE-NEUVX902YNL,NEUVX902YNL,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUVZ050YX7,NEUVZ050YX7,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUWD538KT3,NEUWD538KT3,PBMC Sample Collection,ANSWER-ALS Visit 3,203,,2,NA,,,
+CASE-NEUWD538KT3,NEUWD538KT3,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,1,0
+CASE-NEUWH380YHV,NEUWH380YHV,PBMC Sample Collection,ANSWER-ALS Visit 3,479,,2,collected previously at screening,,,
+CASE-NEUWH380YHV,NEUWH380YHV,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUWH380YHV,NEUWH380YHV,PBMC Sample Collection,ANSWER-ALS Visit 2,267,,2,Only collected on screening visit unless otherwise indicated,,,
+CASE-NEUWJ389FC7,NEUWJ389FC7,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUWJ389FC7,NEUWJ389FC7,PBMC Sample Collection,ANSWER-ALS Visit 4,266,,2,NA,,,
+CASE-NEUWJ389FC7,NEUWJ389FC7,PBMC Sample Collection,ANSWER-ALS Visit 2,161,,2,NA,,,
+CASE-NEUWP426NBR,NEUWP426NBR,PBMC Sample Collection,ANSWER-ALS Visit 2,133,,2,Collected at Screening Visit,,,
+CASE-NEUWP426NBR,NEUWP426NBR,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,1,3,
+CTRL-NEUWT164JRQ,NEUWT164JRQ,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUWX167DAH,NEUWX167DAH,PBMC Sample Collection,ANSWER-ALS Visit 2,171,,2,collected previously at screening,,,
+CASE-NEUWX167DAH,NEUWX167DAH,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUWX167DAH,NEUWX167DAH,PBMC Sample Collection,ANSWER-ALS Visit 3,315,,2,Only collected on screening visit unless otherwise indicated,,,
+CASE-NEUWX167DAH,NEUWX167DAH,PBMC Sample Collection,ANSWER-ALS Visit 4,630,,2,not required at this visit,,,
+CASE-NEUXE491RMM,NEUXE491RMM,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,2,1,,0,3,0
+CASE-NEUXE491RMM,NEUXE491RMM,PBMC Sample Collection,ANSWER-ALS Visit 2,133,,2,collected at visit 1,,,
+CASE-NEUXP289KRC,NEUXP289KRC,PBMC Sample Collection,ANSWER-ALS Visit 2,259,,2,Collected during previous visit,,,
+CASE-NEUXP289KRC,NEUXP289KRC,PBMC Sample Collection,ANSWER-ALS Visit 4,466,,2,Collected during previous visit,,,
+CASE-NEUXP289KRC,NEUXP289KRC,PBMC Sample Collection,ANSWER-ALS Visit 3,379,,2,Collected during previous visit,,,
+CASE-NEUXP289KRC,NEUXP289KRC,PBMC Sample Collection,ANSWER-ALS Visit 5,540,,2,collected at first visit,,,
+CASE-NEUXP289KRC,NEUXP289KRC,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUXP595FFP,NEUXP595FFP,PBMC Sample Collection,ANSWER-ALS Visit 3,224,,2,collected at screening visit,,,
+CASE-NEUXP595FFP,NEUXP595FFP,PBMC Sample Collection,ANSWER-ALS Visit 5,630,,2,collected only at screening unless otherwise indicated,,,
+CASE-NEUXP595FFP,NEUXP595FFP,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUXP595FFP,NEUXP595FFP,PBMC Sample Collection,ANSWER-ALS Visit 4,406,,2,only necessary at screening,,,
+CASE-NEUXV122FN3,NEUXV122FN3,PBMC Sample Collection,ANSWER-ALS Visit 5,553,,2,collected at screening visit,,,
+CASE-NEUXV122FN3,NEUXV122FN3,PBMC Sample Collection,ANSWER-ALS Visit 2,105,,2,PBMC's are not collected on second visit,,,
+CASE-NEUXV122FN3,NEUXV122FN3,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUXV122FN3,NEUXV122FN3,PBMC Sample Collection,ANSWER-ALS Visit 3,231,,2,not collected at this visit as these tubes were already collected,,,
+CASE-NEUXV122FN3,NEUXV122FN3,PBMC Sample Collection,ANSWER-ALS Visit 4,413,,2,Not collected after screening visit unless otherwise inidcated,,,
+CASE-NEUXX361RUG,NEUXX361RUG,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUYG298CA9,NEUYG298CA9,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUYG298CA9,NEUYG298CA9,PBMC Sample Collection,ANSWER-ALS Visit 2,69,2,1,,80,3,80
+CASE-NEUYG298CA9,NEUYG298CA9,PBMC Sample Collection,ANSWER-ALS Visit 3,1020,,2,Collected at SV.,,,
+CASE-NEUYG298CA9,NEUYG298CA9,PBMC Sample Collection,ANSWER-ALS Visit 4,1020,,2,Collected at SV.,,,
+CASE-NEUYH924UCE,NEUYH924UCE,PBMC Sample Collection,ANSWER-ALS Visit 4,714,4,1,,714,3,714
+CASE-NEUYH924UCE,NEUYH924UCE,PBMC Sample Collection,ANSWER-ALS Visit 3,231,,2,PBMCs were collected at screening,,,
+CASE-NEUYH924UCE,NEUYH924UCE,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUYH924UCE,NEUYH924UCE,PBMC Sample Collection,ANSWER-ALS Visit 2,98,,2,PBMC's are not collected on second visit,,,
+CASE-NEUYK029WUU,NEUYK029WUU,PBMC Sample Collection,ANSWER-ALS Visit 5,371,,2,Screening only,,,
+CASE-NEUYK029WUU,NEUYK029WUU,PBMC Sample Collection,ANSWER-ALS Visit 3,182,,2,Screening only,,,
+CASE-NEUYK029WUU,NEUYK029WUU,PBMC Sample Collection,ANSWER-ALS Visit 4,300,,2,Screening only,,,
+CASE-NEUYK029WUU,NEUYK029WUU,PBMC Sample Collection,ANSWER-ALS Visit 2,138,,2,Screening only,,,
+CASE-NEUYK029WUU,NEUYK029WUU,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUYL008GM4,NEUYL008GM4,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUYL008GM4,NEUYL008GM4,PBMC Sample Collection,ANSWER-ALS Visit 2,107,,2,Visit was conducted via telephone,,,
+CASE-NEUYL149PRF,NEUYL149PRF,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,2,0
+CASE-NEUYL149PRF,NEUYL149PRF,PBMC Sample Collection,ANSWER-ALS Visit 2,127,,2,Visit completed via phone call,,,
+CTRL-NEUYM011FER,NEUYM011FER,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUYM205MRL,NEUYM205MRL,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUYM205MRL,NEUYM205MRL,PBMC Sample Collection,ANSWER-ALS Visit 2,84,,2,samples previously collected at screening visit,,,
+CASE-NEUYP235ZLD,NEUYP235ZLD,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUYY225MNZ,NEUYY225MNZ,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUYY225MNZ,NEUYY225MNZ,PBMC Sample Collection,ANSWER-ALS Visit 2,92,,2,Screening only,,,
+CASE-NEUYY225MNZ,NEUYY225MNZ,PBMC Sample Collection,ANSWER-ALS Visit 3,198,,2,Screening only,,,
+CASE-NEUYY225MNZ,NEUYY225MNZ,PBMC Sample Collection,ANSWER-ALS Visit 4,358,,2,Screening,,,
+CASE-NEUYY878JGP,NEUYY878JGP,PBMC Sample Collection,ANSWER-ALS Visit 3,175,,2,Collected at screening visit,,,
+CASE-NEUYY878JGP,NEUYY878JGP,PBMC Sample Collection,ANSWER-ALS Visit 4,266,,2,Collected at previous visit,,,
+CASE-NEUYY878JGP,NEUYY878JGP,PBMC Sample Collection,ANSWER-ALS Visit 2,105,,2,subject declined optional procedure,,,
+CASE-NEUYY878JGP,NEUYY878JGP,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CTRL-NEUZL045YD3,NEUZL045YD3,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,2,0
+CTRL-NEUZL045YD3,NEUZL045YD3,PBMC Sample Collection,ANSWER-ALS Visit 2,322,,2,Screening,,,
+CASE-NEUZN836GME,NEUZN836GME,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUZN936HJ9,NEUZN936HJ9,PBMC Sample Collection,ANSWER-ALS Visit 5,525,,2,collected at first visit,,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,PBMC Sample Collection,ANSWER-ALS Visit 3,207,,2,Collected during previous visit,,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,PBMC Sample Collection,ANSWER-ALS Visit 2,112,,2,Collected during previous visit,,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUZN936HJ9,NEUZN936HJ9,PBMC Sample Collection,ANSWER-ALS Visit 4,309,,2,Completed during previous visit,,,
+CASE-NEUZP278MR4,NEUZP278MR4,PBMC Sample Collection,ANSWER-ALS Visit 5,385,,2,NA,,,
+CASE-NEUZP278MR4,NEUZP278MR4,PBMC Sample Collection,ANSWER-ALS Visit 4,295,,2,NA,,,
+CASE-NEUZP278MR4,NEUZP278MR4,PBMC Sample Collection,ANSWER-ALS Visit 2,98,,2,NA,,,
+CASE-NEUZP278MR4,NEUZP278MR4,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUZP278MR4,NEUZP278MR4,PBMC Sample Collection,ANSWER-ALS Visit 3,204,,2,NA,,,
+CASE-NEUZT557DHF,NEUZT557DHF,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,40,3,40
+CASE-NEUZT557DHF,NEUZT557DHF,PBMC Sample Collection,ANSWER-ALS Visit 2,153,,2,Collected during Visit 1.,,,
+CASE-NEUZV656DD1,NEUZV656DD1,PBMC Sample Collection,ANSWER-ALS Visit 2,105,,2,PBMCs were already collected on this patient.,,,
+CASE-NEUZV656DD1,NEUZV656DD1,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUZX521TKK,NEUZX521TKK,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,3,0
+CASE-NEUZX521TKK,NEUZX521TKK,PBMC Sample Collection,ANSWER-ALS Visit 2,101,,2,Screening only,,,
+CASE-NEUZX521TKK,NEUZX521TKK,PBMC Sample Collection,ANSWER-ALS Visit 4,312,,2,Screening only,,,
+CASE-NEUZX847VWV,NEUZX847VWV,PBMC Sample Collection,ANSWER-ALS Screening Visit,0,1,1,,0,2.25,0

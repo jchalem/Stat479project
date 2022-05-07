@@ -1,0 +1,505 @@
+Participant_ID,SubjectUID,Form_Name,Visit_Name,Visit_Date,aliqcnt,alqvolot,dnacnt,dnacol,dnadn,dnadnsp,dnadt,smplnygc
+CASE-NEUAA599TMX,NEUAA599TMX,DNA Sample Collection,ANSWER-ALS Screening Visit,0,4,,1,1,1,,0,1
+CASE-NEUAA599TMX,NEUAA599TMX,DNA Sample Collection,ANSWER-ALS Visit 2,154,,,,,2,Not Drawn on this visit,,
+CASE-NEUAB000NKC,NEUAB000NKC,DNA Sample Collection,ANSWER-ALS Visit 3,157,5,,1,3,1,,157,2
+CASE-NEUAB000NKC,NEUAB000NKC,DNA Sample Collection,ANSWER-ALS Visit 4,251,5,,1,4,1,,251,2
+CASE-NEUAB000NKC,NEUAB000NKC,DNA Sample Collection,ANSWER-ALS Visit 2,114,,,,,2,Phone Visit,,
+CASE-NEUAB000NKC,NEUAB000NKC,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUAE993EPR,NEUAE993EPR,DNA Sample Collection,ANSWER-ALS Visit 3,254,,,,,2,Visit was conducted via telephone call,,
+CASE-NEUAE993EPR,NEUAE993EPR,DNA Sample Collection,ANSWER-ALS Visit 5,470,,,,,2,Data collected through medical records,,
+CASE-NEUAE993EPR,NEUAE993EPR,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,1,1,1,,784,1
+CASE-NEUAE993EPR,NEUAE993EPR,DNA Sample Collection,ANSWER-ALS Visit 2,64,,,,,2,Follow-up was completed via telephone,,
+CASE-NEUAE993EPR,NEUAE993EPR,DNA Sample Collection,ANSWER-ALS Visit 4,314,,,,,2,Visit completed via phone call,,
+CASE-NEUAF553MJ3,NEUAF553MJ3,DNA Sample Collection,ANSWER-ALS Visit 3,819,,,,,2,Screening,,
+CASE-NEUAF553MJ3,NEUAF553MJ3,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,1,1,1,,0,2
+CASE-NEUAF553MJ3,NEUAF553MJ3,DNA Sample Collection,ANSWER-ALS Visit 2,84,,,,,2,Not advisable due to clinical status,,
+CASE-NEUAG603XLK,NEUAG603XLK,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,1,1,1,,-10,2
+CASE-NEUAG603XLK,NEUAG603XLK,DNA Sample Collection,ANSWER-ALS Visit 5,455,,,,,2,N/A,,
+CASE-NEUAG603XLK,NEUAG603XLK,DNA Sample Collection,ANSWER-ALS Visit 4,315,,,,,2,NA,,
+CASE-NEUAG603XLK,NEUAG603XLK,DNA Sample Collection,ANSWER-ALS Visit 2,126,,,,,2,NA,,
+CASE-NEUAG603XLK,NEUAG603XLK,DNA Sample Collection,ANSWER-ALS Visit 3,224,,,,,2,NA,,
+CTRL-NEUAJ025JC3,NEUAJ025JC3,DNA Sample Collection,ANSWER-ALS Visit 2,106,,,,,2,Collected during previous visit,,
+CTRL-NEUAJ025JC3,NEUAJ025JC3,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CTRL-NEUAJ928PAA,NEUAJ928PAA,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,2
+CASE-NEUAM655HF7,NEUAM655HF7,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,520,1,1,1,,0,2
+CASE-NEUAM655HF7,NEUAM655HF7,DNA Sample Collection,ANSWER-ALS Visit 3,210,,,,,2,NA,,
+CASE-NEUAT234RK6,NEUAT234RK6,DNA Sample Collection,ANSWER-ALS Visit 3,182,5,,1,3,1,,182,2
+CASE-NEUAT234RK6,NEUAT234RK6,DNA Sample Collection,ANSWER-ALS Visit 4,290,,,,,2,Screening only,,
+CASE-NEUAT234RK6,NEUAT234RK6,DNA Sample Collection,ANSWER-ALS Visit 5,350,,,,,2,Screening only,,
+CASE-NEUAT234RK6,NEUAT234RK6,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUAW157NMJ,NEUAW157NMJ,DNA Sample Collection,ANSWER-ALS Visit 3,173,5,,1,3,1,,173,2
+CASE-NEUAW157NMJ,NEUAW157NMJ,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUAW157NMJ,NEUAW157NMJ,DNA Sample Collection,ANSWER-ALS Visit 2,110,5,,1,2,1,,110,2
+CASE-NEUAW157NMJ,NEUAW157NMJ,DNA Sample Collection,ANSWER-ALS Visit 4,329,,,,,2,Screening only,,
+CASE-NEUAW157NMJ,NEUAW157NMJ,DNA Sample Collection,ANSWER-ALS Visit 5,420,,,,,2,Screening only,,
+CASE-NEUAW717TN6,NEUAW717TN6,DNA Sample Collection,ANSWER-ALS Visit 4,282,,,,,2,DNA was not drawn on this visit as it was already collected.,,
+CASE-NEUAW717TN6,NEUAW717TN6,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,0,1,1,,0,2
+CASE-NEUAW717TN6,NEUAW717TN6,DNA Sample Collection,ANSWER-ALS Visit 3,177,4,,1,3,1,,177,2
+CASE-NEUAW717TN6,NEUAW717TN6,DNA Sample Collection,ANSWER-ALS Visit 5,373,,,,,2,already collected at prior visit,,
+CASE-NEUAW717TN6,NEUAW717TN6,DNA Sample Collection,ANSWER-ALS Visit 2,93,,,1,2,1,,93,1
+CASE-NEUAX665ZHY,NEUAX665ZHY,DNA Sample Collection,ANSWER-ALS Visit 3,273,,,,,2,Collected during previous visit,,
+CASE-NEUAX665ZHY,NEUAX665ZHY,DNA Sample Collection,ANSWER-ALS Visit 4,427,,,,,2,Collected during previous visit,,
+CASE-NEUAX665ZHY,NEUAX665ZHY,DNA Sample Collection,ANSWER-ALS Visit 2,98,,,,,2,Collected during previous visit,,
+CASE-NEUAX665ZHY,NEUAX665ZHY,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,0.5,1,1,1,,0,1
+CASE-NEUBA169GXD,NEUBA169GXD,DNA Sample Collection,ANSWER-ALS Visit 5,472,,,,,2,Collected during previous visit,,
+CASE-NEUBA169GXD,NEUBA169GXD,DNA Sample Collection,ANSWER-ALS Visit 2,106,,,,,2,Sample already collected during Screening visit,,
+CASE-NEUBA169GXD,NEUBA169GXD,DNA Sample Collection,ANSWER-ALS Visit 4,364,,,,,2,Collected during previous visit,,
+CASE-NEUBA169GXD,NEUBA169GXD,DNA Sample Collection,ANSWER-ALS Visit 3,210,,,,,2,Collected during Visit 1,,
+CASE-NEUBA169GXD,NEUBA169GXD,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUBC998WWB,NEUBC998WWB,DNA Sample Collection,ANSWER-ALS Visit 5,371,,,,,2,N/A,,
+CASE-NEUBC998WWB,NEUBC998WWB,DNA Sample Collection,ANSWER-ALS Visit 4,280,,,,,2,NA,,
+CASE-NEUBC998WWB,NEUBC998WWB,DNA Sample Collection,ANSWER-ALS Visit 3,182,,,,,2,NA,,
+CASE-NEUBC998WWB,NEUBC998WWB,DNA Sample Collection,ANSWER-ALS Visit 2,91,,,,,2,NA,,
+CASE-NEUBC998WWB,NEUBC998WWB,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,0.575,1,1,1,,0,1
+CASE-NEUBD218YR3,NEUBD218YR3,DNA Sample Collection,ANSWER-ALS Visit 2,115,,,,,2,Screening only,,
+CASE-NEUBD218YR3,NEUBD218YR3,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUBD218YR3,NEUBD218YR3,DNA Sample Collection,ANSWER-ALS Visit 3,189,,,,,2,Screening only,,
+CASE-NEUBD288RXQ,NEUBD288RXQ,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUBK117YXL,NEUBK117YXL,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,1,1,1,,0,1
+CASE-NEUBK117YXL,NEUBK117YXL,DNA Sample Collection,ANSWER-ALS Visit 3,191,,,,,2,Already collected,,
+CASE-NEUBK117YXL,NEUBK117YXL,DNA Sample Collection,ANSWER-ALS Visit 2,119,5,,2,2,1,,119,1
+CASE-NEUBK117YXL,NEUBK117YXL,DNA Sample Collection,ANSWER-ALS Visit 5,365,,,,,2,Visit 5 conducted over the phone,,
+CASE-NEUBK117YXL,NEUBK117YXL,DNA Sample Collection,ANSWER-ALS Visit 4,266,,,,,2,Collected during previous visit,,
+CASE-NEUBY734PFR,NEUBY734PFR,DNA Sample Collection,ANSWER-ALS Visit 3,280,,,,,2,Collected during previous visit,,
+CASE-NEUBY734PFR,NEUBY734PFR,DNA Sample Collection,ANSWER-ALS Visit 2,91,,,,,2,Collected during Visit 1,,
+CASE-NEUBY734PFR,NEUBY734PFR,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,1,1,1,,0,1
+CASE-NEUBY734PFR,NEUBY734PFR,DNA Sample Collection,ANSWER-ALS Visit 5,497,,,,,2,Collected during previous visit,,
+CASE-NEUBY734PFR,NEUBY734PFR,DNA Sample Collection,ANSWER-ALS Visit 4,433,,,,,2,Collected during previous visit,,
+CTRL-NEUCA748GF2,NEUCA748GF2,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUCB613CA9,NEUCB613CA9,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUCB613CA9,NEUCB613CA9,DNA Sample Collection,ANSWER-ALS Visit 2,266,,,,,2,Visit completed via phone call,,
+CASE-NEUCB613CA9,NEUCB613CA9,DNA Sample Collection,ANSWER-ALS Visit 3,396,,,,,2,Collected during previous visit,,
+CASE-NEUCE965ZGK,NEUCE965ZGK,DNA Sample Collection,ANSWER-ALS Visit 2,91,,,,,2,N/A,,
+CASE-NEUCE965ZGK,NEUCE965ZGK,DNA Sample Collection,ANSWER-ALS Screening Visit,0,3,,1,1,1,,0,1
+CASE-NEUCF538BRM,NEUCF538BRM,DNA Sample Collection,ANSWER-ALS Visit 3,238,,,,,2,NA,,
+CASE-NEUCF538BRM,NEUCF538BRM,DNA Sample Collection,ANSWER-ALS Visit 4,323,,,,,2,NA,,
+CASE-NEUCF538BRM,NEUCF538BRM,DNA Sample Collection,ANSWER-ALS Screening Visit,0,4,250,1,1,1,,0,2
+CASE-NEUCF538BRM,NEUCF538BRM,DNA Sample Collection,ANSWER-ALS Visit 2,84,,,,,2,NA,,
+CASE-NEUCN596RR3,NEUCN596RR3,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUCN596RR3,NEUCN596RR3,DNA Sample Collection,ANSWER-ALS Visit 2,205,,,,,2,Collected during previous visit,,
+CASE-NEUCU245GBQ,NEUCU245GBQ,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,1,1,1,,0,2
+CASE-NEUCU245GBQ,NEUCU245GBQ,DNA Sample Collection,ANSWER-ALS Visit 3,147,,,,,2,N/A,,
+CTRL-NEUCV136DHM,NEUCV136DHM,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,0.5,2,1,1,,0,1
+CTRL-NEUCV809LL4,NEUCV809LL4,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CTRL-NEUDA782GW3,NEUDA782GW3,DNA Sample Collection,ANSWER-ALS Visit 2,104,5,,5,2,1,,104,2
+CTRL-NEUDA782GW3,NEUDA782GW3,DNA Sample Collection,ANSWER-ALS Screening Visit,0,4,0.8,2,1,1,,0,2
+CASE-NEUDD018KAH,NEUDD018KAH,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,1,1,1,,0,1
+CASE-NEUDE902GCT,NEUDE902GCT,DNA Sample Collection,ANSWER-ALS Visit 3,208,5,,1,3,1,,208,2
+CASE-NEUDE902GCT,NEUDE902GCT,DNA Sample Collection,ANSWER-ALS Visit 5,397,5,0.2,6,5,1,,397,2
+CASE-NEUDE902GCT,NEUDE902GCT,DNA Sample Collection,ANSWER-ALS Visit 2,103,5,,1,2,1,,103,2
+CASE-NEUDE902GCT,NEUDE902GCT,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUDE902GCT,NEUDE902GCT,DNA Sample Collection,ANSWER-ALS Visit 4,306,,,,,2,"vein collapsed after collecting only one serum tube, subject had time constraints and denied second draw attempt",,
+CTRL-NEUDE949BP3,NEUDE949BP3,DNA Sample Collection,ANSWER-ALS Visit 2,94,5,,1,2,1,,94,2
+CTRL-NEUDE949BP3,NEUDE949BP3,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,0.5,2,1,1,,0,2
+CASE-NEUDG000ZG5,NEUDG000ZG5,DNA Sample Collection,ANSWER-ALS Visit 2,164,,,,,2,Collected during previous visit,,
+CASE-NEUDG000ZG5,NEUDG000ZG5,DNA Sample Collection,ANSWER-ALS Visit 4,693,,,,,2,collected at first visit,,
+CASE-NEUDG000ZG5,NEUDG000ZG5,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUDG000ZG5,NEUDG000ZG5,DNA Sample Collection,ANSWER-ALS Visit 5,1064,,,,,2,collected at first visit,,
+CASE-NEUDG000ZG5,NEUDG000ZG5,DNA Sample Collection,ANSWER-ALS Visit 3,364,,,,,2,Collected during previous visit,,
+CASE-NEUDG272XWC,NEUDG272XWC,DNA Sample Collection,ANSWER-ALS Visit 5,327,5,,1,5,1,,327,2
+CASE-NEUDG272XWC,NEUDG272XWC,DNA Sample Collection,ANSWER-ALS Visit 3,206,5,,1,3,1,,206,2
+CASE-NEUDG272XWC,NEUDG272XWC,DNA Sample Collection,ANSWER-ALS Visit 2,103,5,,1,2,1,,103,2
+CASE-NEUDG272XWC,NEUDG272XWC,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUDJ536EVH,NEUDJ536EVH,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUDJ536EVH,NEUDJ536EVH,DNA Sample Collection,ANSWER-ALS Visit 5,402,,,,,2,Screening only,,
+CASE-NEUDJ536EVH,NEUDJ536EVH,DNA Sample Collection,ANSWER-ALS Visit 2,108,5,,5,2,1,,108,2
+CASE-NEUDJ536EVH,NEUDJ536EVH,DNA Sample Collection,ANSWER-ALS Visit 4,290,5,,1,4,1,,290,2
+CASE-NEUDJ536EVH,NEUDJ536EVH,DNA Sample Collection,ANSWER-ALS Visit 3,178,5,,1,3,1,,178,2
+CTRL-NEUDM126GNG,NEUDM126GNG,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CTRL-NEUDM126GNG,NEUDM126GNG,DNA Sample Collection,ANSWER-ALS Visit 2,106,,,,,2,Collected during previous visit,,
+CASE-NEUDP155HFH,NEUDP155HFH,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,,,2,Will collect at next visit,,
+CASE-NEUDT709YHN,NEUDT709YHN,DNA Sample Collection,ANSWER-ALS Visit 2,125,6,,1,2,1,,125,2
+CASE-NEUDT709YHN,NEUDT709YHN,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,0.15,2,1,1,,0,1
+CASE-NEUDT709YHN,NEUDT709YHN,DNA Sample Collection,ANSWER-ALS Visit 5,490,5,,1,5,1,,490,2
+CASE-NEUDT709YHN,NEUDT709YHN,DNA Sample Collection,ANSWER-ALS Visit 4,385,6,,1,4,1,,385,2
+CASE-NEUDT709YHN,NEUDT709YHN,DNA Sample Collection,ANSWER-ALS Visit 3,216,6,,1,3,1,,216,2
+CASE-NEUEB422WW0,NEUEB422WW0,DNA Sample Collection,ANSWER-ALS Visit 2,98,,,,,2,Collected during previous visit,,
+CASE-NEUEB422WW0,NEUEB422WW0,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUEC400NYR,NEUEC400NYR,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,1,1,1,,0,2
+CASE-NEUEK191WYC,NEUEK191WYC,DNA Sample Collection,ANSWER-ALS Visit 2,105,,,,,2,SCREENING VISIT ONLY,,
+CASE-NEUEK191WYC,NEUEK191WYC,DNA Sample Collection,ANSWER-ALS Screening Visit,0,4,0.72,2,1,1,,0,1
+CASE-NEUEM029XXZ,NEUEM029XXZ,DNA Sample Collection,ANSWER-ALS Visit 4,337,,,,,2,Collected during a previous visit,,
+CASE-NEUEM029XXZ,NEUEM029XXZ,DNA Sample Collection,ANSWER-ALS Visit 5,463,,,,,2,Collected during previous visit,,
+CASE-NEUEM029XXZ,NEUEM029XXZ,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,1,1,1,,0,1
+CASE-NEUEM029XXZ,NEUEM029XXZ,DNA Sample Collection,ANSWER-ALS Visit 2,112,6,,1,2,1,,112,1
+CASE-NEUEM029XXZ,NEUEM029XXZ,DNA Sample Collection,ANSWER-ALS Visit 3,182,,,,,2,Collected during screening visit,,
+CASE-NEUEM720BUU,NEUEM720BUU,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,1,1,1,,0,1
+CASE-NEUEM720BUU,NEUEM720BUU,DNA Sample Collection,ANSWER-ALS Visit 2,114,6,,1,2,1,,114,1
+CASE-NEUEN017PCJ,NEUEN017PCJ,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,0.75,2,1,1,,0,1
+CASE-NEUEN017PCJ,NEUEN017PCJ,DNA Sample Collection,ANSWER-ALS Visit 2,140,,,,,2,"collected at previous visit, not enough blood for DNA aliquot",,
+CASE-NEUEN017PCJ,NEUEN017PCJ,DNA Sample Collection,ANSWER-ALS Visit 3,441,5,,1,3,1,,441,2
+CASE-NEUEN476CLW,NEUEN476CLW,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CTRL-NEUEU392AE8,NEUEU392AE8,DNA Sample Collection,ANSWER-ALS Visit 2,106,,,,,2,Collected during previous visit,,
+CTRL-NEUEU392AE8,NEUEU392AE8,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,2,1,1,,0,1
+CASE-NEUEU558MNK,NEUEU558MNK,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,1,1,1,,0,2
+CTRL-NEUEY565NWT,NEUEY565NWT,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,1,1,1,,0,1
+CASE-NEUFB989DT1,NEUFB989DT1,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUFB989DT1,NEUFB989DT1,DNA Sample Collection,ANSWER-ALS Visit 2,161,,,,,2,Collected during previous visit,,
+CASE-NEUFB989DT1,NEUFB989DT1,DNA Sample Collection,ANSWER-ALS Visit 3,267,,,,,2,Collected during previous visit,,
+CTRL-NEUFE306EFY,NEUFE306EFY,DNA Sample Collection,ANSWER-ALS Visit 2,112,,,,,2,Collected during previous visit,,
+CTRL-NEUFE306EFY,NEUFE306EFY,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUFH122WN7,NEUFH122WN7,DNA Sample Collection,ANSWER-ALS Visit 2,85,,,,,2,Visit completed via phone call,,
+CASE-NEUFH122WN7,NEUFH122WN7,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUFH122WN7,NEUFH122WN7,DNA Sample Collection,ANSWER-ALS Visit 3,494,,,,,2,collected at first visit,,
+CTRL-NEUFL840LZE,NEUFL840LZE,DNA Sample Collection,ANSWER-ALS Visit 2,104,5,,5,2,1,,104,2
+CTRL-NEUFL840LZE,NEUFL840LZE,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,2
+CASE-NEUFV237VCZ,NEUFV237VCZ,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,1,1,1,,0,1
+CASE-NEUFV237VCZ,NEUFV237VCZ,DNA Sample Collection,ANSWER-ALS Visit 3,198,,,,,2,Collected during screening visit,,
+CASE-NEUFV237VCZ,NEUFV237VCZ,DNA Sample Collection,ANSWER-ALS Visit 2,84,,,1,2,1,,84,2
+CASE-NEUFY342UNG,NEUFY342UNG,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,0.5,2,1,1,,0,1
+CTRL-NEUFZ500KDB,NEUFZ500KDB,DNA Sample Collection,ANSWER-ALS Visit 2,,,,,,2,Collected during previous visit,,
+CTRL-NEUFZ500KDB,NEUFZ500KDB,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CTRL-NEUFZ508VBV,NEUFZ508VBV,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CTRL-NEUFZ508VBV,NEUFZ508VBV,DNA Sample Collection,ANSWER-ALS Visit 2,106,,,,,2,Collected during previous visit,,
+CASE-NEUGD965XVD,NEUGD965XVD,DNA Sample Collection,ANSWER-ALS Visit 4,504,4,,1,4,1,,504,2
+CASE-NEUGD965XVD,NEUGD965XVD,DNA Sample Collection,ANSWER-ALS Visit 3,301,5,0.5,1,3,1,,301,2
+CASE-NEUGD965XVD,NEUGD965XVD,DNA Sample Collection,ANSWER-ALS Visit 2,94,5,0.5,5,2,1,,94,1
+CASE-NEUGD965XVD,NEUGD965XVD,DNA Sample Collection,ANSWER-ALS Visit 5,693,5,0.5,1,5,1,,693,2
+CASE-NEUGD965XVD,NEUGD965XVD,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,1,1,1,,0,1
+CASE-NEUGE540TC4,NEUGE540TC4,DNA Sample Collection,ANSWER-ALS Visit 2,112,,,,,2,Visit completed via phone call,,
+CASE-NEUGE540TC4,NEUGE540TC4,DNA Sample Collection,ANSWER-ALS Screening Visit,0,4,,2,1,1,,0,1
+CASE-NEUGJ081HKR,NEUGJ081HKR,DNA Sample Collection,ANSWER-ALS Visit 5,403,,,,,2,Visit completed via phone call,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,DNA Sample Collection,ANSWER-ALS Visit 2,65,,,,,2,Visit 2 conducted via phone call,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,DNA Sample Collection,ANSWER-ALS Visit 3,171,,,,,2,Visit 3 conducted via phone call,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,,,2,Unable to draw enough blood,,
+CASE-NEUGJ081HKR,NEUGJ081HKR,DNA Sample Collection,ANSWER-ALS Visit 4,304,,,,,2,Visit 4 conducted via phone call,,
+CASE-NEUGL543NJ1,NEUGL543NJ1,DNA Sample Collection,ANSWER-ALS Visit 2,63,5,0.5,1,2,1,,63,2
+CASE-NEUGL543NJ1,NEUGL543NJ1,DNA Sample Collection,ANSWER-ALS Visit 3,189,5,0.75,1,3,1,,189,2
+CASE-NEUGL543NJ1,NEUGL543NJ1,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,1,1,1,,0,1
+CASE-NEUGL543NJ1,NEUGL543NJ1,DNA Sample Collection,ANSWER-ALS Visit 5,378,5,,1,5,1,,378,2
+CASE-NEUGL543NJ1,NEUGL543NJ1,DNA Sample Collection,ANSWER-ALS Visit 4,259,5,0.75,1,4,1,,259,2
+CASE-NEUGP781PDU,NEUGP781PDU,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,0.5,2,1,1,,0,1
+CASE-NEUGR121TFD,NEUGR121TFD,DNA Sample Collection,ANSWER-ALS Visit 3,147,,,,,2,Collected during previous visit,,
+CASE-NEUGR121TFD,NEUGR121TFD,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,1,1,1,,0,1
+CASE-NEUGR121TFD,NEUGR121TFD,DNA Sample Collection,ANSWER-ALS Visit 2,112,,,,,2,Collected during Visit 1,,
+CASE-NEUGR121TFD,NEUGR121TFD,DNA Sample Collection,ANSWER-ALS Visit 4,323,,,,,2,Collected during previous visit,,
+CASE-NEUGW326BRV,NEUGW326BRV,DNA Sample Collection,ANSWER-ALS Visit 2,104,6,,1,2,1,,104,2
+CASE-NEUGW326BRV,NEUGW326BRV,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUGW326BRV,NEUGW326BRV,DNA Sample Collection,ANSWER-ALS Visit 3,190,5,,1,3,1,,190,2
+CASE-NEUGW326BRV,NEUGW326BRV,DNA Sample Collection,ANSWER-ALS Visit 4,280,,,,,2,Explanation not present on source document,,
+CASE-NEUGW340YEB,NEUGW340YEB,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUGW340YEB,NEUGW340YEB,DNA Sample Collection,ANSWER-ALS Visit 2,147,,,,,2,a DNA sample was not drawn on this visit,,
+CASE-NEUHB491NGF,NEUHB491NGF,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUHB491NGF,NEUHB491NGF,DNA Sample Collection,ANSWER-ALS Visit 2,118,6,,1,1,1,,118,2
+CASE-NEUHB491NGF,NEUHB491NGF,DNA Sample Collection,ANSWER-ALS Visit 4,298,,,,,2,Phone Visit,,
+CASE-NEUHB491NGF,NEUHB491NGF,DNA Sample Collection,ANSWER-ALS Visit 5,336,,,,,2,Screening only,,
+CTRL-NEUHE723FGT,NEUHE723FGT,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUHG644RYB,NEUHG644RYB,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,1,1,1,,0,1
+CASE-NEUHG791RV5,NEUHG791RV5,DNA Sample Collection,ANSWER-ALS Visit 2,111,,,,,2,Phone Visit,,
+CASE-NEUHG791RV5,NEUHG791RV5,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUHG791RV5,NEUHG791RV5,DNA Sample Collection,ANSWER-ALS Visit 5,357,,,,,2,Screening only,,
+CASE-NEUHG791RV5,NEUHG791RV5,DNA Sample Collection,ANSWER-ALS Visit 4,298,,,,,2,Phone Visit,,
+CASE-NEUHG791RV5,NEUHG791RV5,DNA Sample Collection,ANSWER-ALS Visit 3,182,5,,1,3,1,,182,2
+CASE-NEUHL999WWT,NEUHL999WWT,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUHL999WWT,NEUHL999WWT,DNA Sample Collection,ANSWER-ALS Visit 3,189,6,,1,3,1,,189,2
+CASE-NEUHL999WWT,NEUHL999WWT,DNA Sample Collection,ANSWER-ALS Visit 5,455,,,,,2,Screening only,,
+CASE-NEUHM532NDD,NEUHM532NDD,DNA Sample Collection,ANSWER-ALS Visit 3,176,5,,1,3,1,,176,2
+CASE-NEUHM532NDD,NEUHM532NDD,DNA Sample Collection,ANSWER-ALS Visit 4,294,,,,,2,Screening only,,
+CASE-NEUHM532NDD,NEUHM532NDD,DNA Sample Collection,ANSWER-ALS Visit 5,343,,,,,2,Screening only,,
+CASE-NEUHM532NDD,NEUHM532NDD,DNA Sample Collection,ANSWER-ALS Visit 2,126,5,,1,2,1,,126,2
+CASE-NEUHM532NDD,NEUHM532NDD,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUHV216EHA,NEUHV216EHA,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,1,1,1,,0,1
+CASE-NEUHW530WD8,NEUHW530WD8,DNA Sample Collection,ANSWER-ALS Visit 5,525,,,,,2,Collected at Visit 2,,
+CASE-NEUHW530WD8,NEUHW530WD8,DNA Sample Collection,ANSWER-ALS Visit 4,322,,,,,2,DNA is only collected at screening,,
+CASE-NEUHW530WD8,NEUHW530WD8,DNA Sample Collection,ANSWER-ALS Visit 2,133,3,0.3,2,2,1,,133,2
+CASE-NEUHW530WD8,NEUHW530WD8,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,,,2,Will collect at next study visit,,
+CASE-NEUHW530WD8,NEUHW530WD8,DNA Sample Collection,ANSWER-ALS Visit 3,231,,,,,2,collected at previous visit,,
+CASE-NEUHW590KBH,NEUHW590KBH,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,1,1,1,,0,1
+CASE-NEUHZ302VU4,NEUHZ302VU4,DNA Sample Collection,ANSWER-ALS Visit 2,119,,,,,2,NA,,
+CASE-NEUHZ302VU4,NEUHZ302VU4,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,800,1,1,1,,0,1
+CASE-NEUHZ302VU4,NEUHZ302VU4,DNA Sample Collection,ANSWER-ALS Visit 3,258,,,,,2,N/A,,
+CTRL-NEUHZ716BZ2,NEUHZ716BZ2,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,1,1,1,,0,1
+CASE-NEUJA217MTJ,NEUJA217MTJ,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,0.5,1,1,1,,0,1
+CASE-NEUJA217MTJ,NEUJA217MTJ,DNA Sample Collection,ANSWER-ALS Visit 2,78,5,0.5,1,2,1,,78,2
+CASE-NEUJA217MTJ,NEUJA217MTJ,DNA Sample Collection,ANSWER-ALS Visit 3,204,5,0.5,1,3,1,,204,2
+CASE-NEUJA666PYD,NEUJA666PYD,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUJA666PYD,NEUJA666PYD,DNA Sample Collection,ANSWER-ALS Visit 2,83,6,0.75,1,2,1,,83,1
+CASE-NEUJA666PYD,NEUJA666PYD,DNA Sample Collection,ANSWER-ALS Visit 3,182,5,0.5,,3,1,,182,
+CASE-NEUJC191RLE,NEUJC191RLE,DNA Sample Collection,ANSWER-ALS Visit 4,279,,,,,2,NA,,
+CASE-NEUJC191RLE,NEUJC191RLE,DNA Sample Collection,ANSWER-ALS Visit 5,386,,,,,2,N/A,,
+CASE-NEUJC191RLE,NEUJC191RLE,DNA Sample Collection,ANSWER-ALS Visit 2,113,,,,,2,NA,,
+CASE-NEUJC191RLE,NEUJC191RLE,DNA Sample Collection,ANSWER-ALS Screening Visit,0,4,490,1,1,1,,0,2
+CASE-NEUJC191RLE,NEUJC191RLE,DNA Sample Collection,ANSWER-ALS Visit 3,225,,,,,2,NA,,
+CASE-NEUJH197AK2,NEUJH197AK2,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CTRL-NEUJH290RH7,NEUJH290RH7,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CTRL-NEUJH290RH7,NEUJH290RH7,DNA Sample Collection,ANSWER-ALS Visit 2,84,,,,,2,Collected during previous visit,,
+CASE-NEUJV798JGH,NEUJV798JGH,DNA Sample Collection,ANSWER-ALS Visit 2,90,5,,2,2,1,,90,2
+CASE-NEUJV798JGH,NEUJV798JGH,DNA Sample Collection,ANSWER-ALS Visit 5,317,,,,,2,Screening only,,
+CASE-NEUJV798JGH,NEUJV798JGH,DNA Sample Collection,ANSWER-ALS Visit 3,149,5,,1,3,1,,149,2
+CASE-NEUJV798JGH,NEUJV798JGH,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CTRL-NEUJX341NDP,NEUJX341NDP,DNA Sample Collection,ANSWER-ALS Screening Visit,0,4,0.5,2,1,1,,0,2
+CASE-NEUJX780XXK,NEUJX780XXK,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,0.75,2,1,1,,0,1
+CASE-NEUJY426MBU,NEUJY426MBU,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUJY426MBU,NEUJY426MBU,DNA Sample Collection,ANSWER-ALS Visit 3,225,5,,1,3,1,,225,2
+CASE-NEUJY426MBU,NEUJY426MBU,DNA Sample Collection,ANSWER-ALS Visit 4,259,5,,1,4,1,,259,2
+CASE-NEUJY426MBU,NEUJY426MBU,DNA Sample Collection,ANSWER-ALS Visit 5,673,5,0.75,1,5,1,,673,2
+CASE-NEUJY426MBU,NEUJY426MBU,DNA Sample Collection,ANSWER-ALS Visit 2,138,5,,1,2,1,,138,2
+CASE-NEUJY536DKF,NEUJY536DKF,DNA Sample Collection,ANSWER-ALS Visit 2,98,,,,,2,Not drawn on this visit.,,
+CASE-NEUJY536DKF,NEUJY536DKF,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUKD025JPF,NEUKD025JPF,DNA Sample Collection,ANSWER-ALS Visit 2,84,,,,,2,already collected at previous visit,,
+CASE-NEUKD025JPF,NEUKD025JPF,DNA Sample Collection,ANSWER-ALS Visit 4,273,,,,,2,already collected previously,,
+CASE-NEUKD025JPF,NEUKD025JPF,DNA Sample Collection,ANSWER-ALS Visit 5,343,,,,,2,already collected previously,,
+CASE-NEUKD025JPF,NEUKD025JPF,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUKD025JPF,NEUKD025JPF,DNA Sample Collection,ANSWER-ALS Visit 3,196,4,,2,2,1,,196,2
+CTRL-NEUKW131XJ2,NEUKW131XJ2,DNA Sample Collection,ANSWER-ALS Visit 2,91,,,1,1,1,,91,1
+CASE-NEULA777DBT,NEULA777DBT,DNA Sample Collection,ANSWER-ALS Visit 2,140,,,,,2,NA,,
+CASE-NEULA777DBT,NEULA777DBT,DNA Sample Collection,ANSWER-ALS Screening Visit,0,4,820,1,1,1,,0,1
+CASE-NEULD354RZB,NEULD354RZB,DNA Sample Collection,ANSWER-ALS Visit 2,111,5,,1,2,1,,111,2
+CASE-NEULD354RZB,NEULD354RZB,DNA Sample Collection,ANSWER-ALS Visit 4,245,5,,1,4,1,,245,2
+CASE-NEULD354RZB,NEULD354RZB,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEULD354RZB,NEULD354RZB,DNA Sample Collection,ANSWER-ALS Visit 5,399,,,,,2,Screening only,,
+CASE-NEULL588ALG,NEULL588ALG,DNA Sample Collection,ANSWER-ALS Visit 3,220,,,,,2,Phone Visit,,
+CASE-NEULL588ALG,NEULL588ALG,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEULL588ALG,NEULL588ALG,DNA Sample Collection,ANSWER-ALS Visit 5,336,,,,,2,Screening only,,
+CASE-NEULL588ALG,NEULL588ALG,DNA Sample Collection,ANSWER-ALS Visit 2,125,,,,,2,Phone Visit,,
+CASE-NEULL588ALG,NEULL588ALG,DNA Sample Collection,ANSWER-ALS Visit 4,314,,,,,2,Screening only,,
+CASE-NEULL648LJ1,NEULL648LJ1,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,,,2,"Two attempts, both unsuccessful, pt. refused another stick",,
+CASE-NEULL648LJ1,NEULL648LJ1,DNA Sample Collection,ANSWER-ALS Visit 2,119,5,700,1,1,1,,119,2
+CASE-NEULL648LJ1,NEULL648LJ1,DNA Sample Collection,ANSWER-ALS Visit 4,343,,,,,2,N/A,,
+CASE-NEULL648LJ1,NEULL648LJ1,DNA Sample Collection,ANSWER-ALS Visit 3,231,,,,,2,N/A,,
+CTRL-NEULL933JXY,NEULL933JXY,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,1,1,1,,0,1
+CASE-NEULP998KDJ,NEULP998KDJ,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,0.5,2,1,1,,0,1
+CASE-NEULY177TTN,NEULY177TTN,DNA Sample Collection,ANSWER-ALS Visit 2,153,5,0.5,1,2,1,,153,2
+CASE-NEULY177TTN,NEULY177TTN,DNA Sample Collection,ANSWER-ALS Visit 3,251,,,,,2,subject declined blood draw,,
+CASE-NEULY177TTN,NEULY177TTN,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,1,1,1,,0,1
+CASE-NEULZ548ZXV,NEULZ548ZXV,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEULZ548ZXV,NEULZ548ZXV,DNA Sample Collection,ANSWER-ALS Visit 4,252,,,,,2,Patient did not consent for blood,,
+CASE-NEUMD869UV7,NEUMD869UV7,DNA Sample Collection,ANSWER-ALS Visit 5,346,,,,,2,Screening only,,
+CASE-NEUMD869UV7,NEUMD869UV7,DNA Sample Collection,ANSWER-ALS Visit 3,230,5,,1,3,1,,230,2
+CASE-NEUMD869UV7,NEUMD869UV7,DNA Sample Collection,ANSWER-ALS Visit 2,79,6,,1,2,1,,79,2
+CASE-NEUMD869UV7,NEUMD869UV7,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUME498PCJ,NEUME498PCJ,DNA Sample Collection,ANSWER-ALS Visit 4,261,,,,,2,DNA sample already collected,,
+CASE-NEUME498PCJ,NEUME498PCJ,DNA Sample Collection,ANSWER-ALS Visit 2,93,,,,,2,Collected during Visit 1,,
+CASE-NEUME498PCJ,NEUME498PCJ,DNA Sample Collection,ANSWER-ALS Visit 3,175,,,,,2,Collected during Visit 1,,
+CASE-NEUME498PCJ,NEUME498PCJ,DNA Sample Collection,ANSWER-ALS Visit 5,392,,,,,2,Collected during previous visit,,
+CASE-NEUME498PCJ,NEUME498PCJ,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,1,1,1,,0,1
+CASE-NEUMN012EVP,NEUMN012EVP,DNA Sample Collection,ANSWER-ALS Visit 3,182,,,,,2,Collected during screening visit,,
+CASE-NEUMN012EVP,NEUMN012EVP,DNA Sample Collection,ANSWER-ALS Visit 4,279,,,,,2,Collected during Visit 1,,
+CASE-NEUMN012EVP,NEUMN012EVP,DNA Sample Collection,ANSWER-ALS Visit 2,114,,,,,2,Collected during screening visit,,
+CASE-NEUMN012EVP,NEUMN012EVP,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,1,1,1,,2,1
+CASE-NEUMN012EVP,NEUMN012EVP,DNA Sample Collection,ANSWER-ALS Visit 5,371,,,,,2,Collected during screening visit,,
+CTRL-NEUMN061ATZ,NEUMN061ATZ,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,2
+CTRL-NEUMN061ATZ,NEUMN061ATZ,DNA Sample Collection,ANSWER-ALS Visit 2,169,6,0.4,1,2,1,,169,2
+CASE-NEUMN922PMZ,NEUMN922PMZ,DNA Sample Collection,ANSWER-ALS Visit 2,287,5,,2,2,1,,287,1
+CASE-NEUMN922PMZ,NEUMN922PMZ,DNA Sample Collection,ANSWER-ALS Visit 4,651,4,,2,4,1,,651,2
+CASE-NEUMN922PMZ,NEUMN922PMZ,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,,,2,Felt faint before all tubes could be collected,,
+CASE-NEUMN922PMZ,NEUMN922PMZ,DNA Sample Collection,ANSWER-ALS Visit 3,462,5,,1,3,1,,462,2
+CTRL-NEUMT184NWC,NEUMT184NWC,DNA Sample Collection,ANSWER-ALS Visit 2,196,,,,,2,collected at first visit,,
+CTRL-NEUMT184NWC,NEUMT184NWC,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUMY871DGF,NEUMY871DGF,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,1,1,1,,0,1
+CASE-NEUNA248WXL,NEUNA248WXL,DNA Sample Collection,ANSWER-ALS Visit 2,124,,,,,2,Phone Visit,,
+CASE-NEUNA248WXL,NEUNA248WXL,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,,,2,Unable to obtain,,
+CASE-NEUNA248WXL,NEUNA248WXL,DNA Sample Collection,ANSWER-ALS Visit 4,245,5,,2,4,1,,245,1
+CASE-NEUNA248WXL,NEUNA248WXL,DNA Sample Collection,ANSWER-ALS Visit 5,390,,,,,2,Screening only,,
+CASE-NEUNG326MFP,NEUNG326MFP,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUNG326MFP,NEUNG326MFP,DNA Sample Collection,ANSWER-ALS Visit 2,112,,,,,2,Phone Visit,,
+CASE-NEUNG326MFP,NEUNG326MFP,DNA Sample Collection,ANSWER-ALS Visit 3,182,5,,1,3,1,,182,2
+CASE-NEUNG326MFP,NEUNG326MFP,DNA Sample Collection,ANSWER-ALS Visit 4,298,,,,,2,Phone Visit,,
+CASE-NEUNL415AFW,NEUNL415AFW,DNA Sample Collection,ANSWER-ALS Visit 2,112,6,,2,2,1,,112,2
+CASE-NEUNL415AFW,NEUNL415AFW,DNA Sample Collection,ANSWER-ALS Visit 3,203,,,,,2,Patient too fatigued and dehydrated. Did not want blood drawn.,,
+CASE-NEUNL415AFW,NEUNL415AFW,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,2
+CTRL-NEUNW343RXP,NEUNW343RXP,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CTRL-NEUNW343RXP,NEUNW343RXP,DNA Sample Collection,ANSWER-ALS Visit 2,178,,,,,2,Optional,,
+CASE-NEUPD674JPG,NEUPD674JPG,DNA Sample Collection,ANSWER-ALS Visit 3,142,5,,1,3,1,,142,2
+CASE-NEUPD674JPG,NEUPD674JPG,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,2
+CASE-NEUPD674JPG,NEUPD674JPG,DNA Sample Collection,ANSWER-ALS Visit 2,103,5,,1,2,1,,103,2
+CASE-NEUPD674JPG,NEUPD674JPG,DNA Sample Collection,ANSWER-ALS Visit 5,366,,,,,2,Screening only,,
+CTRL-NEUPH301NNX,NEUPH301NNX,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,
+CASE-NEUPK546ZLD,NEUPK546ZLD,DNA Sample Collection,ANSWER-ALS Visit 3,275,,,,,2,Visit completed via phone call,,
+CASE-NEUPK546ZLD,NEUPK546ZLD,DNA Sample Collection,ANSWER-ALS Visit 4,335,,,,,2,Collected during previous visit.,,
+CASE-NEUPK546ZLD,NEUPK546ZLD,DNA Sample Collection,ANSWER-ALS Visit 2,98,,,,,2,Collected during Visit 1,,
+CASE-NEUPK546ZLD,NEUPK546ZLD,DNA Sample Collection,ANSWER-ALS Screening Visit,0,4,,1,1,1,,0,1
+CTRL-NEUPL878MTL,NEUPL878MTL,DNA Sample Collection,ANSWER-ALS Screening Visit,0,4,,2,1,1,,0,1
+CASE-NEUPN525XEW,NEUPN525XEW,DNA Sample Collection,ANSWER-ALS Visit 3,322,,,,,2,Collected during previous visit,,
+CASE-NEUPN525XEW,NEUPN525XEW,DNA Sample Collection,ANSWER-ALS Visit 2,106,,,,,2,Collected during previous visit,,
+CASE-NEUPN525XEW,NEUPN525XEW,DNA Sample Collection,ANSWER-ALS Visit 4,476,,,,,2,Collected during previous visit,,
+CASE-NEUPN525XEW,NEUPN525XEW,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,1,1,1,,0,1
+CASE-NEUPR357AUF,NEUPR357AUF,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,,,2,not collected at this visit,,
+CASE-NEUPR357AUF,NEUPR357AUF,DNA Sample Collection,ANSWER-ALS Visit 4,245,,,,,2,collected at visit 2,,
+CASE-NEUPR357AUF,NEUPR357AUF,DNA Sample Collection,ANSWER-ALS Visit 2,91,5,,5,2,1,,91,2
+CASE-NEUPR357AUF,NEUPR357AUF,DNA Sample Collection,ANSWER-ALS Visit 3,196,,,,,2,collected at Visit 2,,
+CASE-NEUPR600MBU,NEUPR600MBU,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUPR600MBU,NEUPR600MBU,DNA Sample Collection,ANSWER-ALS Visit 4,441,,,,,2,already collected at previous visit,,
+CASE-NEUPR600MBU,NEUPR600MBU,DNA Sample Collection,ANSWER-ALS Visit 3,322,,,,,2,DNA was not drawn on this visit as it was already collected.,,
+CASE-NEUPR600MBU,NEUPR600MBU,DNA Sample Collection,ANSWER-ALS Visit 5,574,,,,,2,already collected previously,,
+CASE-NEUPR600MBU,NEUPR600MBU,DNA Sample Collection,ANSWER-ALS Visit 2,182,,,,,2,This sample has already been collected.,,
+CASE-NEURA639MK8,NEURA639MK8,DNA Sample Collection,ANSWER-ALS Visit 2,99,,,,,2,Collected during screening visit,,
+CASE-NEURA639MK8,NEURA639MK8,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEURJ362MXH,NEURJ362MXH,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,1,1,1,,0,1
+CASE-NEURJ362MXH,NEURJ362MXH,DNA Sample Collection,ANSWER-ALS Visit 3,182,2,,1,3,1,,182,2
+CASE-NEURJ362MXH,NEURJ362MXH,DNA Sample Collection,ANSWER-ALS Visit 5,539,4,,1,5,1,,539,2
+CASE-NEURJ362MXH,NEURJ362MXH,DNA Sample Collection,ANSWER-ALS Visit 4,413,,,,,2,Blood draw attempted but Answer ALS tubes unable to be filled because flow stopped. Patient didn't want to be stuck again. No blood obtained.,,
+CASE-NEURJ362MXH,NEURJ362MXH,DNA Sample Collection,ANSWER-ALS Visit 2,91,4,,1,2,1,,91,2
+CTRL-NEURJ861MMD,NEURJ861MMD,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,
+CASE-NEURR881FKY,NEURR881FKY,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,1,1,1,,0,1
+CASE-NEURR881FKY,NEURR881FKY,DNA Sample Collection,ANSWER-ALS Visit 5,401,,,,,2,Collected during previous visit,,
+CASE-NEURR881FKY,NEURR881FKY,DNA Sample Collection,ANSWER-ALS Visit 4,316,,,,,2,Collected during previous visit.,,
+CASE-NEURR881FKY,NEURR881FKY,DNA Sample Collection,ANSWER-ALS Visit 3,254,,,,,2,Collected during previous visit,,
+CASE-NEURR881FKY,NEURR881FKY,DNA Sample Collection,ANSWER-ALS Visit 2,126,,,,,2,Collected during previous visit,,
+CASE-NEURX315DYH,NEURX315DYH,DNA Sample Collection,ANSWER-ALS Visit 5,371,,,,,2,Screening only,,
+CASE-NEURX315DYH,NEURX315DYH,DNA Sample Collection,ANSWER-ALS Visit 3,196,,,,,2,Unable to obtain,,
+CASE-NEURX315DYH,NEURX315DYH,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,2
+CASE-NEURX909UL6,NEURX909UL6,DNA Sample Collection,ANSWER-ALS Visit 5,399,,,,,2,Screening only,,
+CASE-NEURX909UL6,NEURX909UL6,DNA Sample Collection,ANSWER-ALS Visit 2,90,5,,1,2,1,,90,2
+CASE-NEURX909UL6,NEURX909UL6,DNA Sample Collection,ANSWER-ALS Visit 4,302,5,,1,4,1,,302,2
+CASE-NEURX909UL6,NEURX909UL6,DNA Sample Collection,ANSWER-ALS Visit 3,184,5,,1,3,1,,184,2
+CASE-NEURX909UL6,NEURX909UL6,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,0.9,2,1,1,,0,1
+CASE-NEUTA057AF6,NEUTA057AF6,DNA Sample Collection,ANSWER-ALS Visit 3,189,5,,1,3,1,,189,2
+CASE-NEUTA057AF6,NEUTA057AF6,DNA Sample Collection,ANSWER-ALS Visit 5,408,4,0.8,1,5,1,,408,2
+CASE-NEUTA057AF6,NEUTA057AF6,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,1,1,1,,0,1
+CASE-NEUTA057AF6,NEUTA057AF6,DNA Sample Collection,ANSWER-ALS Visit 2,91,5,0.75,1,2,1,,91,2
+CASE-NEUTA689LN5,NEUTA689LN5,DNA Sample Collection,ANSWER-ALS Visit 5,401,,,,,2,Screening only,,
+CASE-NEUTA689LN5,NEUTA689LN5,DNA Sample Collection,ANSWER-ALS Visit 3,206,5,,1,3,1,,206,2
+CASE-NEUTA689LN5,NEUTA689LN5,DNA Sample Collection,ANSWER-ALS Visit 2,87,4,,1,2,1,,87,2
+CASE-NEUTA689LN5,NEUTA689LN5,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,1,1,1,,0,1
+CASE-NEUTB230DA3,NEUTB230DA3,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,250,2,1,1,,7,1
+CASE-NEUTD314VFT,NEUTD314VFT,DNA Sample Collection,ANSWER-ALS Visit 5,434,,,,,2,Screening only,,
+CASE-NEUTD314VFT,NEUTD314VFT,DNA Sample Collection,ANSWER-ALS Visit 3,196,5,,1,3,1,,196,2
+CASE-NEUTD314VFT,NEUTD314VFT,DNA Sample Collection,ANSWER-ALS Visit 4,315,,,,,2,Screening only,,
+CASE-NEUTD314VFT,NEUTD314VFT,DNA Sample Collection,ANSWER-ALS Visit 2,115,,,,,2,Phone Visit,,
+CASE-NEUTD314VFT,NEUTD314VFT,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUTD713DE3,NEUTD713DE3,DNA Sample Collection,ANSWER-ALS Visit 2,105,5,,1,2,1,,105,2
+CASE-NEUTD713DE3,NEUTD713DE3,DNA Sample Collection,ANSWER-ALS Visit 3,413,5,,1,3,1,,413,2
+CASE-NEUTD713DE3,NEUTD713DE3,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUTJ613AH9,NEUTJ613AH9,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,,1,1,,0,1
+CASE-NEUTL699WJ0,NEUTL699WJ0,DNA Sample Collection,ANSWER-ALS Visit 4,307,,,,,2,NA,,
+CASE-NEUTL699WJ0,NEUTL699WJ0,DNA Sample Collection,ANSWER-ALS Visit 3,169,,,,,2,NA,,
+CASE-NEUTL699WJ0,NEUTL699WJ0,DNA Sample Collection,ANSWER-ALS Screening Visit,0,4,0.565,1,1,1,,0,1
+CASE-NEUTM934BPY,NEUTM934BPY,DNA Sample Collection,ANSWER-ALS Visit 3,196,4,0.25,1,3,1,,196,2
+CASE-NEUTM934BPY,NEUTM934BPY,DNA Sample Collection,ANSWER-ALS Visit 2,105,,,,,2,Blood draw was attempted but there was not sufficient blood flow to obtain these tubes,,
+CASE-NEUTM934BPY,NEUTM934BPY,DNA Sample Collection,ANSWER-ALS Visit 5,406,4,,1,5,1,,406,2
+CASE-NEUTM934BPY,NEUTM934BPY,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,1,1,1,,0,
+CASE-NEUTM934BPY,NEUTM934BPY,DNA Sample Collection,ANSWER-ALS Visit 4,308,5,,1,4,1,,308,2
+CASE-NEUTN952DDG,NEUTN952DDG,DNA Sample Collection,ANSWER-ALS Visit 2,127,,,,,2,Collected during Screening visit,,
+CASE-NEUTN952DDG,NEUTN952DDG,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,1,1,1,,0,1
+CASE-NEUTN952DDG,NEUTN952DDG,DNA Sample Collection,ANSWER-ALS Visit 3,237,,,,,2,Collected during previous visit,,
+CASE-NEUTN952DDG,NEUTN952DDG,DNA Sample Collection,ANSWER-ALS Visit 5,479,,,,,2,Collected during previous visit,,
+CASE-NEUTN952DDG,NEUTN952DDG,DNA Sample Collection,ANSWER-ALS Visit 4,349,,,,,2,Collected during previous visit,,
+CASE-NEUTU360YJY,NEUTU360YJY,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,0.8,2,1,1,,0,1
+CASE-NEUTU360YJY,NEUTU360YJY,DNA Sample Collection,ANSWER-ALS Visit 5,392,,,,,2,Screening only,,
+CASE-NEUTU360YJY,NEUTU360YJY,DNA Sample Collection,ANSWER-ALS Visit 3,195,5,,1,3,1,,196,2
+CASE-NEUTU360YJY,NEUTU360YJY,DNA Sample Collection,ANSWER-ALS Visit 4,286,5,,1,4,1,,286,2
+CASE-NEUTU360YJY,NEUTU360YJY,DNA Sample Collection,ANSWER-ALS Visit 2,77,5,,1,2,1,,77,2
+CASE-NEUUE852BB1,NEUUE852BB1,DNA Sample Collection,ANSWER-ALS Visit 2,133,5,0.15,1,2,1,,133,2
+CASE-NEUUE852BB1,NEUUE852BB1,DNA Sample Collection,ANSWER-ALS Screening Visit,0,3,0,1,1,1,,0,2
+CASE-NEUUL256UC9,NEUUL256UC9,DNA Sample Collection,ANSWER-ALS Visit 3,232,,,,,2,NA,,
+CASE-NEUUL256UC9,NEUUL256UC9,DNA Sample Collection,ANSWER-ALS Visit 2,91,,,,,2,NA,,
+CASE-NEUUL256UC9,NEUUL256UC9,DNA Sample Collection,ANSWER-ALS Visit 5,336,,,,,2,NA,,
+CASE-NEUUL256UC9,NEUUL256UC9,DNA Sample Collection,ANSWER-ALS Visit 4,295,,,,,2,NA,,
+CASE-NEUUL256UC9,NEUUL256UC9,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,380,2,1,1,,0,1
+CASE-NEUUP280KXL,NEUUP280KXL,DNA Sample Collection,ANSWER-ALS Visit 4,315,,,,,2,Collected during previous visit,,
+CASE-NEUUP280KXL,NEUUP280KXL,DNA Sample Collection,ANSWER-ALS Visit 3,173,,,,,2,Collected during previous visit,,
+CASE-NEUUP280KXL,NEUUP280KXL,DNA Sample Collection,ANSWER-ALS Visit 2,106,,,,,2,Collected during previous visit,,
+CASE-NEUUP280KXL,NEUUP280KXL,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUUP280KXL,NEUUP280KXL,DNA Sample Collection,ANSWER-ALS Visit 5,370,,,,,2,"Previously collected; however, re-draw is requested. Sample will be recollected upon patient's next clinical visit.",,
+CTRL-NEUUV825HYF,NEUUV825HYF,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,
+CASE-NEUVF888UHM,NEUVF888UHM,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,7,1
+CASE-NEUVF888UHM,NEUVF888UHM,DNA Sample Collection,ANSWER-ALS Visit 2,161,,,,,2,Blood draw attempted but unsuccessful. No blood obtained at this visit.,,
+CASE-NEUVF888UHM,NEUVF888UHM,DNA Sample Collection,ANSWER-ALS Visit 5,448,6,,1,5,1,,448,2
+CASE-NEUVF888UHM,NEUVF888UHM,DNA Sample Collection,ANSWER-ALS Visit 4,329,4,0.5,1,4,1,,329,2
+CASE-NEUVF888UHM,NEUVF888UHM,DNA Sample Collection,ANSWER-ALS Visit 3,245,4,0.8,2,3,1,,245,2
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,DNA Sample Collection,ANSWER-ALS Visit 2,105,5,0.5,1,2,1,,105,2
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,DNA Sample Collection,ANSWER-ALS Visit 5,461,6,,1,5,1,,461,2
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,DNA Sample Collection,ANSWER-ALS Visit 4,378,6,,1,4,1,,378,2
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,2,1,1,,0,1
+CASE-NEUVJ560JGZ,NEUVJ560JGZ,DNA Sample Collection,ANSWER-ALS Visit 3,203,6,,1,3,1,,203,2
+CASE-NEUVL876PUV,NEUVL876PUV,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,0.7,2,1,1,,0,1
+CASE-NEUVL876PUV,NEUVL876PUV,DNA Sample Collection,ANSWER-ALS Visit 2,77,6,,1,2,1,,77,2
+CASE-NEUVL876PUV,NEUVL876PUV,DNA Sample Collection,ANSWER-ALS Visit 5,326,,,,,2,Screening only,,
+CASE-NEUVL876PUV,NEUVL876PUV,DNA Sample Collection,ANSWER-ALS Visit 3,173,5,,1,3,1,,189,2
+CASE-NEUVM674HUA,NEUVM674HUA,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUVN746WKV,NEUVN746WKV,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,1,1,1,,0,2
+CASE-NEUVN746WKV,NEUVN746WKV,DNA Sample Collection,ANSWER-ALS Visit 2,636,,,,,2,reason unknown,,
+CASE-NEUVR636VTP,NEUVR636VTP,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,0.9,1,2,1,,0,2
+CASE-NEUVW680LPK,NEUVW680LPK,DNA Sample Collection,ANSWER-ALS Visit 2,80,5,,1,2,1,,80,1
+CASE-NEUVW680LPK,NEUVW680LPK,DNA Sample Collection,ANSWER-ALS Visit 4,297,,,,,2,Collected during previous visit,,
+CASE-NEUVW680LPK,NEUVW680LPK,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,1,1,1,,1,1
+CASE-NEUVW680LPK,NEUVW680LPK,DNA Sample Collection,ANSWER-ALS Visit 3,154,,,,,2,Collected during previous visit,,
+CASE-NEUVW680LPK,NEUVW680LPK,DNA Sample Collection,ANSWER-ALS Visit 5,396,,,,,2,Collected during previous visit,,
+CASE-NEUVW999FP9,NEUVW999FP9,DNA Sample Collection,ANSWER-ALS Screening Visit,0,4,0.94,1,1,1,,0,1
+CASE-NEUVW999FP9,NEUVW999FP9,DNA Sample Collection,ANSWER-ALS Visit 2,91,,,,,2,NA,,
+CASE-NEUVX902YNL,NEUVX902YNL,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUVX902YNL,NEUVX902YNL,DNA Sample Collection,ANSWER-ALS Visit 2,93,,,,,2,This sample was not drawn on this visit as it was already collected on a previous visit.,,
+CTRL-NEUVZ050YX7,NEUVZ050YX7,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,1,1,1,,0,1
+CASE-NEUWD538KT3,NEUWD538KT3,DNA Sample Collection,ANSWER-ALS Visit 3,203,,,,,2,NA,,
+CASE-NEUWD538KT3,NEUWD538KT3,DNA Sample Collection,ANSWER-ALS Screening Visit,0,4,400,1,1,1,,0,2
+CASE-NEUWH380YHV,NEUWH380YHV,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,0.75,2,1,1,,0,1
+CASE-NEUWH380YHV,NEUWH380YHV,DNA Sample Collection,ANSWER-ALS Visit 2,267,5,0.7,1,2,1,,267,2
+CASE-NEUWH380YHV,NEUWH380YHV,DNA Sample Collection,ANSWER-ALS Visit 3,479,,,,,2,not collected due to vein collapse,,
+CASE-NEUWJ389FC7,NEUWJ389FC7,DNA Sample Collection,ANSWER-ALS Screening Visit,0,4,0.7,1,1,1,,0,2
+CASE-NEUWJ389FC7,NEUWJ389FC7,DNA Sample Collection,ANSWER-ALS Visit 2,161,,,,,2,NA,,
+CASE-NEUWJ389FC7,NEUWJ389FC7,DNA Sample Collection,ANSWER-ALS Visit 4,266,,,,,2,NA,,
+CASE-NEUWP426NBR,NEUWP426NBR,DNA Sample Collection,ANSWER-ALS Visit 2,133,5,,2,2,1,,133,1
+CASE-NEUWP426NBR,NEUWP426NBR,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,,,2,Will collect at next visit,,
+CTRL-NEUWT164JRQ,NEUWT164JRQ,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUWX167DAH,NEUWX167DAH,DNA Sample Collection,ANSWER-ALS Screening Visit,0,10,,1,1,1,,0,1
+CASE-NEUWX167DAH,NEUWX167DAH,DNA Sample Collection,ANSWER-ALS Visit 3,315,5,,1,3,1,,315,2
+CASE-NEUWX167DAH,NEUWX167DAH,DNA Sample Collection,ANSWER-ALS Visit 2,171,,,,,2,visit was a televisit,,
+CASE-NEUWX167DAH,NEUWX167DAH,DNA Sample Collection,ANSWER-ALS Visit 4,630,7,,1,4,1,,630,2
+CASE-NEUXE491RMM,NEUXE491RMM,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,,,2,will collect at subsequent visit,,
+CASE-NEUXE491RMM,NEUXE491RMM,DNA Sample Collection,ANSWER-ALS Visit 2,133,4,0.75,1,2,1,,133,2
+CASE-NEUXP289KRC,NEUXP289KRC,DNA Sample Collection,ANSWER-ALS Visit 2,259,,,,,2,Collected during previous visit,,
+CASE-NEUXP289KRC,NEUXP289KRC,DNA Sample Collection,ANSWER-ALS Visit 4,466,,,,,2,Collected during previous visit,,
+CASE-NEUXP289KRC,NEUXP289KRC,DNA Sample Collection,ANSWER-ALS Visit 3,379,,,,,2,Collected during previous visit,,
+CASE-NEUXP289KRC,NEUXP289KRC,DNA Sample Collection,ANSWER-ALS Screening Visit,0,4,,2,1,1,,0,1
+CASE-NEUXP289KRC,NEUXP289KRC,DNA Sample Collection,ANSWER-ALS Visit 5,540,,,,,2,collected at first visit,,
+CASE-NEUXP595FFP,NEUXP595FFP,DNA Sample Collection,ANSWER-ALS Visit 5,630,,,,,2,Not enough blood,,
+CASE-NEUXP595FFP,NEUXP595FFP,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,0.5,1,1,1,,0,1
+CASE-NEUXP595FFP,NEUXP595FFP,DNA Sample Collection,ANSWER-ALS Visit 4,406,,,,,2,not collected because subject is a tough stick and subject time constraints,,
+CASE-NEUXP595FFP,NEUXP595FFP,DNA Sample Collection,ANSWER-ALS Visit 3,224,5,,1,3,1,,224,2
+CASE-NEUXV122FN3,NEUXV122FN3,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUXV122FN3,NEUXV122FN3,DNA Sample Collection,ANSWER-ALS Visit 3,231,4,0.75,,3,1,,231,2
+CASE-NEUXV122FN3,NEUXV122FN3,DNA Sample Collection,ANSWER-ALS Visit 4,413,7,,1,4,1,,413,2
+CASE-NEUXV122FN3,NEUXV122FN3,DNA Sample Collection,ANSWER-ALS Visit 5,553,,,,,2,not collected due to patient time constraints,,
+CASE-NEUXV122FN3,NEUXV122FN3,DNA Sample Collection,ANSWER-ALS Visit 2,105,5,0.5,1,2,1,,105,2
+CASE-NEUXX361RUG,NEUXX361RUG,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,1,1,1,,0,1
+CASE-NEUYG298CA9,NEUYG298CA9,DNA Sample Collection,ANSWER-ALS Visit 4,1020,,,,,2,Collected at SV.,,
+CASE-NEUYG298CA9,NEUYG298CA9,DNA Sample Collection,ANSWER-ALS Visit 3,1020,,,,,2,Collected at SV.,,
+CASE-NEUYG298CA9,NEUYG298CA9,DNA Sample Collection,ANSWER-ALS Visit 2,69,,,,,2,DNA was not drawn on this visit as it was already collected.,,
+CASE-NEUYG298CA9,NEUYG298CA9,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,2
+CASE-NEUYH924UCE,NEUYH924UCE,DNA Sample Collection,ANSWER-ALS Visit 3,231,,,,,2,Blood was mistakenly not collected.,,
+CASE-NEUYH924UCE,NEUYH924UCE,DNA Sample Collection,ANSWER-ALS Visit 4,714,,,2,4,1,,714,1
+CASE-NEUYH924UCE,NEUYH924UCE,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,2,1,1,,0,1
+CASE-NEUYH924UCE,NEUYH924UCE,DNA Sample Collection,ANSWER-ALS Visit 2,98,5,,1,2,1,,98,2
+CASE-NEUYK029WUU,NEUYK029WUU,DNA Sample Collection,ANSWER-ALS Visit 5,371,,,,,2,Screening only,,
+CASE-NEUYK029WUU,NEUYK029WUU,DNA Sample Collection,ANSWER-ALS Visit 3,182,5,,1,3,1,,182,2
+CASE-NEUYK029WUU,NEUYK029WUU,DNA Sample Collection,ANSWER-ALS Visit 4,300,5,,1,4,1,,300,2
+CASE-NEUYK029WUU,NEUYK029WUU,DNA Sample Collection,ANSWER-ALS Visit 2,138,5,,1,2,1,,138,2
+CASE-NEUYK029WUU,NEUYK029WUU,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUYL008GM4,NEUYL008GM4,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,,,2,Unable to draw enough blood,,
+CASE-NEUYL008GM4,NEUYL008GM4,DNA Sample Collection,ANSWER-ALS Visit 2,107,,,,,2,Visit was conducted via telephone,,
+CASE-NEUYL149PRF,NEUYL149PRF,DNA Sample Collection,ANSWER-ALS Visit 2,127,,,,,2,Visit completed via phone call,,
+CASE-NEUYL149PRF,NEUYL149PRF,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,,,2,Unable to draw enough blood,,
+CTRL-NEUYM011FER,NEUYM011FER,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,,,2,inadvertantly forgot to collect,,
+CTRL-NEUYM205MRL,NEUYM205MRL,DNA Sample Collection,ANSWER-ALS Visit 2,84,4,0.9,1,2,1,,84,2
+CTRL-NEUYM205MRL,NEUYM205MRL,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,2
+CASE-NEUYP235ZLD,NEUYP235ZLD,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,1,1,1,,0,1
+CASE-NEUYY225MNZ,NEUYY225MNZ,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUYY225MNZ,NEUYY225MNZ,DNA Sample Collection,ANSWER-ALS Visit 2,92,,,,,2,Screening only,,
+CASE-NEUYY225MNZ,NEUYY225MNZ,DNA Sample Collection,ANSWER-ALS Visit 3,198,,,,,2,Screening only,,
+CASE-NEUYY225MNZ,NEUYY225MNZ,DNA Sample Collection,ANSWER-ALS Visit 4,358,,,,,2,Screening,,
+CASE-NEUYY878JGP,NEUYY878JGP,DNA Sample Collection,ANSWER-ALS Visit 3,175,,,,,2,collected at Visit 1,,
+CASE-NEUYY878JGP,NEUYY878JGP,DNA Sample Collection,ANSWER-ALS Visit 4,266,,,,,2,collected at previous visit,,
+CASE-NEUYY878JGP,NEUYY878JGP,DNA Sample Collection,ANSWER-ALS Visit 2,105,4,,2,2,1,,105,2
+CASE-NEUYY878JGP,NEUYY878JGP,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,,,2,Optional for this study visit,,
+CTRL-NEUZL045YD3,NEUZL045YD3,DNA Sample Collection,ANSWER-ALS Screening Visit,0,,,1,1,1,,0,1
+CTRL-NEUZL045YD3,NEUZL045YD3,DNA Sample Collection,ANSWER-ALS Visit 2,322,5,,1,2,1,,322,2
+CASE-NEUZN836GME,NEUZN836GME,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUZN936HJ9,NEUZN936HJ9,DNA Sample Collection,ANSWER-ALS Visit 2,112,,,,,2,Collected during previous visit,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,0.5,2,1,1,,0,1
+CASE-NEUZN936HJ9,NEUZN936HJ9,DNA Sample Collection,ANSWER-ALS Visit 5,525,,,,,2,collected at first visit,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,DNA Sample Collection,ANSWER-ALS Visit 4,309,,,,,2,Completed during previous visit,,
+CASE-NEUZN936HJ9,NEUZN936HJ9,DNA Sample Collection,ANSWER-ALS Visit 3,207,,,,,2,Collected during previous visit,,
+CASE-NEUZP278MR4,NEUZP278MR4,DNA Sample Collection,ANSWER-ALS Visit 3,204,,,,,2,NA,,
+CASE-NEUZP278MR4,NEUZP278MR4,DNA Sample Collection,ANSWER-ALS Visit 5,385,,,,,2,NA,,
+CASE-NEUZP278MR4,NEUZP278MR4,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,0.6,2,1,1,,0,1
+CASE-NEUZP278MR4,NEUZP278MR4,DNA Sample Collection,ANSWER-ALS Visit 4,295,,,,,2,NA,,
+CASE-NEUZP278MR4,NEUZP278MR4,DNA Sample Collection,ANSWER-ALS Visit 2,98,,,,,2,NA,,
+CASE-NEUZT557DHF,NEUZT557DHF,DNA Sample Collection,ANSWER-ALS Visit 2,153,,,,,2,Collected during Visit 1,,
+CASE-NEUZT557DHF,NEUZT557DHF,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,1,1,1,,40,1
+CASE-NEUZV656DD1,NEUZV656DD1,DNA Sample Collection,ANSWER-ALS Screening Visit,0,6,,2,1,1,,0,1
+CASE-NEUZV656DD1,NEUZV656DD1,DNA Sample Collection,ANSWER-ALS Visit 2,105,,,,,2,A DNA sample was already collected on this patient,,
+CASE-NEUZX521TKK,NEUZX521TKK,DNA Sample Collection,ANSWER-ALS Screening Visit,0,5,,2,1,1,,0,1
+CASE-NEUZX521TKK,NEUZX521TKK,DNA Sample Collection,ANSWER-ALS Visit 2,101,,,,,2,Phone Visit,,
+CASE-NEUZX521TKK,NEUZX521TKK,DNA Sample Collection,ANSWER-ALS Visit 4,312,,,,,2,Screening only,,
+CASE-NEUZX847VWV,NEUZX847VWV,DNA Sample Collection,ANSWER-ALS Screening Visit,0,4,0.25,2,1,1,,0,1
